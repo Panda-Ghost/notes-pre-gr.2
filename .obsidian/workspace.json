@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "802a9a26cd4489a2",
+        "id": "3c6035eeff47859f",
         "type": "tabs",
         "children": [
           {
-            "id": "f7db8c8b72f850e7",
+            "id": "8e893b1defe84aeb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ENGL/first meeting/assignment.md",
+                "file": "BIOL/BIOL-3/BIOL-3.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ENGL/first meeting/assignment.md",
+                "file": "BIOL/BIOL-3/BIOL-3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ENGL/first meeting/assignment.md",
+                "file": "BIOL/BIOL-3/BIOL-3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ENGL/first meeting/assignment.md"
+                "file": "BIOL/BIOL-3/BIOL-3.md"
               }
             }
           }
@@ -147,16 +147,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f7db8c8b72f850e7",
+  "active": "8e893b1defe84aeb",
   "lastOpenFiles": [
-    "ENGL/first meeting/first meeting.md",
+    "BIOL/BIOL-2/BIOL-2.md",
     "ENGL/first meeting/assignment.md",
+    "ENGL/first meeting/first meeting.md",
     "ENGL/first meeting/assignment.pdf",
     "ENGL/first meeting/First Meeting.pdf",
     "CHEM/CHEM-2/CHEM-2.md",
     "CHEM/CHEM-1/CHEM-1.md",
     "BIOL/BIOL-3/BIOL-3.md",
-    "BIOL/BIOL-2/BIOL-2.md",
     "MATH/MATH-2/MATH-2.md",
     "MATH-2.pdf",
     "MATH/MATH-2/test.canvas",
