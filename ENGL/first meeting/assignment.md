@@ -1,0 +1,3 @@
+**Reflection on the First Meeting: 3 things I learned from the first meeting**
+
+First, as English lessons, the emphasis on thinking is out of ordinary. We think highly of higher order thinking and logical thinking. As Niels Bohr said, “Never express yourself more clearly than you are able to think.” Only thinking clearly can lead to expressing clearly. Second, learning in working rather than learning in listening makes a deep impression on me. Through the special form of the exam, I experienced that when we work for a group job, we learn more and better. Third, the grading system was explained, with a focus on learning process rather than just the final grade. So I learned that I should value the journey of learning as much as the result.

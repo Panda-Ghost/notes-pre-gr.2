@@ -1,0 +1,168 @@
+{
+  "main": {
+    "id": "249d3a405f533a48",
+    "type": "split",
+    "children": [
+      {
+        "id": "802a9a26cd4489a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7db8c8b72f850e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ENGL/first meeting/assignment.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8d5628b1492f3fa2",
+    "type": "split",
+    "children": [
+      {
+        "id": "f48d4840b171fb02",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a4aba67e14184af",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "457cad5890360dac",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c4194205ee337d32",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "55edaa18fb37487b",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe4aa2b61a96b0ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fca5bc4c446ba568",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ENGL/first meeting/assignment.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1f1ff096f70f702b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ENGL/first meeting/assignment.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fc1eb17513c5d8bf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a392b6ddea0e3fd4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ENGL/first meeting/assignment.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "f7db8c8b72f850e7",
+  "lastOpenFiles": [
+    "ENGL/first meeting/assignment.pdf",
+    "ENGL/first meeting/assignment.md",
+    "ENGL/first meeting/first meeting.md",
+    "ENGL/first meeting/First Meeting.pdf",
+    "CHEM/CHEM-2/CHEM-2.md",
+    "CHEM/CHEM-1/CHEM-1.md",
+    "BIOL/BIOL-3/BIOL-3.md",
+    "BIOL/BIOL-2/BIOL-2.md",
+    "MATH/MATH-2/MATH-2.md",
+    "MATH-2.pdf",
+    "MATH/MATH-2/test.canvas",
+    "MATH/MATH-2/未命名.md",
+    "未命名.canvas",
+    "BIOL-3.pdf",
+    "未命名.md"
+  ]
+}
