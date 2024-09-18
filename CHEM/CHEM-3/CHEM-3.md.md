@@ -1,2 +1,2 @@
-# CHEM-3.md
+# CHEM-3
 
