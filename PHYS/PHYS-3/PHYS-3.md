@@ -65,3 +65,5 @@ $\gamma=\frac{u'}u=\frac l {l'}=\frac{n}{n'}\cdot \frac 1\beta$ 近似
 
 $\alpha=\frac {n'}{n} \beta^2$ $\alpha\gamma=\beta$
 
+## 反射球面
+
