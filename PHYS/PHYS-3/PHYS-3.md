@@ -36,3 +36,6 @@ $$
 &\beta=\frac{nl'}{n'l}
 \end{aligned}
 $$
+
+- $\beta >0$ 正像；物像虚实相反
+- $\beta <0$ 
