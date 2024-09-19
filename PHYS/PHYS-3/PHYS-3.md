@@ -20,3 +20,7 @@ $$
 
 1. $l'\rightarrow \infty$， $l=\frac{-n}{n'-n}r=f$
 2. $l \rightarrow \infty$， $l'=\frac{n'}{n'-n}r=f'$
+
+高斯公式
+
+$\frac{f'}{l'}+f/l=1$ 
