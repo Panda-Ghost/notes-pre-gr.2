@@ -12,3 +12,8 @@ Q=n'\left(\frac{1}{r}-\frac{1}{l'}\right)=n\left(\frac{1}{r}-\frac{1}{l}\right) 
 $$
 
 **光焦度**
+
+$$
+\frac{n'-n}{r}=\phi
+$$
+表征折射球面的光学特性
