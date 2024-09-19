@@ -29,4 +29,4 @@ $\frac{f'}{l'}+\frac{f}{l}=1$
 
 垂轴放大倍率
 
-$$
+$\beta=\frac{y'}y$ $\frac{y'}{-y}=\frac{l'-r}{r}$
