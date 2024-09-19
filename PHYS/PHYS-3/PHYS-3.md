@@ -55,4 +55,5 @@ $$
 
 移动距离长时
 
-$\alpha=\frac{\Delta }$
+$\alpha=\frac{\Delta l'}{\Delta l}=\frac {n'}n\beta _1\beta _2$
+
