@@ -57,3 +57,4 @@ $$
 
 $\alpha=\frac{\Delta l'}{\Delta l}=\frac {n'}n\beta _1\beta _2$
 
+jiao fang da
