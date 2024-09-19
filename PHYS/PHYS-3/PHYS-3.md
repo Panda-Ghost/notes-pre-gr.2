@@ -17,3 +17,5 @@ $$
 \frac{n'-n}{r}=\phi
 $$
 表征折射球面的光学特性
+
+$l'\rightarrow \infty$
