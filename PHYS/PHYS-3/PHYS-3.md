@@ -4,9 +4,11 @@
 
 续 [[PHYS-2]]
 
-阿贝不变量
+**阿贝不变量**
 
 $$
-Q=n'(\frac{1}{r}-\frac{1}{l'})=n(\frac{1}{r}-\frac{1}{l}) \space \longleftarrow
-\space \frac{n'}{l'}-\frac{n}{l}=\frac{}{}}
+Q=n'\left(\frac{1}{r}-\frac{1}{l'}\right)=n\left(\frac{1}{r}-\frac{1}{l}\right) \space \longleftarrow
+\space \frac{n'}{l'}-\frac{n}{l}=\frac{n'-n}{r}
 $$
+
+**光焦度**
