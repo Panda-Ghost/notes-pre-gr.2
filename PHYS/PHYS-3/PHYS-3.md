@@ -63,4 +63,5 @@ $\gamma=\frac{u'}u=\frac l {l'}=\frac{n}{n'}\cdot \frac 1\beta$ 近似
 
 三种放大倍率关系
 
-$\alpha=\frab $
+$\alpha=\frac {n'}{n} \beta^2$ $\alpha\gamma=\beta$
+
