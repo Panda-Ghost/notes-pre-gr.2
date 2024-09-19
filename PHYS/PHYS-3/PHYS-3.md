@@ -59,4 +59,4 @@ $\alpha=\frac{\Delta l'}{\Delta l}=\frac {n'}n\beta _1\beta _2$
 
 角放大倍率
 
-$\gamma=\frac{u'}u=\frac l {l'}=\frac{n}{n'}$
+$\gamma=\frac{u'}u=\frac l {l'}=\frac{n}{n'}\cdot \frac 1\beta$
