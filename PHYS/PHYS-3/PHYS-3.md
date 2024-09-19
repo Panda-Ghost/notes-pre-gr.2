@@ -46,5 +46,5 @@ $$
 轴向放大倍率
 
 $$
-\alpha=\frac{\mathrm{d}l}{}
+\alpha=\frac{\mathrm{d}l'}{\mathrm{d}l}=\frac{nl'^2}{n'l^2}=\frac{n'}{n}\beta^2
 $$
