@@ -73,7 +73,8 @@ $\alpha=\frac {n'}{n} \beta^2$ $\alpha\gamma=\beta$
 
 $$
 \begin{aligned}
-\frac {y'}y=\frac{nl'}{n'l}=\frac{nu}{n'u'} \\
-
+&\frac {y'}y=\frac{nl'}{n'l}=\frac{nu}{n'u'} \\
+\Longrightarrow \space &nuy=n'u'y'=J
 \end{aligned}
 $$
+
