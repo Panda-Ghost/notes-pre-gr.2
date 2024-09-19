@@ -72,5 +72,8 @@ $\alpha=\frac {n'}{n} \beta^2$ $\alpha\gamma=\beta$
 拉赫不变量
 
 $$
-\frac {y'}y=
+\begin{aligned}
+\frac {y'}y=\frac{nl'}{n'l}=\frac{nu}{n'u'} \\
+
+\end{aligned}
 $$
