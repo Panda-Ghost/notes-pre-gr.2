@@ -67,3 +67,4 @@ $\alpha=\frac {n'}{n} \beta^2$ $\alpha\gamma=\beta$
 
 ## 反射球面
 
+![反射球面](./fsqm.png)
