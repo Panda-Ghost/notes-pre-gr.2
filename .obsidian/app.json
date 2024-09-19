@@ -10,7 +10,7 @@
   "useTab": false,
   "foldHeading": true,
   "strictLineBreaks": true,
-  "showLineNumber": false,
+  "showLineNumber": true,
   "showInlineTitle": false,
   "promptDelete": false,
   "showUnsupportedFiles": true
