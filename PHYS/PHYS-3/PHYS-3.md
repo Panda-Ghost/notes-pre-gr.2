@@ -7,5 +7,5 @@
 阿贝不变量
 
 $$
-Q=n'(\frac)
+Q=n'(\frac{1}{r}-\frac{1}{l'})=n(\frac{1}{r}-\frac 1l)
 $$
