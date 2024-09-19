@@ -45,8 +45,14 @@ $$
 
 轴向放大倍率
 
+移动比较小时
+
 $$
 \alpha=\frac{\mathrm{d}l'}{\mathrm{d}l}=\frac{nl'^2}{n'l^2}=\frac{n'}{n}\beta^2
 $$
 
 ![轴向放大倍率](./zxfdbl.png)
+
+移动距离长时
+
+$\alpha=\frac{\Delta }$
