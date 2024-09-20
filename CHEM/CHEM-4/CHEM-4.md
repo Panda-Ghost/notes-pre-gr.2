@@ -15,4 +15,4 @@ C. Slater, Physical Review, 1930,36, 57-64
 
 ### 钻穿效应
 
-Liddle, S.T. Angew Chem Int R.
+Liddle, S.T. Angew Chem Int.Ed.,2015,54:8604-8641
