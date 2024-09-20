@@ -12,3 +12,7 @@
 $Z-\sigma=Z^{*}$  $Z^*$ 有效核电荷数
 
 C. Slater, Physical Review, 1930,36, 57-64
+
+### 钻穿效应
+
+Liddle, S.T. Angew Chem Int R.
