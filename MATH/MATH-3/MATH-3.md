@@ -6,4 +6,6 @@
 
 $\mathrm{Dom}f^{-1}=\mathrm{Rg}f$
 
-$\mathrm{$
+$\mathrm{Rg}f^{-1}=\mathrm{Dom}f$
+
+
