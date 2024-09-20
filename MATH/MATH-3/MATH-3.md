@@ -4,8 +4,7 @@
 
 [[MATH-2]]
 
-$\mathrm{Dom}f^{-1}=\mathrm{Rg}f$
+$\mathrm{Dom}f^{-1}=\mathrm{Rg}f$ 
 
 $\mathrm{Rg}f^{-1}=\mathrm{Dom}f$
-
 
