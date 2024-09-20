@@ -44,4 +44,6 @@ $$
 2. $\forall x, y\in P, (x\le y \wedge y\le x \to x=y)$
 3. $\forall x, y, z \in P, (x\le y \wedge y \le z \to x \le z)$
 
-称 $\le$ 为 $P$ 上的pian
+称 $\le$ 为 $P$ 上的偏序，称 $(P, \le)$ 为偏序集
+
+$\le\; = \{(x, y)\in \mathbb{R} ^2 \\}$
