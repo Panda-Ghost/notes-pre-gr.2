@@ -46,4 +46,7 @@ $$
 
 称 $\le$ 为 $P$ 上的**偏序**，称 $(P, \le)$ 为**偏序集**
 
-$\le\; = \{(x, y)\in \mathbb{R} ^2 \mid y-x\text{是非负数}\}$ 是 $\mathbb{R}$ 上的偏序关系
+例，$\le\; = \{(x, y)\in \mathbb{R} ^2 \mid y-x\text{是非负数}\}$ 是 $\mathbb{R}$ 上的偏序关系
+
+> 注：这句话比较怪
+
