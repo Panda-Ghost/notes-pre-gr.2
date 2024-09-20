@@ -8,4 +8,4 @@ $\mathrm{Dom}f^{-1}=\mathrm{Rg}f$
 
 $\mathrm{Rg}f^{-1}=\mathrm{Dom}f$
 
-$\mathrm{Dom}g\circ f=\{x\mid \exists y, z, \space \text{s.t.} (x, y)\in f, (y, z)\in g\}$
+$\mathrm{Dom}\space g\circ f=\{x\mid \exists y, z, \space \text{s.t.} (x, y)\in f, (y, z)\in g\}$
