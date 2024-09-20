@@ -42,4 +42,6 @@ $$
 
 1. $\forall x \in P, x \le x$
 2. $\forall x, y\in P, (x\le y \wedge y\le x \to x=y)$
-3. $\forall x, y, z \in P, (\)$
+3. $\forall x, y, z \in P, (x\le y \wedge y \le z \to x \le z)$
+
+称 $\le$ 为 $P$ 上的pian
