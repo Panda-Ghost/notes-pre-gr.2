@@ -14,3 +14,4 @@ $\mathrm{Rg}\space g \circ f=\{z\mid \exists x,y,\space\text{s.t.}(x,y)\in f, (y
 
 等价关系
 
+等价类
