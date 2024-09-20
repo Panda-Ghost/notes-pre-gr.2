@@ -54,4 +54,6 @@ $$
 
 定义 设 $(P, \le)$ 为偏序集
 
-如果
+如果 $\forall x, y \in P$，必有 $x\le y \vee y \le x$
+
+称 $\le$ 为全序， 称
