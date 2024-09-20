@@ -35,3 +35,8 @@ $$
 $$
 [x]=[y]\Longleftrightarrow x \sim y
 $$
+
+序关系
+
+定义
+
