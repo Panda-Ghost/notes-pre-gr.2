@@ -28,8 +28,8 @@ $$
 X=\bigcup _{x\in X} [x]
 $$
 
-设 $\sim$ 是 $X$ 上
+设 $\sim$ 是 $X$ 上的等价关系，$x,y\in X$，则，
 
 $$
-
+[x]=[y]\Longleftrightarrow x
 $$
