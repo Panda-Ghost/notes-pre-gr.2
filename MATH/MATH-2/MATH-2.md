@@ -94,7 +94,7 @@ $$
 
 **定义 2** 
 
-设 $\sim \subset X \times X$，$\sim$ 满足
+设 $\sim \; \subset X \times X$，$\sim$ 满足
 
 1. $\forall x \in X, x \sim x$
 2. $x \sim y \Rightarrow y \sim x$
