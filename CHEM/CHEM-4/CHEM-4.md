@@ -11,3 +11,4 @@
 
 $Z-\sigma=Z^{*}$  $Z^*$ 有效核电荷数
 
+C. Slater, Physical Re
