@@ -8,3 +8,4 @@ $\mathrm{Dom}f^{-1}=\mathrm{Rg}f$
 
 $\mathrm{Rg}f^{-1}=\mathrm{Dom}f$
 
+$\mathrm{Dom}g\circ f={x\}$
