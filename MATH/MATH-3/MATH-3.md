@@ -38,4 +38,6 @@ $$
 
 序关系
 
-定义 设 $P$ 是一个集合，$\le \subset $
+定义 设 $P$ 是一个集合，$\le \; \subset P \times P$，$\le$ 满足，
+
+1. $\forall x \in P, x$
