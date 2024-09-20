@@ -4,4 +4,6 @@
 
 [[MATH-2]]
 
-$\mathrm{Dom}_f^{-1}$
+$\mathrm{Dom}f^{-1}=\mathrm{Rg}f$
+
+$\mathrm{$
