@@ -12,4 +12,6 @@ $\mathrm{Dom}\space g\circ f=\{x\mid \exists y, z, \space \text{s.t.} (x, y)\in 
 
 $\mathrm{Rg}\space g \circ f=\{z\mid \exists x,y,\space\text{s.t.}(x,y)\in f, (y, z)\in g\}$
 
-$\mathbb{Pa$
+$$
+\mathrm
+$$
