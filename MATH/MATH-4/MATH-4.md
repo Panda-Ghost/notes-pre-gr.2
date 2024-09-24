@@ -44,4 +44,6 @@ $$
 1. $\mathrm{Dom} \; g \circ f= f^{-1}(\mathrm{Dom} \; g)$
 2. $(g\circ f)(x)=g(f(x))$
 
->  设 $f$ 为函数，
+设 $f$ 为函数，$A,B$ 为两个集合
+
+$f(A)=\{f(x)\mid x \in \}$
