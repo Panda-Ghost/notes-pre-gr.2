@@ -50,3 +50,6 @@ $$
 > 
 > $f^{-1}(B)=\{x\in \mathrm{Dom}\; f \mid f(x) \in B\}$
 
+**定义3**
+
+设 $f$ shi
