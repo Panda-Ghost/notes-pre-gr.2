@@ -44,8 +44,9 @@ $$
 1. $\mathrm{Dom} \; g \circ f= f^{-1}(\mathrm{Dom} \; g)$
 2. $(g\circ f)(x)=g(f(x))$
 
-设 $f$ 为函数，$A,B$ 为两个集合
+> 设 $f$ 为函数，$A,B$ 为两个集合
+> 
+> $f(A)=\{f(x)\mid x \in A \cap \mathrm{Dom} \; f\}$
+> 
+> $f^{-1}(B)=\{x\in \mathrm{Dom}\; f \mid f(x) \in B\}$
 
-$f(A)=\{f(x)\mid x \in A \cap \mathrm{Dom} f\}$
-
-$f^{-1}=\{x\in \mathrm{Dom}f \mid $
