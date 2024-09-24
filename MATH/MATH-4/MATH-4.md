@@ -32,4 +32,7 @@ $$
 
 **命题1**
 
-设 $f,g$ 是两个函数，则 $f=g$ dang qie jing dqn
+设 $f,g$ 是两个函数，则 $f=g$ 当且仅当，
+
+1. $\mathrm{Dom} \; f=\mathrm{Dom} \; g$
+2. $f(x)=g(x)$
