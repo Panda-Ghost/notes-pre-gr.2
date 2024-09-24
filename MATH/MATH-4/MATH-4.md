@@ -41,4 +41,5 @@ $$
 
 设 $f,g$ 是两个函数，则 $g \circ f$ 也是函数，且
 
-1. 
+1. $\mathrm{Dom} \; g \circ f= f^{-1}(\mathrm{Dom} \; g)$
+2. $$
