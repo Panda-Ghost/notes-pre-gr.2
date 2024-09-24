@@ -37,3 +37,8 @@ $$
 1. $\mathrm{Dom} \; f=\mathrm{Dom} \; g$
 2. $\forall x \in \mathrm{Dom} f \to f(x)=g(x)$
 
+**命题2**
+
+设 $f,g$ 是两个函数，则 $g \circ f$ 也是函数，且
+
+1. 
