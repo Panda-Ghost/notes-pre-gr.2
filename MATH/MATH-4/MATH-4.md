@@ -24,7 +24,7 @@ $$
 
 设 $f$ 是一个关系，如果 $f$ 是单值的，称 $f$ 为**函数**（**映射**，**变换**，**算子**，**映照**……）
 
-设 $f$ 是一个函数，$x\in \mathrm{Dom} \; f$，则 $\exists ! y, \text{s.t.} (x, y) \in f$
+设 $f$ 是一个函数，$x\in \mathrm{Dom} \; f$，则 $\exists ! y, \; \text{s.t.} (x, y) \in f$
 
 记 $y=f(x)$
 
