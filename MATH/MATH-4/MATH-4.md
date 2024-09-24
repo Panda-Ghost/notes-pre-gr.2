@@ -50,5 +50,3 @@ $$
 > 
 > $f^{-1}(B)=\{x\in \mathrm{Dom}\; f \mid f(x) \in B\}$
 
-$Dom \mathrm{Dom} \mathbf{Dom} \mathbb{Dom}$
-
