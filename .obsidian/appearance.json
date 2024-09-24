@@ -3,6 +3,7 @@
   "textFontFamily": "JetBrainsMono Nerd Font Mono,PingFang HK",
   "monospaceFontFamily": "JetBrainsMono Nerd Font Mono",
   "interfaceFontFamily": "PingFang HK",
-  "translucency": true,
-  "showViewHeader": true
+  "translucency": false,
+  "showViewHeader": true,
+  "theme": "system"
 }
