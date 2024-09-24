@@ -5,5 +5,6 @@
   "interfaceFontFamily": "PingFang HK",
   "translucency": false,
   "showViewHeader": true,
-  "theme": "system"
+  "theme": "system",
+  "nativeMenus": true
 }
