@@ -46,4 +46,6 @@ $$
 
 设 $f$ 为函数，$A,B$ 为两个集合
 
-$f(A)=\{f(x)\mid x \in \}$
+$f(A)=\{f(x)\mid x \in A \cap \mathrm{Dom} f\}$
+
+$f^{-1}=\{x\in \mathrm{Dom}f \mid $
