@@ -37,4 +37,3 @@ $$
 1. $\mathrm{Dom} \; f=\mathrm{Dom} \; g$
 2. $\forall x \in \mathrm{Dom} f \to f(x)=g(x)$
 
-$\rec\tan gle$
