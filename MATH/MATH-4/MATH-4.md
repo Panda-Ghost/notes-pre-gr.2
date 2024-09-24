@@ -35,4 +35,4 @@ $$
 设 $f,g$ 是两个函数，则 $f=g$ 当且仅当，
 
 1. $\mathrm{Dom} \; f=\mathrm{Dom} \; g$
-2. $f(x)=g(x)$
+2. $\forall x \in \mathrm{Dom} f \to f(x)=g(x)$
