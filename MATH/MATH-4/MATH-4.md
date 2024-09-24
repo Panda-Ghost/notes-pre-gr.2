@@ -42,4 +42,6 @@ $$
 设 $f,g$ 是两个函数，则 $g \circ f$ 也是函数，且
 
 1. $\mathrm{Dom} \; g \circ f= f^{-1}(\mathrm{Dom} \; g)$
-2. $$
+2. $(g\circ f)(x)=g(f(x))$
+
+>  设 $f$ 为函数，
