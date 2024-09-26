@@ -33,3 +33,12 @@ $$
 $$
 \gamma=\frac{l}{l'}=\frac{f+x}{f'+x'}=\frac{f}{x'}=\frac{x}{f'}
 $$
+
+$$
+\alpha \cdot \gamma=\beta
+$$
+节点
+
+$\gamma=1$ 节点定义
+
+md
