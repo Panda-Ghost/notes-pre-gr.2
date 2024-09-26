@@ -23,5 +23,9 @@ $$
 $$
 
 $$
-\alpha = 
+\alpha = \frac{\Delta l'}{\Delta l}=-\beta_{1} \beta_{2} \frac{f'}{f}
+$$
+
+$$
+\gamma
 $$
