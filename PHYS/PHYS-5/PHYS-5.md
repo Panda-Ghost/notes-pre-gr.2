@@ -15,5 +15,5 @@ $$
 其中 $k$ 为反射面的个数
 
 $$
-\beta=\frac{nl'}{n'l} =- \frac{fl'}{f'l} \longrightarrow_{n=n'} 
+\beta=\frac{nl'}{n'l} =- \frac{fl'}{f'l} \xrightarrow{n=n'}  
 $$
