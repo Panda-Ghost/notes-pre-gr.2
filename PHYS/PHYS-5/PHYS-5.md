@@ -18,3 +18,6 @@ $$
 \beta=\frac{nl'}{n'l} =- \frac{fl'}{f'l} \xrightarrow{n=n'} \beta=\frac{l'}{l}
 $$
 
+$$
+\alpha=\frac{\mathrm{d}l'}{\mathrm{d}l}=-
+$$
