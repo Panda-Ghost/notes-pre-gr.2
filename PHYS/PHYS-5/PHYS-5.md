@@ -27,5 +27,5 @@ $$
 $$
 
 $$
-\gamma
+\gamma=\frac{u'}{u}=\frac{l}{l'}=-\frac{f'l}{fl'} \cdot -\frac{f}{f'}
 $$
