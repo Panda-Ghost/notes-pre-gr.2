@@ -42,5 +42,6 @@ $$
 $\gamma=1$ 节点定义
 
 $$
-\gamma=1 \implies \left\{ x_{J}=f' x\right.
+\gamma=1 \implies \left\{ \begin{aligned}
+&x_{J}=f'\\ &x'_{J}=f \end{aligned}\right.
 $$
