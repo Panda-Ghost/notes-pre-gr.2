@@ -19,5 +19,5 @@ $$
 $$
 
 $$
-\alpha=\frac{\mathrm{d}l'}{\mathrm{d}l}=-\frac{fl'^{2}}{f'l^{2}}=-\beta^{2} \frac{f'}{f} \x
+\alpha=\frac{\mathrm{d}l'}{\mathrm{d}l}=-\frac{fl'^{2}}{f'l^{2}}=-\beta^{2} \frac{f'}{f} \xrightarrow{n=n'} \alpha=\frac{l'^{2}}{l^{2}}=\beta^{2}
 $$
