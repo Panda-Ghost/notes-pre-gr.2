@@ -46,12 +46,3 @@ $$
 &x_{J}=f'\\ &x'_{J}=f \end{aligned}\right.
 $$
 
-
-$$
-x x'=ff' \implies -10cm \cdot x'=20 \cdot -20 cm^{2} \implies
-x'=40cm \implies l'=60cm
-$$
-
-$$
-\beta=\frac{l'}{l}=\frac{60cm}{-10cm}=-6
-$$
