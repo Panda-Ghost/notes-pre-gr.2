@@ -41,4 +41,6 @@ $$
 
 $\gamma=1$ 节点定义
 
-md
+$$
+\gamma=1 \implies \left\{ x_{J}=f' x\right.
+$$
