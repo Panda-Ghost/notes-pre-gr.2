@@ -45,3 +45,8 @@ $$
 \gamma=1 \implies \left\{ \begin{aligned}
 &x_{J}=f'\\ &x'_{J}=f \end{aligned}\right.
 $$
+
+
+$$
+
+$$
