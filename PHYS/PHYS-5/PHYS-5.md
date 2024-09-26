@@ -48,5 +48,6 @@ $$
 
 
 $$
-x x'=ff' \implies 30cm
+x x'=ff' \implies -10cm \cdot x'=20 \cdot -20 cm^{2} \implies
+x'=40cm \implies l'=60cm
 $$
