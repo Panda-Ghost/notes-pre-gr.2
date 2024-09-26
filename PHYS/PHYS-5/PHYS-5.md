@@ -48,5 +48,5 @@ $$
 
 
 $$
-
+x x'=ff' \implies 30cm
 $$
