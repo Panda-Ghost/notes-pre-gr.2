@@ -27,5 +27,9 @@ $$
 $$
 
 $$
-\gamma=\frac{u'}{u}=\frac{l}{l'}=-\frac{f'l}{fl'} \cdot -\frac{f}{f'}
+\gamma=\frac{u'}{u}=\frac{l}{l'}=-\frac{f'l}{fl'} \cdot -\frac{f}{f'}=-\frac{f}{f'} \cdot \frac{1}{\beta}
+$$
+
+$$
+\gamma=\frac{l}{l'}=\frac{f+x}{f'+x'}=\frac{f}{x'}=\frac{x}{f'}
 $$
