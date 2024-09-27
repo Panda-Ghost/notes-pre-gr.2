@@ -57,5 +57,8 @@
 
 如果 $\overline{\overline{A}}\leq \overline{\overline{B}}$ 且 $\overline{\overline{A}}\neq \overline{\overline{B}}$，记为 $\overline{\overline{A}}< \overline{\overline{B}}$ 或 $\overline{\overline{B}}>\overline{\overline{A}}$ 
 
-**din l1**
+**定理1**
 
+(Schroder-Bernstein)
+
+设 $A,B$ 是两个集合，
