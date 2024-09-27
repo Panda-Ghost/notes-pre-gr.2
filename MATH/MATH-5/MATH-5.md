@@ -65,6 +65,8 @@
 
 设 $f:A\to B,\;g:B\to A$ 为单射
 
-定义 $F:2^A\to 2^A$ 
+定义 $F:2^A\to 2^A$
 
-> ps. $2^A$ 
+> ps. $2^A$ 表示 $A$ 的子集的集合
+
+$F(S)=A-g(B-f(S)), \forall $
