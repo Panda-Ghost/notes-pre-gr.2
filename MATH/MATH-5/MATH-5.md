@@ -12,4 +12,4 @@
 
 Definition 1
 
-let $f$ be a function, $$
+let $f$ be a function, $A=\mathrm{Dom} \; f$, $B  \mathrm{Rg} \; f$ 
