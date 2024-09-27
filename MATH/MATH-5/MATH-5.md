@@ -108,8 +108,10 @@ $$
 所以 $g(B-f(C))=A-C$
 
 $$
-
+h(x)=\left\{
 \begin{aligned}
-\
-end{aligned}
+f(x), x \in C
+g^{-1}(x), x \in A-C
+\end{aligned}
+\right.
 $
