@@ -47,4 +47,6 @@
 
 设 $A, B$ 是两个集合，如果存在单射 $f:A\to B$ 
 
-称 $A$ 的势小于等于 $B$ 的势，记为 $\overline{\overline{A}}\leq B$
+称 $A$ 的**势**小于等于 $B$ 的**势**，记为 $\overline{\overline{A}}\leq \overline{\overline{B}}$
+
+如果 $A\leq B$ 也记 
