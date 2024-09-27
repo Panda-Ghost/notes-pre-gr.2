@@ -61,7 +61,7 @@
 
 设 $A,B$ 是两个集合，则 $\overline{\overline{A}}=\overline{\overline{B}}$ 当且仅当存在双射 $h:A\to B$
 
-**证明**
+### 证明
 
 设 $f:A\to B,\;g:B\to A$ 为单射
 
@@ -75,4 +75,5 @@ $F(S)=A-g(B-f(S)), \; S\in 2^A$
 
 如果 $\forall s_{1},s_{2}\in {2}^{A},s_{1}\subset s_{2}\implies F(s_{1})\subset F(s_{2})$ 称 $F$ 单调增
 
-命题1 
+**命题1** $F$ 单调增
+
