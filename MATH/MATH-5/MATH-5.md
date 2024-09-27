@@ -61,4 +61,4 @@
 
 (Schroder-Bernstein)
 
-设 $A,B$ 是两个集合，
+设 $A,B$ 是两个集合，则 $\overline{\overline{A}}=\overline{\overline{B}}$ 当且仅当存在双射 $h:A\to B$
