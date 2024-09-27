@@ -69,4 +69,6 @@
 
 > ps. $2^A$ 表示 $A$ 的子集的集合
 
-$F(S)=A-g(B-f(S)), \forall $
+$F(S)=A-g(B-f(S)), \; S\in 2^A$
+
+
