@@ -49,8 +49,10 @@
 
 称 $A$ 的**势**小于等于 $B$ 的**势**，记为 $\overline{\overline{A}}\leq \overline{\overline{B}}$
 
+
+
 如果 $A\leq B$ 也记 $B\geq A$
 
 如果 $A\leq B$ 且 $B\leq A$，称 $A,B$ 等势，记为 $A=B$, 否则记为 $A\neq B$
 
-如果 $A\leq B$ 
+如果 $A\leq B$ 且 $A\neq B$，记为 $A< B$ 或 $B>A$ 
