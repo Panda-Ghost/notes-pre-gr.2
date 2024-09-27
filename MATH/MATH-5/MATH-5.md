@@ -72,3 +72,5 @@
 $F(S)=A-g(B-f(S)), \; S\in 2^A$
 
 考察 $(2^A,\subset)$ 偏序集
+
+如果 $\forall s_{1},s_{2}\in {2}^{A},s_{1}\subset s_{2}$
