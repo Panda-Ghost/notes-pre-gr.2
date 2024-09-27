@@ -10,8 +10,8 @@
 2. $f^{-1}(f(x))=x, \; \forall x \in \mathrm{Dom} \;f$
 3. $f(f^{-1}(y))=y, \; \forall y \in \mathrm{Dom} \; f^{-1}$
 
-Definition 1
+din yi
 
 let $f$ be a function, $A=\mathrm{Dom} \; f$, $B \supset \mathrm{Rg} \; f$
 
-称 $f$
+称 $f$ 是 $A$ 到 $B$ 的映射，记为 $f:A \to B$
