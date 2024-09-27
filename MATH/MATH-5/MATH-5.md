@@ -19,3 +19,7 @@ let $f$ be a function, $A=\mathrm{Dom} \; f$, $B \supset \mathrm{Rg} \; f$
 **定义2**
 
 设 $f:A\to B$，如果 $f$ 为单射，称 $f:A\to B$ 为单射
+
+如果 $\mathrm{Rg} \; f=B$，称 $f:A\to B$ 为满射
+
+如果 $f:A$
