@@ -26,4 +26,7 @@ let $f$ be a function, $A=\mathrm{Dom} \; f$, $B \supset \mathrm{Rg} \; f$
 
 **命题**
 
-设 $f:A\to B$ 为双射，
+设 $f:A\to B$ 为双射，则 $f^{-1}:B\to A$ 为双射，且
+
+1. $f^{-1} \circ f = I_{A}$
+2. $f \circ f ^{-1} =I_{B}$
