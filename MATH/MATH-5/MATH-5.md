@@ -12,4 +12,6 @@
 
 Definition 1
 
-let $f$ be a function, $A=\mathrm{Dom} \; f$, $B  \mathrm{Rg} \; f$ 
+let $f$ be a function, $A=\mathrm{Dom} \; f$, $B \supset \mathrm{Rg} \; f$
+
+称 $f$
