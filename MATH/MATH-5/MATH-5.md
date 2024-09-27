@@ -61,7 +61,7 @@
 
 设 $A,B$ 是两个集合，则 $\overline{\overline{A}}=\overline{\overline{B}}$ 当且仅当存在双射 $h:A\to B$
 
-### 证明
+### 必要性证明
 
 设 $f:A\to B,\;g:B\to A$ 为单射
 
@@ -118,4 +118,4 @@ h(x)=\left\{
 \right.
 $$
 
-$h$ 为shuang she
+$h$ 为双射
