@@ -106,3 +106,10 @@ $$
 所以 $F(C)=C$
 
 所以 $g(B-f(C))=A-C$
+
+$$
+
+\begin{aligned}
+\
+end{aligned}
+$
