@@ -91,6 +91,11 @@ $$
 
 **命题2** $F$ 有不动点
 
-记 $\mathscr{A}=\{ S\in 2^A\mid S\subset F(S) \}, \;C=\bigcup_{S\in \mathscr{A}} S$
+记 $\mathscr{A}=\{ S\in 2^A\mid S\subset F(S) \}$
 
-先证 $\mathscr{A} \neq \varnothing$，因为 $\varnoth$
+先证 $\mathscr{A} \neq \varnothing$，因为 $\varnothing \in \mathscr{A}$
+
+ji$C=\bigcup_{S\in \mathscr{A}} S$
+
+
+
