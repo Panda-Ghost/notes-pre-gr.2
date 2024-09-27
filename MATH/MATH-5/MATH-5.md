@@ -35,5 +35,3 @@
 
 > $I_{X}=\{(x,x) \mid x \in X\}$
 
-
-hjdhfjdhskjfshdf
