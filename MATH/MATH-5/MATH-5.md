@@ -107,11 +107,15 @@ $$
 
 所以 $g(B-f(C))=A-C$
 
+则构造 $h$
+
 $$
 h(x)=\left\{
 \begin{aligned}
-f(x), x \in C
-g^{-1}(x), x \in A-C
+&f(x), &&x \in C\\
+&g^{-1}(x), &&x \in A-C
 \end{aligned}
 \right.
-$
+$$
+
+$h$ 为shuang she
