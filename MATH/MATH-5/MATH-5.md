@@ -99,4 +99,4 @@ $$
 
 证明 $C$ 是 $F$ 的不动点
 
-首先证 $C\subset F(C)$，$C=\bigcup_{S\in\mathscr{A}}S\subset$
+首先证 $C\subset F(C)$，$C=\bigcup_{S\in\mathscr{A}}S \subset \bigcup_{S\in\mathscr{A}}F(S) \subset F(C)$
