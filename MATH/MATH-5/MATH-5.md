@@ -49,7 +49,7 @@
 
 称 $A$ 的**势**小于等于 $B$ 的**势**，记为 $\overline{\overline{A}}\leq \overline{\overline{B}}$
 
-ji hao
+**记号**
 
 如果 $\overline{\overline{A}}\leq \overline{\overline{B}}$ 也记 $\overline{\overline{B}}\geq \overline{\overline{A}}$
 
