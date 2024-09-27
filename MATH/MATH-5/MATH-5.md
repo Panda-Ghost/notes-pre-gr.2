@@ -33,4 +33,6 @@
 1. $f^{-1} \circ f = I_{A}$
 2. $f \circ f ^{-1} =I_{B}$
 
-> $I_{X}={(x,x) \mid x \in X\}$
+> $I_{X}=\{(x,x) \mid x \in X\}$
+
+
