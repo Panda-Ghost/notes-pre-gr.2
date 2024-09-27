@@ -56,3 +56,6 @@
 如果 $\overline{\overline{A}}\leq \overline{\overline{B}}$ 且 $\overline{\overline{B}}\leq \overline{\overline{A}}$，称 $A,B$ 等势，记为 $\overline{\overline{A}}=\overline{\overline{B}}$, 否则记为 $\overline{\overline{A}}\neq \overline{\overline{B}}$
 
 如果 $\overline{\overline{A}}\leq \overline{\overline{B}}$ 且 $\overline{\overline{A}}\neq \overline{\overline{B}}$，记为 $\overline{\overline{A}}< \overline{\overline{B}}$ 或 $\overline{\overline{B}}>\overline{\overline{A}}$ 
+
+**作业**
+
