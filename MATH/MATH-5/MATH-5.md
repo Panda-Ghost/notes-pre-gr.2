@@ -51,4 +51,6 @@
 
 如果 $A\leq B$ 也记 $B\geq A$
 
-如果 $A\leq B$ 且 $B\leq A$，称 $A,B$ 等势，记为 $$
+如果 $A\leq B$ 且 $B\leq A$，称 $A,B$ 等势，记为 $A=B$, 否则记为 $A\neq B$
+
+如果 $A\leq B$ 
