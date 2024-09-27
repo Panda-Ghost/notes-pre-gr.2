@@ -10,9 +10,11 @@
 2. $f^{-1}(f(x))=x, \; \forall x \in \mathrm{Dom} \;f$
 3. $f(f^{-1}(y))=y, \; \forall y \in \mathrm{Dom} \; f^{-1}$
 
+---
+
 **定义1**
 
-let $f$ be a function, $A=\mathrm{Dom} \; f$, $B \supset \mathrm{Rg} \; f$
+设 $f$ 是一个函数, $A=\mathrm{Dom} \; f$, $B \supset \mathrm{Rg} \; f$
 
 称 $f$ 是 $A$ 到 $B$ 的映射，记为 $f:A \to B$
 
@@ -30,3 +32,5 @@ let $f$ be a function, $A=\mathrm{Dom} \; f$, $B \supset \mathrm{Rg} \; f$
 
 1. $f^{-1} \circ f = I_{A}$
 2. $f \circ f ^{-1} =I_{B}$
+
+> $I_{X}={(x,x) \mid x \in X\}$
