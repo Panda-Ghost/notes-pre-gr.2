@@ -95,7 +95,9 @@ $$
 
 先证 $\mathscr{A} \neq \varnothing$，因为 $\varnothing \in \mathscr{A}$
 
-ji$C=\bigcup_{S\in \mathscr{A}} S$
+记 $C=\bigcup_{S\in \mathscr{A}} S$
 
+证明 $C$ 是 $F$ 的不动点
 
+首先zheng
 
