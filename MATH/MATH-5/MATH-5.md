@@ -93,4 +93,4 @@ $$
 
 记 $\mathscr{A}=\{ S\in 2^A\mid S\subset F(S) \}, \;C=\bigcup_{S\in \mathscr{A}} S$
 
-xian zheng
+先证 $\mathscr{A} \neq \varnothing$，因为 $\varnoth$
