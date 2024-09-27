@@ -87,6 +87,8 @@ s_{1}\subset s_{2} &\implies f(s_{1})\subset f(s_{2}) \\
 \end{aligned}
 $$
 
-如果 $\exists s \in 2^A, \;\text{s.t.} F(S)=S$，称 $S$ 为 $F$ 的不动点
+如果 $\exists s \in 2^A, \;\text{s.t.} \; F(S)=S$，称 $S$ 为 $F$ 的不动点
 
 **命题2** $F$ 有不动点
+
+记 $$
