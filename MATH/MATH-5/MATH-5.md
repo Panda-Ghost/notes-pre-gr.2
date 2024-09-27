@@ -49,10 +49,10 @@
 
 称 $A$ 的**势**小于等于 $B$ 的**势**，记为 $\overline{\overline{A}}\leq \overline{\overline{B}}$
 
-
+ji hao
 
 如果 $\overline{\overline{A}}\leq \overline{\overline{B}}$ 也记 $\overline{\overline{B}}\geq \overline{\overline{A}}$
 
 如果 $\overline{\overline{A}}\leq \overline{\overline{B}}$ 且 $\overline{\overline{B}}\leq \overline{\overline{A}}$，称 $A,B$ 等势，记为 $\overline{\overline{A}}=\overline{\overline{B}}$, 否则记为 $\overline{\overline{A}}\neq \overline{\overline{B}}$
 
-如果 $\overline{\overline{A}}\leq \overline{\overline{B}}$ 且 $\overline{\overline{A}}\neq \overline{\overline{B}}$，记为 $A< B$ 或 $B>A$ 
+如果 $\overline{\overline{A}}\leq \overline{\overline{B}}$ 且 $\overline{\overline{A}}\neq \overline{\overline{B}}$，记为 $\overline{\overline{A}}< \overline{\overline{B}}$ 或 $\overline{\overline{B}}>\overline{\overline{A}}$ 
