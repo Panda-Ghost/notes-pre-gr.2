@@ -9,3 +9,7 @@
 1. $\mathrm{Dom} \; f ^{-1}=\mathrm{Rg} \; f, \;\mathrm{Rg} \; f ^{-1}=\mathrm{Dom}\;f$
 2. $f^{-1}(f(x))=x, \; \forall x \in \mathrm{Dom} \;f$
 3. $f(f^{-1}(y))=y, \; \forall y \in \mathrm{Dom} \; f^{-1}$
+
+Definition 1
+
+let $f$ be a function, $$
