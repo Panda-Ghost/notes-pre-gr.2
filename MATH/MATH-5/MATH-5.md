@@ -101,4 +101,6 @@ $$
 
 首先证 $C\subset F(C)$，因为 $C=\bigcup_{S\in\mathscr{A}}S \subset \bigcup_{S\in\mathscr{A}}F(S) \subset F(C)$
 
-再证 $C \supset F(C)$，$C\subset F(C)\implies F(C)\subset F(F(C))\implies F(C)\in \mse$
+再证 $C \supset F(C)$，$C\subset F(C)\implies F(C)\subset F(F(C))\implies F(C)\in \mathscr{A}\implies F(C)\subset C$
+
+所以 $C=F(C)$
