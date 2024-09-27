@@ -23,3 +23,4 @@ let $f$ be a function, $A=\mathrm{Dom} \; f$, $B \supset \mathrm{Rg} \; f$
 如果 $\mathrm{Rg} \; f=B$，称 $f:A\to B$ 为满射
 
 如果 $f:A\to B$ 既是单射又是满射，称 $f:A\to B$ 是双射
+
