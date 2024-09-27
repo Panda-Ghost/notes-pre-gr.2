@@ -79,6 +79,10 @@ $F(S)=A-g(B-f(S)), \; S\in 2^A$
 
 $$
 \begin{aligned}
-s_{1}\subset s_{2} \implies f(s_{1})\subset f(s_{2})\implies B-f(s_{1}) \supset B-f(s_{2}) \implies g(B-f(s_{1}))\supset g(B-f(s_{2}))
+s_{1}\subset s_{2} &\implies f(s_{1})\subset f(s_{2}) \\
+&\implies B-f(s_{1}) \supset B-f(s_{2}) \\
+&\implies g(B-f(s_{1}))\supset g(B-f(s_{2})) \\
+&\implies A-g(B-f(s_{1})) \subset A-g(B-f(s_{2}))\\
+
 \end{aligned}
 $$
