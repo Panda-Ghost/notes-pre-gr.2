@@ -57,8 +57,8 @@
 
 如果 $\overline{\overline{A}}\leq \overline{\overline{B}}$ 且 $\overline{\overline{A}}\neq \overline{\overline{B}}$，记为 $\overline{\overline{A}}< \overline{\overline{B}}$ 或 $\overline{\overline{B}}>\overline{\overline{A}}$ 
 
-**定理1**
-
-(Schroder-Bernstein)
+**定理1** (Schröder-Bernstein)
 
 设 $A,B$ 是两个集合，则 $\overline{\overline{A}}=\overline{\overline{B}}$ 当且仅当存在双射 $h:A\to B$
+
+证明
