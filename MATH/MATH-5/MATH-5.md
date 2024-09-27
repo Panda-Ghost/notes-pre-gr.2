@@ -103,4 +103,6 @@ $$
 
 再证 $C \supset F(C)$，$C\subset F(C)\implies F(C)\subset F(F(C))\implies F(C)\in \mathscr{A}\implies F(C)\subset C$
 
-所以 $C=F(C)$
+所以 $F(C)=C$
+
+$g(B-f(C))=A-C$
