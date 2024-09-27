@@ -77,4 +77,4 @@ $F(S)=A-g(B-f(S)), \; S\in 2^A$
 
 **命题1** $F$ 单调增
 
-设 $s_{1},s_{2}\in 2^A,s_{1}\subset s_{2} \implies f(s_{1})\subset s_{2}\implies$
+设 $s_{1},s_{2}\in 2^A,s_{1}\subset s_{2} \implies f(s_{1})\subset f(s_{2})\implies B-f(s_{1}) \supset B-f(s_{2}) \implies g(B-f(s_{1}))\supset g(B-f(s_{2}))$
