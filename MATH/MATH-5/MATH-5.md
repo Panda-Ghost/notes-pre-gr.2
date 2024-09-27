@@ -92,3 +92,5 @@ $$
 **命题2** $F$ 有不动点
 
 记 $\mathscr{A}=\{ S\in 2^A\mid S\subset F(S) \}$
+
+$C=\bigcup_{S\in}$
