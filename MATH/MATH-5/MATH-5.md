@@ -10,7 +10,7 @@
 2. $f^{-1}(f(x))=x, \; \forall x \in \mathrm{Dom} \;f$
 3. $f(f^{-1}(y))=y, \; \forall y \in \mathrm{Dom} \; f^{-1}$
 
-**定义2**
+**定义1**
 
 let $f$ be a function, $A=\mathrm{Dom} \; f$, $B \supset \mathrm{Rg} \; f$
 
@@ -22,4 +22,4 @@ let $f$ be a function, $A=\mathrm{Dom} \; f$, $B \supset \mathrm{Rg} \; f$
 
 如果 $\mathrm{Rg} \; f=B$，称 $f:A\to B$ 为满射
 
-如果 $f:A$
+如果 $f:A\to B$ 既是单射又是满射，称 $f:A\to B$ 是双射
