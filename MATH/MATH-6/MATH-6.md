@@ -62,11 +62,12 @@ $$
 **实数公理**
 
 1. 加法公理
-
 2. 乘法公理
-
 3. 序公理：$(\mathbb{R},\leq)$ 是全序集
-
 4. 实数的完备性
 
-   设 $A,B\subset\mathbb{R},\;A,B\neq\varnothing$ 如果
+设 $A,B\subset\mathbb{R},\;A,B\neq\varnothing$ 如果
+
+$$
+x\leq y,\quad\forall x \in A,y\in B
+$$
