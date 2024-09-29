@@ -39,4 +39,4 @@ $$
 
    因为 $B$ 为无限集，$B\neq\varnothing$，取 $a_{1}\in B$
 
-   因为 $B$ 为无限集，$B-\{a_{1}\}\neq\varnothing$
+   因为 $B$ 为无限集，$B-\{a_{1}\}\neq\varnothing$，取 $a_{2}\in B-\{ a_{1} \},$
