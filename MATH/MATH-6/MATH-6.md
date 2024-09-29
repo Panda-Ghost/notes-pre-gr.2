@@ -16,3 +16,6 @@ $$
 
 设 $A$ 为有限集，$B$ 为无限集，则 $\overline{\overline{A}}<\overline{\overline{\mathbb{N}^*}}\leq\overline{\overline{B}}$
 
+> 
+> - 正整数集是无限集
+> - 正整数集的势是所有无限集中最小的
