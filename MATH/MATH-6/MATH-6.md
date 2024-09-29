@@ -31,4 +31,4 @@ $$
 
 2. $\overline{\overline{A}}\neq\overline{\overline{\mathbb{N}^*}}$
 
-   反证，假设 $\exists g:A\to\mathbb{N}^*$ 是双射，$\exists$
+   反证，假设 $\exists g:A\to\mathbb{N}^*$ 是双射，$\exists f:\{ 1,2,\dots,n\}\to A$ 是双射，则 $g\circ f:$
