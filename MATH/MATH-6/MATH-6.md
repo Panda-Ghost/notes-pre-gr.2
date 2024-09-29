@@ -10,6 +10,10 @@ $$
 
 称 $A$ 为**有限集**，否则为**无限集**
 
+> 有限集，$f:\{ 1,3, \}$
+
 **命题1**
 
-设 $A$ 为有限集，$B$ 为无限集，则 $\overline{\overline{A}}<\overline{\overline{\mathbb{N^*}^*}}\leq\overline{\overline{B}}$
+设 $A$ 为有限集，$B$ 为无限集，则 $\overline{\overline{A}}<\overline{\overline{\mathbb{N}^*}}\leq\overline{\overline{B}}$
+
+
