@@ -86,4 +86,9 @@ $$
 
 ### 确界原理
 
-设 $A\subset\mathbb{R},A\neq\varnothing$ ru gu
+设 $A\subset\mathbb{R},A\neq\varnothing$ 如果 $\exists M\in \mathbb{R},\text{ s.t. }$
+
+$$
+M\geq x,\quad \forall x \in A
+$$
+
