@@ -31,4 +31,4 @@ $$
 
 2. $\overline{\overline{A}}\neq\overline{\overline{\mathbb{N}^*}}$
 
-   
+   反证，假设 $\exists g:$
