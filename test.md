@@ -17,16 +17,3 @@ $$
 
 这里 $f(\xi)=\int_{a}^b f(x)\mathrm{d}x=0$
 
-$$
-\begin{aligned}
-\frac{\frac{a-b}{2
-
-\forall 
-a_{1}
-x_{1}
-
-
-\xi
-\alpha
-\end{aligned}
-$$
