@@ -71,3 +71,9 @@ $$
 $$
 x\leq y,\quad\forall x \in A,y\in B
 $$
+
+则 $\exists c\in\mathbb{R},\text{ s.t. }$
+
+$$
+x\leq c\leq y,\quad for
+$$
