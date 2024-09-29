@@ -104,4 +104,8 @@ $$
 
 **定义2**
 
-设 $A\subset \mathbb{R}, A\neq\varnothing$ 
+设 $A\subset \mathbb{R}, A\neq\varnothing$，设 $A$ 有上界，记
+
+$$
+E=\{  \}
+$$
