@@ -80,4 +80,4 @@ $$
 x\leq c\leq y,\quad \forall x \in A,y\in B
 $$
 
-公理4说明
+公理4说明数轴上的点与实数集是一一对应的
