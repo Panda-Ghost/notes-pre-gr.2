@@ -57,3 +57,6 @@ $$
 
 1. $\mathbb{Q}$ 为可数集，$\mathbb{R}$ 为不可数集，当然 $\mathbb{R}^2$ 不可数
 2. 可数个可数集的并为可数集
+
+
+## shi shu gong li
