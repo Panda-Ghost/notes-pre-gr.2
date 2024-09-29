@@ -92,3 +92,6 @@ $$
 M\geq x,\quad \forall x \in A
 $$
 
+称 $A$ 有上界，称 $M$ 为 $A$ 的上界
+
+$quad$
