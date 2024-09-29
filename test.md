@@ -6,4 +6,9 @@
 
 且 $F'(x)=f'(x)$
 
-原问题 $\Longleftrightarrow \int$
+$$
+\begin{aligned}
+\int_{a}^{b}f^{2}(x)\mathrm{d}x\\
+=\int_{a}^b
+\end{aligned}
+$$
