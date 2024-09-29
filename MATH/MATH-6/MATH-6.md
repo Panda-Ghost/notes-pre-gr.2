@@ -49,8 +49,9 @@ $$
 
 **定义2**
 
-设 $B$ 为无限集，如果 $\overline{\overline{B}}=\overline{\overline{\mathbb{N}^*}}$，称 $B$ 为无限可数集
+设 $B$ 为无限集，如果 $\overline{\overline{B}}=\overline{\overline{\mathbb{N}^*}}$，称 $B$ 为**无限可数集**
 
 **定义3**
 
-设 $A\neq\varnothing$，如果 $A$ 是有限集或无限可数集，称 $A$ 为可数集，否则称 $A$ 为不可数集
+设 $A\neq\varnothing$，如果 $A$ 是有限集或无限可数集，称 $A$ 为**可数集**，否则称 $A$ 为**不可数集**
+
