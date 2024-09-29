@@ -150,5 +150,8 @@ $$
 
 下确界同理
 
+**练习**
+
 > 记 $-A=\{ -x \mid x \in A \}$
 
+设 $A\subset \mathbb{R}, A\neq\varnoth$
