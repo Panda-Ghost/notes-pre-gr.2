@@ -104,4 +104,4 @@ $$
 
 **定义2**
 
-设 $Asub$
+设 $A\subset \mathbb{R}, A\neq\varnothing$ 
