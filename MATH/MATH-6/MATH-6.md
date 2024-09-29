@@ -12,4 +12,4 @@ $$
 
 **命题1**
 
-设 $A$ 为有限集，$B$ 为无限集，则 $\overline\overline{A}}$
+设 $A$ 为有限集，$B$ 为无限集，则 $\overline{\overline{A}}<\overline{\overline{\mathbb{N^*}^*}}\leq\overline{\overline{B}}$
