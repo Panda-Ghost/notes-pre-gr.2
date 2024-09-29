@@ -156,4 +156,4 @@ $$
 
 设 $A\subset \mathbb{R}, A\neq\varnothing$ 
 
-1. 如果
+1. 如果 $A$ 有最大元，则 $-A$ 
