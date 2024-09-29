@@ -8,7 +8,8 @@
 
 $$
 \begin{aligned}
-\int_{a}^{b}f^{2}(x)\mathrm{d}x\\
-=\int_{a}^b
+&\int_{a}^{b}f^{2}(x)\mathrm{d}x\\
+=&\int_{a}^b\left(\int_{\xi}^{x}f'(x)\mathrm{d}t\right)^2\mathrm{d}x
+\leq&
 \end{aligned}
 $$
