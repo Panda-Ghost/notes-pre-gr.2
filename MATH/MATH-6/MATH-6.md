@@ -45,4 +45,4 @@ $$
 
    因为 $B$ 为无限集，$B-\{ a_{1},a_{2},\dots a_{n} \}\neq \varnothing$，取 $a_{n+1} \in B-\{ a_{1},a_{2},\dots,a_{n} \}$，则 $a_{n+1} \in B, a_{n+1} \not\in \{ a_{1},a_{2},\dots,a_{n} \}$
 
-   设 $f:\mathbb{N}^*\to B$ 
+   设 $f:\mathbb{N}^*\to B, \; f(n)=a_{n}, \; n=1,2,\dots$ 为单射，所以 $\overline{\overline{\mathbb{N}^*}}$
