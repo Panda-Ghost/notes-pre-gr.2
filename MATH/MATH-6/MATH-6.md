@@ -156,4 +156,5 @@ $$
 
 设 $A\subset \mathbb{R}, A\neq\varnothing$ 
 
-1. 如果 $A$ 有最大元，则 $-A$ 有最小元，且 $\max A=\min -A$
+1. 如果 $A$ 有最大元，则 $-A$ 有最小元，且 $-\max A=\min(-A)$
+2. 如果 $A$ 有上确界，则 $-A$ 有下确界，且 $-\sup A=\inf()$
