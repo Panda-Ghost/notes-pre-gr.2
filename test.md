@@ -6,4 +6,4 @@
 
 且 $F'(x)=f'(x)$
 
-原问题 
+原问题 $\Longleftrightarrow \int$
