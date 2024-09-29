@@ -31,4 +31,6 @@ $$
 
 2. $\overline{\overline{A}}\neq\overline{\overline{\mathbb{N}^*}}$
 
-   反证，假设 $\exists g:A\to\mathbb{N}^*$ 是双射，$\exists f:\{ 1,2,\dots,n\}\to A$ 是双射，则 $g\circ f:\{ 1,2,\dots n \}\to\mathbb{N}^*$ 是双射，设 $N=\max\{\mathrm{Rg} \; g\circ f\}$，则 $N+1\not\in \math\mathrm{Rg} \; $
+   反证，假设 $\exists g:A\to\mathbb{N}^*$ 是双射，$\exists f:\{ 1,2,\dots,n\}\to A$ 是双射，则 $g\circ f:\{ 1,2,\dots n \}\to\mathbb{N}^*$ 是双射，设 $N=\max\{\mathrm{Rg} \; g\circ f\}$，则 $N+1\not\in \mathrm{Rg} \; g\circ f$ 但是 $N+1\in\mathbb{N}^*$
+
+3. 
