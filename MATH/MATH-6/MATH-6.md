@@ -110,10 +110,12 @@ $$
 E=\{ s \in\mathbb{R}\mid s\geq x,\; \forall x \in A \}
 $$
 
-如果 $E$ 有最小元，记 $\sup A=\min E$，称 $\sup A$ 为 $A$ 的上确界，设 $A$ 有下界，记
+如果 $E$ 有最小元，记 $\sup A=\min E$，称 $\sup A$ 为 $A$ 的**上确界**，设 $A$ 有下界，记
 
 $$
 F=\{ s \in \mathbb{R} \mid s \leq x,\; \forall x \in A \}
 $$
 
-如果 $F$ 有最大元，记 $\inf A =\max F$，称 $\$
+如果 $F$ 有最大元，记 $\inf A =\max F$，称 $\inf A$ 为 $A$ 的**下确界**
+
+> 上确界和下确界是唯一的
