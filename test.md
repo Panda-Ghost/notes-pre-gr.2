@@ -14,4 +14,5 @@ $$
 \leq&\int_{a}^{b}|f'(t)|^2 \mathrm{d}t \cdot(b-a)^2
 \end{aligned}
 $$
+
 这里 $f(\xi)=\int_{a}^b f(x)\mathrm{d}x=0$
