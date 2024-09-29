@@ -27,7 +27,8 @@ $$
 
 1. $\overline{\overline{A}}\leq\overline{\overline{\mathbb{N}^*}}$
 
-   存在 $$
+   存在双射 $f:A\to \{ 1,2,\dots, n \}$，则 $f:A \to B$ 是单射
 
 2. $\overline{\overline{A}}\neq\overline{\overline{\mathbb{N}^*}}$
 
+   
