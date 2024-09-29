@@ -137,5 +137,11 @@ $E=\{ s \in \mathbb{R} \mid s\geq x, \; \forall x \in A \}$
 则 $A\neq \varnothing, E\neq\varnothing$，并且
 
 $$
+x\leq s, \quad \forall x \in A, s \in E
+$$
 
+则 $\exists c \in \mathbb{R}, \text{ s.t. }$
+
+$$
+x\leq c\leq s, \quad foral
 $$
