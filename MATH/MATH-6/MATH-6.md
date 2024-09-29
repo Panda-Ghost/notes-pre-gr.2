@@ -92,6 +92,9 @@ $$
 M\geq x,\quad \forall x \in A
 $$
 
-称 $A$ 有上界，称 $M$ 为 $A$ 的上界
+称 $A$ 有**上界**，称 $M$ 为 $A$ 的**上界**，如果 $\exists m\in\mathbb{R},\text{ s.t. }$
 
-$quad$
+$$
+m\leq x
+$$
+
