@@ -154,4 +154,6 @@ $$
 
 > 记 $-A=\{ -x \mid x \in A \}$
 
-设 $A\subset \mathbb{R}, A\neq\varnoth$
+设 $A\subset \mathbb{R}, A\neq\varnothing$ 
+
+1. 如果
