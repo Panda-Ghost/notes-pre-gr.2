@@ -130,4 +130,12 @@ $$
 
 **证明**
 
+设 $A$ 有上界
+
 $E=\{ s \in \mathbb{R} \mid s\geq x, \; \forall x \in A \}$
+
+则 $A\neq \varnothing, E\neq\varnothing$，并且
+
+$$
+
+$$
