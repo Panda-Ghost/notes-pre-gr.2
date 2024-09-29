@@ -27,4 +27,7 @@ $$
 
 1. $\overline{\overline{A}}\leq\overline{\overline{\mathbb{N}^*}}$
 
-2. $\overline{\overline{A}}\neq\over$
+   存在 $$
+
+2. $\overline{\overline{A}}\neq\overline{\overline{\mathbb{N}^*}}$
+
