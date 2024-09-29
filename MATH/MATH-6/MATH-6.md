@@ -146,6 +146,6 @@ $$
 x\leq c\leq s, \quad \forall x \in A, s \in E
 $$
 
-说明 $c \in E$，而且 $c$ 最小
+说明 $c \in E$，而且 $c$ 最小，则 $\sup A=c$
 
-下确界tong li
+下确界同理
