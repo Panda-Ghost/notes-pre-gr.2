@@ -49,4 +49,7 @@ $$
 
 **定义2**
 
-设 $B$ 为无限集，如果 $\overline{\overline{}}$
+设 $B$ 为无限集，如果 $\overline{\overline{B}}=\overline{\overline{\mathbb{N}^*}}$，称 $B$ 为无限可数集
+
+**定义3**
+
