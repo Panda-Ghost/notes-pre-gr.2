@@ -41,4 +41,6 @@ $$
 
    因为 $B$ 为无限集，$B-\{a_{1}\}\neq\varnothing$，取 $a_{2}\in B-\{ a_{1} \}$，则 $a_{2}\in B,a_{2}\not\in \{ a_{1} \}$
 
-   设 $a_{n}\in B,a_{n}\not\in \{ a_{1} \}$
+   设 $a_{n}\in B,a_{n}\not\in \{ a_{1},a_{2},\dots,a_{n-1} \}$
+
+   因为 $B$ 为无限集，
