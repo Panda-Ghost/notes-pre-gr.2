@@ -37,4 +37,6 @@ $$
 
    $a_{n}\not\in\{ a_{1},a_{2},\dots,a_{n-1} \}, \forall n=1,2,\dots$
 
-   
+   因为 $B$ 为无限集，$B\neq\varnothing$，取 $a_{1}\in B$
+
+   因为 $B$ 为无限集，$$
