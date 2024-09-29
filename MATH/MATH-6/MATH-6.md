@@ -130,3 +130,4 @@ $$
 
 **证明**
 
+$E=\{ s \in \mathbb{R} \mid s\geq x, \; \forall x \in A \}$
