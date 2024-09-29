@@ -143,5 +143,9 @@ $$
 则 $\exists c \in \mathbb{R}, \text{ s.t. }$
 
 $$
-x\leq c\leq s, \quad foral
+x\leq c\leq s, \quad \forall x \in A, s \in E
 $$
+
+说明 $c \in E$，而且 $c$ 最小
+
+下确界tong li
