@@ -120,8 +120,11 @@ $$
 
 > 上确界和下确界如果存在则是唯一的
 
-**定理1**
+**定理1（确界原理）**
 
-设 $A \subset \mathbb{R}, A\neq\varnothing$ 如果 $A$ 有上界，则 $A$ 必有上确界
+设 $A \subset \mathbb{R}, A\neq\varnothing$
 
-如果 $A$ 
+如果 $A$ 有上界，则 $A$ 必有上确界
+
+如果 $A$ 有下界，则 $A$ 必有下确界
+
