@@ -86,6 +86,8 @@ $$
 
 ### 确界原理
 
+**定义1**
+
 设 $A\subset\mathbb{R},A\neq\varnothing$ 如果 $\exists M\in \mathbb{R},\text{ s.t. }$
 
 $$
@@ -98,4 +100,8 @@ $$
 m\leq x,\quad \forall x \in A
 $$
 
-称 $A$ 有**下界**，称 $m$ 为 
+称 $A$ 有**下界**，称 $m$ 为 $A$ 的**下界**
+
+**定义2**
+
+设 $Asub$
