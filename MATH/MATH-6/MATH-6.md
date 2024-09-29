@@ -35,4 +35,6 @@ $$
 
 3. 定义 $\{ a_{n} \},n=1,2,\dots,\text{s.t. } a_{n}\in B$ 并且
 
-   $a_{n}\not\in\{  \}$
+   $a_{n}\not\in\{ a_{1},a_{2},\dots,a_{n-1} \}, \forall n=1,2,\dots$
+
+   
