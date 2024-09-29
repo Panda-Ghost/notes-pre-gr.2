@@ -25,4 +25,6 @@ $$
 
 **证明**
 
-$\overline{\overline{A}}$
+1. $\overline{\overline{A}}\leq\overline{\overline{\mathbb{N}^*}}$
+
+2. $\overline{\overline{A}}\neq\over$
