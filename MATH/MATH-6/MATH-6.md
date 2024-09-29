@@ -33,4 +33,4 @@ $$
 
    反证，假设 $\exists g:A\to\mathbb{N}^*$ 是双射，$\exists f:\{ 1,2,\dots,n\}\to A$ 是双射，则 $g\circ f:\{ 1,2,\dots n \}\to\mathbb{N}^*$ 是双射，设 $N=\max\{\mathrm{Rg} \; g\circ f\}$，则 $N+1\not\in \mathrm{Rg} \; g\circ f$ 但是 $N+1\in\mathbb{N}^*$
 
-3. 
+3. 定义 $\{ a_{n} \},n=1,2,\dots,\text{s.t. } a_{n}$
