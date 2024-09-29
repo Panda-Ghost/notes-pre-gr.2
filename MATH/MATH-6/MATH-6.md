@@ -66,6 +66,8 @@ $$
 3. 序公理：$(\mathbb{R},\leq)$ 是全序集
 4. 实数的完备性
 
+**公理4（完备性）**
+
 设 $A,B\subset\mathbb{R},\;A,B\neq\varnothing$ 如果
 
 $$
@@ -75,5 +77,5 @@ $$
 则 $\exists c\in\mathbb{R},\text{ s.t. }$
 
 $$
-x\leq c\leq y,\quad for
+x\leq c\leq y,\quad \forall x \in A,y\in B
 $$
