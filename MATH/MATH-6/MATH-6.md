@@ -43,4 +43,6 @@ $$
 
    设 $a_{n}\in B,a_{n}\not\in \{ a_{1},a_{2},\dots,a_{n-1} \}$
 
-   因为 $B$ 为无限集，$B-\{ a_{1},a_{2},\dots a_{n} \}\neq \varnothing$，取 $a_{n+1} \in B-\{ a_{1},a_{2},\dots,a_{n} \}$，ze
+   因为 $B$ 为无限集，$B-\{ a_{1},a_{2},\dots a_{n} \}\neq \varnothing$，取 $a_{n+1} \in B-\{ a_{1},a_{2},\dots,a_{n} \}$，则 $a_{n+1} \in B, a_{n+1} \not\in \{ a_{1},a_{2},\dots,a_{n} \}$
+
+   设 $f:\mathbb{N}^*\to B$ 
