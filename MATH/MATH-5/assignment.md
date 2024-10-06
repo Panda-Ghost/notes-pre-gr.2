@@ -4,7 +4,7 @@
 
 $\mathrm{Dom} \; f= \mathbb{C} \setminus\{ 0 \}$
 
-
+设 $a \in \mathrm{Dom} \; f$ 说明存在 $x, y \in \mathbb{R}, 0 \leq y < 2 \pi$ 
 
 
 
