@@ -8,6 +8,14 @@ $\mathrm{Dom} \; f= \mathbb{C} \setminus\{ 0 \}$
 
 设 $b \in \mathbb{C} \setminus\{ 0 \}$ 设 $b=x+y\mathrm{i}$ 令 $x'=\frac{1}{2}\ln(x^2+y^2)$
 
+令 
+
+$$
+\begin{aligned}
+y'=\left\{
+\right.
+\end{aligned}
+$$
 
 
 2.
