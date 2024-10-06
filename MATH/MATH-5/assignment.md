@@ -2,7 +2,8 @@
 
 (1)
 
-$\mathrm{Dom} \; f= \mathbb{C}-\{  \}$ 
+$\mathrm{Dom} \; f= \mathbb{C} \setminus\{ 0 \}$
+
 
 
 2.
