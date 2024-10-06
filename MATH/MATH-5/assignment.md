@@ -10,4 +10,6 @@
 
 因此 $B=\mathrm{Rg}\;f$ 所以 $f$ 是满射，又 $f$ 是单射，所以 $f$ 是双射
 
-$f^{-1}=\{ (y,x)\in A\time \}$
+$f^{-1}=\{ (y,x)\in B\times A\mid (x, y) \in f \}$
+
+设 $(a, b) \in g$ 则 $(b, a) \in $
