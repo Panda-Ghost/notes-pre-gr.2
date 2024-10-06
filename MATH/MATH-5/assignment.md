@@ -11,8 +11,9 @@ $\mathrm{Dom} \; f= \mathbb{C} \setminus\{ 0 \}$
 则
 
 $$
-b'=\frac{b}{e^s}=x'+y'\mathrm{i}, 
+b'=\frac{b}{e^s}=x'+y'\mathrm{i}
 $$
+
 
 令 
 
