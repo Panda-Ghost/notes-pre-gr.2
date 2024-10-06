@@ -27,7 +27,6 @@ t=
 &\arctan \frac{y'}{x'} + 2\pi &&x'>0, y'<0
 \end{aligned}
 \right.
-
 $$
 
 则 $0\leq t < 2\pi$ 并且 $b=e^s(\cos t+\mathrm{i} \sin t)$ 故 $(b, s+t\mathrm{i}) \in f$ 所以 $b \in \mathrm{Dom} \; f$ 故 $\mathbb{C} \setminus \{ 0 \} \subset \mathrm{Dom} \; f$
@@ -40,7 +39,22 @@ $$
 
 设 $z=x+y\mathrm{i}$
 
-则 $f(z)=\frac{1}{2}\ln(x)$
+则 $f(z)=\frac{1}{2}\ln(x^2+y^2)+t\mathrm{i}$
+
+其中
+
+$$
+t=
+\left\{
+\begin{aligned}
+&\frac{\pi}{2}  &&x=0, y>0 \\
+&\frac{3\pi}{2} &&x=0, y<0 \\
+&\arctan \frac{y}{x} &&x'>0,y'\geq0\\
+&\arctan \frac{y}{x'} + \pi &&x'<0\\
+&\arctan \frac{y'}{x'} + 2\pi &&x'>0, y'<0
+\end{aligned}
+\right.
+$$
 
 2.
 
