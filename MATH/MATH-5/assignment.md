@@ -1,3 +1,10 @@
+1.
+
+(1)
+
+
+
+
 2.
 
 由合法表达式 $f(x)$ 与 $g(x)$ 可知 $f,g$ 是单射
@@ -10,5 +17,4 @@
 
 因此 $B=\mathrm{Rg}\;f$ 所以 $f$ 是满射，又 $f$ 是单射，所以 $f$ 是双射
 
-$(a, b) \in g \Leftrightarrow (b, a) \in f \Leftrightarrow (a, b) \in f ^{-1}$ gu
-
+$(a, b) \in g \Leftrightarrow (b, a) \in f \Leftrightarrow (a, b) \in f ^{-1}$ 故 $f^{-1}=g$
