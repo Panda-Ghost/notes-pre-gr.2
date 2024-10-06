@@ -22,7 +22,6 @@ $$
 t=
 \left\{
 \begin{aligned}
-
 &\frac{\pi}{2}  &&x'=0, y'=1 \\
 &\frac{3\pi}{2} &&x'=0, y'=-1 \\
 &\arctan \frac{y'}{x'} &&x'>0,y'\geq0\\
@@ -33,6 +32,7 @@ t=
 
 $$
 
+则 $0\leq t < 2\pi$ 
 
 2.
 
