@@ -4,7 +4,7 @@
 
 $\mathrm{Dom} \; f= \mathbb{C} \setminus\{ 0 \}$
 
-$\forall z=x+yi, x, y\in \mathbb{R }$
+
 
 
 
