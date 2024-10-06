@@ -10,4 +10,6 @@
 
 $\mathrm{Rg} \;f=\{ y\mid \exists x, \text{ s.t. } (x, y)\in f \}$
 
-设 $a \in \mathrm{Rg} \; f$ 则存在 $a'$ 使得 $(a', a) \in f$ 可得 $(a, a')\in g$ 这样 $a \in \mathrm{Dom} $
+设 $a \in \mathrm{Rg} \; f$ 则存在 $a'$ 使得 $(a', a) \in f$ 可得 $(a, a')\in g$ 这样 $a \in \mathrm{Dom} \; g=B$ 故 $\mathrm{Rg} \; f \subset B$
+
+设 $b \in B$ 则 m
