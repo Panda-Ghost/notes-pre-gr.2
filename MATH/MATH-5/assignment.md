@@ -10,4 +10,4 @@
 
 $\mathrm{Rg} \;f=\{ y\mid \exists x, \text{ s.t. } (x, y)\in f \}$
 
-设 $a \in \mathrm{Rg} \; f$ 则存在 $$
+设 $a \in \mathrm{Rg} \; f$ 则存在 $a'$ 使得 $(a', a) \in f$ 可得 $(a, a')\in g$ 这样 $a \in \mathrm{Dom} $
