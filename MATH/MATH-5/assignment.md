@@ -6,7 +6,7 @@ $\mathrm{Dom} \; f= \mathbb{C} \setminus\{ 0 \}$
 
 设 $a \in \mathrm{Dom} \; f$ 说明存在 $x, y \in \mathbb{R},\; 0 \leq y < 2 \pi$ 满足 $(a, x+y\mathrm{i})\in f$ 所以 $a=e^x(\cos y+ \mathrm{i} \sin y )$ 因为 $e^x>0$ 所以 $a\in \mathbb{C} \setminus \{0\}$ 故 $\mathrm{Dom} \; f \subset \mathbb{C} \setminus \{ 0 \}$
 
-
+设 $b \in \mathbb{C} \setminus\{ 0 \}$ 设 $b=x+y\mathrm{i}$ 令 $x'=\ln(x^2+y)$
 
 
 2.
