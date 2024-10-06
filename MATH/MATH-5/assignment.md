@@ -2,7 +2,7 @@
 
 由合法表达式 $f(x)$ 与 $g(x)$ 可知 $f,g$ 是单射
 
-由 $g(f(x))=x, \quad \forall x \in A$ 可知 $(y, x) \in g, \quad \forall (x, y) \in f$ 同理 $(x, y) \in f, \quad \forall (y, x) \in g$
+由 $g(f(x))=x, \quad \forall x \in A$ 可知 $(y, x) \in g, \quad \forall (x, y) \in f$ 同理 $(x, y) \in f, \quad \forall (y, x) \in g$ 故 $(x, y)\in f \l$
 
 设 $a \in \mathrm{Rg} \; f$ 则存在 $a'$ 使得 $(a', a) \in f$ 可得 $(a, a')\in g$ 这样 $a \in \mathrm{Dom} \; g=B$ 故 $\mathrm{Rg} \; f \subset B$
 
@@ -12,4 +12,5 @@
 
 $f^{-1}=\{ (y,x)\in B\times A\mid (x, y) \in f \}$
 
-设 $(a, b) \in g$ 则 $(b, a) \in $
+设 $(a, b) \in g$ 则 $(b, a) \in f$ 可得 $(a, b) \in f ^{-1}$ 故 $g \subset f ^{-1}$
+
