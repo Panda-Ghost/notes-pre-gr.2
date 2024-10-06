@@ -21,6 +21,7 @@ $$
 $$
 \begin{aligned}
 t=\left\{
+\frac{\pi}{2} \quadx'=0, y'=1
 \right.
 \end{aligned}
 $$
