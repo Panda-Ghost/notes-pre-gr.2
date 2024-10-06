@@ -2,7 +2,7 @@
 
 (1)
 
-
+$\mathrm{Dom} \; f= \mathbb{C}-\{  \}$ 
 
 
 2.
