@@ -17,5 +17,6 @@ $$
 同理
 
 $$
-
+(x, y) \in f, \quad \forall (y, x) \in g
 $$
+
