@@ -8,3 +8,6 @@
 
 同理 $(x, y) \in f, \quad \forall (y, x) \in g$
 
+$\mathrm{Rg} \;f=\{ y\mid \exists x, \text{ s.t. } (x, y)\in f \}$
+
+设 $a \in \mathrm{Rg} \; f$ 则存在 $$
