@@ -20,3 +20,4 @@ $$
 (x, y) \in f, \quad \forall (y, x) \in g
 $$
 
+因为 $\mathrm{Dom}\;g=A$
