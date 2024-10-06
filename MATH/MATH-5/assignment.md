@@ -25,7 +25,9 @@ t=
 
 &\frac{\pi}{2}  &&x'=0, y'=1 \\
 &\frac{3\pi}{2} &&x'=0, y'=-1 \\
-&\arctan \frac{y'}{x'} &&x'
+&\arctan \frac{y'}{x'} &&x'>0,y'>0\\
+&\arctan \frac{y'}{x'} + \pi &&x'<0,y'\neq0\\
+&\arctan \frac{y'}{x'} + 2\pi &
 \end{aligned}
 \right.
 
