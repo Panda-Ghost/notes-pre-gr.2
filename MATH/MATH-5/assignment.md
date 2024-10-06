@@ -23,7 +23,7 @@ t=
 \left\{
 \begin{aligned}
 &\frac{\pi}{2}  &&x'=0, y'=1 \\
-&
+&-\frac{\pi}{2} &&x'=0, y'=-1 \\
 \end{aligned}
 \right.
 
