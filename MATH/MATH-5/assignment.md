@@ -19,11 +19,14 @@ $$
 令 
 
 $$
+t=
+\left\{
 \begin{aligned}
-t=\left\{
-\frac{\pi}{2} \quadx'=0, y'=1
-\right.
+&\frac{\pi}{2}  &&x'=0, y'=1 \\
+&
 \end{aligned}
+\right.
+
 $$
 
 
