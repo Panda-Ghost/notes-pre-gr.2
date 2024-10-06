@@ -5,7 +5,7 @@
 $$
 \begin{aligned}
 
-g(f(x))=x, \quad \forall x \in A 
-\implies
+& g(f(x))=x, \quad \forall x \in A \\
+\implies &(y, x) \in g, \quad \forall (x, y)
 \end{aligned}
 $$
