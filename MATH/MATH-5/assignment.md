@@ -60,7 +60,7 @@ $$
 
 由 $g(f(x))=x, \quad \forall x \in A$ 可知 $(y, x) \in g, \quad \forall (x, y) \in f$ 同理 $(x, y) \in f, \quad \forall (y, x) \in g$ 故 $(x, y)\in f \Leftrightarrow (y, x) \in g$
 
-设 $(x_{1},x)$ 
+设 $(x_{1},y_{1}),(x_{2},y_{2})\in f$ 则 $(y_{1}, x_{1}), (y_{2},x_{2}) \in g$ 由 $g$ 为映射 ke zhi 
 
 设 $a \in \mathrm{Rg} \; f$ 则存在 $a'$ 使得 $(a', a) \in f$ 可得 $(a, a')\in g$ 这样 $a \in \mathrm{Dom} \; g=B$ 故 $\mathrm{Rg} \; f \subset B$
 
