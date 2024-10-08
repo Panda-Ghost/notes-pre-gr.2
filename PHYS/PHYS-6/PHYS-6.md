@@ -46,4 +46,4 @@ $f'=-\frac{f_{1}'f_{2}'}{\Delta} \quad f=\frac{f_{1}f_{2}}{\Delta}$
 
 > $f$ 和 $f'$ 是主点到焦点距离（焦距）
 
-$l_{H}'=-f' \frac{d}{f_{1}'}=f_{2}' \frac{d}{\Delta} \quad l_{H}=-f' \frac{d}{f_{2}'}=f_{1}' \frac{d}{D}$
+$l_{H}'=-f' \frac{d}{f_{1}'}=f_{2}' \frac{d}{\Delta} \quad l_{H}=-f' \frac{d}{f_{2}}=f_{1} \frac{d}{\Delta}$
