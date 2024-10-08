@@ -2,3 +2,7 @@
 
 ## 单个折射球面的主点和焦点
 
+主点
+
+$\beta = 1=\frac{nl'}{n'l} \implies nl'=n'l$
+
