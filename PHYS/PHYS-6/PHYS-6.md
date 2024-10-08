@@ -36,7 +36,7 @@ $x x' =f_{2} f_{2}'$
 
 $x=-\Delta$
 
-$x_{F}'=-\frac{f_{2}f_{2}'}{\Delta} \quad l_{F}'=x_{F'=}='$
+$x_{F}'=-\frac{f_{2}f_{2}'}{\Delta} \quad l_{F}'=x_{F}'+f_{2}'=-\frac{f_{2}f_{2}'}{\Delta}+f_{2}'$
 
-同理 $x_{F}=\frac{f_{1}f_{1}'}{\Delta}$
+同理 $x_{F}=\frac{f_{1}f_{1}'}{\Delta} \quad l_{F}=x_{F}+f_{1}=$
 
