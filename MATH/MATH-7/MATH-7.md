@@ -60,4 +60,6 @@ $x=[x]+(x-[x])$ 其中 $x-[x]$ 是 $x$ 的**小数部分** $\in [0, 1)$
 
 **命题4**
 
-设 $$
+设 $a, b\in \mathbb{R},\quad a < b$
+
+则 $\exists q \in \mathbb{Q}, \text{ s.t.}$
