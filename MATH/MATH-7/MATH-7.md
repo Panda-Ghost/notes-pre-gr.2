@@ -78,4 +78,6 @@ $nb>m>na \implies b> \frac{m}{n} > a$
 
 **命题5**
 
-设
+设 $a, b\in\mathbb{R},\quad a<b$
+
+则 $\exists r \in \mathbb{R} \setminus \mathbb{Q}, \text{ s.t. } a<r<b$
