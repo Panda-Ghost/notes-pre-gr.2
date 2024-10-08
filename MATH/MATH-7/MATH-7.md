@@ -82,3 +82,6 @@ $nb>m>na \implies b> \frac{m}{n} > a$
 
 则 $\exists r \in \mathbb{R} \setminus \mathbb{Q}, \text{ s.t. } a<r<b$
 
+**证明**
+
+存在 $q\in\mathbb{Q}, \text{ s.t. } $
