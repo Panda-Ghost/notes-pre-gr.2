@@ -19,3 +19,4 @@
 
 记 $M=\sup A$
 
+$\exists n \in A, \text{ s.t. } n > $
