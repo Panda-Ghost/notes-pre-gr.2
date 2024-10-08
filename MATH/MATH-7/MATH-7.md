@@ -84,4 +84,6 @@ $nb>m>na \implies b> \frac{m}{n} > a$
 
 **证明**
 
-存在 $q\in\mathbb{Q}, \text{ s.t. } $
+存在 $q\in\mathbb{Q}, \text{ s.t. } \sqrt{ 2 }a<q<\sqrt{ 2 }b$
+
+故 $\frac{q}{\sqrt{ 2 }}\in\mathbb{R} \setminus \mathbb{Q}$ 且 $a< \frac{q}{\sqrt{ 2 }}<b$
