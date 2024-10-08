@@ -19,4 +19,6 @@
 
 记 $M=\sup A$
 
-$\exists n \in A, \text{ s.t. } n > $
+$\exists n \in A, \text{ s.t. } n > M-\frac{1}{2}$
+
+下面证 $n=$
