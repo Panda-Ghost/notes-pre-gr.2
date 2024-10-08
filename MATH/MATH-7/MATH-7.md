@@ -65,5 +65,5 @@ $x=[x]+(x-[x])$ 其中 $x-[x]$ 是 $x$ 的**小数部分** $\in [0, 1)$
 则 $\exists q \in \mathbb{Q}, \text{ s.t. } a<q<b$
 
 $$
-\mathbb{Q} = \{  \}
+\mathbb{Q} = \left\{  \frac{m}{n} \right\mid m\in \mathbb{Z}, n \in  \mathbb{N}^*  \right\}
 $$
