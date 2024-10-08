@@ -1,6 +1,6 @@
 Ladies and Gentlemen,
 
-If you find yourself constantly hitting the snooze button on your alarm clock, you're a procrastinator. If you've turned late-night coffee runs into a daily ritual because the work you've been putting off is due the next day, you're a procrastinator. If your to-do list is more like a historical document, with tasks dating back weeks, you're a procrastinator. If the sight of a blank page fills you with dread, and you'd rather do anything else but start writing, you're a procrastinator.
+If you find yourself constantly hitting the snooze button on your alarm clock, you're a procrastinator. If you've turned late-night coffee runs into a daily ritual because the work you've been putting off is due the next day, you're a procrastinator. If your to-do list is more like a historical document, with tasks dating back weeks, you're a procrastinator. 
 
 如果你发现自己总是不停地按掉闹钟上的“贪睡”按钮，那你就是一个拖延症患者。如果你把晚上去咖啡店买咖啡变成了一种日常习惯，因为那些你一直拖着不做的工作第二天就要交了，那你就是一个拖延症患者。如果你的待办事项清单更像是一份历史文献，上面的任务可以追溯到几周前，那你就是一个拖延症患者。如果看到一张空白的纸张就会让你感到恐惧，你宁愿做任何其他事情也不愿意开始写作，那你就是一个拖延症患者。
 
