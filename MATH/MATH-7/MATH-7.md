@@ -76,3 +76,6 @@ $\exists n \in \mathbb{N}^*, \text{ s.t. } n(b-a)>1$
 
 $nb>m>na \implies b> \frac{m}{n} > a$
 
+**命题5**
+
+设
