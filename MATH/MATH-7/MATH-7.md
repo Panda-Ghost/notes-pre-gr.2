@@ -4,3 +4,8 @@
 
 设 $m, n \in \mathbb{Z}, \; m\neq n$，则 $|m-n|\geq 1$
 
+如果 $m>n$ 则 $m \geq n+1$
+
+**命题1**
+
+设 $A\subset$
