@@ -18,9 +18,13 @@ $$
 l=-\infty \quad l'=f'
 $$
 
-$$\frac{n'}{l'}-\frac{n}{l}=\frac{n'-n}{r} \implies f'=\frac{n'r}{n'-n} \quad f=-\frac{nr}{n'-n}$$$
+$$
+\frac{n'}{l'}-\frac{n}{l}=\frac{n'-n}{r} \implies f'=\frac{n'r}{n'-n} \quad f=-\frac{nr}{n'-n}
+$$
 
-$$l'=\infty \quad l=f$$$
+$$
+l'=\infty \quad l=f
+$$
 
 $$
 \frac{f'}{f}=-\frac{n'}{n}
