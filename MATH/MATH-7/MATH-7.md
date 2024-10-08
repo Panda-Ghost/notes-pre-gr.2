@@ -66,4 +66,6 @@ $x=[x]+(x-[x])$ 其中 $x-[x]$ 是 $x$ 的**小数部分** $\in [0, 1)$
 
 $\mathbb{Q} = \left\{  \frac{m}{n} \mid m\in \mathbb{Z}, n \in  \mathbb{N}^*  \right\}$
 
+**证明**
 
+$\exists n \in \mathb{N}^*, \text{ s.t. }$
