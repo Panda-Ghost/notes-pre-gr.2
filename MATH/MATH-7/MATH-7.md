@@ -68,4 +68,10 @@ $\mathbb{Q} = \left\{  \frac{m}{n} \mid m\in \mathbb{Z}, n \in  \mathbb{N}^*  \r
 
 **证明**
 
-$\exists n \in \mathb{N}^*, \text{ s.t. }$
+$\exists n \in \mathbb{N}^*, \text{ s.t. } n(b-a)>1$
+
+则 $nb>na+1$
+
+令 $m=[na]+1$
+
+$nb>m$
