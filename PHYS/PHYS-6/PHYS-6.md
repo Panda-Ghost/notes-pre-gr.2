@@ -10,4 +10,8 @@ $\frac{n'}{l'}-\frac{n}{l}=\frac{n'-n}{r}\implies n'l-nl'=\frac{n'-n}{r}ll' \imp
 
 焦点
 
-$l=-\infty \quad l'$ 
+$l=-\infty \quad l'=f'$ 
+
+$\frac{n'}{l'}-\frac{n}{l}=\frac{n'-n}{r} \implies f'=\frac{n'r}{n'-n} \quad f=-\frac{nr}{n'-n}$
+
+$l'=\infty \quad $
