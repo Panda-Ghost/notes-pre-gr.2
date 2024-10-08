@@ -43,4 +43,7 @@ $$
 
 **推论1**
 
-设 $x \in \mathbb{R}$ 则 $\exists !  n \in \mathbb{}$
+设 $x \in \mathbb{R}$ 则 $\exists !  n \in \mathbb{Z}, \text{ s.t. } n\leq x <n+1$
+
+称 $n$ 为 $x$ 的**整数部分**
+
