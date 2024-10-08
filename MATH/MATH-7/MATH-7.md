@@ -36,5 +36,5 @@ $\mathbb{Z}$ 既没有上界，也没有下界
 设 $h>0$ 则
 
 $$
-
+\mathbb{R} = \bigcup_{k\in\mathbb{Z}} \left[kh, (k+1)h)
 $$
