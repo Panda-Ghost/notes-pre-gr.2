@@ -74,4 +74,5 @@ $\exists n \in \mathbb{N}^*, \text{ s.t. } n(b-a)>1$
 
 令 $m=[na]+1$
 
-$nb>m$
+$nb>m>na \implies b> \frac{m}{n} > a$
+
