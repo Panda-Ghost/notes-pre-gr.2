@@ -41,3 +41,6 @@ $$
 
 并且上式右端的集合互不相交
 
+**推论1**
+
+设 $x \in \mathbb{R}$ 则 $\exists !  n \in \mathbb{}$
