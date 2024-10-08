@@ -17,9 +17,7 @@
 
 对于 1
 
-记 $M=\sup A$
-
-$\exists n \in A, \text{ s.t. } n > M-\frac{1}{2}$
+记 $M=\sup A$ 则 $\exists n \in A, \text{ s.t. } n > M-\frac{1}{2}$
 
 下面证 $n=\max A$
 
@@ -27,3 +25,6 @@ $\exists n \in A, \text{ s.t. } n > M-\frac{1}{2}$
 
 （否则 $m>n \implies m\geq n+1 \wedge m<n+\frac{1}{2}$ 矛盾）
 
+**命题2**
+
+$\mathbb{Z}$ 既没有上界 
