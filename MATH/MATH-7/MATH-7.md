@@ -55,3 +55,4 @@ $x=[x]+(x-[x])$ 其中 $x-[x]$ 是 $x$ 的**小数部分** $\in [0, 1)$
 
 设 $x \in \mathbb{R}$
 
+1. 如果 $x>0$ 则存在 $n\in \mathbb{N}^*, \text{ s.t. } \frac{1}{}$
