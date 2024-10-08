@@ -52,6 +52,5 @@ $l_{H}'=-f' \frac{d}{f_{1}'}=f_{2}' \frac{d}{\Delta} \quad l_{H}=f \frac{d}{f_{2
 
 由两个折射面包围一种透明介质做成的光学元件。
 
-正透镜 $\phi=\frac{n'}{f'}>0$
-
-fu tou j
+- 正透镜 $\phi=\frac{n'}{f'}>0$
+- 负透镜 $\phi=\frac{n'}{f'}<0$
