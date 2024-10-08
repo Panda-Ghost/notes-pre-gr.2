@@ -36,8 +36,7 @@ $x x' =f_{2} f_{2}'$
 
 $x=-\Delta$
 
-$x_{F}'=-\frac{f_{2}f_{2}'}{\Delta}$
+$x_{F}'=-\frac{f_{2}f_{2}'}{\Delta} \quad l_{F}'=x_{F'=}='$
 
 同理 $x_{F}=\frac{f_{1}f_{1}'}{\Delta}$
 
-> $x_{F}'$ 与 $x_{F}$ 是与
