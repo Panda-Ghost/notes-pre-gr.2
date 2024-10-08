@@ -8,4 +8,7 @@
 
 **命题1**
 
-设 $A\subset$
+设 $A\subset \mathbb{Z}, \; A \neq \varnothing$
+
+1. 如果 $A$ 有上界，则 $A$ 由最大元
+2. 如果 $A$ 有下界
