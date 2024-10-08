@@ -23,6 +23,4 @@ $\exists n \in A, \text{ s.t. } n > M-\frac{1}{2}$
 
 下面证 $n=\max A$
 
-设 $m\in A$，则
-
-$m\leq M$
+设 $m\in A$，则 $m\leq M<n+\frac{1}{2}$ 因此 $m\leq n$ （
