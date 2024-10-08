@@ -55,4 +55,5 @@ $x=[x]+(x-[x])$ 其中 $x-[x]$ 是 $x$ 的**小数部分** $\in [0, 1)$
 
 设 $x \in \mathbb{R}$
 
-1. 如果 $x>0$ 则存在 $n\in \mathbb{N}^*, \text{ s.t. } \frac{1}{}$
+1. 如果 $x>0$ 则存在 $n\in \mathbb{N}^*, \text{ s.t. } 0<\frac{1}{n}<x$
+2. 如果 $\forall n \in \mathbb{N}^*,\quad x\leq \frac{1}{n}$，则 $x\leq 0$
