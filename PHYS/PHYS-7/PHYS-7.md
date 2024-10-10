@@ -21,3 +21,7 @@ $$
 $$
 \phi=\frac{n'}{f'}=\frac{1}{f'}=(n-1)(\rho_{1}-\rho_{2})+\frac{(n-1)^{2}}{n}d\rho_{1}\rho_{2} \quad \rho_{1}=\frac{1}{r_{1}}\quad \rho_{2}=\frac{1}{r_{2}}
 $$
+
+Q:放置于空气中的双凸透镜，是会聚透镜还是发散透镜
+
+- $d< \left|\frac{n(r_{2}-r_{1})}{}\right|$
