@@ -24,6 +24,6 @@ $$
 
 Q:放置于空气中的双凸透镜，是会聚透镜还是发散透镜
 
-- $d< \left|\frac{n(r_{2}-r_{1})}{n-1}\right|$
-- $d=\left|\frac{n(r_{2}-r_{1})}{n-1}\right|$
+- $d< \left|\frac{n(r_{2}-r_{1})}{n-1}\right| \quad f'>0 \quad l'_{H}<0 \quad l_{H}>0$
+- $d=\left|\frac{n(r_{2}-r_{1})}{n-1}\right| \quad f'>0 \quad l'_{H}<0 \quad l_{H}>0$
 - $d>\left|\frac{n(r_{2}-r_{1})}{n-1}\right|$
