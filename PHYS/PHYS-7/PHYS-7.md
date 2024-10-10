@@ -19,5 +19,5 @@ $$
 光焦度
 
 $$
-\phi=\frac{n'}{f'}=\frac{1}{f'}=(n-1)(\rho_{1}-\rho_{2})+\frac{(n-1)^{2}}{n}
+\phi=\frac{n'}{f'}=\frac{1}{f'}=(n-1)(\rho_{1}-\rho_{2})+\frac{(n-1)^{2}}{n}d\rho_{1}\rho_{2} \quad \rho_{1}=\frac{1}{r_{1}}\quad \rho_{2}=\frac{1}{r_{2}}
 $$
