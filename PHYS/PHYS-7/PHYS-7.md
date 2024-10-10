@@ -16,3 +16,8 @@ f=-\frac{n}{\frac{n_{0}-n}{r_{1}}+\frac{n'-n_{0}}{r_{2}}}
 f'=\frac{n'}{\frac{n_{0}-n}{r_{1}}+\frac{n'-n_{0}}{r_{2}}}
 $$
 
+光焦度
+
+$$
+\phi=\frac{n'}{f'}=\frac{1}{f'}=(n-1)(\rho_{1}-\rho_{2})+\frac{(n-1)^{2}}{n}
+$$
