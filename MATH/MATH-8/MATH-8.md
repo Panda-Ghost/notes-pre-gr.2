@@ -44,4 +44,6 @@ $\mathbf{0} \parallel x, \quad \forall x \in \mathbb{R}^n$
 
 $a_{i},b_{i}>0, \quad i=1,2,\dots,n$
 
-$a\parallel b \Longleftright$
+$a\parallel b \Longleftrightarrow \frac{a_{1}}{b_{1}}= \frac{a_{2}}{b_{2}} =\dots=\frac{a_{n}}{b_{n}}$
+
+设 $$
