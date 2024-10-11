@@ -35,4 +35,6 @@ $\alpha x+ \beta y$ 是 $x, y$ 的**线性组合**
 
 $\mathbf{0} \parallel x, \quad \forall x \in \mathbb{R}^n$
 
-设 $x, y \neq 0, \quad x \parallel y \Longl$
+设 $x, y \neq 0, \; x \parallel y \Longleftrightarrow \exists k \in \mathbb{R}, \text{ s.t. } y=kx$
+
+$y=kx, \; k>0$：
