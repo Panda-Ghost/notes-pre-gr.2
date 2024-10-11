@@ -46,4 +46,6 @@ $a_{i},b_{i}>0, \quad i=1,2,\dots,n$
 
 $a\parallel b \Longleftrightarrow \frac{a_{1}}{b_{1}}= \frac{a_{2}}{b_{2}} =\dots=\frac{a_{n}}{b_{n}}$
 
-设 $$
+设 $x=(x_{1},x_{2}, \dots,x_{n}) \quad y=(y_{1},y_{2}, \dots, y_{n})$
+
+定义 $x \cdot y\implied$
