@@ -25,3 +25,5 @@ $-x=(-1)x \quad x-y=x+(-y)$
 
 设 $\alpha ,\beta \in \mathbb{R}, \quad x, y \in \mathbb{R}^n$
 
+$\alpha x+ \beta y$ 是 $x, y$ 的**线性组合**
+
