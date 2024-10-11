@@ -32,3 +32,7 @@ $\alpha x+ \beta y$ 是 $x, y$ 的**线性组合**
 称 $x, y$ **线性相关**，否则称 $x, y$ **线性无关**（独立）
 
 如果 $x, y$ 线性相关，又称 $x \parallel y$ 或共线
+
+$\mathbf{0} \parallel x, \quad \forall x \in \mathbb{R}^n$
+
+设 $x, y \neq 0, \quad x \parallel y \Longl$
