@@ -66,4 +66,4 @@ $x$ 的长度（模，2-范数）
 5. $\forall \alpha \in \mathbb{ R}, x \in \mathbb{R}^n, \; |\alpha x| = |\alpha| |x|$
 6. $\forall x, y\in \mathbb{R}^n, \; |x+y|\leq|x|+|y|$
 
-**命题1**（z
+**命题1**（C
