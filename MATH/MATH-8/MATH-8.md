@@ -52,4 +52,6 @@ $a\parallel b \Longleftrightarrow \frac{a_{1}}{b_{1}}= \frac{a_{2}}{b_{2}} =\dot
 
 运算法则
 
-1. 
+1. $\forall  x \in X, x\cdot x\geq 0, \Leftrightarrow x=0$
+2. $\forall x, y \in \mathbb{R}, x \cdot y =y\cdot x$
+3. $\forall x, y, z, $
