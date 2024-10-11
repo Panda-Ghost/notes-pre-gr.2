@@ -6,4 +6,4 @@ If you've mastered the art of making a simple task seem monumental, you're a pro
 
 If you're known for your last-minute miracles, where you pull all-nighters to finish what could have been done days ago, you're a procrastinator. If your friends and family have learned to expect your calls for help when the deadline is near, you're a procrastinator. If you've ever felt a sense of pride in your ability to work under pressure, even though it's a pressure you created yourself, you're a procrastinator.
 
-In conclusion, if you habitually postpones tasks or decisions until the deadline is near, you're a procrastinator. And procrastination often causes unnecessary stress and reduces quality of work.
+In conclusion, if you habitually postpones tasks or decisions until the deadline is near, you're a procrastinator. And procrastination often causes unnecessary stress and reduces quality of work. 
