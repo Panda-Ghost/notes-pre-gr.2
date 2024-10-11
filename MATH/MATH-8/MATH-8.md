@@ -1,3 +1,6 @@
 # MATH-8
 
-Inwqualities
+Inequalities Hardy Little Cambridge
+
+## 不等式
+
