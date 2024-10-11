@@ -82,5 +82,5 @@ $$
 \left( \sum_{i=1}^n a_{i}b_{i} \right)^2\leq \left( \sum_{i=1}^n a_{i}^2 \right)\left( \sum_{i=1}^n b_{i} ^{2}\right)
 $$
 
-"="成立当且仅当 $\frac{a_{1}}{b_{1}}=\frac{a_{2}}{b_{2}}=\dots=\frac{a_{n}}{b_{n}}$
+"=" 成立当且仅当 $\frac{a_{1}}{b_{1}}=\frac{a_{2}}{b_{2}}=\dots=\frac{a_{n}}{b_{n}}$
 
