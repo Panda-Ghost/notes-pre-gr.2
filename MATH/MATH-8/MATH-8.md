@@ -76,4 +76,8 @@ $|x\cdot y |\leq|x| |y|$
 
 **命题2**（Cauchy）
 
-设 $a_{i}, b_{}$
+设 $a_{i}, b_{i}>0, \; i=1,2,\dots,n$
+
+$$
+\left( \sum_{i=1}^n a_{i}b_{i} \right)^2\leq \left( \sum_{i=1}^n a_{i}^2 \right)\left( \sum \right)
+$$
