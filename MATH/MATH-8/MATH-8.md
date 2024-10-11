@@ -58,4 +58,8 @@ $a\parallel b \Longleftrightarrow \frac{a_{1}}{b_{1}}= \frac{a_{2}}{b_{2}} =\dot
 
 设 $x=(x_{1},x_{2},\dots,x_{n})$
 
-$|x| =\sqrt{  }$
+$|x| =\sqrt{ x \cdot x }=\left( \sum_{i=1}^n  x_{i}^2\right)^{\frac{1}{2}}$
+
+$x$ 的长度（模，2-范数）
+
+1. $\forall x \in \mathbb{R}$
