@@ -87,9 +87,9 @@ $$
 拉格朗日恒等式
 
 $$
-\\begin{aligend}
+\begin{aligned}
 
-\end{aligend}
-\left( \sum_{i=1}^n a_{i}^{2} \right)\left( \sum_{i=1}^n b_{i}^2 \right)-\left( \sum_{i=1}^n a_{i}b_{i} \right)^{2}\\
-&=
+&\left( \sum_{i=1}^n a_{i}^{2} \right)\left( \sum_{i=1}^n b_{i}^2 \right)-\left( \sum_{i=1}^n a_{i}b_{i} \right)^{2}\\
+=&\frac{1}{2}\sum_{i=1}^n \sum_{j=1}^n\left(a_{i}\right)
+\end{aligned}
 $$
