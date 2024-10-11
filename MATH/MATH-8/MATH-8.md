@@ -7,5 +7,5 @@
 $n$ 维欧氏空间
 
 $$
-\mathbb{R}
+\mathbb{R}^n=\{ (x_{1},x_{2},\dots, x_{n}) \mid x_{i}\in \mathbb{R}}\}
 $$
