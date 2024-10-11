@@ -63,4 +63,5 @@ $|x| =\sqrt{ x \cdot x }=\left( \sum_{i=1}^n  x_{i}^2\right)^{\frac{1}{2}}$
 $x$ 的长度（模，2-范数）
 
 1. $\forall x \in \mathbb{R}^n, \; |x| \geq 0, \text{"="},\; x=\mathbf{0}$
-2. $\forall \alpha \in \mathbb{ R}, x$
+2. $\forall \alpha \in \mathbb{ R}, x \in \mathbb{R}^n, \; |\alpha x| = |\alpha| |x|$
+3. $\forall x, y\in \mathbb{R}^n, \; |x+y|\leq|x|+|y|$
