@@ -8,6 +8,6 @@ If you're known for your last-minute miracles, where you pull all-nighters to fi
 
 If you're always running out of time, but never out of excuses, you're a procrastinator. If you're the person who always has a great idea for next time, but never follows through this time, you're a procrastinator. If you're the master of lost opportunities, not because you can't do it, but because you didn't do it, you're a procrastinator.
 
-In conclusion,
+In conclusion, if you habitually postpones tasks or decisions until the deadline is near
 
 A procrastinator is someone who habitually postpones tasks or decisions until the deadline is near, often causing unnecessary stress and reduced quality of work.
