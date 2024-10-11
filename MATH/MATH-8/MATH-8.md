@@ -79,5 +79,7 @@ $|x\cdot y |\leq|x| |y|$
 设 $a_{i}, b_{i}>0, \; i=1,2,\dots,n$
 
 $$
-\left( \sum_{i=1}^n a_{i}b_{i} \right)^2\leq \left( \sum_{i=1}^n a_{i}^2 \right)\left( \sum \right)
+\left( \sum_{i=1}^n a_{i}b_{i} \right)^2\leq \left( \sum_{i=1}^n a_{i}^2 \right)\left( \sum_{i=1}^n b_{i} ^{2}\right)
 $$
+
+"="成立当且仅当 
