@@ -27,8 +27,7 @@ $-x=(-1)x \quad x-y=x+(-y)$
 
 $\alpha x+ \beta y$ 是 $x, y$ 的**线性组合**
 
-设 $x, y \in \mathbb{R}^n$ 如果 $\exists \alpha, \beta \in \mathbb{R}, \alpha^2+\beta^{2}\neq 0$ 使得
+设 $x, y \in \mathbb{R}^n$ 如果 $\exists \alpha, \beta \in \mathbb{R}, \alpha^2+\beta^{2}\neq 0$ 使得 $\alpha x+\beta y = 0 \in \mathbb{R}^n$
 
-$\alpha x+\beta y = 0 \in \mathbb{R}^n$
+称 $x, y$ **线性相关**，否则称 $x, y$ **线性无关**（独立）
 
-称 $x, y$ 线性xiang guang
