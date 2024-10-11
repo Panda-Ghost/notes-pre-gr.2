@@ -11,6 +11,3 @@ If you're always running out of time, but never out of excuses, you're a procras
 In conclusion, if you habitually postpones tasks or decisions until the deadline is near, you're a procrastinator. And procrastination often causes unnecessary stress and reduces quality of work. To conquer it, start small, believe in yourself, and take action—one step at a time. You can do it! 
 
 Thank you.
-
-A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
-Helloworld abcdefghijklmnopq
