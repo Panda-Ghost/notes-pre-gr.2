@@ -74,3 +74,6 @@ $|x\cdot y |\leq|x| |y|$
 
 "=" 成立当且仅当 $x\parallel y$
 
+**命题2**（Cauchy）
+
+设 $a_{i}, b_{}$
