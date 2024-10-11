@@ -37,4 +37,6 @@ $\mathbf{0} \parallel x, \quad \forall x \in \mathbb{R}^n$
 
 设 $x, y \neq 0, \; x \parallel y \Longleftrightarrow \exists k \in \mathbb{R}, \text{ s.t. } y=kx$
 
-$y=kx, \; k>0$：
+- $y=kx, \; k>0$：同向
+- $y=kx,\; k<0$：反向
+
