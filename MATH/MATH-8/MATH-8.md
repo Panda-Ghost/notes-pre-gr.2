@@ -21,4 +21,4 @@ $$
 
 $-x=(-1)x \quad x-y=x+(-y)$
 
-
+记 $\mathbf{0}=(0,0,\dots, 0) \in \mathbb{R}^n$
