@@ -48,4 +48,8 @@ $a\parallel b \Longleftrightarrow \frac{a_{1}}{b_{1}}= \frac{a_{2}}{b_{2}} =\dot
 
 设 $x=(x_{1},x_{2}, \dots,x_{n}) \quad y=(y_{1},y_{2}, \dots, y_{n})$
 
-定义 $x \cdot y = <x, y> := \sum_{i=1}^n x_{i} y_{i}$
+定义 $x \cdot y = \langle x, y \rangle := \sum_{i=1}^n x_{i} y_{i}$
+
+运算法则
+
+1. 
