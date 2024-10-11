@@ -52,6 +52,7 @@ $a\parallel b \Longleftrightarrow \frac{a_{1}}{b_{1}}= \frac{a_{2}}{b_{2}} =\dot
 
 运算法则
 
-1. $\forall  x \in \mathbb{R}^n, x\cdot x\geq 0, \Leftrightarrow x=0$
+1. $\forall  x \in \mathbb{R}^n, x\cdot x\geq 0, \text{"="} \Leftrightarrow x=0$
 2. $\forall x, y \in \mathbb{R}^n, x \cdot y =y\cdot x$
-3. $\forall x, y, z \in \mathbb{R}^n, \alpha, \beta \in \mathbb{R}, \langle <$
+3. $\forall x, y, z \in \mathbb{R}^n, \alpha, \beta \in \mathbb{R}, \langle \alpha x +\beta y , z\rangle=\alpha \langle x, z\rangle + \beta \langle y, z\rangle$
+4. 
