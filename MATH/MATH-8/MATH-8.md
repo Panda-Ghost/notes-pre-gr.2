@@ -40,4 +40,8 @@ $\mathbf{0} \parallel x, \quad \forall x \in \mathbb{R}^n$
 - $y=kx, \; k>0$：同向
 - $y=kx,\; k<0$：反向
 
-设 $a=(a_{1},a_{2},\dots,a_{n})$
+设 $a=(a_{1},a_{2},\dots,a_{n}) \quad b=(b_{1}, b_{2},\dots,b_{n})$
+
+$a_{i},b_{i}>0, \quad i=1,2,\dots,n$
+
+$a\parallel b \Longleftright$
