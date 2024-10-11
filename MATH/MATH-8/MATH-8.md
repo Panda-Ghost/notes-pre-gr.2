@@ -66,4 +66,10 @@ $x$ 的长度（模，2-范数）
 5. $\forall \alpha \in \mathbb{ R}, x \in \mathbb{R}^n, \; |\alpha x| = |\alpha| |x|$
 6. $\forall x, y\in \mathbb{R}^n, \; |x+y|\leq|x|+|y|$
 
-**命题1**（C
+**命题1**（Cauchy）
+
+设 $x, y\in \mathbb{R}^n$，则
+
+$|x\cdot y |\leq|x| |y|$
+
+"=" 成立当且仅当 $x$
