@@ -12,4 +12,4 @@
 
 令 $s=\inf A, \; t=-s$ 则 $\forall x \in A, \; s\leq x$ 
 
-故 $for$
+故
