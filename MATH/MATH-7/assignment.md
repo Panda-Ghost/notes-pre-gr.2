@@ -22,4 +22,6 @@
 
 则 $-u>s$ 
 
-dui yu
+对于所有 $x \in A$ 则 $-x \in -A$，由 $u\geq-x$ 可知 $-u\leq x$
+
+故 $-u$
