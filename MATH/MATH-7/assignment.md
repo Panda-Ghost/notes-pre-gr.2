@@ -4,4 +4,6 @@
 
 令 $n=-m$ 则 $n \in -A$
 
-对于所以 $y\in -A$ 
+对于所以 $y\in -A$ 存在 $x \in A$ 且 $y=-x$，由 $x\geq m$ 可知 $y \leq n$
+
+故 m
