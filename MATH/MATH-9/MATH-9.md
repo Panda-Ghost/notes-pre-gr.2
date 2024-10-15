@@ -35,3 +35,6 @@ $$
 $$
 \lambda_{1}a_{1}+\lambda_{2}a_{2}+\dots+\lambda_{n}a_{n}\geq a_{1}^{\lambda_{1}}a_{2}^{\lambda_{2}}\dots a_{n}^{\lambda_{n}}
 $$
+
+"=" 成立当且仅当 $a_{1}=a_{2}=\dots=a_{n}$
+
