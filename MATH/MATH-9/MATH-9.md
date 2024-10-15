@@ -68,4 +68,8 @@ $x$ 的 $p-$范数
 
 **定理1**（Hölder 不等式）
 
-设 $\alpha,\beta >0, \; \alpha +$
+设 $\alpha,\beta >0, \; \alpha + \beta =1$ 设 $a_{i}, b_{i}>0, \; i=1, 2, \dots , n$ 则
+
+$$
+\sum_{i=1}^{n}a_{i}^{\alpha}b_{i}^{\beta}
+$$
