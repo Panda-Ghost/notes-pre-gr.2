@@ -49,3 +49,14 @@ $$
 "=" 成立当且仅当 $x^{p}=y^{q}$
 
 设 $x \in \mathbb{R}^n$
+
+$$
+x = (x_{1},x_{2}, \dots , x_{n})
+$$
+
+设 $p>1$ 定义
+
+$$
+|x|_{p}=\left( \sum_{i=1}^n |x_{i}|^{p} \right)^{\frac 1p}
+$$
+m k
