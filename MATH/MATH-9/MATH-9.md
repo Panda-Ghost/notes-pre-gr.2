@@ -64,4 +64,4 @@ $x$ 的 $p-$范数
 1. $|x|_{p}\geq 0$, “=” 当且仅当 $x=0$
 2. $|kx|_{p}=|k||x|_{p}, \; \forall k \in \mathbb{R}$
 3. $|x\cdot y|\leq|x|_{p}|y|_{q}, \; p,q > 0, \; \frac{1}{p}+\frac{1}{q}=1$
-4. $|x+y|_{p}\leq |$
+4. $|x+y|_{p}\leq |x|_{p}+|y|_{p}$
