@@ -19,5 +19,7 @@ $|x+y|^{2}=|x|^{2}+2x\cdot y+|y|^{2} \leq |x|^{2}+2|x| |y|+|y|^{2}=(|x|+|y|)^{2}
 设 $a_{i}>0, \; i = 1,2, \dots , n$ 则
 
 $$
-\frac{a_{1}+a_{2}+\dots+a_{n}}{n}\geq ^n\sqrt{ a_{1}a_{2}\dots a_{n} }
+\frac{a_{1}+a_{2}+\dots+a_{n}}{n}\geq \sqrt[n]{ a_{1}a_{2}\dots a_{n} }
 $$
+
+"=" 成立当且仅当 $a_{1}=a_{2}=\dots =a_{}$
