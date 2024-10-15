@@ -40,4 +40,8 @@ $$
 
 **定理3**（Young 不等式）
 
-设 $p, q>0, \; \frac{1}{p}+\frac{1}{q}=1$ 
+设 $p, q>0, \; \frac{1}{p}+\frac{1}{q}=1$ 则
+
+$$
+\frac{x^p}{p}+\frac{y^{q}}{q}\geq xy,\quad \forall x, y,>0
+$$
