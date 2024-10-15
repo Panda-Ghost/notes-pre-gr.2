@@ -43,5 +43,7 @@ $$
 设 $p, q>0, \; \frac{1}{p}+\frac{1}{q}=1$ 则
 
 $$
-\frac{x^p}{p}+\frac{y^{q}}{q}\geq xy,\quad \forall x, y,>0
+\frac{x^p}{p}+\frac{y^{q}}{q}\geq xy,\quad \forall x, y>0
 $$
+
+"=" 成立当且仅当 $x^{p}=y^{q}$
