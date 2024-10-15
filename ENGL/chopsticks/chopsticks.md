@@ -12,3 +12,6 @@ out the outer stick like a pencil
 
 only open the outer stick 
 
+keeping the inner stick steady
+
+now go to eat
