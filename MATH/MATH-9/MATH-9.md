@@ -82,8 +82,13 @@ $$
 
 $$
 \begin{aligned}
-
-\end{aligned}
 \sum_{i=1}^{n}a_{i}b_{i}\leq\left( \sum_{i=1}^{n}a_{i}^{r} \right)^{1/r}\left( \sum_{i=1}^{n}b_{i}^{s} \right)^{1/s}, \quad r>1 \\
-\sum_{i=1}^{n}a_{i}b_{i}\leq\left( \sum_{i=1}^{n}a_{i}^{r} \right)^{1/r}\left( \sum_{i=1}^{n}b_{i}^{s} \right)^{1/s}, \quad r<1
+\sum_{i=1}^{n}a_{i}b_{i}\geq\left( \sum_{i=1}^{n}a_{i}^{r} \right)^{1/r}\left( \sum_{i=1}^{n}b_{i}^{s} \right)^{1/s}, \quad r<1
+\end{aligned}
+$$
+
+“=” 成立当且仅当
+
+$$
+a_{1}^{r}
 $$
