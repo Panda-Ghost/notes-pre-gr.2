@@ -76,3 +76,6 @@ $$
 
 "=" 成立当且仅当 $\frac{a_{1}}{b_{1}}=\frac{a_{2}}{b_{2}}=\dots=\frac{a_{n}}{b_{n}}$
 
+**定理2**
+
+设 $r,s \in \mathbb{R}, \; \frac{1}{r}+\frac{1}{s}=1$ 设 $a_{i},b_{i}>0, \; i=1,2,\dots,n$ ze
