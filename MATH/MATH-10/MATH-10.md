@@ -53,5 +53,11 @@ $$
 “=” 成立条件
 
 $$
-\left|
+\left\{
+\begin{aligned}
+\frac{(a_{1}+b_{1})^{r}}{a_{1}^{r}}=\dots=\frac{(a_{n}+b_{n})^{r}}{a_{i}^{r}}
+\\
+\frac{(a_{1}+b_{1})^{r}}{a_{1}^{r}}=\dots=\frac{(a_{n}+b_{n})^{r}}{a_{i}^{r}}
+\end{aligned}
+\right.
 $$
