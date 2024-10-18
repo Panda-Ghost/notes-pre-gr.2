@@ -39,6 +39,6 @@ $$
 \\
 &=\sum_{i=1}^{n}(a_{i}+b_{i})^{r-1}a_{i}+\sum_{i=1}^{n} (a_{i}+b_{i})^{r-1} b_{i}
 \\
-&\leq \left( \sum_{i=1}^{n}\left((a_{i}+b_{i})^{r-1}\right)^{\frac{r}{r-1}} \right)^{\frac{r-1}{r}}\left( \sum_{i=1}^{n}a_{i}^{r} \right)^{\frac 1r}
+&\leq \left( \sum_{i=1}^{n}\left((a_{i}+b_{i})^{r-1}\right)^{\frac{r}{r-1}} \right)^{\frac{r-1}{r}}\left( \sum_{i=1}^{n}a_{i}^{r} \right)^{\frac 1r}+\left( \sum_{i=1}^{n}b_{i}^{r} \right)^{\frac 1r}]
 \end{aligned}
 $$
