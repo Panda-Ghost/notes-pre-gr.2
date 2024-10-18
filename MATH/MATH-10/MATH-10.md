@@ -137,7 +137,7 @@ $$
 \\
 &\leq \sum_{i=1}^{n}|\hat{x_{i}}\hat{y_{i}}|
 \\
-&\leq
+&\leq \sum_{i=1}^{n}()
 \end{aligned}
 
 $$
