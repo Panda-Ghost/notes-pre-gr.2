@@ -125,5 +125,12 @@ $x$ 的 $\infty-$范数
 
 设 $x,y\neq {0}$ 令
 
-$\hat{x}=\frac{x}{|x|_{p}} \quad |\hat{x}|_{p}=1$
+$\hat{x}=\frac{x}{|x|_{p}} \implies |\hat{x}|_{p}=1$
 
+$\hat{y}=\frac{y}{|y|_{q}}\implies |\hat{y}|_{q}=1$
+
+只需证 $|\hat{x}\cdot\hat{y}|\leq 1$
+
+$$
+
+$$
