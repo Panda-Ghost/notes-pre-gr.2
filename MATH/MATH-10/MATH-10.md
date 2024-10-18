@@ -22,7 +22,7 @@ $$
 \left( \sum_{i=1}^{n} a_{i}^{r} \right)^{1/r}+\left( \sum_{i=1}^{n}b_{i}^{r} \right)^{1/r},  \quad r>1
 \\
 \left( \sum_{i=1}^{n} (a_{i}+b_{i})^{r} \right)^{1/r}\geq
-\left( \sum_{i=1}^{n} a_{i}^{r} \right)^{1/r}+\left( \sum_{i=1}^{n}b_{i}^{r} \right)^{1/r},  \quad r>1
+\left( \sum_{i=1}^{n} a_{i}^{r} \right)^{1/r}+\left( \sum_{i=1}^{n}b_{i}^{r} \right)^{1/r},  \quad r<1
 
 \end{aligned}
 $$
