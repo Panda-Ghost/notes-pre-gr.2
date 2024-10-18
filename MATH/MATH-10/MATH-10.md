@@ -122,3 +122,8 @@ $x$ 的 $\infty-$范数
 4. $\forall x, y \in \mathbb{R}^{n}, \; 1<p,q<\infty, \; \frac{1}{p}+\frac{1}{q}=1$ 或 $p=1,q=\infty$ 则 $|x\cdot y|\leq|x|_{p}|y|_{q}$
 
 **证明**
+
+设 $x,y\neq {0}$ 令
+
+$\hat{x}=\frac{x}{|x|_{p}} \quad |\hat{x}|_{p}=1$
+
