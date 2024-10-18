@@ -10,4 +10,8 @@ $\left( \sum_{i=1}^{n}a_{i}^{r} \right)^{1/r}$ 称为**幂平均**
 
 Cauchy不等式的推广
 
-## Minkowski
+## Minkowski不等式
+
+**定理1**（Minkowski）
+
+s
