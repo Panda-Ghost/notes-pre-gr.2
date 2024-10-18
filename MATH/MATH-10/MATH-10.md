@@ -31,7 +31,7 @@ $$
 
 **证明**（使用Hölder不等式）
 
-1. $r>1$
+1. $r>1$（$r<1$ to）
 
 $$
 \begin{aligned}
@@ -44,6 +44,7 @@ $$
 &=\left( \sum_{i=1}^{n}(a_{i}+b_{i})^{r} \right)^{\frac{r-1}{r}}\left[\left( \sum_{i=1}^{n}a_{i}^{r} \right)^{\frac 1r}+\left( \sum_{i=1}^{n}b_{i}^{r} \right)^{\frac 1r} \right]
 \\
 \implies
-\left( \sum_{i=1}^{n}(a_{i}+b_{i})^{r} \right)^{1/r}&\leq \left( \sum_{i=1}^{n}a_{i}^{r} \right)^{1/r}+\left( \sum_{i=} \right)
+\left( \sum_{i=1}^{n}(a_{i}+b_{i})^{r} \right)^{1/r}&\leq \left( \sum_{i=1}^{n}a_{i}^{r} \right)^{1/r}+\left( \sum_{i=1}^{n}b_{i}^{r} \right)^{1/r}
 \end{aligned}
 $$
+
