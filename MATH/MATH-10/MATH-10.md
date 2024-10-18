@@ -107,5 +107,8 @@ $$
 定义
 
 $$
-|x|_{\infty}
+|x|_{\infty}=\max_{i=1\sim n} |x_{i}|
 $$
+
+$x$ 的 $\infty-$范数
+
