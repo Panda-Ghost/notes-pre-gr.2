@@ -34,5 +34,6 @@ $$
 1. $r>1$
 
 $$
-\sum_{i=1}^{n}(a_{i}+b_{i})^{r}=\sum_{i=1}^{n} (a_{i}+b_{i})^{r-1}(a_{i}+b_{i})=\sum_{i=1}^{n}(a_{i}+b_{i})^{r-1
+\begin{aligned}
+\sum_{i=1}^{n}(a_{i}+b_{i})^{r}=\sum_{i=1}^{n} (a_{i}+b_{i})^{r-1}(a_{i}+b_{i})=\sum_{i=1}^{n}(a_{i}+b_{i})^{r-1}a_{i}+\sum_{i=1}^{n} (a_{i}+b_{i})^{r-1} b_{i}
 $$
