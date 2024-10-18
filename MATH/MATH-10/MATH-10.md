@@ -132,5 +132,8 @@ $\hat{y}=\frac{y}{|y|_{q}}\implies |\hat{y}|_{q}=1$
 只需证 $|\hat{x}\cdot\hat{y}|\leq 1$
 
 $$
+\begin{aligned}
+|\hat{x}\cdot \hat{y} | &= \left|\sum x_{i}\hat{}\right|
+\end{aligned}
 
 $$
