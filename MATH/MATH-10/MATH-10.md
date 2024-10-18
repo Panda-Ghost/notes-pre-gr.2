@@ -14,4 +14,8 @@ Cauchy不等式的推广
 
 **定理1**（Minkowski）
 
-设 $r\in \mathbb{R}, \; a_{i}, b_{i} > 0, \; i = 1, 2, \dots , n$
+设 $r\in \mathbb{R}, \; a_{i}, b_{i} > 0, \; i = 1, 2, \dots , n$ 则
+
+$$
+\left( \sum_{i=1}^{n} (a_{i}+b_{i}) \right)
+$$
