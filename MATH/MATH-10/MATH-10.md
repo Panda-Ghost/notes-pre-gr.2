@@ -112,3 +112,8 @@ $$
 
 $x$ 的 $\infty-$范数
 
+**命题1**
+
+设 $1\leq p\leq \infty$ 则
+
+1. $\forall x \in \mathbb{R}^{n}, \; |x|_{p}\geq 0$，“=”
