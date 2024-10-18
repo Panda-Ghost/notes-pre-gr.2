@@ -89,6 +89,6 @@ $$
 =&\left( \sum_{i=1}^{n}\left(\alpha_{i}^{1/r}(a_{i}+b_{i})\right)^{r} \right)^{1/r}
 \\
 \leq&
-\left( \sum_{i=1}^{n} \alpha_{i} a_{i}^{r} \right)^{1/r}+\left( \sum_{i=1}^{n}\alpha _{i}b_{i}^{r} \right)^{1/r}
+\left( \sum_{i=1}^{n} \left(\alpha_{i}^{1/r} a_{i}\right)^{r} \right)^{1/r}+\left( \sum_{i=1}^{n}\left(\alpha _{i}^{1/r}b_{i}\right)^{r} \right)^{1/r}
 \end{aligned}
 $$
