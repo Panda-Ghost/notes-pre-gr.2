@@ -118,5 +118,5 @@ $x$ 的 $\infty-$范数
 
 1. $\forall x \in \mathbb{R}^{n}, \; |x|_{p}\geq 0$，“=”成立当且仅当 $x=\mathbf{0}$
 2. $\forall x \in \mathbb{R}^{n}, \;|kx|_{p}=|k||x|_{p}, \; \forall k \in \mathbb{R}$
-3. $\forall x, y \in \mathbb{R}^{n}, \; |x\cdot y|\leq|x|_{p}|y|_{q}, \; p,q > 0, \; \frac{1}{p}+\frac{1}{q}=1$
-4. $|x+y|_{p}\leq |x|_{p}+|y|_{p}$
+3. $\forall x,y \in \mathbb{R}^{n}, \; |x+y|_{p}\leq |x|_{p}+|y|_{p}$
+4. $\forall x, y \in \mathbb{R}^{n}, \; |x\cdot y|\leq|x|_{p}|y|_{q}, \; 1<p,q<\infty, \; \frac{1}{p}+\frac{1}{q}=1$
