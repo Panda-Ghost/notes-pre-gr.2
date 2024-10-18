@@ -66,4 +66,9 @@ $$
 
 **定理2**（加权的Minkowski不等式）
 
-设 $r\in \mathbb{R}, \; \alpha_{i}>0, \; \sum_{i=1}^{n}\alpha_{i}=1, \; a_{i},b_{i}$
+设 $r\in \mathbb{R}, \; \alpha_{i}>0, \; \sum_{i=1}^{n}\alpha_{i}=1, \; a_{i},b_{i}>0, \; i=1,2,\dots,n$
+
+$$
+\left( \sum_{i=1}^{n}\alpha_{i}(a_{i}+b_{i})^{r} \right)^{1/r}\leq
+
+$$
