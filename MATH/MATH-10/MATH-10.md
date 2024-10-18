@@ -99,5 +99,13 @@ $$
 设 $1\leq p<\infty$ 定义
 
 $$
-||x||_{p}=\left( \sum_{i=1}^{n}|x_{i}|^{p} \right)^{1/p}, \quad x
+|x|_{p}=\left( \sum_{i=1}^{n}|x_{i}|^{p} \right)^{1/p}
+$$
+
+称作 $x$ 的 $p-$范数
+
+定义
+
+$$
+|x|_{\infty}
 $$
