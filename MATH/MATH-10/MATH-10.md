@@ -121,7 +121,7 @@ $x$ 的 $\infty-$范数
 3. $\forall x,y \in \mathbb{R}^{n}, \; |x+y|_{p}\leq |x|_{p}+|y|_{p}$
 4. $\forall x, y \in \mathbb{R}^{n}, \; 1<p,q<\infty, \; \frac{1}{p}+\frac{1}{q}=1$ 或 $p=1,q=\infty$ 则 $|x\cdot y|\leq|x|_{p}|y|_{q}$
 
-**证明**
+**证明**(4)
 
 设 $x,y\neq {0}$ 令
 
