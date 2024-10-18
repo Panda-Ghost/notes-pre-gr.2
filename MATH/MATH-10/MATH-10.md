@@ -98,4 +98,6 @@ $$
 
 设 $1\leq p<\infty$ 定义
 
-d m
+$$
+||x||_{p}=\left( \sum_{i=1}^{n}|x_{i}|^{p} \right)^{1/p}, \quad x
+$$
