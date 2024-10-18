@@ -23,6 +23,9 @@ $$
 \\
 \left( \sum_{i=1}^{n} (a_{i}+b_{i})^{r} \right)^{1/r}\geq
 \left( \sum_{i=1}^{n} a_{i}^{r} \right)^{1/r}+\left( \sum_{i=1}^{n}b_{i}^{r} \right)^{1/r},  \quad r>1
-$$
 
 \end{aligned}
+$$
+
+“=” 成立当且仅当 $\frac{a_{1}}{b_{1}}=\frac{a_{2}}{b_{2}}=\dots=\frac{a_{n}}{b_{n}}$
+
