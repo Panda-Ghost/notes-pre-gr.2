@@ -83,7 +83,9 @@ $$
 **证明**
 
 $$
-\begin{}
-
-\end{}
+\begin{aligned}
+&\left( \sum_{i=1}^{n}\alpha_{i}(a_{i}+b_{i})^{r} \right)^{1/r}
+\\
+=&\left( \sum_{i=1}^{n}(\alpha_{i}^{1/r}(a_{i}+b_{i}))^{r} \right)^{1/r}
+\end{aligned}
 $$
