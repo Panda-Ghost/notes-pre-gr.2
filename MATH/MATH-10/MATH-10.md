@@ -69,6 +69,12 @@ $$
 设 $r\in \mathbb{R}, \; \alpha_{i}>0, \; \sum_{i=1}^{n}\alpha_{i}=1, \; a_{i},b_{i}>0, \; i=1,2,\dots,n$
 
 $$
+\begin{aligned}
 \left( \sum_{i=1}^{n}\alpha_{i}(a_{i}+b_{i})^{r} \right)^{1/r}\leq
 \left( \sum_{i=1}^{n} \alpha_{i} a_{i}^{r} \right)^{1/r}+\left( \sum_{i=1}^{n}\alpha _{i}b_{i}^{r} \right)^{1/r}, \quad r>1
+\\
+\left( \sum_{i=1}^{n}\alpha_{i}(a_{i}+b_{i})^{r} \right)^{1/r}\geq
+\left( \sum_{i=1}^{n} \alpha_{i} a_{i}^{r} \right)^{1/r}+\left( \sum_{i=1}^{n}\alpha _{i}b_{i}^{r} \right)^{1/r}, \quad r<1
+\end{aligned}
 $$
+
