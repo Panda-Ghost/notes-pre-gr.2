@@ -17,7 +17,12 @@ Cauchy不等式的推广
 设 $r\in \mathbb{R}, \; a_{i}, b_{i} > 0, \; i = 1, 2, \dots , n$ 则
 
 $$
+\begin{aligned}
 \left( \sum_{i=1}^{n} (a_{i}+b_{i})^{r} \right)^{1/r}\leq
 \left( \sum_{i=1}^{n} a_{i}^{r} \right)^{1/r}+\left( \sum_{i=1}^{n}b_{i}^{r} \right)^{1/r},  \quad r>1
-
+\\
+\left( \sum_{i=1}^{n} (a_{i}+b_{i})^{r} \right)^{1/r}\geq
+\left( \sum_{i=1}^{n} a_{i}^{r} \right)^{1/r}+\left( \sum_{i=1}^{n}b_{i}^{r} \right)^{1/r},  \quad r>1
 $$
+
+\end{aligned}
