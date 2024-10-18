@@ -137,7 +137,9 @@ $$
 \\
 &\leq \sum_{i=1}^{n}|\hat{x_{i}}\hat{y_{i}}|
 \\
-&\leq \sum_{i=1}^{n}()
+&\leq \sum_{i=1}^{n}\left(\frac{1}{p}|\hat{x_{i}}|^{p}+\frac{1}{q}|\hat{y_{i}}|^{q}\right)
+\\
+&=\frac{1}{p}+\frac{1}{q}=1
 \end{aligned}
-
 $$
+
