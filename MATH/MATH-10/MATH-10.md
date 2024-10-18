@@ -78,3 +78,5 @@ $$
 \end{aligned}
 $$
 
+“=” 成立当且仅当 $\frac{a_{1}}{b_{1}}=\frac{a_{2}}{b_{2}}=\dots=\frac{a_{n}}{b_{n}}$
+
