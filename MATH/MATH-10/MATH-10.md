@@ -133,7 +133,11 @@ $\hat{y}=\frac{y}{|y|_{q}}\implies |\hat{y}|_{q}=1$
 
 $$
 \begin{aligned}
-|\hat{x}\cdot \hat{y} | &= \left|\sum x_{i}\hat{}\right|
+|\hat{x}\cdot \hat{y} | &= \left|\sum_{i=1}^{n}\hat{x_{i}} \hat{y_{i}}\right|
+\\
+&\leq \sum_{i=1}^{n}|\hat{x_{i}}\hat{y_{i}}|
+\\
+&\leq
 \end{aligned}
 
 $$
