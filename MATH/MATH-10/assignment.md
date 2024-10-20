@@ -18,5 +18,5 @@ $$
 其中
 
 $$
-g'(\lambda)=()
+g'(\lambda)=\frac{(\sqrt{ \lambda }-1)^{2}}{2\lambda \sqrt{ \lambda }}\geq 0
 $$
