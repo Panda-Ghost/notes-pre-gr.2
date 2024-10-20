@@ -9,8 +9,14 @@ $$
 
 \begin{aligned}
 &g(1)=0 \\
-&g'(\lambda)>0, \quad \forall \lambda \in [ 1, +\infty)
+&g'(\lambda)\geq0, \quad \forall \lambda \in [ 1, +\infty)
 \end{aligned}
 \right.
 \end{aligned}
+$$
+
+其中
+
+$$
+g'(\lambda)=
 $$
