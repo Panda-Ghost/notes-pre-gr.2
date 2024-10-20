@@ -20,3 +20,5 @@ $$
 $$
 g'(\lambda)=\frac{(\sqrt{ \lambda }-1)^{2}}{2\lambda \sqrt{ \lambda }}\geq 0
 $$
+
+而 $g(1)=0$ 是显然的，故得证
