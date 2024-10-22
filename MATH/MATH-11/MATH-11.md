@@ -67,3 +67,4 @@ $M=\max_{1\leq i\leq n} a_{i}$
 
 则 $m_{r}(a)=\left( \sum_{i=1}^{n}g_{i}a_{i}^{r} \right)^{1/r}\leq M$
 
+$m_{r}(a)\geq(g_{\alpha}a_{\alpha}^{r})^{1/r}=g_{\alpha}^{1/r}M$
