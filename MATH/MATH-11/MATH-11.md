@@ -110,3 +110,10 @@ $m_{-\infty}=\lim_{ r \to -\infty }m_{r}(a)=\min a$
 
 $[-\infty, +\infty]=\mathbb{R} \cup\{-\infty, +\infty  \}$ **广义实数集**
 
+**定理1**
+
+设 $-\infty\leq r<s\leq +\infty$ 则
+
+$$
+m_{r}(a)\le
+$$
