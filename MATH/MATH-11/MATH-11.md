@@ -142,4 +142,5 @@ m_{r}(a)=&\left( \sum q_{i} a_{i}^{r} \right)^{1/r} \\
 \end{aligned}
 $$
 
-step4. 设 $r>0$，zhe
+step4. 设 $r>0$，这 $G(a)=m_{0}(a)<m_{r}(a)$
+
