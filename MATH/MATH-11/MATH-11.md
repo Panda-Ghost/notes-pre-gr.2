@@ -47,3 +47,4 @@ $$
 m_{r}(a)\leq m_{s}(a), \quad r\leq s
 $$
 
+$\frac{1}{a}=\left( \frac{1}{a_{1}} \right)$
