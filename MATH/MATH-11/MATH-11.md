@@ -63,4 +63,7 @@ $M=\max_{1\leq i\leq n} a_{i}$
 
 设 $a_{\alpha}=M$
 
-$m_{r}(a)=\left( \sum_{i=1}^{n}g_{i}a_{i^{r}} \right)$
+设 $r>0$
+
+则 $m_{r}(a)=\left( \sum_{i=1}^{n}g_{i}a_{i}^{r} \right)^{1/r}\leq M$
+
