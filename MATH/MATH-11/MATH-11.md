@@ -136,6 +136,6 @@ $$
 \begin{aligned}
 m_{r}(a)=&\left( \sum q_{i} a_{i}^{r} \right)^{1/r} \\
 =& \left( \sum q_{i}a_{i}^{\alpha s} \right)^{1/r}\\
-=& \left( \sum \right)
+=& \left( \sum (q) \right)
 \end{aligned}
 $$
