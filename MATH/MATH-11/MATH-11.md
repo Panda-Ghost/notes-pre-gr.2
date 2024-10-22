@@ -152,3 +152,4 @@ step6. 设 $-\infty<r<s<0$，证 $m_{r}(a)<m_{s}(a)$
 
 step7. 设 $-\infty<r<0$，证 $m_{-\infty}(a)<m_{r}(a)$
 
+即证
