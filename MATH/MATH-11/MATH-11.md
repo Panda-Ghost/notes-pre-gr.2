@@ -131,3 +131,11 @@ step2. 设 $0<r<+\infty$，证 $m_{r}(a)<m_{+\infty}(a)$
 step3. 设 $0<r<s<+\infty$，证 $m_{r}(a)<m_{s}(a)$
 
 设 $r=\alpha s, \; \alpha \in (0, 1)$
+
+$$
+\begin{aligned}
+m_{r}(a)=&\left( \sum q_{i} a_{i}^{r} \right)^{1/r} \\
+=& \left( \sum q_{i}a_{i}^{\alpha s} \right)^{1/r}\\
+=& 
+\end{aligned}
+$$
