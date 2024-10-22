@@ -115,5 +115,7 @@ $[-\infty, +\infty]=\mathbb{R} \cup\{-\infty, +\infty  \}$ **广义实数集**
 设 $-\infty\leq r<s\leq +\infty$ 则
 
 $$
-m_{r}(a)\le
+m_{r}(a)\leq m_{s}(a)
 $$
+
+“=” 成立当且仅当 $a_{1},a_{2},\dots,a_{n}$ 全相等
