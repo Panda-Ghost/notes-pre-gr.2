@@ -29,4 +29,9 @@ $$
 
 设 $g_{i}>0, \; i=1\sim n, \; \sum_{i=1}^{n}g_{i}=1$
 
-设 $r\in \mathbb{R}$
+设 $r\in \mathbb{R}, \; r\neq 0$
+
+设 $a_{i}>0, \; i=1\sim n, \; a=(a_{1},a_{2},\dots, a_{n})$
+
+定义
+    
