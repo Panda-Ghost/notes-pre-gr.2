@@ -5,3 +5,8 @@
 $$
 |x+y|_{p}\leq |x|_{p}+|y|_{p}, \quad \forall x, y \in \mathbb{R}^n
 $$
+**证明**
+
+$1<p<\infty$
+
+$|x+y|_{p}^{p}=\sum|x_{i}+y_{i}|$
