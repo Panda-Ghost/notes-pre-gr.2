@@ -47,4 +47,7 @@ $$
 m_{r}(a)\leq m_{s}(a), \quad r\leq s
 $$
 
-$\frac{1}{a}=\left( \frac{1}{a_{1}} \right)$
+令 $\frac{1}{a}=\left( \frac{1}{a_{1}}, \frac{1}{a_{2}}, \dots, \frac{1}{a_{n}} \right)$
+
+则有
+$m_{-r}(a)=\frac{1}{m_{r}\left( \frac{1}{a} \right)}$
