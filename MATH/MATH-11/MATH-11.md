@@ -76,3 +76,7 @@ q_{\alpha}^{1/r}M\leq m_{r}(a)\leq M, \quad \forall r>0
 $$
 
 在 $r\to +\infty, \; q_{\alpha}^{1/r}M\to M$
+
+所以得证
+
+**命题2** 当 $r\to - \infty$ shi
