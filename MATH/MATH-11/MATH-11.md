@@ -55,7 +55,11 @@ $$
 m_{-r}(a)=\frac{1}{m_{r}\left( \frac{1}{a} \right)}
 $$
 
-**命题1**
+**命题1** 当 $r\to + \infty, \; m_{r}(a)\to \max_{1\leq i\leq n} a_{i}$
 
-当 $r\to + \infty, \; m_{r}(a)\to \max_{1\leq i\leq n} a_{i}$
+**证** 
+
+$M=\max_{1\leq i\leq n} a_{i}$
+
+设 $a_{\alpha}=M$
 
