@@ -9,4 +9,5 @@ $$
 
 $1<p<\infty$
 
-$|x+y|_{p}^{p}=\sum|x_{i}+y_{i}|^{p}=\sum|x_{i}+y_{i}|^{p-1}|x_{i}+y_{i}|\leq \sum|x_{i}+y_{i}|^{p-1}(|x_{i}|+|y_{i}|)$
+$|x+y|_{p}^{p}=\sum|x_{i}+y_{i}|^{p}=\sum|x_{i}+y_{i}|^{p-1}|x_{i}+y_{i}|\leq \sum|x_{i}+y_{i}|^{p-1}(|x_{i}|+|y_{i}|)=\sum|x_{i}+y_{i}|^{p-1}|x_{i}|+\sum |x_{i}+y_{i}|^{p-1}|y_{i}|
+$$
