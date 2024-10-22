@@ -81,3 +81,4 @@ $$
 
 **命题2** 当 $r\to - \infty, \; m_{r}(a)\to \min_{1\leq i\leq n} a_{i}$
 
+用 $G(a)=a_{1}^{q_{1}}a_{2}^{q_{2}}\dots a_{n}^{n}$
