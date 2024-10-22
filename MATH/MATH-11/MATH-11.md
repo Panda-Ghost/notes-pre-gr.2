@@ -69,8 +69,10 @@ $M=\max_{1\leq i\leq n} a_{i}$
 
 $m_{r}(a)\geq(q_{\alpha}a_{\alpha}^{r})^{1/r}=q_{\alpha}^{1/r}M$
 
-
+故
 
 $$
 q_{\alpha}^{1/r}M\leq m_{r}(a)\leq M, \quad \forall r>0
 $$
+
+在 $r\to +\infty, \; q_{\alpha}^{1/r}M\to M$
