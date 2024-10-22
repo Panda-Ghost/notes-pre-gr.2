@@ -80,3 +80,8 @@ $$
 所以得证
 
 **命题2** 当 $r\to - \infty, \; m_{r}(a)\to \min_{1\leq i\leq n} a_{i}$
+
+
+$$
+\frac{a\ln a-b\ln b}{a-b} \leq \frac{a+b}{2}
+$$
