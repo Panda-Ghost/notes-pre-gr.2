@@ -108,6 +108,5 @@ $m_{-\infty}=\lim_{ r \to -\infty }m_{r}(a)=\min a$
 
 记
 
-$[-\infty, +\infty]=\mathbb{R} \cup\{-\infty, +\infty  \}$
+$[-\infty, +\infty]=\mathbb{R} \cup\{-\infty, +\infty  \}$ **广义实数集**
 
-广义shi shu ji
