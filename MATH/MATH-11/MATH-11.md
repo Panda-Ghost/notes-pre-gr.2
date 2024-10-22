@@ -68,3 +68,9 @@ $M=\max_{1\leq i\leq n} a_{i}$
 则 $m_{r}(a)=\left( \sum_{i=1}^{n}q_{i}a_{i}^{r} \right)^{1/r}\leq M$
 
 $m_{r}(a)\geq(q_{\alpha}a_{\alpha}^{r})^{1/r}=q_{\alpha}^{1/r}M$
+
+
+
+$$
+q_{\alpha}^{1/r}M\leq m_{r}(a)\leq M, \quad \forall r>0
+$$
