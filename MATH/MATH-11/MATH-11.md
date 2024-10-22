@@ -148,6 +148,7 @@ step4. 设 $r>0$，这 $G(a)=m_{0}(a)<m_{r}(a)$
 
 step5. 设 $r<0$，证 $m_{r}(a)<m_{0}(a)$
 
-step6. 设 $-\infty<r<s<0$ 证 $m_{r}(a)<m_{s}(a)$
+step6. 设 $-\infty<r<s<0$，证 $m_{r}(a)<m_{s}(a)$
 
-step7. 设 $-\infty<r<0$
+step7. 设 $-\infty<r<0$，证 $m_{-\infty}(a)<m_{r}(a)$
+
