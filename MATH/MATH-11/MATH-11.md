@@ -57,4 +57,5 @@ $$
 
 **命题1**
 
-当 $r\to + \infty, \; m_{r}(a)=\max a$
+当 $r\to + \infty, \; m_{r}(a)\to \max_{1\leq i\leq n} a_{i}$
+
