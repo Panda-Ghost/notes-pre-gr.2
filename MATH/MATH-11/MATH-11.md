@@ -98,4 +98,10 @@ $$
 $$
 即证
 
+**定义**
 
+$m_{0}(a)=\lim_{ r \to 0 } m_{r}(a)=G(a)$
+
+$m_{+\infty}=\lim_{ r \to +\infty }m_{r}(a)= \max a$
+
+$m$
