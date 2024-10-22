@@ -5,9 +5,7 @@
 $$
 |x+y|_{p}\leq |x|_{p}+|y|_{p}, \quad \forall x, y \in \mathbb{R}^n
 $$
-**证明**
-
-$1<p<\infty$
+**证明***（对于 $1<p<\infty$）
 
 $$
 \begin{aligned}
@@ -24,3 +22,4 @@ $$
 =&|x+y|_{p}^{p-1}\left(|x|_{p}+|y|_{p}\right)
 \end{aligned}
 $$
+
