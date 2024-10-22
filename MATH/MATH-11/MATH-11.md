@@ -126,4 +126,7 @@ step1. 证明如果 $a_{1},a_{2},\dots,a_{n}$ 全相等，则 “=” 成立
 
 下面设 $a_{1},a_{2}, \dots,a_{n}$ 不全相等，证 $m_r(a)<m_s(a)$
 
-step2. 
+step2. 设 $0<r<+\infty$，证 $m_{r}(a)<m_{+\infty}(a)$
+
+step3. 设 $0<r<s<+\infty$，证 $m_{r}(a)<m_{s}(a)$
+
