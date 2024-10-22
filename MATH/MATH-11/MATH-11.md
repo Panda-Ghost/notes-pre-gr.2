@@ -92,5 +92,5 @@ m_{r}(a)=\left( \sum_{i=1}^{n}q_{i}a_{i}^{r} \right)^{1/r}
 $$
 
 $$
-\ln m_{r}(a)= \frac{\left( \sum_{i=1}^{n}q_{i}a_{i}^{r} \right)}{r}
+\lim_{ r \to 0 } \ln m_{r}(a)= \lim_{ r \to 0}  \frac{\ln\left( \sum_{i=1}^{n}q_{i}a_{i}^{r} \right)}{r}  = \lim_{ r \to 0 } 
 $$
