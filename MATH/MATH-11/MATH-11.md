@@ -27,7 +27,7 @@ $$
 
 **定义**
 
-设 $g_{i}>0, \; i=1\sim n, \; \sum_{i=1}^{n}g_{i}=1$
+设 $q_{i}>0, \; i=1\sim n, \; \sum_{i=1}^{n}q_{i}=1$
 
 设 $r\in \mathbb{R}, \; r\neq 0$
 
@@ -36,7 +36,7 @@ $$
 定义
 
 $$
-m_{r}(a)=\left( \sum_{i=1}^{n}g_{i}a_{i}^{r} \right)^{\frac{1}{r}}
+m_{r}(a)=\left( \sum_{i=1}^{n}q_{i}a_{i}^{r} \right)^{\frac{1}{r}}
 $$
 
 称为 $a_{1},a_{2},\dots,a_{n}$ 的**加权的幂平均值**
@@ -65,6 +65,6 @@ $M=\max_{1\leq i\leq n} a_{i}$
 
 设 $r>0$
 
-则 $m_{r}(a)=\left( \sum_{i=1}^{n}g_{i}a_{i}^{r} \right)^{1/r}\leq M$
+则 $m_{r}(a)=\left( \sum_{i=1}^{n}q_{i}a_{i}^{r} \right)^{1/r}\leq M$
 
-$m_{r}(a)\geq(g_{\alpha}a_{\alpha}^{r})^{1/r}=g_{\alpha}^{1/r}M$
+$m_{r}(a)\geq(q_{\alpha}a_{\alpha}^{r})^{1/r}=q_{\alpha}^{1/r}M$
