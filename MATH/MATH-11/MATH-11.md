@@ -130,3 +130,4 @@ step2. 设 $0<r<+\infty$，证 $m_{r}(a)<m_{+\infty}(a)$
 
 step3. 设 $0<r<s<+\infty$，证 $m_{r}(a)<m_{s}(a)$
 
+设 $r=\alpha s, \; \alpha \in (0, 1)$
