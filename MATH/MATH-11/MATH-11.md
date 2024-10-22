@@ -85,6 +85,8 @@ $$
 
 **命题3** 当 $r\to 0, \; m_{r}(a)\to G(a)$
 
+**证**
+
 L'Hôspital 法则
 
 $$
@@ -94,4 +96,6 @@ $$
 $$
 \lim_{ r \to 0 } \ln m_{r}(a)= \lim_{ r \to 0}  \frac{\ln\left( \sum_{i=1}^{n}q_{i}a_{i}^{r} \right)}{r}  = \lim_{ r \to 0 } \frac{\frac{\sum q_{i} a_{i}^{r} \ln a_{i}}{\sum q_{i}a_{i}^{r}}}{1}=\frac{\sum q_{i} \ln a_{i}}{\sum q_{i}} = \ln G(a)
 $$
+即证
+
 
