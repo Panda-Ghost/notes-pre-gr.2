@@ -19,6 +19,6 @@ $$
 \\
 =&\sum|x_{i}+y_{i}|^{p-1}|x_{i}|+\sum |x_{i}+y_{i}|^{p-1}|y_{i}|
 \\
-\leq&
+\leq&\sum(||)
 \end{aligned}
 $$
