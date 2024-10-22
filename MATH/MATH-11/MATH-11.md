@@ -87,3 +87,10 @@ $$
 
 L'Hôspital 法则
 
+$$
+m_{r}(a)=\left( \sum_{i=1}^{n}q_{i}a_{i}^{r} \right)^{1/r}
+$$
+
+$$
+\ln m_{r}(a)= \frac{\left( \sum_{i=1}^{n}q_{i}a_{i}^{r} \right)}{r}
+$$
