@@ -20,4 +20,6 @@ $g'(x)=f'(x)+f'(2-x)=\ln x + \ln (2-x)=\ln \left( -(x-1)^{2}+1\right) < \ln 1 =0
 
 所以 $g(x)>0, \quad \forall x \in (0, 1)$
 
-故 $g\left( \frac{1}{a} \right) = f\left( \frac{1}{a} \right)-f\left( 2-\frac{1}{a} \right)>0 \Leftrigh$
+故 $g\left( \frac{1}{a} \right) = f\left( \frac{1}{a} \right)-f\left( 2-\frac{1}{a} \right)>0 \Rightarrow f\left( \frac{1}{a} \right)=f\left( \frac{1}{b} \right)>f\left( 2-\frac{1}{a} \right)$
+
+而 $\frac{1}{b}, 2-\frac{1}{a} \in (1, +o$
