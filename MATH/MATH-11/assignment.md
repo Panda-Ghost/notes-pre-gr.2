@@ -14,4 +14,4 @@ $f'(x)<0, \; \forall x \in(0, 1)$ 所以 $f(x)$ 在 $(0, 1)$ 上单调递减
 
 令 $g(x)=f(x)-f(2-x), \quad x \in (0,1]$
 
-$g'(x)=f'(x)$
+$g'(x)=f'(x)+f'(2-x)=\ln x + \ln (2-x)=\ln \left( -(x-1)^{2}+1\right)$
