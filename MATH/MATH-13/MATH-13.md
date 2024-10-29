@@ -151,7 +151,9 @@ $$
 则
 
 $$
-n\sum_{i=1}^{n}a_{i}b_{i}\geq \left( \sum_{i=1}^{n}a_{i} \right)\left( \sum_{i=1}^{n}b_{i} \right)
+\sum_{i=1}^{n}a_{i}b_{i}\geq \frac{1}{n}\left( \sum_{i=1}^{n}a_{i} \right)\left( \sum_{i=1}^{n}b_{i} \right)\geq \sum_{i=1}^{n}a_{i}b_{n+1-i}
 $$
+
+“=” 成立当且仅当 $a_i$ 全相等或 $b_{i}$ 全相等
 
 ## 伯努利不等式
