@@ -1,8 +1,12 @@
 # MATH-13
 
 $$
+\begin{aligned}
+
 a_{1}=\frac{3}{2}\quad
-a_{n}= \frac{3na_{n-1}}{2a_{n-1}+n-1}
+\frac{a_{n}}{n}= \frac{3a_{n-1}}{2a_{n-1}+n-1} \\
+
+\end{aligned}
 $$
 
 排序不等式
