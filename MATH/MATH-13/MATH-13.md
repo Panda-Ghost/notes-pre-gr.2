@@ -158,6 +158,8 @@ $$
 
 **证明**（Chebyshev单调不等式）
 
+注意到以下恒等式
+
 $$
 \begin{aligned}
 &\sum_{i=1}^{n} \sum_{j=1}^{n} q_{i}q_{j}(a_{i}-a_{j})(b_{i}-b_{j})\\
@@ -166,5 +168,7 @@ $$
 =& \;  2\left[\left(\sum_{i=1}^{n}q_{i}a_{i}b_{i}\right) - \left(\sum_{i=1}^{n}q_{i}b_{i}\right)\left(\sum_{i=1}^{n}q_{i}a_{i}\right)\right]\\
 \end{aligned}
 $$
+
+即证
 
 ## 伯努利不等式
