@@ -105,6 +105,12 @@ $$
 
 **定理1**（Chebyshev单调不等式）
 
-    设 $q_{i}>0,\;  i=1\sim n, \; \sum_{i=1}^{n}q_{i}=1$ 设
+设 $q_{i}>0,\;  i=1\sim n, \; \sum_{i=1}^{n}q_{i}=1$ 设 $a_{i},b_{i}\in \mathbb{R}, \; i=1\sim n$ 如果
+
+$$
+\begin{aligned}
+a_{1}\leq a_{2}\leq\dots\leq a
+\end{aligned}
+$$
 
 ## 伯努利不等式
