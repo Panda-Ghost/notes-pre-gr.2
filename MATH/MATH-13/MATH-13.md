@@ -10,12 +10,13 @@ a_{1}=\frac{3}{2}\quad
 b_{n}=\frac{n}{a_{n}}\\
 b_{1} =\frac{2}{3} \quad b_{n}=\frac{2}{3}+\frac{b_{n-1}}{3} \\
 
+
 \end{aligned}
 $$
 
 排序不等式
 
-**定理1**
+**定理1**（Abel求和变换）
 
 设 $n\in \mathbb{N}^*, \; n\geq 2$ 设 $a_{i}, b_{i}\in \mathbb{R}, \; i=1\sim n$
 
@@ -28,6 +29,7 @@ $$
 $$
 \sum_{i=1}^{n}a_{i}b_{i}=a_{n}B_{n}-\sum_{i=1}^{n-1}(a_{i+1}-a_{i})B_{i}
 $$
+
 
 
 切比雪夫不等式
