@@ -76,6 +76,8 @@ $$
 
 正序和大于等于乱序和，取负即可
 
+jia
+
 设 $\alpha_{1}, \alpha_{2}, \dots ,\alpha_{n}>0,\; \sum_{i=1}^{n}\alpha_{i}=1$ 设 $a_{i}>0, \; i=1\sim n$ 则
 
 $$
@@ -97,8 +99,11 @@ $$
 =\ln\left( \prod_{i=1}^{n}a_{i}^{\alpha_{i}} \right)
 $$
 
+即证
 
 ## 切比雪夫不等式
+
+**定理1**（Chebyshev单调不等式）
 
 
 
