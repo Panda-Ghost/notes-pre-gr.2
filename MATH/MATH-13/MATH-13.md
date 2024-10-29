@@ -135,7 +135,8 @@ $$
 \sum_{i=1}^{n}q_{i}a_{i}b_{i}\leq \left( \sum_{i=1}^{n}q_{i}a_{i} \right)\left( \sum_{i=1}^{n}q_{i}b_{i} \right)
 $$
 
-    “=” 成立当且仅当 $a_{i}$ quan xi
+“=” 成立当且仅当 $a_{i}$ 全相等或 $b_{i}$ 全相等
+
 
 
 ## 伯努利不等式
