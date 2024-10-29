@@ -52,8 +52,13 @@ $$
 设 $\sigma : \{1,2,\dots,n\} \to \{1,2, \dots ,n\}$ 为双射，则
 
 $$
-\sum_{i=1}^{n}a_{i}b_{n+1-i}\leq \sum_{i=1}^{n}a_{i}b_{\sigma(i)}\leq \sum_{i=1}^{n}
+\sum_{i=1}^{n}a_{i}b_{n+1-i}\leq \sum_{i=1}^{n}a_{i}b_{\sigma(i)}\leq \sum_{i=1}^{n}a_{i}b_{i}
 $$
+
+并且 $\sum_{i=1}^{n}a_{i}b_{n+1-i}=\sum_{i=1}^{n}a_{i}b_{i}$
+
+当且仅当 $a_{1，。。。，}$
+
 切比雪夫不等式
 
 伯努利不等式
