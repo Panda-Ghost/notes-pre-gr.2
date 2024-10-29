@@ -76,7 +76,13 @@ $$
 
 正序和大于等于乱序和，取负即可
 
-设 $\alpha_{1}, \alpha_{2}, \dots ,\alpha_{n}>0,\; \sum_{i=1}^{n}\alpha_{i}=1$ 设 $a_{i}>0, \; i=1\sim n$
+设 $\alpha_{1}, \alpha_{2}, \dots ,\alpha_{n}>0,\; \sum_{i=1}^{n}\alpha_{i}=1$ 设 $a_{i}>0, \; i=1\sim n$ 则
+
+$$
+\sum_{i=1}^{n}\alpha_{i}a_{i}\geq \prod_{i=1}^{n}a_{i}^{\alpha_{i}}
+$$
+
+“=” 成立dang qie
 
 ## 切比雪夫不等式
 
