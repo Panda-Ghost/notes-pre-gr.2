@@ -117,7 +117,16 @@ $$
 则
 
 $$
-\sum_{i=1}^{n}q_{i}a_{i}b_{i}\geq\left( \sum_{i=1}r \right)
+\sum_{i=1}^{n}q_{i}a_{i}b_{i}\geq\left( \sum_{i=1}^{n}q_{i}a_{i} \right)\left( \sum_{i=1}^{n} q_{i}b_{i} \right)
+$$
+
+如果
+
+$$
+\begin{aligned}
+a_{1}\leq a_{2}\leq\dots\leq a_{n}\\
+b_{1}\leq b_{2}\leq\dots\leq b_{n}
+\end{aligned}
 $$
 
 ## 伯努利不等式
