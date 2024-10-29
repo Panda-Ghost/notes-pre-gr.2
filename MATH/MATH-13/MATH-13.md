@@ -109,8 +109,15 @@ $$
 
 $$
 \begin{aligned}
-a_{1}\leq a_{2}\leq\dots\leq a
+a_{1}\leq a_{2}\leq\dots\leq a_{n}\\
+b_{1}\leq b_{2}\leq \dots \leq b_{n}
 \end{aligned}
+$$
+
+则
+
+$$
+\sum_{i=1}^{n}q_{i}a_{i}b_{i}\geq\left( \sum_{i=1}r \right)
 $$
 
 ## 伯努利不等式
