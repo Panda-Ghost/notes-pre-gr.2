@@ -159,8 +159,9 @@ $$
 **证明**（Chebyshev单调不等式）
 
 $$
+\begin{aligned}
 
-\sum_{i,j_{1=1}
+\end{aligned}
 $$
 
 ## 伯努利不等式
