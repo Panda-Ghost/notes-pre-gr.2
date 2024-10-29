@@ -125,8 +125,14 @@ $$
 $$
 \begin{aligned}
 a_{1}\leq a_{2}\leq\dots\leq a_{n}\\
-b_{1}\leq b_{2}\leq\dots\leq b_{n}
+b_{1}\geq b_{2}\geq\dots\geq b_{n}
 \end{aligned}
+$$
+
+则
+
+$$
+\sum_{i=1}^{n}q_{i}a_{i}b_{i}\leq \left( \sum_{i=1}^{n}q_{i}a_{i} \right)\left( \sum_{i=1}^{n} \right)
 $$
 
 ## 伯努利不等式
