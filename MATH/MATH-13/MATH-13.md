@@ -63,13 +63,19 @@ $$
 
 **证明**
 
+乱序和大于等于逆序和
+
 $$
 \begin{aligned}
 &\sum_{i=1}^{n}a_{i}b_{\sigma(i)}-\sum_{i=1}^{n}a_{i}b_{n+1-i}\\
 =&\sum_{i=1}^{n}a_{i}\left(b_{\sigma(i)}-b_{n+1-i}\right)\\
-=&a_{n}\left( \sum_{i=1}^{n} b_{\sigma(i)}- \sum_{i=1}^{n}  b_{n+1-i} \right)-\sum_{i=1}^{n-1} \left[(a_{i+1}-a_{i})\left(\sum_{k=1}^{i}b_{\sigma(k)}-\sum_{k=1}^{i} b_{n+1-k} \right)\right]
+=&\;a_{n}\left( \sum_{i=1}^{n} b_{\sigma(i)}- \sum_{i=1}^{n}  b_{n+1-i} \right)-\sum_{i=1}^{n-1} \left[(a_{i+1}-a_{i})\left(\sum_{k=1}^{i}b_{\sigma(k)}-\sum_{k=1}^{i} b_{n+1-k} \right)\right]\\
+\geq &\; 0
 \end{aligned}
 $$
+
+正序和大于等于乱序和 取负即可
+
 
 ## 切比雪夫不等式
 
