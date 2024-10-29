@@ -143,8 +143,15 @@ $$
 
 $$
 \begin{aligned}
-a_{1}\leq a_{2}<
+a_{1}\leq a_{2}\leq\dots\leq a_{n}\\
+b_{1}\leq b_{2}\leq\dots\leq b_{n}
 \end{aligned}
+$$
+
+则
+
+$$
+n\sum_{i=1}^{n}a_{i}b_{i}\geq \left( \sum_{i=1}^{n} \right)
 $$
 
 ## 伯努利不等式
