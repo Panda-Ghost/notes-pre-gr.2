@@ -90,7 +90,11 @@ $f(x)=-\ln x \quad f'(x)=\frac{1}{x^{2}}>0$ 严格凸
 
 $f\left( \sum_{i=1}^{n }\alpha_{i}a_{i} \right)\leq \sum_{i=1}^{n}\alpha_{i}f(a_{i})$
 
+“=”成立 $\Leftrightarrow$ $a_{i}$ 全相等
 
+$$
+\ln\left( \sum_{i=1}^{n}\alpha_{i} \right)
+$$
 
 ## 切比雪夫不等式
 
