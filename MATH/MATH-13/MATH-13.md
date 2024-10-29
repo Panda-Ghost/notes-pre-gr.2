@@ -10,7 +10,8 @@ a_{1}=\frac{3}{2}\quad
 b_{n}=\frac{n}{a_{n}}\\
 b_{1} =\frac{2}{3} \quad b_{n}=\frac{2}{3}+\frac{b_{n-1}}{3} \\
 
-
+b_{n}-1= \frac{b_{n-1}-1}{3} \\
+b_{n}-1=\frac{1}{3^}
 \end{aligned}
 $$
 
