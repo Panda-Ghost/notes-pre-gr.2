@@ -175,4 +175,8 @@ $$
 
 **定理1**
 
-设 $a\in \mathbb{R}$ 如果 $$
+设 $a\in \mathbb{R}$ 如果 $a>1$ 则
+
+$$
+(1+x)^{a}\geq 1+ax, \quad \forall ]x > -1, \; x\neq 0
+$$
