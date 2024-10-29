@@ -17,7 +17,11 @@ $$
 
 **定理1**
 
-设 $n\in \mathbb{N}^*$
+设 $n\in \mathbb{N}^*, \; n\geq 2$ 设 $a_{i}, b_{i}\in \mathbb{R}, \; i=1\sim n$
+
+$$
+
+$$
 
 
 切比雪夫不等式
