@@ -82,7 +82,11 @@ $$
 \sum_{i=1}^{n}\alpha_{i}a_{i}\geq \prod_{i=1}^{n}a_{i}^{\alpha_{i}}
 $$
 
-“=” 成立dang qie
+“=” 成立当且仅当 $a_{i}$ 全相等
+
+**证明**
+
+$f(x)=-\ln x \quad f'(x)=\frac{1}{x^{2}}>0$ 严格tu
 
 ## 切比雪夫不等式
 
