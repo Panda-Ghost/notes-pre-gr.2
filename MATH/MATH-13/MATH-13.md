@@ -15,10 +15,10 @@ b_{n}-1=\frac{1}{3^{n-1}}\cdot \left( -\frac{1}{3} \right)\\
 b_{n}=1 - \frac{1}{3^n}\\
 a_{n}=\frac{n}{1-\frac{1}{3^n}} \\
 
-\prod_{i=1}^{n}a_{i} =\frac{n!}{\prod_{i=1}^{n}1-\frac{1}{3^n}} < 2 n ! \\
+\prod_{i=1}^{n}a_{i} =\frac{n!}{\prod_{i=1}^{n}1-\frac{1}{3^i}} < 2 n ! \\
 \Leftrightarrow 
 
-\prod_{i=1}^{n}1-\frac{1}{3^{n}} >\frac{1}{2}
+\prod_{i=1}^{n}(1-\frac{1}{3^{i}} >\frac{1}{2}
 
 \end{aligned}
 $$
