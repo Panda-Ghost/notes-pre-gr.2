@@ -38,12 +38,22 @@ $$
 $$
 
 
-**定理2**
+**定理2**（排序不等式）
 
 设 $n \in \mathbb{N}^{*}, \; n\geq 2$ 设 $a_{i}, b_{i}\in \mathbb{R}, i=1\sim n$
 
+$$
+\begin{aligned}
+a_{1}\leq a_{2}\leq\dots\leq a_{n}\\
+b_{1}\leq b_{2}\leq\dots\leq b_{n}
+\end{aligned}
+$$
 
+设 $\sigma : \{1,2,\dots,n\} \to \{1,2, \dots ,n\}$ 为双射，则
 
+$$
+\sum_{i=1}^{n}a_{i}b_{n+1-i}\leq \sum_{i=1}^{n}a_{i}b_{\sigma(i)}\leq \sum_{i=1}^{n}
+$$
 切比雪夫不等式
 
 伯努利不等式
