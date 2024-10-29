@@ -93,8 +93,10 @@ $f\left( \sum_{i=1}^{n }\alpha_{i}a_{i} \right)\leq \sum_{i=1}^{n}\alpha_{i}f(a_
 “=”成立 $\Leftrightarrow$ $a_{i}$ 全相等
 
 $$
-\ln\left( \sum_{i=1}^{n}\alpha_{i} \right)
+\ln\left( \sum_{i=1}^{n}\alpha_{i}a_{i} \right)\geq \sum_{i=1}^{n}\alpha_{i}\ln(a_{i})
+=\ln\left( \prod_{i=1}^{n}a_{i}^{\alpha_{i}} \right)
 $$
+
 
 ## 切比雪夫不等式
 
