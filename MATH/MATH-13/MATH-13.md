@@ -20,7 +20,13 @@ $$
 设 $n\in \mathbb{N}^*, \; n\geq 2$ 设 $a_{i}, b_{i}\in \mathbb{R}, \; i=1\sim n$
 
 $$
+B_{i}=\sum_{k=1}^{i} b_{k}, \quad i=1\sim n
+$$
 
+则
+
+$$
+\sum_{i=1}^{n}a_{i}b_{i}=a_{n}B_{n}-\sum_{i=1}^{n-1}(a_{i+1}-a_{i})B_{i}
 $$
 
 
