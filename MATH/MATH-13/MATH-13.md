@@ -67,7 +67,7 @@ $$
 \begin{aligned}
 &\sum_{i=1}^{n}a_{i}b_{\sigma(i)}-\sum_{i=1}^{n}a_{i}b_{n+1-i}\\
 =&\sum_{i=1}^{n}a_{i}\left(b_{\sigma(i)}-b_{n+1-i}\right)\\
-=&a_{n}()
+=&a_{n}\left( \sum \right)
 \end{aligned}
 $$
 
