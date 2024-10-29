@@ -61,6 +61,15 @@ $$
 
 当且仅当 $a_{1},\dots,a_{n}$ 全相等或 $b_{1},\dots,b_{n}$ 全相等
 
+**证明**
+
+$$
+\begin{aligned}
+&\sum_{i=1}^{n}a_{i}b_{\sigma(i)}-\sum_{i=1}^{n}a_{i}b_{n+1-i}\\
+=&\sum_{i=1}^{n}a_{i}()
+\end{aligned}
+$$
+
 ## 切比雪夫不等式
 
 ## 伯努利不等式
