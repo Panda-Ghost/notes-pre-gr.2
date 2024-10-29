@@ -11,7 +11,13 @@ b_{n}=\frac{n}{a_{n}}\\
 b_{1} =\frac{2}{3} \quad b_{n}=\frac{2}{3}+\frac{b_{n-1}}{3} \\
 
 b_{n}-1= \frac{b_{n-1}-1}{3} \\
-b_{n}-1=\frac{1}{3^}
+b_{n}-1=\frac{1}{3^{n-1}}\cdot \left( -\frac{1}{3} \right)\\
+b_{n}=1 - \frac{1}{3^n}\\
+a_{n}=\frac{n}{1-\frac{1}{3^n}} \\
+
+\prod_{i=1}^{n}a_{i} =\frac{n!}{\prod_{i=1}^{n}1-\frac{1}{3^n}}\le 2 n ! \\
+\Leftrightarrow 
+
 \end{aligned}
 $$
 
@@ -30,6 +36,11 @@ $$
 $$
 \sum_{i=1}^{n}a_{i}b_{i}=a_{n}B_{n}-\sum_{i=1}^{n-1}(a_{i+1}-a_{i})B_{i}
 $$
+
+
+**定理2**
+
+设 $n \in \mathbb{N}^{*}, \; n\geq 2$ 设 $a_{i}, b_{i}\in \mathbb{R}, i=1\sim n$
 
 
 
