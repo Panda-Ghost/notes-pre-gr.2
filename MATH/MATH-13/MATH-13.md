@@ -151,7 +151,7 @@ $$
 则
 
 $$
-n\sum_{i=1}^{n}a_{i}b_{i}\geq \left( \sum_{i=1}^{n} \right)
+n\sum_{i=1}^{n}a_{i}b_{i}\geq \left( \sum_{i=1}^{n}a_{i} \right)\left( \sum_{i=1}^{n}b_{i} \right)
 $$
 
 ## 伯努利不等式
