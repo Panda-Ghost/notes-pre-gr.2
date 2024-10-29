@@ -161,7 +161,8 @@ $$
 $$
 \begin{aligned}
 &\sum_{i=1}^{n} \sum_{j=1}^{n} q_{i}q_{j}(a_{i}-a_{j})(b_{i}-b_{j})\\
-=& \sum_{i=1}^{n}\sum_{j=1}^{n}(q_{i}q_{j}a_{i}b_{i}+q_{i}q_{j}a_{j}b_{j}-q_{i}q_{j}a_{i}a_{j}-q_{i}q_{j}a_{j}b_{i})
+=& \sum_{i=1}^{n}\sum_{j=1}^{n}(q_{i}q_{j}a_{i}b_{i}+q_{i}q_{j}a_{j}b_{j}-q_{i}q_{j}a_{j}a_{i}-q_{i}q_{j}a_{i}b_{j})\\
+=& \;  2\sum_{i=1}^{n}\sum_{j=1}^{n}q_{i}q_{j}a_{i}b
 \end{aligned}
 $$
 
