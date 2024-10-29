@@ -162,7 +162,8 @@ $$
 \begin{aligned}
 &\sum_{i=1}^{n} \sum_{j=1}^{n} q_{i}q_{j}(a_{i}-a_{j})(b_{i}-b_{j})\\
 =& \sum_{i=1}^{n}\sum_{j=1}^{n}(q_{i}q_{j}a_{i}b_{i}+q_{i}q_{j}a_{j}b_{j}-q_{i}q_{j}a_{j}a_{i}-q_{i}q_{j}a_{i}b_{j})\\
-=& \;  2\left[\left(\sum_{i=1}^{n}q_{i}a_{i}b_{i}\rig\sum_{j=1}^{n}q_{j}\right) - \sum_{i=1}^{n}\left(q_{i}b_{i}\sum_{j=1}^{n}q_{j}a_{j}\right)\right]
+=& \;  2\left[\left(\sum_{i=1}^{n}q_{i}a_{i}b_{i}\right)\left(\sum_{j=1}^{n}q_{j}\right) - \left(\sum_{i=1}^{n}q_{i}b_{i}\right)\left(\sum_{j=1}^{n}q_{j}a_{j}\right)\right]\\
+=&
 \end{aligned}
 $$
 
