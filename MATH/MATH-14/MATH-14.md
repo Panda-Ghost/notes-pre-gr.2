@@ -40,9 +40,16 @@ $$
 \forall x \in D,\quad -x \in D
 $$
 
-称 $D$ 关于原点对称，设 
+称 $D$ 关于原点对称，设 $f: D\to \mathbb{R}$，如果
 
 $$
 f(-x)=f(x), \; \forall x \in D
 $$
 
+称 $f$ 为偶函数，如果
+
+$$
+f(-x)=-f(x),\quad \forall x \in D
+$$
+
+称 $f$ 为ji han shu
