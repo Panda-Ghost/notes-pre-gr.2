@@ -142,8 +142,10 @@ $$
 
 1. $f(x)=f(y) \Leftrightarrow xEy$
 2. $f(0)\neq f(\sqrt{3})$
+3. $f(x+1)=f(x)$
+4. $f(x+\sqrt{ 2 })=f(x)$
 
-2的证明
+其中 2 的证明
 
 反证 $f(0)=f(\sqrt{ 3 })$
 
@@ -151,5 +153,9 @@ $$
 
 即 $\sqrt{ 3 }=m+n\sqrt{ 2 } \implies 3=m^{2}+2n^{2}+2\sqrt{ 2 }mn\implies mn=0$
 
-1. $m=0$ 则 $3=2n^{2}\implies$
-2. $n=0$ 则 $3=m^{2}\implies $
+1. $m=0$ 则 $3=2n^{2}\implies \perp$
+2. $n=0$ 则 $3=m^{2}\implies \perp$
+
+**例3**
+
+设 $f:\mathbb{R}$
