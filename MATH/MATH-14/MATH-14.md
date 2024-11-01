@@ -122,6 +122,6 @@ $\varphi$ 称为**选择函数**
 
 $E$ 是一个 $\mathbb{R}$ 上的等价关系
 
-1. $xEx \quad x-x=0+0\sqrt{ 2 }$
-2. $xEy\to yEx \quad y-x=m+n\sqrt{ 2 }\to x-y=-m +(-n)\sqrt{ 2 }$
-3. $xEy \wedge yEz \to xEz \quad y-x=m_{1}+n_{1}\sqrt{ 2 } \wedge z-y=m_{2}+n_{2}\sqrt{ 2 }$
+1. $xEx$ zhen$x-x=0+0\sqrt{ 2 }$
+2. $xEy\to yEx$ 证 $y-x=m+n\sqrt{ 2 }\to x-y=-m +(-n)\sqrt{ 2 }$
+3. $xEy \wedge yEz \to xEy$ 证 $y-x=m_{1}+n_{1}\sqrt{ 2 } \wedge z-y=m_{2}+n_{2}\sqrt{ 2 }\to z-x=(m_{1}+m_{2})+(n_{1}+n_{2})\sqrt{ 2 }$
