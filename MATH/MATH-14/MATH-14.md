@@ -141,3 +141,5 @@ f(x)=\varphi([x]), \quad x \in \mathbb{R}
 $$
 
 1. $f(x)=f(y) \Leftrightarrow xEy$
+   
+1. $f(0)\neq f(\sqrt{3})$
