@@ -58,4 +58,6 @@ $$
 
 1. $f(x)=\ln\left(\sqrt{ x^{2}-1 }-1\right)$
 2. $f(x)=\ln \frac{1-x}{1+x}$
-3. $f(x)$=
+3. $f(x)=\frac{x}{e^{x}-1}+\frac{x}{2}$
+
+奇函数
