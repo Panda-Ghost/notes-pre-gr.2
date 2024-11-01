@@ -43,13 +43,14 @@ $$
 称 $D$ 关于原点对称，设 $f: D\to \mathbb{R}$，如果
 
 $$
-f(-x)=f(x), \; \forall x \in D
+f(-x)=f(x), \quad \forall x \in D
 $$
 
-称 $f$ 为偶函数，如果
+称 $f$ 为**偶函数**，如果
 
 $$
 f(-x)=-f(x),\quad \forall x \in D
 $$
 
-称 $f$ 为ji han shu
+称 $f$ 为**奇函数**
+
