@@ -162,4 +162,4 @@ $$
 
 使得 $f=g+h$
 
-$g(x)=\frac{f(x)+f(-x)}{2}, \frac{f(x)-f(-x)}{2}$
+$g(x)=\frac{f(x)+f(-x)}{2}, \; h(x)=\frac{f(x)-f(-x)}{2}$
