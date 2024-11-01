@@ -108,8 +108,12 @@ $$
 
 设 $\mathscr{A}$ 是一个集族，$\mathscr{A}\neq \varnothing, \; \forall A \in \mathscr{A}, A \neq \varnothing$
 
-则 $\exists$
+则 $\exists \varphi: \mathscr{A} \to \bigcup_{A\in \mathscr{A}}A$，使得
 
+$$
+\varphi(A)\in A, \quad \forall A \in \mathscr{A}
+$$
 
+$\varphi$ 称为选择函数
 
 证明 
