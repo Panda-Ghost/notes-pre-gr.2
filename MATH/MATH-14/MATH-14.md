@@ -137,5 +137,7 @@ $$
 定义 $f:\mathbb{R}\to \mathbb{R}$
 
 $$
-f(x)=\varphi([x])
+f(x)=\varphi([x]), \quad x \in \mathbb{R}
 $$
+
+1. $f(x)=f(y) \Leftrightarrow xEy$
