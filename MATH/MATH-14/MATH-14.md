@@ -120,4 +120,7 @@ $\varphi$ 称为**选择函数**
 
 定义 $E = \{ (x, y)\in \mathbb{R}^{2} \mid \exists m,n\in \mathbb{Z}, \text{ s.t. } y-x=m+n\sqrt{ 2 } \}$
 
-$E$ 是一个等价关系
+$E$ 是一个 $\mathbb{R}$ 上的等价关系
+
+1. $xEx \quad x-x=0+0\sqrt{ 2 }$
+2. $xEy\to yEx \quad $
