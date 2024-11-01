@@ -66,4 +66,7 @@ p.s. 我是人机
 
 **例2**
 
-设 $f:\mathbb{R}\to \mathbb{R}$ 无限可微，$f^{(k)}$ 为 $f$ 的 $k$ jie
+设 $f:\mathbb{R}\to \mathbb{R}$ 无限可微，$f^{(k)}$ 为 $f$ 的 $k$ 阶导
+
+若 $f$ 为偶函数，讨论 $f^{(k)}$ 的奇偶性
+
