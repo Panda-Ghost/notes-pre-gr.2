@@ -160,4 +160,6 @@ $$
 
 设 $f:\mathbb{R}\to \mathbb{R}$ 证明：$\exists!$ 偶函数 $g:\mathbb{R}\to \mathbb{R}$，奇函数 $h:\mathbb{R}\to \mathbb{R}$
 
-s
+使得 $f=g+h$
+
+$g(x)=\frac{f(x)+f(-x)}{2}, \frac{f(x)-f(-x)}{2}$
