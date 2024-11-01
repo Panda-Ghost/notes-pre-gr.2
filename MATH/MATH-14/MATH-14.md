@@ -151,4 +151,5 @@ $$
 
 即 $\sqrt{ 3 }=m+n\sqrt{ 2 } \implies 3=m^{2}+2n^{2}+2\sqrt{ 2 }mn\implies mn=0$
 
-1. 
+1. $m=0$ 则 $3=2n^{2}\implies$
+2. $n=0$ 则
