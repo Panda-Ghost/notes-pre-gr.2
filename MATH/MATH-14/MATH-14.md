@@ -90,7 +90,10 @@ $$
 D(x)=
 \left\{
 \begin{aligned}
-1
+1, \quad x为有理数\\
+0, \quad x为无理数
 \end{aligned}
 \right.
 $$
+
+为周期函数
