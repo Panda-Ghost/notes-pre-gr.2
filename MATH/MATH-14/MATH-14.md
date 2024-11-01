@@ -75,3 +75,10 @@ p.s. 我是人机+2
 **定义2**
 
 设 $f:\mathbb{R}\to \mathbb{R}$ 如果存在 $T\neq 0$, 使得
+
+$$
+f(x+T)=f(x), \quad \forall x \in \mathbb{R}
+$$
+
+称 $f$ 为 $T$-周期函数
+
