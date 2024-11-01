@@ -106,7 +106,9 @@ $$
 
 **选择公理**
 
-设 $\mathscr{A}$ shi一个集族
+设 $\mathscr{A}$ 是一个集族，$\mathscr{A}\neq \varnothing, \; \forall A \in \mathscr{A}, A \neq \varnothing$
+
+则 $\exists$
 
 
 
