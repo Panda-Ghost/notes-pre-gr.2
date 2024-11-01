@@ -64,4 +64,6 @@ $$
 
 p.s. 我是人机
 
-lie
+**例2**
+
+设 $f:\mathbb{R}\to \mathbb{R}$ 无限可微，$f^{(k)}$ 为 $f$ 的 $k$ jie
