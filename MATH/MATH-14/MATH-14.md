@@ -82,3 +82,15 @@ $$
 
 称 $f$ 为 $T$-周期函数
 
+**例1**
+
+证明
+
+$$
+D(x)=
+\left\{
+\begin{aligned}
+1
+\end{aligned}
+\right.
+$$
