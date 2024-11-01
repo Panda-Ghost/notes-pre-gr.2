@@ -149,4 +149,6 @@ $$
 
 可得 $0E\sqrt{ 3 }$
 
-即 $\sqrt{ 3 }=m+n\sqrt{ 2 } \implies $
+即 $\sqrt{ 3 }=m+n\sqrt{ 2 } \implies 3=m^{2}+2n^{2}+2\sqrt{ 2 }mn\implies mn=0$
+
+1. 
