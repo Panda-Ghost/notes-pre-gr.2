@@ -128,4 +128,14 @@ $E$ 是一个 $\mathbb{R}$ 上的等价关系
 
 $[x]$ 表示 $x$ 的等价类
 
-设 $\varphi:\mathbb{R} / E \to \mathbb{R}$
+设 $\varphi:\mathbb{R} / E \to \mathbb{R}$ 为选择函数
+
+$$
+\varphi([x])\in [x], \quad \forall x \in \mathbb{R}
+$$
+
+定义 $f:\mathbb{R}\to \mathbb{R}$
+
+$$
+f(x)=\varphi([x])
+$$
