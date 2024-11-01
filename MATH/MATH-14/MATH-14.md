@@ -39,3 +39,10 @@ $\prod_{i=1}^{n} (1+x_{i})>\left( 1+\sum_{i=1}^{n-1}x_{i} \right)(1+x_{n})=1+\su
 $$
 \forall x \in D,\quad -x \in D
 $$
+
+称 $D$ 关于原点对称，设 
+
+$$
+f(-x)=f(x), \; \forall x \in D
+$$
+
