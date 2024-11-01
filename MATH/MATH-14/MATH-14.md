@@ -32,3 +32,6 @@ $\prod_{i=1}^{n} (1+x_{i})>\left( 1+\sum_{i=1}^{n-1}x_{i} \right)(1+x_{n})=1+\su
 
 ## 函数
 
+**定义1**
+
+设 $D\subset \mathbb{R}, \; D \neq \varnothing$
