@@ -141,5 +141,12 @@ f(x)=\varphi([x]), \quad x \in \mathbb{R}
 $$
 
 1. $f(x)=f(y) \Leftrightarrow xEy$
-   
-1. $f(0)\neq f(\sqrt{3})$
+2. $f(0)\neq f(\sqrt{3})$
+
+2的证明
+
+反证 $f(0)=f(\sqrt{ 3 })$
+
+可得 $0E\sqrt{ 3 }$
+
+即 $\sqrt{ 3 }=m+n\sqrt{ 2 } \implies $
