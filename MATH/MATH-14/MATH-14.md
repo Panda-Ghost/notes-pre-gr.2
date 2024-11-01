@@ -118,4 +118,6 @@ $\varphi$ 称为**选择函数**
 
 **证明**（例2）
 
-定义 $E = \{ (x, y)\in \mathbb{R}^{2} \mid \exists \}$
+定义 $E = \{ (x, y)\in \mathbb{R}^{2} \mid \exists m,n\in \mathbb{Z}, \text{ s.t. } y-x=m+n\sqrt{ 2 } \}$
+
+$E$ 是一个等价关系
