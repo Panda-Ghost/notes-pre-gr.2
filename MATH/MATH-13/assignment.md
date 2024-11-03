@@ -12,7 +12,11 @@ $$
 
 令 $b_{n}=\frac{n}{a_{n}}$ 则 $b_{1}=\frac{2}{3}$
 
-又 $b_{n}=$
+又
+
+$$
+b_{n}=\frac{2}{3}+\frac{b_{n-1}}{3}\implies b_{n}-1 = \frac{b_{n-1}-1}{3}\implies b_{n}-1=\frac{1}{3^{n-1}}cdoe(-1)
+$$
 
 $$
 \begin{aligned}
