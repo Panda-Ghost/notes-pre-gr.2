@@ -1,7 +1,14 @@
 有 $a_{1}=\frac{3}{2}\neq 0$
 
-若 $a_{k}\neq $
+若 $a_{k}\neq 0$ 则 $a_{k+1}=\frac{3(k+1)a_{k}}{2a_{k}+k}\neq 0$
 
+归纳可得 $\forall i \in \mathbb{N}^{*}, a_{i}\neq 0$
+
+所以
+
+$$
+a_{n}=\frac{3na_{n-1}}{2a_{n-1}+n-1} =
+$$
 $$
 \begin{aligned}
 
