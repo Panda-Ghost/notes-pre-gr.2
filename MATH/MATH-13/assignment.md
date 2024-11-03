@@ -27,8 +27,10 @@ $$
 由伯努利不等式
 
 $$
-\prod_{i=1}^{n}\left( 1-\frac{1}{3^{i}} \right)>1-\sum_{i=1}^{n} \frac{1}{3^{i}}=1-\frac{1}{3}\cdot \frac{1-\frac{1}{3^{n}}}{1-\frac{1}{3}} > \frac{1}{2}
+\prod_{i=1}^{n}\left( 1-\frac{1}{3^{i}} \right)>1-\sum_{i=1}^{n} \frac{1}{3^{i}}=1-\frac{1}{3}\cdot \frac{1-\frac{1}{3^{n}}}{1-\frac{1}{3}} = \frac{ 1+\frac{1}{3^{n}}}{2} > \frac{1}{2}
 $$
+
+即证
 
 
 $$
