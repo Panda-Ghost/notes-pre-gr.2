@@ -7,7 +7,7 @@
 所以
 
 $$
-a_{n}=\frac{3na_{n-1}}{2a_{n-1}+n-1} =
+a_{n}=\frac{3na_{n-1}}{2a_{n-1}+n-1} \implies \frac{a_{n}}{n}=\frac{3a_{n-1}}{2a_{n-1}+n-1}\implies
 $$
 $$
 \begin{aligned}
