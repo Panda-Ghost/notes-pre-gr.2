@@ -1,0 +1,26 @@
+有 $a_{1}=\frac{3}{2}\neq 0$
+
+若 $a_{k}\neq $
+
+$$
+\begin{aligned}
+
+a_{1}=\frac{3}{2}\quad
+\frac{a_{n}}{n}= \frac{3a_{n-1}}{2a_{n-1}+n-1} \\
+
+\frac{n}{a_{n}}=\frac{2}{3}+\frac{1}{3}\cdot \frac{n-1}{a_{n-1}}\\
+b_{n}=\frac{n}{a_{n}}\\
+b_{1} =\frac{2}{3} \quad b_{n}=\frac{2}{3}+\frac{b_{n-1}}{3} \\
+
+b_{n}-1= \frac{b_{n-1}-1}{3} \\
+b_{n}-1=\frac{1}{3^{n-1}}\cdot \left( -\frac{1}{3} \right)\\
+b_{n}=1 - \frac{1}{3^n}\\
+a_{n}=\frac{n}{1-\frac{1}{3^n}} \\
+
+\prod_{i=1}^{n}a_{i} =\frac{n!}{\prod_{i=1}^{n}\left(1-\frac{1}{3^i} \right)}< 2 n ! \\
+\Leftrightarrow 
+
+\prod_{i=1}^{n}\left(1-\frac{1}{3^{i}}\right) >\frac{1}{2}
+
+\end{aligned}
+$$
