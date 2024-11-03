@@ -21,13 +21,13 @@ $$
 所以 $b_{n}=1-\frac{1}{3^{n}}$ 所以 $a_{n}=\frac{n}{1-\frac{1}{3^{n}}}$
 
 $$
-\prod_{i=1}^{n}a_{i}=\frac{n!}{\prod_{i=1}^{n}\left( 1-\frac{1}{3^{i}} \right)} < 2n! \iff \prod_{i=1}^{n}\left( 1-\frac{1}{3^{i}} \right)>2
+\prod_{i=1}^{n}a_{i}=\frac{n!}{\prod_{i=1}^{n}\left( 1-\frac{1}{3^{i}} \right)} < 2n! \iff \prod_{i=1}^{n}\left( 1-\frac{1}{3^{i}} \right)> 1/2
 $$
 
 由伯努利不等式
 
 $$
-\prod_{i=1}^{n}\left( 1-\frac{1}{3^{i}} \right)>1-\sum_{i=1}^{n} \frac{1}{3^{i}}=1-
+\prod_{i=1}^{n}\left( 1-\frac{1}{3^{i}} \right)>1-\sum_{i=1}^{n} \frac{1}{3^{i}}=1-\frac{1}{3}\cdot \frac{1-\frac{1}{3^{n}}}{1-\frac{1}{3}} > \frac{1}{2}
 $$
 
 
