@@ -12,7 +12,7 @@ $$
 
 令 $b_{n}=\frac{n}{a_{n}}$ 则 $b_{1}=\frac{2}{3}$
 
-又 $b$
+又 $b_{n}=$
 
 $$
 \begin{aligned}
