@@ -27,7 +27,7 @@ $$
 由伯努利不等式
 
 $$
-\prod_{i=1}^{n}\left( 1-\frac{1}{3^{i}} \right)>1-\sum_{i=1}^{n} 
+\prod_{i=1}^{n}\left( 1-\frac{1}{3^{i}} \right)>1-\sum_{i=1}^{n} \frac{1}{3^{i}}=1-
 $$
 
 
