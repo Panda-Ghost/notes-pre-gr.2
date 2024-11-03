@@ -15,8 +15,11 @@ $$
 又
 
 $$
-b_{n}=\frac{2}{3}+\frac{b_{n-1}}{3}\implies b_{n}-1 = \frac{b_{n-1}-1}{3}\implies b_{n}-1=\frac{1}{3^{n-1}}cdoe(-1)
+b_{n}=\frac{2}{3}+\frac{b_{n-1}}{3}\implies b_{n}-1 = \frac{b_{n-1}-1}{3}\implies b_{n}-1=\frac{1}{3^{n-1}}\cdot\left( -\frac{1}{3} \right)
 $$
+
+所以 $b_{n}=1-\frac{1}{3^{n}}$ 所以 $a_{n}$
+
 
 $$
 \begin{aligned}
