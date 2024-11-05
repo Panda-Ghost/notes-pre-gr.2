@@ -10,5 +10,8 @@
 1.
 
 $$
-\ln f(x) = \frac{1}{x} \cdot 
+\begin{aligned}
+g(x) = \ln f(x) = \frac{1}{x} \cdot \ln (1+x)\\
+g'(x) = \frac{\frac{x}{1-x}}{x^{2}}
+\end{aligned}
 $$
