@@ -68,9 +68,7 @@ $$
 
 $$
 \begin{aligned}
-g(x)=\ln f(x)=\frac{\ln x}{x}\\
-g'(x)=\frac{1-\ln x}{x^{2}}=\frac{f'(x)}{f(x)}\\
-f_{max}(x)=f(e)=e^{1/e}
+\ln f(x)=\frac{\ln x}{x}\leq \frac{x-1}{x} ,
 \end{aligned}
 $$
 
@@ -80,4 +78,4 @@ $$
 
 $f$ 单调减
 
-所以 $f(x)\leq \lim_{ n \to \infty }$
+所以 $f(x)\leq \lim_{ x \to 0_{+} }f(x)=e$
