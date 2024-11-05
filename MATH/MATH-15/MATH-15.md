@@ -12,7 +12,7 @@ h(x)=\ln x-x+1\\
 \ln a\geq h_{max}(x)\\
 h'(x)=\frac{1}{x}-1=\frac{1-x}{x}\\
 h_{max}(x)=h(1)=0\\
-\therefore \ln a\geq 0 \iff a\geq 1
+\ln a\geq 0 \iff a\geq 1
 \end{aligned}
 $$
 
