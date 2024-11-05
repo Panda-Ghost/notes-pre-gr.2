@@ -115,5 +115,10 @@ $$
 3.
 
 $$
-
+\begin{aligned}
+g(x) = \ln f(x) =\left(1+\frac{1}{x} \right) \cdot \ln (1+x) = \frac{(1+x)\ln(1+x) }{x}\\
+g'(x) = \frac{x+x\ln(1+x)-(1+x)\ln(1+x)}{x^{2}}=\frac{x-\ln(1+x)}{x^{2}}=\frac{f'(x)}{f(x)}\\
+f'(x)=\left( \frac{x-\ln(1+x)}{x^{2}} \right)(1+x)^{\frac{1}{x}+1}
+\end{aligned}
 $$
+
