@@ -3,7 +3,9 @@
 $$
 \begin{aligned}
 f(x)=ae^{x-1}-\ln x+\ln a \geq 1 \\ 
-\iff e ^{\ln a+x-1}-\ln x +\ln a+x-1\geq 0
+\iff e ^{\ln a+x-1} +\ln a+x-1\geq x+\ln x\\
+g(x)=e^{x}+x\\
+g(\ln a+x-1)\geq g(\ln x)
 \end{aligned}
 $$
 
