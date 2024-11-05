@@ -78,11 +78,12 @@ $$
 \ln f(x)= \frac{\ln(1+x)}{x} \leq \frac{x}{x} =1
 $$
 
+tou
+
 3.
 
 $$
-\ln f(x)=\left( 1+\frac{1}{x} \right)\ln(1+x)\geq \ln (1+x)
+f(x)=(1+x)^{1/x+1}\geq 1+x
 $$
 
-$\forall a \in \mathbb{R}$
-
+显然无上界
