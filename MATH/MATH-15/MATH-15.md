@@ -1,5 +1,13 @@
 # MATH-15
 
+$$
+\begin{aligned}
+f(x)=ae^{x-1}-\ln x+\ln a \geq 1 \\ 
+\iff e ^{\ln a+x-1}
+\end{aligned}
+$$
+
+
 **例1**
 
 考察下列函数的单调性
