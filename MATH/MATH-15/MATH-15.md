@@ -49,5 +49,7 @@ $$
 设 $f:A\subset \mathbb{R }\to \mathbb{R}$ 如果 $\exists M \in \mathbb{R},\text{ s.t. }$
 
 $$
-f(x)
+f(x)\leq M, \quad \forall x \in A
 $$
+
+称 $f$ 有上界，称 $M$ 为 $f$ 的上界，类似可定义下界
