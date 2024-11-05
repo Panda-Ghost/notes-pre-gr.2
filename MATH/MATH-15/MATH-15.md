@@ -97,6 +97,11 @@ $$
 $$
 \begin{aligned}
 g(x)=\ln f(x)=\frac{\ln x}{x}\\
-g'(x)=\frac{1-\ln x}{}
+g'(x)=\frac{1-\ln x}{x^{2}}=\frac{f'(x)}{f(x)}\\
+f'(x)=\left( \frac{1-\ln x}{x^{2}} \right)x^{\frac{1}{x}}
 \end{aligned}
 $$
+
+2.
+
+d m
