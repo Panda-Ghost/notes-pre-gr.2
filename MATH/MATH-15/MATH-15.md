@@ -81,5 +81,8 @@ $$
 3.
 
 $$
-\ln f(x)=\frac{1+x}{x} \cdot \ln(1+x)
+\begin{aligned}
+g(x)=(1+x)^{1/x}\\
+f(x)=(1+x)^{1/()}
+\end{aligned}
 $$
