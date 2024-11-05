@@ -81,5 +81,8 @@ $$
 3.
 
 $$
-\ln f(x)=\left( 1+\frac{1}{x} \right)
+\ln f(x)=\left( 1+\frac{1}{x} \right)\ln(1+x)\geq \ln (1+x)
 $$
+
+$\forall a \in \mathbb{R}$
+
