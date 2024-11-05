@@ -68,6 +68,8 @@ $$
 
 $$
 \begin{aligned}
-g(x)=\ln f(x)=\frac{\ln x}{x}
+g(x)=\ln f(x)=\frac{\ln x}{x}\\
+g'(x)=\frac{1-\ln x}{x^{2}}=\frac{f'(x)}{f(x)}\\
+f_{}
 \end{aligned}
 $$
