@@ -72,13 +72,15 @@ $$
 \end{aligned}
 $$
 
+有界
+
 2.
 
 $$
 \ln f(x)= \frac{\ln(1+x)}{x} \leq \frac{x}{x} =1
 $$
 
-tou
+有界
 
 3.
 
