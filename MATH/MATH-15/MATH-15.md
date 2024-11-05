@@ -46,3 +46,8 @@ $$
 $$
 
 
+设 $f:A\subset \mathbb{R }\to \mathbb{R}$ 如果 $\exists M \in \mathbb{R},\text{ s.t. }$
+
+$$
+f(x)
+$$
