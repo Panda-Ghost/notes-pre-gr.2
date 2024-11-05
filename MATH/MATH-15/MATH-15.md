@@ -72,12 +72,14 @@ $$
 \end{aligned}
 $$
 
-所以有上界，有下界显然，故有界
-
 2.
-
-$f$ 单调减
 
 $$
 \ln f(x)= \frac{\ln(1+x)}{x} \leq \frac{x}{x} =1
+$$
+
+3.
+
+$$
+\ln f(x)=\frac{1+x}{x} \cdot \ln(1+x)
 $$
