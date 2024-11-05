@@ -90,4 +90,13 @@ $$
 
 显然无上界
 
-计算这三个函数的dao shu
+计算这三个函数的导数
+
+1.
+
+$$
+\begin{aligned}
+g(x)=\ln f(x)=\frac{\ln x}{x}\\
+g'(x)=\frac{1-\ln x}{}
+\end{aligned}
+$$
