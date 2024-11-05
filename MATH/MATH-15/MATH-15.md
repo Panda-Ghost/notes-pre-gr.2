@@ -64,3 +64,10 @@ $$
 2. $f(x)=(1+x)^{\frac{1}{x}}, \quad x>0$
 3. $f(x)=(1+x)^{\frac{1}{x}+1}, \quad x>0$
 
+1.
+
+$$
+\begin{aligned}
+g(x)=\ln f(x)=\frac{\ln x}{x}
+\end{aligned}
+$$
