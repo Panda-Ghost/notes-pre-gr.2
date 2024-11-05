@@ -81,8 +81,5 @@ $$
 3.
 
 $$
-\begin{aligned}
-g(x)=(1+x)^{1/x}\\
-f(x)=\left( 1+\frac{x}{1+x}+\frac{x^{2}}{1+x} \right)^{1/\left( \frac{x}{1+x} \right)}
-\end{aligned}
+\ln f(x)=\left( 1+\frac{1}{x} \right)
 $$
