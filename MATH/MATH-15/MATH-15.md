@@ -70,6 +70,11 @@ $$
 \begin{aligned}
 g(x)=\ln f(x)=\frac{\ln x}{x}\\
 g'(x)=\frac{1-\ln x}{x^{2}}=\frac{f'(x)}{f(x)}\\
-f_{}
+f_{max}(x)=f(e)=e^{1/e}
 \end{aligned}
 $$
+
+所以有上界，有下界显然，故有界
+
+2.
+
