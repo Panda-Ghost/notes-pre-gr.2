@@ -44,3 +44,4 @@ $$
 &\ln(1+x)<x\implies g'(x)>0\implies f'(x)>0
 \end{aligned}
 $$
+
