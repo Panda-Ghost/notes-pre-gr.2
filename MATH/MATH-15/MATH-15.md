@@ -11,6 +11,7 @@ g(\ln a+x-1)\geq g(\ln x)\\
 h(x)=\ln x-x+1\\
 \ln a\geq h_{max}(x)\\
 h'(x)=\frac{1}{x}-1=\frac{1-x}{x}\\
+
 \end{aligned}
 $$
 
