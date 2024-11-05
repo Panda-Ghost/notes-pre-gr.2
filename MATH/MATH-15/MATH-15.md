@@ -22,9 +22,7 @@ $$
 
 $$
 \begin{aligned}
-g(x) = \ln f(x) =\left(1+\frac{1}{x} \right) \cdot \ln (1+x)\\
-g'(x) = \frac{\frac{x}{1+x}-\ln(1+x)}{x^{2}} = \frac{f'(x)}{f(x)}\\
--\ln(1+x)=\ln\left( 1-\frac{x}{1+x} \right)< -\frac{x}{1+x} \\
-\implies g'(x)<0 \implies f'(x)<0
+g(x) = \ln f(x) =\left(1+\frac{1}{x} \right) \cdot \ln (1+x) = \frac{(1+x)\ln(1+x) }{x}\\
+g'(x) = \frac{1+\ln(1+x)-}{x^{2}}
 \end{aligned}
 $$
