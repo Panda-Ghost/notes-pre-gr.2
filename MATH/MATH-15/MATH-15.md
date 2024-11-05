@@ -68,7 +68,7 @@ $$
 
 $$
 \begin{aligned}
-\ln f(x)=\frac{\ln x}{x}\leq \frac{x-1}{x} ,
+\ln f(x)=\frac{\ln x}{x}\leq \frac{x-1}{x} < 1
 \end{aligned}
 $$
 
@@ -78,4 +78,6 @@ $$
 
 $f$ 单调减
 
-所以 $f(x)\leq \lim_{ x \to 0_{+} }f(x)=e$
+$$
+\ln f(x)= \frac{\ln(1+x)}{x} \leq \frac{x}{x} =1
+$$
