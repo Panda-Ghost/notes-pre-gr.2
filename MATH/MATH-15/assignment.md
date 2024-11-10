@@ -2,7 +2,7 @@
 
 令 $g(x)=e^{x}+x$
 
-则 $f(x)\geq 1 \iff g(\ln a+x-1)\geq \ln x$
+则 $f(x)\geq 1 \iff g(\ln a+x-1)\geq g(\ln x)$
 
 显然 $g(x)$ 单调递增
 
