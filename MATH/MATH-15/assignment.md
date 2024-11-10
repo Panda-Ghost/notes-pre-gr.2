@@ -2,8 +2,13 @@
 
 令 $g(x)=e^{x}+x$
 
-则 $f(x)\geq 1 \iff g$
+则 $f(x)\geq 1 \iff g(\ln a+x-1)\geq \ln x$
 
+显然 $g(x)$ 单调递增
+
+故 $f(x)\geq 1 \iff \ln a+x-1\geq \ln x \iff \ln a \geq \ln x-x+1$
+
+令 $h()$
 
 $$
 \begin{aligned}
