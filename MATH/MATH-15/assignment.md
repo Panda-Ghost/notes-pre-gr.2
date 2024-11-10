@@ -1,5 +1,8 @@
-f$f(x)=ae^{x-1}-\ln x+\ln a\geq 1 \iff e^{\ln a+x-1}+\ln a+x-1\geq x+\ln x$
+注意到 $f(x)=ae^{x-1}-\ln x+\ln a\geq 1 \iff e^{\ln a+x-1}+\ln a+x-1\geq x+\ln x$
 
+令 $g(x)=e^{x}+x$
+
+则 $f(x)\geq 1 \iff g$
 
 
 $$
