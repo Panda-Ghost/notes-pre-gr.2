@@ -81,8 +81,10 @@ $$
 
 $$
 \begin{aligned}
-I=[a,b], \; c \in (a,b)\\
-x \in (a,c), \; y \in (c, b) \implies f(c)  \leq \frac{y-c}{y-x}f(x)  + \frac{c-x}{y-x}f(y)\leq f(c) \\
-\implies (y-x)f(c)=(y-c)f(x)+(c-x)f(y)\iff 0\leq(y-c)(f(c)-f(x)) = (c-x)(f(y)-f(c))\leq 0 \implies 
+
+x, y \in I, x< \implies f(c)  \leq \frac{y-c}{y-x}f(x)  + \frac{c-x}{y-x}f(y)\leq f(c) \\
+\implies (y-x)f(c)=(y-c)f(x)+(c-x)f(y) \\ 
+\implies 0\leq(y-c)(f(c)-f(x)) = (c-x)(f(y)-f(c))\leq 0 \implies f(x)=f(y)=f(c)
 \end{aligned}
 $$
+
