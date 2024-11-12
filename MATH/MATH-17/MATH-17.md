@@ -106,4 +106,8 @@ $$
 
 $B=\left\{  \frac{f(x)-f(x_{0})}{x-x_{0}} \mid x \in (x_{0}, b) \right\}$
 
-可得 $$
+可得 $x\leq y, \quad \forall x \in A, y\in B$
+
+则 $\exists c, x\leq c\leq y, \quad \forall x \in A, y \in B$
+
+即
