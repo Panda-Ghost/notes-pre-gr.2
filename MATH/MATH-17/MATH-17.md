@@ -66,5 +66,13 @@ $$
 设 $a, b\in \mathbb{R},\; a<b, \; f:[a,b]\to \mathbb{R}$ 为凸函数，则
 
 $$
-\max f 
+\max f = \max \{  f(a), f(b) \}
+$$
+
+$$
+\begin{aligned}
+t\in (a, b)\\
+f(t)=f()
+
+\end{aligned}
 $$
