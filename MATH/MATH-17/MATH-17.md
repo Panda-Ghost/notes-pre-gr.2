@@ -98,4 +98,5 @@ $$
 f(x)\geq k(x-x_{0})+f(x_{0}), \quad \forall x \in (a, b)
 $$
 
-直线 $y=k(x-x_{0})+f(x_{0})$ 叫凸函数的zhi ch
+直线 $y=k(x-x_{0})+f(x_{0})$ 叫凸函数的支撑线
+
