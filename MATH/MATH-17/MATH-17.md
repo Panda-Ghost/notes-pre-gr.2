@@ -46,5 +46,11 @@ $$
 设 $f:I\to \mathbb{R}$ 则 $f$ 为凸函数当且仅当 $\forall x_{1},x_{2},x_{3}\in I, x_{1}<x_{2}<x_{3}$
 
 $$
-\frac{f(x_{2})-f(x_{1})}{x_{2}-x_{1}}\leq (f)
+\frac{f(x_{2})-f(x_{1})}{x_{2}-x_{1}}\leq \frac{f(x_{3})-f(x_{2})}{x_{3}-x_{2}}
+$$
+
+$$
+\begin{aligne}
+
+\end{aligne}
 $$
