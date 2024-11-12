@@ -8,4 +8,5 @@ $$
 f((1-\lambda)x+\lambda y)\leq(1-\lambda) f(x)+\lambda f(y), \quad \forall x,y\in I, \lambda \in [0,1]
 $$
 
-称 $f$ 为**凸函数**（
+称 $f$ 为**凸函数**（**下凸函数**）
+
