@@ -74,6 +74,3 @@ $$
 \forall t\in (a, b), \quad f(t)=f\left( \frac{b-t}{b-a}a+\frac{t-a}{b-a}b \right)\leq \frac{b-t}{b-a}f(a)+\frac{t-a}{b-a}f(b)\leq \max \{ f(a),f(b) \}
 \end{aligned}
 $$
-
-
-
