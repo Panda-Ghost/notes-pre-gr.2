@@ -92,4 +92,8 @@ $$
 
 **命题5**
 
-设 $f:(a,b)\to \mathbb{R}$ 为凸函数，$x_{0}\in I$，$x_{0}$ 不是 $I$
+设 $f:(a,b)\to \mathbb{R}$ 为凸函数，$x_{0}\in (a,b)$，则 $\exists k \in \mathbb{R},\text{ s.t. }$
+
+$$
+f(x)\geq k(x-x_{0})+f(x_{0}), \forall
+$$
