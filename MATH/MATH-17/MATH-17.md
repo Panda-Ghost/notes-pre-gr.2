@@ -75,7 +75,7 @@ $$
 \end{aligned}
 $$
 
-**命题4**
+**命题4**（强极值定理）
 
 设 $f:I\to \mathbb{R}$ 为凸函数，$c \in I$，$c$ 不是 $I$ 的端点，如果 $f(c)=\max f$ 则 $f \equiv f(c)$
 
@@ -88,4 +88,5 @@ $$
 \implies &f(x)=f(y)=f(c)
 \end{aligned}
 $$
+
 
