@@ -77,4 +77,5 @@ $$
 
 **命题4**
 
-设 $f:I\to \mathbb{R}$ 为凸函数，$c \in I$，$c$ 不是 $I$ 的端点，如果 $f(c)=\max f$ 则 $f \$
+设 $f:I\to \mathbb{R}$ 为凸函数，$c \in I$，$c$ 不是 $I$ 的端点，如果 $f(c)=\max f$ 则 $f \equiv f(c)$
+
