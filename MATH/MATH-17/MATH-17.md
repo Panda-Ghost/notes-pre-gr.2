@@ -81,6 +81,7 @@ $$
 
 $$
 \begin{aligned}
-
+I=[a,b], \; c \in (a,b)\\
+x \in (a,c), \; y \in (c, b);
 \end{aligned}
 $$
