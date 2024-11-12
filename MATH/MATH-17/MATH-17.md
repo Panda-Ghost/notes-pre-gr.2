@@ -56,6 +56,8 @@ x_{1}=x, x_{3}=y, x_{2}=(1-\lambda)x_{1}+\lambda x_{3}\\
 
 (x_{3}-x_{2})(f(x_{2})-f(x_{1})) \leq (x_{2}-x_{1}) (f(x_{3})-f(x_{2})) \\
 \iff (x_{3}-x_{1})f(x_{2})\leq  (x_{3}-x_{2}) f(x_{1})+(x_{2}-x_{1})f(x_{3}) \\
-\iff f((1-\lambda)x+\lambda y)=f(x_{2})\leq \frac{x_{3}-x_{2}}{x_{3}-x_{1}}f(x_{1})+\frac{x_{2}-x_{1}}{x_{3}-x_{1}}f(x_{3})= (1-\lambda)f(x)+\lambda f(y)
+\iff f((1-\lambda)x+\lambda y)=f(x_{2})\leq \frac{x_{3}-x_{2}}{x_{3}-x_{1}}f(x_{1})+\frac{x_{2}-x_{1}}{x_{3}-x_{1}}f(x_{3})= (1-\lambda)f(x)+\lambda f(y) \\
+\forall x,y \in I, \; \lambda \in (0, 1), \; x\neq y
 \end{aligned}
 $$
+
