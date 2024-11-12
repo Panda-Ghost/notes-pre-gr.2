@@ -110,4 +110,4 @@ $B=\left\{  \frac{f(x)-f(x_{0})}{x-x_{0}} \mid x \in (x_{0}, b) \right\}$
 
 则 $\exists c, x\leq c\leq y, \quad \forall x \in A, y \in B$
 
-即
+即 $\frac{f(x)-f(x_{0})}{x-x_{0}}\leq c \implies f(x)-f(x_{0}) \quad \forall x \in (a,x_{0})$
