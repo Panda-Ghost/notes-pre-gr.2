@@ -19,5 +19,6 @@ $1-\lambda=\frac{y-z}{y-x}, \quad \lambda=\frac{z-x}{y-x}$
 设 $f:I\to \mathbb{R}$ 为凸函数，$x_{1},x_{2},x_{3} \in I$ 如果 $x_{1}<x_{2}<x_{3}$，则
 
 $$
-\frac{f(x_{2})-f(x_{1})}{x_{2}-x_{1}}\leq \frac{f(x_{3})-f(x_{1})}{x_{3}-x_{1}}\leq (f())
+\frac{f(x_{2})-f(x_{1})}{x_{2}-x_{1}}\leq \frac{f(x_{3})-f(x_{1})}{x_{3}-x_{1}}\leq \frac{f(x_{3})-f(x_{2})}{x_{3}-x_{2}}
 $$
+
