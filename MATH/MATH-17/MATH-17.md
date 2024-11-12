@@ -63,4 +63,8 @@ $$
 
 **命题3**
 
-she
+设 $a, b\in \mathbb{R},\; a<b, \; f:[a,b]\to \mathbb{R}$ 为凸函数，则
+
+$$
+\max f 
+$$
