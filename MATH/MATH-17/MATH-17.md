@@ -50,7 +50,8 @@ $$
 $$
 
 $$
-\begin{aligne}
+\begin{aligned}
+x_{1}=x, x_{3}=y, x_{2}=(1-\lambda)x_{1}+\lambda \times_{3}
 
-\end{aligne}
+\end{aligned}
 $$
