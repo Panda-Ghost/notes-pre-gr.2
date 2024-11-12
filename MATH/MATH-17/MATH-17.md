@@ -95,5 +95,7 @@ $$
 设 $f:(a,b)\to \mathbb{R}$ 为凸函数，$x_{0}\in (a,b)$，则 $\exists k \in \mathbb{R},\text{ s.t. }$
 
 $$
-f(x)\geq k(x-x_{0})+f(x_{0}), \forall
+f(x)\geq k(x-x_{0})+f(x_{0}), \quad \forall x \in (a, b)
 $$
+
+直线 $y=k(x-x_{0})+f(x_{0})$ 叫凸函数的zhi ch
