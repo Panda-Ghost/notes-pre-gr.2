@@ -74,4 +74,7 @@ $$
 \forall t\in [a, b], \quad f(t)=f\left( \frac{b-t}{b-a}a+\frac{t-a}{b-a}b \right)\leq \frac{b-t}{b-a}f(a)+\frac{t-a}{b-a}f(b)\leq \max \{ f(a),f(b) \}
 \end{aligned}
 $$
-k j k j d k k f j k d f j d k f d k f d k f j k f
+
+**命题4**
+
+设 $f:I\to \mathbb{R}$ 为凸函数，m k
