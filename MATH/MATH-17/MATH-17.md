@@ -82,6 +82,6 @@ $$
 $$
 \begin{aligned}
 I=[a,b], \; c \in (a,b)\\
-x \in (a,c), \; y \in (c, b) \implies f(c) = \max f \leq f(x) \leq \max f\implies 
+x \in (a,c), \; y \in (c, b) \implies f(c) = \max f \leq \frac{y-c}{y-x}f(x)  + \frac{c-x}{y-x}f(y)\leq \max f\implies 
 \end{aligned}
 $$
