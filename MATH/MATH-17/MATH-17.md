@@ -14,4 +14,6 @@ $z=(1-\lambda)x+\lambda y, \; \lambda \in (0, 1)$ 分点公式
 
 $1-\lambda=\frac{y-z}{y-x}, \quad \lambda=\frac{z-x}{y-x}$
 
-刚刚wlz看le
+**命题1**
+
+设 $f:I\to \mathbb{R}$ 为凸函数，$x_{1},x_{2},x_{3} \in I$
