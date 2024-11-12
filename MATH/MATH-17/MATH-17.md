@@ -102,4 +102,8 @@ $$
 
 证明
 
-设 $A= \left\{   \frac{f(x)-f(x_{0})}{x-x_{0}} \mid \right\}$
+设 $A= \left\{   \frac{f(x)-f(x_{0})}{x-x_{0}} \mid x \in (a, x_{0}) \right\}$
+
+$B=\left\{  \frac{f(x)-f(x_{0})}{x-x_{0}} \mid x \in (x_{0}, b) \right\}$
+
+可得 $$
