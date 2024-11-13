@@ -2,4 +2,4 @@
 
 The graph titled "Vitamin tablets taken by children, 2014" provides a visual representation of the percentage of children who consumed vitamin tablets throughout the year 2014. The movement of the data is divided into seven segments, marked with different colors.
 
-The graph utilizes a line chart format to track the monthly consumption of vitamin tablets among children. The x-axis represents the months of the year, starting from January and ending in December. The y-axis indicates the percentage of children who took the vitamins, ranging from 0% to 25%. During January to March, the percent
+The graph utilizes a line chart format to track the monthly consumption of vitamin tablets among children. The x-axis represents the months of the year, starting from January and ending in December. The y-axis indicates the percentage of children who took the vitamins, ranging from 0% to 25%. During January to March, the percent almost unchanged. Then, 
