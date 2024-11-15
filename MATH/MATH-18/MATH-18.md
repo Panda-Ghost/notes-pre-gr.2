@@ -130,5 +130,8 @@ $$
 $$
 
 $$
-|g(x)-g(x_{0})| \leq \varepsilon, \quad \forall x nn 
+|g(x)-g(x_{0})| \leq \varepsilon, \quad \forall x \in A, |x-x_{0}|< \delta_{2}
 $$
+
+1.
+
