@@ -155,6 +155,7 @@ $$
 
 $$
 \begin{aligned}
-|f(x)g(x)-f(x_{0})g(x_{0})| &=|f(x)
+|f(x)g(x)-f(x_{0})g(x_{0})| &=|f(x)g(x)-f(x_{0})g(x)+f(x_{0})g(x)-f(x_{0})g(x_{0})| \\
+&\leq |g(x)||f
 \end{aligned}
 $$
