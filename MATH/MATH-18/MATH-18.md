@@ -109,3 +109,10 @@ $$
 
 则 
 
+$$
+|f(x)|\leq |f(x_{0})|+1, \quad \forall x \in A, |x-x_{0}|<\delta 
+$$
+
+**命题3**
+
+设 $f,g:A\subset \mathbb{R} \to \mathbb{R}$ 
