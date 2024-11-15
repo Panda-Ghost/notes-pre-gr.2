@@ -118,4 +118,5 @@ $$
 设 $f,g:A\subset \mathbb{R} \to \mathbb{R}$ 在 $x_{0}\in A$ 点连续，$\alpha,\beta \in \mathbb{R}$，则
 
 1. $\alpha f+\beta g$ 在 $x_{0}$ 点连续
-2. $$
+2. $fg$ 在 $x_{0}$ 点连续
+3. 如果 $g(x)\neq 0, \quad \forall x \in A$ 则 $\frac{f}{g}$ 
