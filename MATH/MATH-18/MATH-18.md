@@ -10,4 +10,6 @@ $$
 |f(x)-f(x_{0})|<\varepsilon, \quad \forall x \in A, |x-x_{0}|<\delta
 $$
 
-称 $f$ 
+称 $f$ 在 $x_{0}$ 点连续
+
+如果 $\forall x \in A$，$f$ 在 $x$ 点连续 
