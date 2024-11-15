@@ -184,3 +184,9 @@ $$
 \leq &  \left|  \frac{1}{g(x)}\right| \left(|f(x)-f(x_{0})|+\left| \frac{f(x_{0})}{g(x_{0})}\right| |g(x_{0})-g(x)|\right)
 \end{aligned}
 $$
+
+设 $f,g:A\subset \mathbb{R}\to \mathbb{R}$ 在 $x_{0} \in A$ 点连续
+
+证明：
+
+1. 
