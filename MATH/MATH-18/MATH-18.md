@@ -163,13 +163,7 @@ $$
 
 3.
 
-$g$ 在 $x_{0}$ 点局部有界 $\exists \delta_{3}>0, M \in \mathbb{R},\text{ s.t.}$
-
-$$
-|g(x)|\leq M, \quad \forall x \in A, \; |x-x_{0}|<\delta_{3}
-$$
-
-则
+$g$ 在 
 
 $$
 |g(x)-g(x_{0})|\leq \frac{|g(x_{0})|}{2} \implies |g(x)|\geq \frac{|g(x_{0})|}{2}
