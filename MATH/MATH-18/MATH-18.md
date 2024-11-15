@@ -123,4 +123,12 @@ $$
 
 **证明**
 
-设 $\varepsilon>0, \exists \delta_{1},\delta_{2}>0, $ 
+设 $\varepsilon>0, \exists \delta_{1},\delta_{2}>0,\text{ s.t.}$
+
+$$
+|f(x)-f(x_{0})|\leq\varepsilon, \quad \forall x \in A, |x-x_{0}|<\delta_{1}
+$$
+
+$$
+|g(x)-g(x_{0})| \leq \varepsilon, \quad \forall x nn 
+$$
