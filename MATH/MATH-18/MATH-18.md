@@ -72,4 +72,9 @@ $$
 
 证明
 
-$\implies$ 已知 $f$ 满足定义，设 $\varepsilon>0$ 
+$\implies$ 已知 $f$ 满足定义，设 $\varepsilon>0$ 则 $C\varepsilon>0$ 则 $\exists \delta>0,\text{ s.t.}$
+
+$$
+|f(x)-f(x_{0})|<C\varepsilon, \quad \forall x \in A , \; |x-x_{0}|<\delta
+$$
+
