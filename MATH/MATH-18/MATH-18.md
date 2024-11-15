@@ -47,3 +47,5 @@ H(x)=\left\{
 \end{aligned}\right.
 $$
 
+不连续
+
