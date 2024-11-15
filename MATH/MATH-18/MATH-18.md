@@ -178,7 +178,7 @@ $$
 &\left|\frac{f(x)}{g(x)}-\frac{f(x_{0})}{g(x)}+\frac{f(x_{0})}{g(x)}-\frac{f(x_{0})}{g(x_{0})}\right| \\
 = &\left| \frac{f(x)-f(x_{0})}{g(x)}+f(x_{0})\cdot \frac{g(x_{0})-g(x)}{g(x_{0})g(x)}\right|\\
 \leq &  \left|  \frac{1}{g(x)}\right| \left(|f(x)-f(x_{0})|+\left| \frac{f(x_{0})}{g(x_{0})}\right| |g(x_{0})-g(x)|\right) \\
-\leq & \left| \frac{2}{g(x_{0})}\right| \left(1+\left| \frac{f(x_{0})}{g(x_{0})}\right|\right)
+\leq & \left| \frac{2}{g(x_{0})}\right| \left(1+\left| \frac{f(x_{0})}{g(x_{0})}\right|\right) \varepsilon
 \end{aligned}
 $$
 
@@ -188,3 +188,5 @@ $$
 
 1. $|f|$ 在 $x_{0}$ 点连续
 2. $\max\{ f,g \}, \min\{ f, g \}$ 在 $x_{0}$ 点连续
+
+设 $f:A_{1} \cup A_{2} \subset \mathbb{R}\to \mathbb{R}$
