@@ -151,4 +151,10 @@ $$
 
 令 $\delta=\min\{ \delta_{1},\delta_{2},\delta_{3} \}$
 
-则当 $x \in A, \; |x-x_{0}|<$
+则当 $x \in A, \; |x-x_{0}|<\delta$  时
+
+$$
+\begin{aligned}
+|f(x)g(x)-f(x_{0})g(x_{0})| &=|f(x)
+\end{aligned}
+$$
