@@ -22,4 +22,10 @@ $f(x)=x, \;  x \in \mathbb{R}$ 则 $f$ 连续
 
 $f(x)=x^{2}, \;  x \in \mathbb{R}$ 证明 $f$ 连续
 
-证明 设 $x_{0}\in \mathbb{R}$
+证明 设 $x_{0}\in \mathbb{R}$ 设 $\varepsilon>0$ 令
+
+$$
+\delta = \frac{\varepsilon}{2|x_{0}|+1+\varepsilon}
+$$
+
+则
