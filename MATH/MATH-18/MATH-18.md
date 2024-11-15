@@ -72,4 +72,4 @@ $$
 
 证明
 
-$\implies$ 已知 $$
+$\implies$ 已知 $f$ 满足定义，设 $\varepsilon>0$ 
