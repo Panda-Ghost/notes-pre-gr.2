@@ -63,7 +63,9 @@ $|H(x)-H(0)|=1>\varepsilon$
 
 $$
 \begin{aligned}
-
+&\forall \varepsilon>0 , \exists\delta>0,\text{ s.t.} \\
+&|f(x)-f(x_{0})|\leq C\varepsilon, \forall x \in A, |x-x_{0}|<\delta 
 \end{aligned}
-\forall \varepsilon>0 , \exists\delta>0,\text{ s.t.} |f(x)-f(x_{0})|\leq C\varepsilon, \forall x \in A, |x-x_{0}|<\delta 
 $$
+
+其中 
