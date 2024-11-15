@@ -165,6 +165,6 @@ $$
 
 $$
 \begin{aligned}
-\left|\frac{f(x)}{g(x)}-\frac{f(x_{0})}{g(x)}+\frac{f(x_{0})}{g(x)}-\frac{f(x_{0})}{g(x_{0})}\right| = \left| f(x)-f(x_{0})\right|
+\left|\frac{f(x)}{g(x)}-\frac{f(x_{0})}{g(x)}+\frac{f(x_{0})}{g(x)}-\frac{f(x_{0})}{g(x_{0})}\right| = \left| \frac{f(x)-f(x_{0})}{g(x)}+f(x_{0})\cdot \frac{g(x_{0})-g(x)}{g*x_{9}\right|
 \end{aligned}
 $$
