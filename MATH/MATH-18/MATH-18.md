@@ -28,4 +28,8 @@ $$
 \delta = \frac{\varepsilon}{2|x_{0}|+1+\varepsilon}
 $$
 
-则
+则 当 $|x-x_{0}|<\delta$
+
+$$
+|f(x)-f(x_{0})|\leq (|x|+|x_{0}|)|x-x_{0}|\leq(2|x_{0}|+1)
+$$
