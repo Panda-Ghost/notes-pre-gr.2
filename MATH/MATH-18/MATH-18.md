@@ -156,6 +156,10 @@ $$
 $$
 \begin{aligned}
 |f(x)g(x)-f(x_{0})g(x_{0})| &=|f(x)g(x)-f(x_{0})g(x)+f(x_{0})g(x)-f(x_{0})g(x_{0})| \\
-&\leq |g(x)||f
+&\leq |g(x)||f(x)-f(x_{0})|+|f(x_{0})||g(x)-g(x_{0})|\\
+&\leq (M+|f(x_{0})|+1)\varepsilon
 \end{aligned}
 $$
+
+3.
+
