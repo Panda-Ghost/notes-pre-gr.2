@@ -51,4 +51,8 @@ $$
 
 证明
 
-令 $\varepsilon=\frac{1}{2}$ 
+令 $\varepsilon=\frac{1}{2}$ 设 $\delta>0$
+
+令 $x=\frac{\delta}{2}$ 则 $x-0<\delta$
+
+$|H(x)$
