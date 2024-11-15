@@ -97,4 +97,5 @@ $$
 
 **命题2**
 
-设 $f:A\subset \mathbb{R}\to \mathbb{R}, \; x_{0}\in A$ 如果 $f$  
+设 $f:A\subset \mathbb{R}\to \mathbb{R}, \; x_{0}\in A$ 如果 $f$ 在 $x_{0}$ 点连续，则 $f$ 在 $x_{0}$ 点局部有界
+
