@@ -87,4 +87,10 @@ $$
 
 **定义2**
 
-设 $f:A\subset \mathbb{R} \to \mathbb{R}, \; x_{0} \in A$，如果 $\exists \delta>0, \; M \in \mathbb{R}$ shi de
+设 $f:A\subset \mathbb{R} \to \mathbb{R}, \; x_{0} \in A$，如果 $\exists \delta>0, \; M \in \mathbb{R}$ 使得
+
+$$
+|f(x)|\leq M, \quad \forall x \in A, |x-x_{0}|<\delta
+$$
+
+称 $f$ 在 $x_{0}$ 点局部有界
