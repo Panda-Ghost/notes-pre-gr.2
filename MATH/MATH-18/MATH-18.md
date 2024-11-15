@@ -146,5 +146,9 @@ $$
 $g$ 在 $x_{0}$ 点局部有界，$\exists \delta_{3}>0, M \in \mathbb{R},\text{ s.t.}$
 
 $$
-|g(x)|\leq M, \forall x \in A, |x-x_{0}|
+|g(x)|\leq M, \quad \forall x \in A, |x-x_{0}|<\delta_{3}
 $$
+
+令 $\delta=\min\{ \delta_{1},\delta_{2},\delta_{3} \}$
+
+则当 $x \in A, \; |x-x_{0}|<$
