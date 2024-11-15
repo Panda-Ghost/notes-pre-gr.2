@@ -190,3 +190,7 @@ $$
 2. $\max\{ f,g \}, \min\{ f, g \}$ 在 $x_{0}$ 点连续
 
 设 $f:A_{1} \cup A_{2} \subset \mathbb{R}\to \mathbb{R}$
+
+其中 $A_{1}\cap A_{2}=\varnothing$
+
+如果 $f|_{A_{1}}, f|_{A_{2}}$
