@@ -87,4 +87,4 @@ $$
 
 **定义2**
 
-设 $f$
+设 $f:A\subset \mathbb{R} \to \mathbb{R}, \; x_{0} \in A$，如果 $\exists \delta>0, \; M \in \mathbb{R}$ shi de
