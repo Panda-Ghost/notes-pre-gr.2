@@ -39,7 +39,11 @@ $$
 **例3**
 
 $$
-\begin{aligned}
 
-\end{aligned}
+H(x)=\left\{
+\begin{aligned}
+1, \quad x>0\\
+0, \quad x\leq 0
+\end{aligned}\right.
 $$
+
