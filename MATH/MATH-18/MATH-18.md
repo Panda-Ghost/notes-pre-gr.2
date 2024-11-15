@@ -115,4 +115,7 @@ $$
 
 **命题3**
 
-设 $f,g:A\subset \mathbb{R} \to \mathbb{R}$ 
+设 $f,g:A\subset \mathbb{R} \to \mathbb{R}$ 在 $x_{0}\in A$ 点连续，$\alpha,\beta \in \mathbb{R}$，则
+
+1. $\alpha f+\beta g$ 在 $x_{0}$ 点连续
+2. $$
