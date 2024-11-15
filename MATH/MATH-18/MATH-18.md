@@ -163,3 +163,8 @@ $$
 
 3.
 
+$$
+\begin{aligned}
+\left|\frac{f(x)}{g(x)}-\right|
+\end{aligned}
+$$
