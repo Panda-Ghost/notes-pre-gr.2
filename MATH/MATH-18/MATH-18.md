@@ -59,4 +59,11 @@ $|H(x)-H(0)|=1>\varepsilon$
 
 **命题1**
 
-设 $f:A\subset \mathbb{R}\to \mathbb{R}, \; x_{0} \in A$ 则 $f$ 在 $c$
+设 $f:A\subset \mathbb{R}\to \mathbb{R}, \; x_{0} \in A$ 则 $f$ 在 $x_{0}$ 点连续当且仅当
+
+$$
+\begin{aligned}
+
+\end{aligned}
+\forall \varepsilon>0 , \exists\delta>0,\text{ s.t.} |f(x)-f(x_{0})|\leq C\varepsilon, \forall x \in A, |x-x_{0}|<\delta 
+$$
