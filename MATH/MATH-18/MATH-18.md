@@ -169,7 +169,9 @@ $$
 |g(x)-g(x_{0})|\leq \frac{|g(x_{0})|}{2} \implies |g(x)|\geq \frac{|g(x_{0})|}{2}
 $$
 
-令 $\delta=\$ 
+令 $\delta=\min\{ \delta_{1},\delta_{2},\delta_{3} \}$
+
+则 $\forall x \in A, |x-x_{0}|>\delta$
 
 $$
 \begin{aligned}
