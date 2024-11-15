@@ -79,4 +79,4 @@ $$
 $$
 $\Longleftarrow$ 已知 $f$ 满足命题1的条件，证 $f$ 满足定义
 
-设 $\varepsilon>0$ 
+设 $\varepsilon>0$ 则 $\frac{\varepsilon}{2C}>0$ 因此 $e\xi s$
