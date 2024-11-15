@@ -163,7 +163,7 @@ $$
 
 3.
 
-yo
+you
 
 $$
 |g(x)-g(x_{0})|\leq \frac{|g(x_{0})|}{2} \implies |g(x)|\geq \frac{|g(x_{0})|}{2}
