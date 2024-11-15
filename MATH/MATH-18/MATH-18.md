@@ -55,4 +55,8 @@ $$
 
 令 $x=\frac{\delta}{2}$ 则 $x-0<\delta$
 
-$|H(x)$
+$|H(x)-H(0)|=1>\varepsilon$
+
+**命题1**
+
+设 $f:A\subset \mathbb{R}\to \mathbb{R}, \; x_{0} \in A$ 则 $f$ 在 $c$
