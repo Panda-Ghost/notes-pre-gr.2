@@ -163,13 +163,13 @@ $$
 
 3.
 
-you
+由定义1可得 $\exists \delta_{3} > 0,\text{ s.t.}$
 
 $$
 |g(x)-g(x_{0})|\leq \frac{|g(x_{0})|}{2} \implies |g(x)|\geq \frac{|g(x_{0})|}{2}
 $$
 
-令 
+令 $\delta=\$ 
 
 $$
 \begin{aligned}
