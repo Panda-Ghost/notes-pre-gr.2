@@ -119,4 +119,4 @@ $$
 
 1. $\alpha f+\beta g$ 在 $x_{0}$ 点连续
 2. $fg$ 在 $x_{0}$ 点连续
-3. 如果 $g(x)\neq 0, \quad \forall x \in A$ 则 $\frac{f}{g}$ 
+3. 如果 $g(x)\neq 0, \quad \forall x \in A$ 则 $\frac{f}{g}$ 在 $x_{0}$ 点连续
