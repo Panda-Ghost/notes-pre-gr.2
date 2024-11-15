@@ -82,5 +82,6 @@ $\Longleftarrow$ 已知 $f$ 满足命题1的条件，证 $f$ 满足定义
 设 $\varepsilon>0$ 则 $\frac{\varepsilon}{2C}>0$ 因此 $\exists \delta>0,\text{ s.t.}$ 
 
 $$
-|f(x)-f(x_{0})|\leq C \cdot \frac{\varepsilon}{2C} =\frac{\varepsilon}{2} , \quad \forall x \in A, \; |x
+|f(x)-f(x_{0})|\leq C \cdot \frac{\varepsilon}{2C} =\frac{\varepsilon}{2}<\varepsilon , \quad \forall x \in A, \; |x-x_{0}|<\delta
 $$
+
