@@ -143,3 +143,8 @@ $$
 
 2.
 
+$g$ 在 $x_{0}$ 点局部有界，$\exists \delta_{3}>0, M \in \mathbb{R},\text{ s.t.}$
+
+$$
+|g(x)|\leq M, \forall x \in A, |x-x_{0}|
+$$
