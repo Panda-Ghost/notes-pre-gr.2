@@ -138,5 +138,8 @@ $$
 令 $\delta=\min \{ \delta_{1},\delta_{2} \}$ 则当 $x \in A, |x-x_{0}|<\delta$
 
 $$
-|(\alpha f(x)+\beta g(x))-(\alpha f(x_{0})+\beta g(x_{0}))|\leq(|)
+|(\alpha f(x)+\beta g(x))-(\alpha f(x_{0})+\beta g(x_{0}))|\leq(|\alpha|+|\beta|+1)\varepsilon
 $$
+
+2.
+
