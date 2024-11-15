@@ -120,3 +120,7 @@ $$
 1. $\alpha f+\beta g$ 在 $x_{0}$ 点连续
 2. $fg$ 在 $x_{0}$ 点连续
 3. 如果 $\forall x \in A, g(x)\neq 0$ 则 $\frac{f}{g}$ 在 $x_{0}$ 点连续
+
+**证明**
+
+设 $\varepsilon>0, \exists \delta_{1},\delta_{2}>0, $ 
