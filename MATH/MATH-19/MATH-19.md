@@ -139,5 +139,7 @@ $$
 $\exists \varepsilon>0,\text{ s.t.}$
 
 $$
-|f(x)-f(x_{0})|<(M-f(x_{0}))
+|f(x)-f(x_{0})|< \frac{M-f(x_{0})}{2}, \quad \forall x \in [a,b],|x-x_{0}|<\varepsilon
 $$
+
+则 $f(x)<f(x_{0})+$
