@@ -10,3 +10,8 @@ $$
 
 称 $f$ 在 $x_{0}$ 点连续
 
+**命题**
+
+设 $f:A\subset \mathbb{R}\to \mathbb{R}, \; g:B\subset \mathbb{R}\to \mathbb{R}, \; \mathrm{Rg} f\subset B$
+
+设 $x_{0}\in A, y_{0}=f(x_{0})$
