@@ -156,4 +156,10 @@ $$
 [a_{n},b_{n}]\subset[a,b]\cap(x_{0}-\varepsilon,x_{0}+\varepsilon)
 $$
 
-则 $\sup_{[a_{n},b_{n}]}f\leq \frac{f(x_{0})+M}{2}<$
+则 $\sup_{[a_{n},b_{n}]}f\leq \frac{f(x_{0})+M}{2}<M$ 与3矛盾
+
+所以假设不成立
+
+所以 $f(x_{0})=M$
+
+所以有最大值
