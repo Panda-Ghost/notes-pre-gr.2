@@ -88,4 +88,6 @@ $$
 b_{n}-a_{n}<\varepsilon
 $$
 
-所以 $[a_{n},b_{n}]\subset(x_{0}-\varepsilon,x_{0}+\varepsilon)$
+所以 $[a_{n},b_{n}]\subset(x_{0}-\varepsilon,x_{0}+\varepsilon) \cap [a,b]$
+
+所以 $f$ 在 $[a_{n},b_{n}]$ 上you j
