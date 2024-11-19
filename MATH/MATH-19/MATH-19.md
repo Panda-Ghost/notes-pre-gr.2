@@ -77,3 +77,5 @@ $$
 在 $x_{0}$ 点连续，所以在 $x_{0}$ 点局部有界
 
 $\exists \varepsilon>0,\text{ s.t. } f$ 在 $[a, b]\cap(x_{0}-\varepsilon,x_{0}+\varepsilon)$ 上有界
+
+$a_{n}\leq x_{0}\leq bn$
