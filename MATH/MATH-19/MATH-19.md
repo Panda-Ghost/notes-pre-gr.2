@@ -118,4 +118,8 @@ $\sup_{[a_{1},c_{1}]} f=M$ 或 $\sup_{[c_{1},b_{1}]}f=M$
 2. $b_{n}-a_{n}=\frac{b-a}{2^{n-1}}\to 0$
 3. $\sup_{[a_{n},b_{n}]}f=M$
 
-令 $A=\{  \}$
+令 $A=\{ a_{n} \mid n=1,2,\dots, \} \quad B=\{ b_{n}\mid n=1,2,.., \}$
+
+则 $x\leq y, \; \forall x \in A, y\in B$
+
+$\exists x_{0}$
