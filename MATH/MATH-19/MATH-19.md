@@ -32,6 +32,7 @@ $$
 
 设 $x \in A, |x-x_{0}|<\delta$
 
-则 $$
+$$
 |g(f(x))-g(f(x_{0}))|<\varepsilon
 $$
+
