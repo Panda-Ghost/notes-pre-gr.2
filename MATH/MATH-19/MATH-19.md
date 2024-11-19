@@ -14,4 +14,4 @@ $$
 
 设 $f:A\subset \mathbb{R}\to \mathbb{R}, \; g:B\subset \mathbb{R}\to \mathbb{R}, \; \mathrm{Rg} f\subset B$
 
-设 $x_{0}\in A, y_{0}=f(x_{0})$
+设 $x_{0}\in A, y_{0}=f(x_{0})$ 如果 $f$ 在 $x_{0}$ 点连续，$g$ 在 $y_{0}$ 点连续，则 $g\circ f$ 在 $x_{0}$ 
