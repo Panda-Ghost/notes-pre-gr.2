@@ -122,4 +122,14 @@ $\sup_{[a_{1},c_{1}]} f=M$ 或 $\sup_{[c_{1},b_{1}]}f=M$
 
 则 $x\leq y, \; \forall x \in A, y\in B$
 
-$\exists x_{0}$
+$\exists x_{0}\in \mathbb{R},\text{ s.t.}$
+
+$$
+x\leq x_{0}\leq y, \quad \forall x \in A, y \in B
+$$
+
+即
+
+$$
+a_{n}\leq x_{0}\leq b_{n}, \quad n=1,2,\dots,
+$$
