@@ -24,3 +24,10 @@ $$
 |g(y)-g(y_{0})|<\varepsilon, \quad \forall y \in B, |y-y_{0}|<\sigma
 $$
 
+$\exists \delta>0,\text{ s.t.}$
+
+$$
+|f(x)-f(x_{0})|<\sigma, \quad \forall x \in A, |x-x_{0}|<\delta
+$$
+
+设 $x \in A, |x-x_{0}|<\delta$
