@@ -150,4 +150,10 @@ $$
 
 所以在 $[a,b]\cap(x_{0}-\varepsilon,x_{0}+\varepsilon)$ 上 $\sup f \leq \frac{f(x_{0})+M}{2}<M$
 
-$\exists n \in \mathbb{N}^{*}$
+$\exists n \in \mathbb{N}^{*},\text{ s.t.}$
+
+$$
+[a_{n},b_{n}]\subset[a,b]\cap(x_{0}-\varepsilon,x_{0}+\varepsilon)
+$$
+
+则 $\sup_{[a_{n},b_{n}]}f\leq \frac{f(x_{0})+M}{2}<$
