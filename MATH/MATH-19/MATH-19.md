@@ -147,3 +147,6 @@ $$
 $$
 f(x)< \frac{f(x_{0})+M}{2}<M, \quad \forall x \in [a,b], |x-x_{0}|<\varepsilon
 $$
+
+所以在 $[a,b]\cap(x_{0}-\varepsilon,x_{0}+\varepsilon)$ 上 $\sup f <M$
+
