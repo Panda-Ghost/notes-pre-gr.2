@@ -61,3 +61,11 @@ $$
 1. $[a_{n},b_{n}]\supset [a_{n+1},b_{n+1}]$
 2. $b_{n}-a_{n}=\frac{b-a}{2^{n-1}}\to 0$
 3. $f$ 在 $[a_{n},b_{n}]$ 上无界
+
+令 $A=\{ a_{n} \mid n=1,2,\dots, \}$
+
+$B=\{ b_{n} \mid n=1,2,\dots, \}$
+
+则 $x\leq y,\quad \forall x \in A, y \in B$
+
+所以
