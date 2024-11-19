@@ -21,5 +21,6 @@ $$
 设 $\varepsilon>0, \; \exists \sigma >0,\text{ s.t.}$
 
 $$
-|g(y)-g(y_{0})|<\varepsilon, \quad \forall y \in B, |y-y
+|g(y)-g(y_{0})|<\varepsilon, \quad \forall y \in B, |y-y_{0}|<\sigma
 $$
+
