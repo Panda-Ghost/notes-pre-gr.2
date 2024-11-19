@@ -74,3 +74,4 @@ $$
 x\leq x_{0}\leq y, \quad \forall x \in A, y \in B
 $$
 
+在 $x_{0}$ 点连续，所以 $x_{0}$ 点局部有界
