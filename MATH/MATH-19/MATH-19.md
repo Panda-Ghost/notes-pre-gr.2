@@ -142,4 +142,8 @@ $$
 |f(x)-f(x_{0})|< \frac{M-f(x_{0})}{2}, \quad \forall x \in [a,b],|x-x_{0}|<\varepsilon
 $$
 
-则 $f(x)<f(x_{0})+$
+则 
+
+$$
+f(x)< \frac{f(x_{0})+M}{2}<M, \quad \forall x \in [a,b], |x-x_{0}|<\varepsilon
+$$
