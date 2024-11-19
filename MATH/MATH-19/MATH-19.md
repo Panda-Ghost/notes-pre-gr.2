@@ -68,4 +68,9 @@ $B=\{ b_{n} \mid n=1,2,\dots, \}$
 
 则 $x\leq y,\quad \forall x \in A, y \in B$
 
-所以
+$\exists x_{0}\in \mathbb{R},\text{ s.t.}$
+
+$$
+x\leq x_{0}\leq y, \quad \forall x \in A, y \in B
+$$
+
