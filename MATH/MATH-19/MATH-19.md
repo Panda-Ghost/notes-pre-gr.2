@@ -78,4 +78,8 @@ $$
 
 $\exists \varepsilon>0,\text{ s.t. } f$ 在 $[a, b]\cap(x_{0}-\varepsilon,x_{0}+\varepsilon)$ 上有界
 
-$a_{n}\leq x_{0}\leq bn$
+$$
+a_{n}\leq x_{0}\leq b_{n}, \quad \forall n=1,2,\dots,
+$$
+
+$\exists N in$
