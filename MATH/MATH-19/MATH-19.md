@@ -74,4 +74,6 @@ $$
 x\leq x_{0}\leq y, \quad \forall x \in A, y \in B
 $$
 
-在 $x_{0}$ 点连续，所以 $x_{0}$ 点局部有界
+在 $x_{0}$ 点连续，所以在 $x_{0}$ 点局部有界
+
+$\exists \varepsilon>0,\text{ s.t. } f$ 在 $[a, b]\cap(x_{0}-\varepsilon,x_{0}+\varepsilon)$ 上有界
