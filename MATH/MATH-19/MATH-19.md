@@ -14,8 +14,12 @@ $$
 
 设 $f:A\subset \mathbb{R}\to \mathbb{R}, \; g:B\subset \mathbb{R}\to \mathbb{R}, \; \mathrm{Rg} f\subset B$
 
-设 $x_{0}\in A, \; _{0}=f(x_{0})$，如果 $f$ 在 $x_{0}$ 点连续，$g$ 在 $y_{0}$ 点连续，则 $g\circ f$ 在 $x_{0}$ 点连续
+设 $x_{0}\in A, \; y_{0}=f(x_{0})$，如果 $f$ 在 $x_{0}$ 点连续，$g$ 在 $y_{0}$ 点连续，则 $g\circ f$ 在 $x_{0}$ 点连续
 
 **证明**
 
-设 $\varepsilon>0$ 
+设 $\varepsilon>0, \; \exists \sigma >0,\text{ s.t.}$
+
+$$
+|g(y)-g(y_{0})|<\varepsilon, \quad \forall y \in B, |y-y
+$$
