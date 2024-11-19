@@ -82,4 +82,10 @@ $$
 a_{n}\leq x_{0}\leq b_{n}, \quad \forall n=1,2,\dots,
 $$
 
-$\exists N in$
+$\exists N \in \mathbb{N}^{*},\text{ s.t.}$
+
+$$
+b_{n}-a_{n}<\varepsilon
+$$
+
+所以 $[a_{n},b_{n}]\subset(x_{0}-\varepsilon,x_{0}+\varepsilon)$
