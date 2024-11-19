@@ -100,5 +100,5 @@ $$
 
 **证明**
 
-令 $M=\sup f$
+令 $M=\sup f$ 下面证 $\exists x_{0}\in[a,b],\text{ s.t. } f(x_{0})=M$
 
