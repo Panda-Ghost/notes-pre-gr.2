@@ -50,5 +50,5 @@ $$
 所以
 
 $$
-
+\frac{|f(x)-f(y)|}{|x-y|}=\left| \frac{f(x)-f(y)}{x-y}\right|=\max\left\{  \frac{f(x)-f(y)}{}   \right\}
 $$
