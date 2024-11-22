@@ -18,4 +18,11 @@ $$
 
 当 $x\neq y$ 时，
 
-bu shi yi ban x
+不失一般性，我们假设 $x<y$，
+
+则有
+
+$$
+a<a'<a_{1}\leq x<y\leq b_{1}<b'<b
+$$
+
