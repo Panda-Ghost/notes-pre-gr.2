@@ -36,3 +36,11 @@ $$
 $$
 
 则
+
+$$
+\left\{
+\begin{aligned}
+\frac{f(x)-f(y)}{x-y}\leq \frac{f(b_{1})-f(b')}{b_{1}-b'}
+\end{aligned}
+\right.
+$$
