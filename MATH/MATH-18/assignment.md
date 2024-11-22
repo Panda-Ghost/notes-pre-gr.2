@@ -3,7 +3,7 @@
 构造 
 
 $$
-M=\max \left\{   \left| \frac{f(a')-f(a_{1})}{a'-a_{1}}\right|  , \left| \frac{f(b') - f(b_{1})}{ b'-b_{1}} \right|\right\}
+M=\max \left\{   \left| \frac{f(a')-f(a_{1})}{a'-a_{1}}\right|  , \left| \frac{f(b_{1}) - f(b')}{ b_{1}-b'} \right|\right\}
 $$
 
 下面证 $M$ 满足题意
@@ -32,5 +32,7 @@ $$
 
 $$
 \frac{f(a')-f(a_{1})}{a'-a_{1}}\leq \frac{f(a')-f(y)}{a'-y}
-\leq \frac{f(x)-f(y)}{x-y} \leq \frac{f(x)-f(b')}{x-b'}\leq \frac{f(b)}{}
+\leq \frac{f(x)-f(y)}{x-y} \leq \frac{f(x)-f(b')}{x-b'}\leq \frac{f(b_{1})-f(b')}{b_{1}-b'}
 $$
+
+则
