@@ -32,5 +32,5 @@ $$
 
 $$
 \frac{f(a')-f(a_{1})}{a'-a_{1}}\leq \frac{f(a')-f(y)}{a'-y}
-\leq 
+\leq \frac{f(x)-f(y)}{x-y} \leq \frac{f(x)-f(b')}{x-b'}\leq \frac{f(b)}{}
 $$
