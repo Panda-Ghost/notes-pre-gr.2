@@ -40,9 +40,9 @@ $$
 $$
 \left\{
 \begin{aligned}
-&\frac{f(x)-f(y)}{x-y}\leq \frac{f(b_{1})-f(b')}{b_{1}-b'}\leq \left| \frac{f(b_{1})-f(b')}{b_{1}-b'}\right|\\
-&-\frac{f(x)-f(y)}{x-y} \leq - \frac{ f(a')-f(a_{1})}{a'-a_{1}} \leq
-
+&\frac{f(x)-f(y)}{x-y}&\leq \frac{f(b_{1})-f(b')}{b_{1}-b'}&&&\leq \left| \frac{f(b_{1})-f(b')}{b_{1}-b'}\right|\\
+&-\frac{f(x)-f(y)}{x-y} &\leq - \frac{ f(a')-f(a_{1})}{a'-a_{1}} &&&\leq
+\left| \frac{f(a')-f(a_{1})}{a'-a_{1}}\right|
 \end{aligned}
 \right.
 $$
