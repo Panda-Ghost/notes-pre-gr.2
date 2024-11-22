@@ -26,3 +26,4 @@ $$
 a<a'<a_{1}\leq x<y\leq b_{1}<b'<b
 $$
 
+由于 $f:(a,b)\to \mathbb{R}$ 时
