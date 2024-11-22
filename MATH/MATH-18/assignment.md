@@ -51,7 +51,12 @@ $$
 
 $$
 \begin{aligned}
-\frac{|f(x)-f(y)|}{|x-y|}=\left| \frac{f(x)-f(y)}{x-y}\right|=\max\left\{  \frac{f(x)-f(y)}{x-y} , - \frac{f(x)-f(y)}{x-y}   \right\}\leq \max \left\{   \left| \frac{f(a')-f(a_{1})}{a'-a_{1}}\right|  , \left| \frac{f(b_{1}) - f(b')}{ b_{1}-b'} \right|\right\}
+\frac{|f(x)-f(y)|}{|x-y|}&=\left| \frac{f(x)-f(y)}{x-y}\right|\\
+
+&=\max\left\{  \frac{f(x)-f(y)}{x-y} , - \frac{f(x)-f(y)}{x-y}   \right\}\\
+
+&\leq \max \left\{   \left| \frac{f(a')-f(a_{1})}{a'-a_{1}}\right|  , \left| \frac{f(b_{1}) - f(b')}{ b_{1}-b'} \right|\right\}=M
 
 \end{aligned}
 $$
+
