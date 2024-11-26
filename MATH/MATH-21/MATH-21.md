@@ -43,9 +43,14 @@
 
 欧拉公式：$e^{i\theta}=\cos \theta+\mathrm{i}\sin \theta$
 
-**证明**
+**练习**
+
+证明：
 
 $$
 \frac{1}{2}+\sum_{k=1}^{n}\cos kx= \frac{\sin\left( n+\frac{1}{2} \right)x}{2\sin \frac{1}{2}x}
 $$
 
+$$
+
+$$
