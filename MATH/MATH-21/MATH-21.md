@@ -32,7 +32,9 @@
    $\tan \alpha=\frac{2t}{1-t^{2}}$
 8. 积化和差
    $2\sin \alpha \sin \beta=\cos(\alpha-\beta)-\cos(\alpha+\beta)$
-   $2\cos \alpha \cos \beta=$
+   $2\cos \alpha \cos \beta=\cos(\alpha+\beta)+\cos(\alpha-\beta)$
+   $2\sin \alpha \cos \beta=\sin(\alpha+\beta)+\sin(\alpha-\beta)$
+   $2\cos \alpha \sin \beta$
 
 欧拉公式：$e^{i\theta}=\cos \theta+\mathrm{i}\sin \theta$
 
