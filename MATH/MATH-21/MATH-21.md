@@ -8,6 +8,7 @@
    $\cos (x+k\pi)=(-1)^{k}\cos x$
    $\sin\left( x+(2k+1)\frac{\pi}{2} \right) =(-1)^{k+1}\cos x$
    $\cos\left( x+(2k+1) \frac{\pi}{2} \right)=(-1)^{k}\sin x$
+3. 
 
 欧拉公式：$e^{i\theta}=\cos \theta+\mathrm{i}\sin \theta$
 
