@@ -36,8 +36,10 @@
    $2\sin \alpha \cos \beta=\sin(\alpha+\beta)+\sin(\alpha-\beta)$，
    $2\cos \alpha \sin \beta=\sin(\alpha+\beta)-\sin (\alpha-\beta)$
 9. 和差化积，
-   $\cos x- \cos y = 2 \sin \left(  \frac{x+y}{2} \right)\sin\left( \frac{x-y}{2} \right)$
-   $\cos x+\cos y=2\cos\left( \frac{x+y}{2} \right)\cos((x-y))$
+   $\cos x- \cos y = 2 \sin \left(  \frac{x+y}{2} \right)\sin\left( \frac{y-x}{2} \right)$
+   $\cos x+\cos y=2\cos\left( \frac{x+y}{2} \right)\cos\left( \frac{y-x}{2} \right)$
+   $\sin x+\sin y=2\sin\left( \frac{x+y}{2} \right)\cos\left( \frac{x-y}{2} \right)$
+   $\sin x-\sin y=2$
 
 
 欧拉公式：$e^{i\theta}=\cos \theta+\mathrm{i}\sin \theta$
