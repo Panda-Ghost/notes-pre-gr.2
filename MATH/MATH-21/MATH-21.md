@@ -26,9 +26,10 @@
    $\sin \frac{\alpha}{2}=\pm \sqrt{ \frac{1-\cos \alpha}{2} }$，
    $\cos \frac{\alpha}{2}=\pm \sqrt{ \frac{1+\cos \alpha}{2} }$，
    $\tan \frac{\alpha}{2}=\pm \sqrt{ \frac{1-\cos \alpha}{1+\cos \alpha} }=\frac{\sin \alpha}{1+\cos \alpha}= \frac{1-\cos \alpha}{\sin \alpha}$
-7. 万能公式
-   $\sin \alpha=\frac{2t}{1+t^{2}}$
-   $\cos \alpha=(1-t^{2})$
+7. 万能公式，令 $t=\tan \frac{\alpha}{2}$，
+   $\sin \alpha=\frac{2t}{1+t^{2}}$，
+   $\cos \alpha=\frac{1-t^{2}}{1+t^{2}}$，
+   $\tan \alpha=\frac{2t}{1-t^{2}}$
 
 欧拉公式：$e^{i\theta}=\cos \theta+\mathrm{i}\sin \theta$
 
