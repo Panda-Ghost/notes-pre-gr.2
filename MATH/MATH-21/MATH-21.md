@@ -22,9 +22,9 @@
    $\cos ^{2}\alpha=\frac{1+\cos 2\alpha}{2}$
    $\sin ^{2}\alpha=\frac{1-\cos 2\alpha}{2}$
 6. 半角公式
-   $\sin \frac{\alpha}{2}=$
-   $\cos \frac{\alpha}{2}=$
-   $\tan \frac{\alpha}{2}$
+   $\sin \frac{\alpha}{2}=\pm \sqrt{ \frac{1-\cos \alpha}{2} }$
+   $\cos \frac{\alpha}{2}=\pm \sqrt{ \frac{1+\cos \alpha}{2} }$
+   $\tan \frac{\alpha}{2}=\pm$
 
 
 欧拉公式：$e^{i\theta}=\cos \theta+\mathrm{i}\sin \theta$
