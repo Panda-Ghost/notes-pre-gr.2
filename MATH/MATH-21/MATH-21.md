@@ -10,7 +10,9 @@
    $\cos\left( x+(2k+1) \frac{\pi}{2} \right)=(-1)^{k}\sin x$
 3. $\sin(\alpha +\beta)=\sin \alpha \cos \beta+\cos \alpha \sin \beta$
    $\sin(\alpha -\beta)=\sin \alpha \cos \beta-\cos \alpha \sin \beta$
-   $\cos$
+   $\cos(\alpha+\beta)=\cos \alpha \cos \beta-\sin \alpha \sin \beta$
+   $\cos(\alpha-\beta)=\cos \alpha \cos \beta+\sin \alpha \sin \beta$
+   $\tan(\alpha+\beta)=\frac{\tan \alpha+\tan \beta}{}$
 
 欧拉公式：$e^{i\theta}=\cos \theta+\mathrm{i}\sin \theta$
 
