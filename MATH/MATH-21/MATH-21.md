@@ -18,6 +18,7 @@
    $\sin(2\alpha)=2\sin \alpha \cos \alpha$，
    $\cos(2\alpha)=\cos ^{2}\alpha-\sin ^{2}\alpha=2\cos ^{2}\alpha-1=1-2\sin ^{2}\alpha$，
    $\tan(2\alpha)=\frac{2\tan \alpha}{1-\tan ^{2}\alpha}$
-
+5. 降幂公式
+   $\cos ^{2}\alpha=(1+\cos 2\alpha)$
 欧拉公式：$e^{i\theta}=\cos \theta+\mathrm{i}\sin \theta$
 
