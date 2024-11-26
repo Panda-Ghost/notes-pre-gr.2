@@ -24,7 +24,7 @@
 6. 半角公式
    $\sin \frac{\alpha}{2}=\pm \sqrt{ \frac{1-\cos \alpha}{2} }$
    $\cos \frac{\alpha}{2}=\pm \sqrt{ \frac{1+\cos \alpha}{2} }$
-   $\tan \frac{\alpha}{2}=\pm$
+   $\tan \frac{\alpha}{2}=\pm \sqrt{ \frac{1-\cos \alpha}{1+\cos \alpha} }=\frac{\sin \alpha}{1+\cos \alpha}= \frac{1-\cos \alpha}{\sin \alpha}$
 
 
 欧拉公式：$e^{i\theta}=\cos \theta+\mathrm{i}\sin \theta$
