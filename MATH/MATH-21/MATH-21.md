@@ -41,7 +41,5 @@
    $\sin x+\sin y=2\sin\left( \frac{x+y}{2} \right)\cos\left( \frac{x-y}{2} \right)$，
    $\sin x-\sin y=2\cos\left( \frac{x+y}{2} \right)\sin\left( \frac{x-y}{2} \right)$
 
-
-
 欧拉公式：$e^{i\theta}=\cos \theta+\mathrm{i}\sin \theta$
 
