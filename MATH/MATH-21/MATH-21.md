@@ -52,6 +52,6 @@ $$
 $$
 
 $$
-\sum_{k=0}^{n-1} \frac{ \sin\left( k+\frac{1}{2} \right)x }{\sin \frac{1}{2} x} = \frac{1-\cos nx}{1-\cos x}
+\sum_{k=0}^{n-1} \frac{ \sin\left( k+\frac{1}{2} \right)x }{\sin \frac{1}{2} x} = 2\cdot \frac{1-\cos nx}{1-\cos x}
 $$
 
