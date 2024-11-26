@@ -56,8 +56,8 @@ $$
 $$
 
 
-推导 $\sin 3 \theta$
+推导 $\sin 3 \theta, \; \cos 3 \theta$ 的公式
 
 $$
-
+e^{}
 $$
