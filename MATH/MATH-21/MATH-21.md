@@ -12,7 +12,9 @@
    $\sin(\alpha -\beta)=\sin \alpha \cos \beta-\cos \alpha \sin \beta$
    $\cos(\alpha+\beta)=\cos \alpha \cos \beta-\sin \alpha \sin \beta$
    $\cos(\alpha-\beta)=\cos \alpha \cos \beta+\sin \alpha \sin \beta$
-   $\tan(\alpha+\beta)=\frac{\tan \alpha+\tan \beta}{}$
+   $\tan(\alpha+\beta)=\frac{\tan \alpha+\tan \beta}{1-\tan \alpha \tan \beta}$
+   $\tan(\alpha-\beta )=\frac{\tan \alpha-\tan \beta}{1+\tan \alpha \tan \beta}$
+   
 
 欧拉公式：$e^{i\theta}=\cos \theta+\mathrm{i}\sin \theta$
 
