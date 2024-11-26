@@ -43,3 +43,8 @@
 
 欧拉公式：$e^{i\theta}=\cos \theta+\mathrm{i}\sin \theta$
 
+**证明**
+
+$$
+\frac{1}{2}+
+$$
