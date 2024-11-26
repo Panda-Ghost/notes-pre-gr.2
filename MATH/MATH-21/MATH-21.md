@@ -6,4 +6,6 @@
 2. 诱导公式
    $\sin(x+k\pi)=(-1)^{k}\sin x$
    $\cos (x+k\pi)=(-1)^{k}\cos x$
-   $\sin\left( x+\frac{(2k+1)\pi}{2} \right)$
+   $\sin\left( x+(2k+1)\frac{\pi}{2} \right) =(-1)^{k+1}\cos x$
+   $\cos\left( x+(2k+1) \frac{\pi}{2} \right)=(-1)^{k}\sin x$
+   
