@@ -11,4 +11,3 @@
 
 欧拉公式：$e^{i\theta}=\cos \theta+\mathrm{i}\sin \theta$
 
-$\alpha fkdjfkjd\alpha kjdkfjsk$
