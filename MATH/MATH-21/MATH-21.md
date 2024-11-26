@@ -2,7 +2,8 @@
 
 ## 三角恒等式
 
-1. 基本 $\sin ^{2} x+\cos ^{2}x=1, \;\tan x= \frac{\sin x }{\cos x}$ 
+1. 基本，
+   $\sin ^{2} x+\cos ^{2}x=1, \;\tan x= \frac{\sin x }{\cos x}$ 
 2. 诱导公式，
    $\sin(x+k\pi)=(-1)^{k}\sin x$，
    $\cos (x+k\pi)=(-1)^{k}\cos x$，
@@ -21,11 +22,12 @@
 5. 降幂公式，
    $\cos ^{2}\alpha=\frac{1+\cos 2\alpha}{2}$，
    $\sin ^{2}\alpha=\frac{1-\cos 2\alpha}{2}$
-6. 半角公式
-   $\sin \frac{\alpha}{2}=\pm \sqrt{ \frac{1-\cos \alpha}{2} }$
-   $\cos \frac{\alpha}{2}=\pm \sqrt{ \frac{1+\cos \alpha}{2} }$
+6. 半角公式，
+   $\sin \frac{\alpha}{2}=\pm \sqrt{ \frac{1-\cos \alpha}{2} }$，
+   $\cos \frac{\alpha}{2}=\pm \sqrt{ \frac{1+\cos \alpha}{2} }$，
    $\tan \frac{\alpha}{2}=\pm \sqrt{ \frac{1-\cos \alpha}{1+\cos \alpha} }=\frac{\sin \alpha}{1+\cos \alpha}= \frac{1-\cos \alpha}{\sin \alpha}$
-
+7. 万能公式
+   $$
 
 欧拉公式：$e^{i\theta}=\cos \theta+\mathrm{i}\sin \theta$
 
