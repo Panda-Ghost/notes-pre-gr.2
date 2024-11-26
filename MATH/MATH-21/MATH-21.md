@@ -18,8 +18,8 @@
    $\sin(2\alpha)=2\sin \alpha \cos \alpha$，
    $\cos(2\alpha)=\cos ^{2}\alpha-\sin ^{2}\alpha=2\cos ^{2}\alpha-1=1-2\sin ^{2}\alpha$，
    $\tan(2\alpha)=\frac{2\tan \alpha}{1-\tan ^{2}\alpha}$
-5. 降幂公式
-   $\cos ^{2}\alpha=\frac{1+\cos 2\alpha}{2}$
+5. 降幂公式，
+   $\cos ^{2}\alpha=\frac{1+\cos 2\alpha}{2}$，
    $\sin ^{2}\alpha=\frac{1-\cos 2\alpha}{2}$
 6. 半角公式
    $\sin \frac{\alpha}{2}=\pm \sqrt{ \frac{1-\cos \alpha}{2} }$
