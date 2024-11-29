@@ -1,4 +1,4 @@
 # MATH-22
 
 1. $\sin 3\theta=4\sin(60 ^ \circ -\theta)\sin \theta \sin (60^\circ+\theta)$
-2. $\cos 3\theta=4\cos(60^{\circ}+\theta)\cos \theta \cos(60^{\circ}+theh)$
+2. $\cos 3\theta=4\cos(60^{\circ}+\theta)\cos \theta \cos(60^{\circ}+\theta)$
