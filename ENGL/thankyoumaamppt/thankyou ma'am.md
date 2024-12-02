@@ -84,7 +84,7 @@ When they were finished eating she got up and said, “Now, here, take this ten 
 
 **She led him down the hall to the front door and opened it.** “Good-night! Behave yourself, boy!” she said, looking out into the street.
 
-The boy wanted to say something other than, “Thank you, m’am,” to Mrs. Luella Bates Washington Jones, but although his lips moved, he couldn’t even say that as he turned at the foot of the barren9 stoop and looked up at the large woman in the door. He barely managed to say “Thank you” before she shut the door. And he never saw her again.
+The boy wanted to say something other than, “Thank you, m’am,” to Mrs. Luella Bates Washington Jones, but although his lips moved, he couldn’t even say that as he turned at the foot of the barren stoop and looked up at the large woman in the door. He barely managed to say “Thank you” before she shut the door. And he never saw her again.
 
 她身材高大，钱包很大，除了锤子和钉子什么都有。它有一条长带子，她把它挂在肩上。大约是晚上十一点，她独自走着，这时一个男孩跑到她身后，想抢她的钱包。那男孩从后面一拉，皮带就断了。但是，男孩的体重和钱包的重量加在一起，使他失去了平衡，所以，男孩没有像他希望的那样全速起飞，而是仰面朝天地摔在人行道上，腿飞了起来。那个身材高大的女人只是转过身来，在他穿蓝色牛仔裤的坐垫上踢了他一脚。然后，她伸手抓住男孩的衬衫前襟，把他拎起来，摇了摇他，直到他的牙齿格格作响。
 
