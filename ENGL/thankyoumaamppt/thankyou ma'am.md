@@ -64,7 +64,7 @@ The water dripping from his face, the boy looked at her. There was a long pause.
 
 The woman was sitting on the day-bed. After a while she said, “I were young once and I wanted things I could not get.”
 
-There was another long pause. The boy’s mouth opened. Then he frowned, but not knowing he frowned.
+There was another long pause. The boy’s mouth opened. **Then he frowned, but not knowing he frowned.**
 
 The woman said, “Um-hum! You thought I was going to say but, didn’t you? You thought I was going to say, but I didn’t snatch people’s pocketbooks. Well, I wasn’t going to say that.” Pause. Silence. “I have done things, too, which I would not tell you, son — neither tell God, if he didn’t already know. So you set down while I fix us something to eat. You might run that comb through your hair so you will look presentable.”
 
