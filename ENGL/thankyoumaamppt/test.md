@@ -16,4 +16,6 @@ These bold words reflect hostility toward the large women from the boy's perspec
 
 The word "dash" and the repeated use of "run" convey the author's excitement that the boy had a good chance of running, and the contrast with the actual action reflects the boy's inner desire for trust.
 
+> "You ought to be my son.  I would teach you right from wrong,"
+
 > 
