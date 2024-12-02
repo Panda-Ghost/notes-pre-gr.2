@@ -18,4 +18,6 @@ The word "dash" and the repeated use of "run" convey the author's excitement tha
 
 > "You ought to be my son.  I would teach you right from wrong,"
 
-> 
+
+
+> "Take this ten dollars and buy yourself some blue suede shoes.  And next time, do not make the mistake of latching onto my pocketbook nor nobody else’s."
