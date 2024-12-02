@@ -26,7 +26,7 @@ By that time two or three people passed, stopped, turned to look, and some stood
 
 “Then it will get washed this evening,” **said the large woman starting up the street, dragging the frightened boy behind her.**
 
-He looked as if he were fourteen or fifteen, frail and willow-wild, in tennis shoes and blue jeans.
+**He looked as if he were fourteen or fifteen, frail and willow-wild, in tennis shoes and blue jeans.**
 
 The woman said, “You ought to be my son. I would teach you right from wrong. Least I can do right now is to wash your face. Are you hungry?”
 
