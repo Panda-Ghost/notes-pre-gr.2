@@ -1,4 +1,4 @@
-She was a large woman with a large purse that had everything in it but hammer and nails. It had a long strap, and she carried it slung across her shoulder. It was about eleven o’clock at night, and she was walking alone, when a boy ran up behind her and tried to snatch her purse. The strap broke with the single tug the boy gave it from behind. But the boy’s weight and the weight of the purse combined caused him to lose his balance so, instead of taking off full blast as he had hoped, the boy fell on his back on the sidewalk, and his legs flew up. The large woman simply turned around and kicked him right square in his blue-jeaned sitter. Then she reached down, picked the boy up by his shirt front, and shook him until his teeth rattled.
+She was a large woman with a large purse that had everything in it but hammer and nails. It had a long strap, and she carried it slung across her shoulder. It was about eleven o’clock at night, and she was walking alone, when a boy ran up behind her and tried to snatch her purse. The strap broke with the single tug the boy gave it from behind. But the boy’s weight and the weight of the purse combined caused him to lose his balance so, instead of taking off full blast as he had hoped, the boy fell on his back on the sidewalk, and his legs flew up. The large woman simply turned around and kicked him right square in his blue-jeaned sitter. **Then she reached down, picked the boy up by his shirt front, and shook him until his teeth rattled.**
 
 After that the woman said, “Pick up my pocketbook, boy, and give it here.” She still held him. But she bent down enough to permit him to stoop and pick up her purse. Then she said, “Now ain’t you ashamed of yourself?”
 
@@ -24,7 +24,7 @@ By that time two or three people passed, stopped, turned to look, and some stood
 
 “No’m,” said the boy.
 
-“Then it will get washed this evening,” said the large woman starting up the street, dragging the frightened boy behind her.
+“Then it will get washed this evening,” **said the large woman starting up the street, dragging the frightened boy behind her.**
 
 He looked as if he were fourteen or fifteen, frail and willow-wild, in tennis shoes and blue jeans.
 
