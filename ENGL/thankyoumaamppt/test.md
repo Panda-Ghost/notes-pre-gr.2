@@ -8,7 +8,7 @@ Tone can portray a variety of emotions ranging from solemn, grave, and critical 
 
 ## Example
 
-> The large woman simply turned around and kicked him right square in his blue-jeaned sitter. Then she reached down, picked the boy up by his shirt front, and shook him until his teeth rattled.
+> The large woman simply turned around and **kicked** him right square in his blue-jeaned sitter. Then she reached down, picked the boy up by his shirt front, and shook him until his teeth **rattled**.
 
 
 
