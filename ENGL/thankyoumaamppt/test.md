@@ -10,7 +10,7 @@ Tone can portray a variety of emotions ranging from solemn, grave, and critical 
 
 > The large woman simply turned around and **kicked** him right square in his blue-jeaned sitter. Then she reached down, picked the boy up by his shirt front, and shook him until his teeth **rattled**.
 
-
+These bold words reflect hostility toward women from a boy's perspective
 
 In the story "Thank You Ma'am," the tone serves as a critical element that shapes the reader's understanding and emotional response to the narrative. The tone can be described as a mix of sternness, compassion, and ultimately, redemption. Here's an analysis of the tone in different parts of the story with examples:
 
