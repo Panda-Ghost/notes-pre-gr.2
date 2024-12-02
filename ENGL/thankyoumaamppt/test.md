@@ -14,6 +14,6 @@ These bold words reflect hostility toward the large women from the boy's perspec
 
 > He could make a **dash** for it down the hall. He could run, run, run, run, run!
 
-The word "dash" and the repeated use of "run" wrote out the boy's excitement at the great chance of running at that time.
+The word "dash" and the repeated use of "run" convey the author's excitement that the boy had a good chance of running, and the contrast with the actual action reflects the boy's inner desire for trust.
 
 > 
