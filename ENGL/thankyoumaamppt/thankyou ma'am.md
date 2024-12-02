@@ -64,4 +64,15 @@ The water dripping from his face, the boy looked at her. There was a long pause.
 
 The woman was sitting on the day-bed. After a while she said, “I were young once and I wanted things I could not get.”
 
-There was another long pause. The boy’s mouth opened. Then he frowned, but not knowing he frowned. The woman said, “Um-hum! You thought I was going to say but, didn’t you? You thought I was going to say, but I didn’t snatch people’s pocketbooks. Well, I wasn’t going to say that.” Pause. Silence. “I have done things, too, which I would not tell you, son — neither tell God, if he didn’t already know. So you set down while I fix us something to eat. You might run that comb through your hair so you will look presentable.” In another corner of the room behind a screen was a gas plate8 and an icebox. Mrs. Jones got up and went behind the screen. The woman did not watch the boy to see if he was going to run now, nor did she watch her purse which she left behind her on the day-bed. But the boy took care to sit on the far side of the room where he thought she could easily see him out of the corner of her eye, if she wanted to. He did not trust the woman not to trust him. And he did not want to be mistrusted now. “Do you need somebody to go to the store,” asked the boy, “maybe to get some milk or something?” “Don’t believe I do,” said the woman, “unless you just want sweet milk yourself. I was going to make cocoa out of this canned milk I got here.” “That will be fine,” said the boy.
+There was another long pause. The boy’s mouth opened. Then he frowned, but not knowing he frowned.
+
+The woman said, “Um-hum! You thought I was going to say but, didn’t you? You thought I was going to say, but I didn’t snatch people’s pocketbooks. Well, I wasn’t going to say that.” Pause. Silence. “I have done things, too, which I would not tell you, son — neither tell God, if he didn’t already know. So you set down while I fix us something to eat. You might run that comb through your hair so you will look presentable.”
+
+In another corner of the room behind a screen was a gas plate and an icebox. Mrs. Jones got up and went behind the screen. The woman did not watch the boy to see if he was going to run now, nor did she watch her purse which she left behind her on the day-bed. But the boy took care to sit on the far side of the room where he thought she could easily see him out of the corner of her eye, if she wanted to. He did not trust the woman not to trust him. And he did not want to be mistrusted now.
+
+“Do you need somebody to go to the store,” asked the boy, “maybe to get some milk or something?”
+
+“Don’t believe I do,” said the woman, “unless you just want sweet milk yourself. I was going to make cocoa out of this canned milk I got here.” 
+
+“That will be fine,” said the boy.
+
