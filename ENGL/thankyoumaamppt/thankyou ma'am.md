@@ -76,3 +76,12 @@ In another corner of the room behind a screen was a gas plate and an icebox. Mrs
 
 “That will be fine,” said the boy.
 
+She heated some lima beans and ham she had in the icebox, made the cocoa, and set the table. The woman did not ask the boy anything about where he lived, or his folks, or anything else that would embarrass him. Instead, as they ate, she told him about her job in a hotel beauty-shop that stayed open late, what the work was like, and how all kinds of women came in and out, blondes, red-heads, and Spanish. Then she cut him a half of her ten-cent cake.
+
+“Eat some more, son,” she said.
+
+When they were finished eating she got up and said, “Now, here, take this ten dollars and buy yourself some blue suede shoes. And next time, do not make the mistake of latching onto my pocketbook nor nobody else’s — because shoes come by devilish like that will burn your feet. I got to get my rest now. But I wish you would behave yourself, son, from here on in.” 
+
+She led him down the hall to the front door and opened it. “Good-night! Behave yourself, boy!” she said, looking out into the street.
+
+The boy wanted to say something other than, “Thank you, m’am,” to Mrs. Luella Bates Washington Jones, but although his lips moved, he couldn’t even say that as he turned at the foot of the barren9 stoop and looked up at the large woman in the door. He barely managed to say “Thank you” before she shut the door. And he never saw her again.
