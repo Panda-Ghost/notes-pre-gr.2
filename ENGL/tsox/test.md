@@ -20,7 +20,7 @@ In this grand hall, there display a group of great alumni of XJTU.
 
 邹韬奋 China modern famous journalist, political commentator, hero model figure.
 
-陆定一 
+陆定一 China's outstanding proletarian revolutionary.
 
 ---
 
