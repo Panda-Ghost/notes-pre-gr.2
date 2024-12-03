@@ -24,7 +24,8 @@ In this grand hall, there display a group of great alumni of XJTU.
 
 江泽民 The principal founder of The Theory of Three Represents, he was once the President of the People's Republic of China
 
-蒋新松 
-  
+蒋新松 The father of Chinese robots
+
+侯宗廉 
 
 During the 65 years of westward relocation, XJTU has graduated 280,000 graduates, nearly 50 of whom became academicians of Chinese Academy of Sciences and/or Chinese Academy of Engineering.
