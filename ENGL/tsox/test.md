@@ -26,6 +26,8 @@ In this grand hall, there display a group of great alumni of XJTU.
 
 蒋新松 The father of Chinese robots
 
-侯宗廉 
+侯宗廉 China modern famous physiologist, medical scientist.
+
+---
 
 During the 65 years of westward relocation, XJTU has graduated 280,000 graduates, nearly 50 of whom became academicians of Chinese Academy of Sciences and/or Chinese Academy of Engineering.
