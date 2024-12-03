@@ -10,9 +10,9 @@ In this grand hall, there display a group of great alumni of XJTU.
 
 ---
 
-张元济 A famous publisher in modern China
+张元济 A famous publisher in modern China.
 
-蔡元培 
+蔡元培 A famous revolutionary, educator and politician in modern China.
 
 蔡锷 A military general, a Chinese revolutionary leader in Xinhai Revolution of 1911
 
