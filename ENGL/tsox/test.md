@@ -18,7 +18,9 @@ In this grand hall, there display a group of great alumni of XJTU.
 
 黄炎培 A famous democratic revolutionist in modern China.
 
+邹韬奋 China modern famous journalist, political commentator, hero model figure.
 
+陆定一 
 
 ---
 
