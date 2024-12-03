@@ -22,7 +22,7 @@ In this grand hall, there display a group of great alumni of XJTU.
 
 吴文俊 Wu Wenjun, the master of topology in the world.
 
-
+江泽民 
   
 
 During the 65 years of westward relocation, XJTU has graduated 280,000 graduates, nearly 50 of whom became academicians of Chinese Academy of Sciences and/or Chinese Academy of Engineering.
