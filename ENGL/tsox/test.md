@@ -16,13 +16,15 @@ In this grand hall, there display a group of great alumni of XJTU.
 
 ---
 
-钱学森 Qian Xuesen (Tsien Hsue-shen), an eminent scientist and the founding father of Chinese rocketry and spaceflight.
+钱学森 An eminent scientist and the founding father of Chinese rocketry and spaceflight.
 
-张光斗 Zhang Guangdou, the leading expert in China's water conservancy and hydropower engineering.
+张光斗 The leading expert in China's water conservancy and hydropower engineering.
 
-吴文俊 Wu Wenjun, the master of topology in the world.
+吴文俊 The master of topology in the world.
 
-江泽民 
+江泽民 The principal founder of The Theory of Three Represents, he was once the President of the People's Republic of China
+
+jing xin song
   
 
 During the 65 years of westward relocation, XJTU has graduated 280,000 graduates, nearly 50 of whom became academicians of Chinese Academy of Sciences and/or Chinese Academy of Engineering.
