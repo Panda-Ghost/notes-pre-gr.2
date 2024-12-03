@@ -8,13 +8,20 @@
 
 In this grand hall, there display a group of great alumni of XJTU.
 
-蔡锷 Cai E, a military general, a Chinese revolutionary leader in Xinhai Revolution of 1911;
+---
+
+
+
+蔡锷 Cai E, a military general, a Chinese revolutionary leader in Xinhai Revolution of 1911
+
+---
 
 钱学森 Qian Xuesen (Tsien Hsue-shen), an eminent scientist and the founding father of Chinese rocketry and spaceflight.
 
+张光斗 Zhang Guangdou, the leading expert in China's water conservancy and hydropower engineering.
+
 吴文俊 Wu Wenjun, the master of topology in the world.
 
-张光斗Zhang Guangdou, the leading expert in China's water conservancy and hydropower engineering.
 
   
 
