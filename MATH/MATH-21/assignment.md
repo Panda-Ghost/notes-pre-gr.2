@@ -24,7 +24,11 @@ $f'(x)=\left( \frac{\sin x}{\cos x} \right)'= \frac{\cos ^{2} x+\sin ^{2}x}{\cos
 
 2.
 
-$g'(x)=2\cos(2)$
+$g'(x)=2(\cos(2x+1)+\tan x)$
+
+若 $x\leq \frac{\pi}{4}-\frac{1}{2}$
+
+则
 
 (2) 对 $g(x)$ 求导得
 $$
