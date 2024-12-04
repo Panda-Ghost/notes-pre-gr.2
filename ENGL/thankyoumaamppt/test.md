@@ -14,7 +14,7 @@ end of para. 1 page 68
 
 These bold words reflect hostility toward the large women from the boy's perspective.
 
-
+end of para. 33 page 71
 
 > He could make a **dash** for it down the hall. He could run, run, run, run, run!
 
