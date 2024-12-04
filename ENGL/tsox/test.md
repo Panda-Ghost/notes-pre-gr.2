@@ -45,3 +45,14 @@ During the 65 years of westward relocation, XJTU has graduated 280,000 graduates
 
 ( Long journey to the west, spectacular and splendid )
 
+Now we are in the Westward Relocation Square, which tells the history of the west relocation of Jiaotong University
+
+Behind me is a relief depicting, from right to left, the Xujiahui Campus of Jiaotong University, the Shanghai Railway Station at the beginning of the relocation to the west, and the Bund in 1956
+
+Come here, this sculpture with the arrow as the main body, the arrow hollowed out footprints. The arrow points to the west, and the back of the arrow and the interior of the footprint carve out elements related to industry. This represents the westbound shoe.
+
+Walking to my right, we saw another relief, with scenes from left to right of the Xianning Road campus of Jiaotong University, the arrival of the move to the west, and Xi 'an City in the early 1960s.
+
+These magnificent buildings illustrate the spirit of the university's move west
+
+considering first and foremost the national interest, making selfless contributions, carrying on traditions, and pioneering with hard work.
