@@ -34,7 +34,9 @@ $g'(x)=2(\cos(2x+1)+\tan x)$
 
 则 $g'(x)\geq2\left( -\sin\left( 2x+1-\frac{\pi}{2} \right) +2x+1-\frac{\pi}{2}\right) > 0$
 
-所以 $g'(x)> 0 \;$
+所以 $g'(x)> 0, \; \forall  x \in\left( 0, \frac{\pi}{2} \right)$
+
+而 $g(0)$
 
 
 
