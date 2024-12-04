@@ -28,7 +28,9 @@ $g'(x)=2(\cos(2x+1)+\tan x)$
 
 若 $x \leq \frac{\pi}{4}-\frac{1}{2}$ 则 $\cos(2x+1)\geq0 \wedge \tan x > 0 \implies g'(x)>0$
 
-若 $x=\frac{\pi}{4}-\frac{1}{2}$ 
+若 $x>\frac{\pi}{4}-\frac{1}{2}$ 则
+
+由1且 $f(x)$ 是凸函数可知 $f($
 
 (2) 对 $g(x)$ 求导得
 $$
