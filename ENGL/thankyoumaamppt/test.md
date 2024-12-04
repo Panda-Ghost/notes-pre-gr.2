@@ -20,4 +20,4 @@ end of para. 33 page 71
 
 The word "dash" and the repeated use of "run" convey the author's excitement that the boy had a good chance of running, and the contrast with the actual action reflects the boy's inner desire for trust.
 
-From these examples, we see the author uses words with his own emotions or opinions. That makes this article has 
+From these examples, we see the author uses words with his own emotions or opinions. That makes this article has tones. These tones 
