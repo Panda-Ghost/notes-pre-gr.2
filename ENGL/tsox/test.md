@@ -53,6 +53,6 @@ Come here, this sculpture with the arrow as the main body, the arrow hollowed ou
 
 Walking to my right, we saw another relief, with scenes from left to right of the Xianning Road campus of Jiaotong University, the arrival of the westward relocation, and Xi 'an City in the early 1960s.
 
-These magnificent buildings illustrate the spirit of the university's move west
+These magnificent buildings illustrate the spirit of westward academic relocation
 
 considering first and foremost the national interest, making selfless contributions, carrying on traditions, and pioneering with hard work.
