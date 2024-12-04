@@ -49,7 +49,7 @@ Now we are in the Westward Relocation Square, which tells the history of the wes
 
 Behind me is a relief depicting, from right to left, the Xujiahui Campus of Jiaotong University, the Shanghai Railway Station at the beginning of the westward relocation, and the Bund in 1956.
 
-Come here, this sculpture with the arrow as the main body, the arrow hollowed out footprints. The arrow points to the west, and the back of the arrow and the interior of the footprints carve out elements related to industry. This represents the westward shoe.
+Come here, this sculpture with the arrow as the main body, the arrow hollowed out footprints. The arrow points to the west, and the back of the arrow and the interior of the footprints carve out elements related to industry. This represents the westward relocation shoes.
 
 Walking to my right, we saw another relief, with scenes from left to right of the Xianning Road campus of Jiaotong University, the arrival of the move to the west, and Xi 'an City in the early 1960s.
 
