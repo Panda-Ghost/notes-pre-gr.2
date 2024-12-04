@@ -20,7 +20,11 @@ $$
 
 $f'(x)=\left( \frac{\sin x}{\cos x} \right)'= \frac{\cos ^{2} x+\sin ^{2}x}{\cos ^{2}x}=\frac{1}{\cos ^{2} x}$
 
-所以切线为 $y=$
+所以切线为 $y=\frac{1}{\cos ^{2} \frac{\pi}{4}}\left( x-\frac{\pi}{4} \right)+1=2x+1-\frac{\pi}{4}$
+
+2.
+
+$g'(x)=2\cos(2)$
 
 (2) 对 $g(x)$ 求导得
 $$
