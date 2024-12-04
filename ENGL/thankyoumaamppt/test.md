@@ -8,9 +8,13 @@ Tone can portray a variety of emotions ranging from solemn, grave, and critical 
 
 ## Example
 
+end of para. 1 page 68
+
 > The large woman simply turned around and **kicked** him right square in his blue-jeaned sitter. Then she reached down, picked the boy up by his shirt front, and shook him until his teeth **rattled**.
 
 These bold words reflect hostility toward the large women from the boy's perspective.
+
+
 
 > He could make a **dash** for it down the hall. He could run, run, run, run, run!
 
