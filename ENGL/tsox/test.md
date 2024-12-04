@@ -45,16 +45,3 @@ During the 65 years of westward relocation, XJTU has graduated 280,000 graduates
 
 ( Long journey to the west, spectacular and splendid )
 
-August 10, 1956 will surely be recorded in the history of XJTU, when thousands of academic faculty and students of Jiaotong University left Shanghai for Xi’an by the Special Train for Northwest China. 
-
-The scene that large crowds of people, including teachers and students from other universities in Shanghai, coming to bid farewell was carved on the reliefs of the Westward Relocation Square.
-
-On the background wall of the Westward Relocation Square was inscribed the "Jiaotong University's Journey to the West", with 16 characters of the content of westward relocation spirit, a brief introduction of the westward relocation, and the evolution of various institutions set up for the relocation. 
-
-The footprints on the sculpture of "Journey to the West" symbolize the firm pace of marching westward.
-
-In the square, there are six relief works, which are about: The Bund (Shanghai), an aerial view of Xujiahui Campus of Jiaotong University in Shanghai, an aerial view of Xi'an city during the relocation of the university, an aerial view of Xi'an Campus, the scene of bidding farewell in Shanghai Railway Station, and the scene of welcoming teachers and students from Shanghai to Xi'an. 
-
-The square witnessed what happened on the new campus, and the legend of westward
-
-relocation was written by these ordinary but great people.
