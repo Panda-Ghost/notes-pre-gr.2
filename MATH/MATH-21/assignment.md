@@ -36,7 +36,9 @@ $g'(x)=2(\cos(2x+1)+\tan x)$
 
 所以 $g'(x)> 0, \; \forall  x \in\left( 0, \frac{\pi}{2} \right)$
 
-而 $g(0)$
+而 $g(0)=\sin 1$，又 $x\to \frac{\pi}{2} \implies g(x) \to  +\infty$
+
+故 $g(x)$
 
 
 
