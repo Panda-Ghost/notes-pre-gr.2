@@ -8,6 +8,8 @@ Tone can portray a variety of emotions ranging from solemn, grave, and critical 
 
 ## Example
 
+now let me explain it by the following examples.
+
 end of para. 1 page 68
 
 > The large woman simply turned around and **kicked** him right square in his blue-jeaned sitter. Then she reached down, picked the boy up by his shirt front, and shook him until his teeth **rattled**.
@@ -22,4 +24,4 @@ The word "dash" and the repeated use of "run" convey the author's excitement tha
 
 From these examples, we see the author uses words with his own emotions or opinions to someone or something, like the hostility to the women and the excitement to the situation where the boy can run.
 
-That makes this article has tones. These tones let us think about the gratitude and praise for the benevolence and kindness from other people.
+Those makes this article has tones. These tones let us think about the gratitude and praise for the benevolence and kindness from other people.
