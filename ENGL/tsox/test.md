@@ -51,7 +51,7 @@ Behind me is a relief depicting, from right to left, the Xujiahui Campus of Jiao
 
 Come here, this sculpture with the arrow as the main body, the arrow hollowed out footprints. The arrow points to the west, and the back of the arrow and the interior of the footprints carve out elements related to industry. This represents the westbound shoes.
 
-Walking to my right, we saw another relief, with scenes from left to right of the Xianning Road campus of Jiaotong University, the arrival of the move to the west, and Xi 'an City in the early 1960s.
+Walking to my right, we saw another relief, with scenes from left to right of the Xianning Road campus of Jiaotong University, the arrival of the westward relocation, and Xi 'an City in the early 1960s.
 
 These magnificent buildings illustrate the spirit of the university's move west
 
