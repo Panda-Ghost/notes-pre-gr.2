@@ -18,7 +18,9 @@ $$
 
 1.
 
-$f'(x)=\left( \frac{\sin x}{\cos x} \right)'=$
+$f'(x)=\left( \frac{\sin x}{\cos x} \right)'= \frac{\cos ^{2} x+\sin ^{2}x}{\cos ^{2}x}=\frac{1}{\cos ^{2} x}$
+
+所以切线为 $y=$
 
 (2) 对 $g(x)$ 求导得
 $$
