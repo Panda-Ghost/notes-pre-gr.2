@@ -32,7 +32,11 @@ $g'(x)=2(\cos(2x+1)+\tan x)$
 
 由1且 $f(x)$ 是凸函数可知 $\tan x \geq 2x+1-\frac{\pi}{2}, \; \forall x \in\left( 0, \frac{\pi}{2} \right)$
 
-则 $g'(x)=2\left( -\sin\left( 2x+1-\frac{\pi}{2} \right) +2x+1-\frac{\pi}{2}\right)$
+则 $g'(x)\geq2\left( -\sin\left( 2x+1-\frac{\pi}{2} \right) +2x+1-\frac{\pi}{2}\right) > 0$
+
+所以 $g'(x)> 0 \;$
+
+
 
 (2) 对 $g(x)$ 求导得
 $$
