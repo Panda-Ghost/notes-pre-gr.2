@@ -19,3 +19,5 @@ end of para. 33 page 71
 > He could make a **dash** for it down the hall. He could run, run, run, run, run!
 
 The word "dash" and the repeated use of "run" convey the author's excitement that the boy had a good chance of running, and the contrast with the actual action reflects the boy's inner desire for trust.
+
+From this examples, we see that author use words with his o
