@@ -38,7 +38,7 @@ $g'(x)=2(\cos(2x+1)+\tan x)$
 
 而 $g(0)=\sin 1$，又 $x\to \frac{\pi}{2} \implies g(x) \to  +\infty$
 
-故 $g(x)$
+故 $x \in \left( 0, \frac{\pi}{2} \right)$ 时 $g(x)$ 的值域为 $(\sin 1, +\infty)$
 
 
 
