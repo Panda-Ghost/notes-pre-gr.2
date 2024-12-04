@@ -20,7 +20,7 @@ $$
 
 $f'(x)=\left( \frac{\sin x}{\cos x} \right)'= \frac{\cos ^{2} x+\sin ^{2}x}{\cos ^{2}x}=\frac{1}{\cos ^{2} x}$
 
-所以切线为 $y=\frac{1}{\cos ^{2} \frac{\pi}{4}}\left( x-\frac{\pi}{4} \right)+1=2x+1-\frac{\pi}{4}$
+所以切线为 $y=\frac{1}{\cos ^{2} \frac{\pi}{4}}\left( x-\frac{\pi}{4} \right)+1=2x+1-\frac{\pi}{2}$
 
 2.
 
@@ -30,7 +30,9 @@ $g'(x)=2(\cos(2x+1)+\tan x)$
 
 若 $x>\frac{\pi}{4}-\frac{1}{2}$ 则
 
-由1且 $f(x)$ 是凸函数可知 $f($
+由1且 $f(x)$ 是凸函数可知 $\tan x \geq 2x+1-\frac{\pi}{2}, \; \forall x \in\left( 0, \frac{\pi}{2} \right)$
+
+则 $g'(x)=2\left( -\sin\left( 2x+1-\frac{\pi}{2} \right) +2x+1-\frac{\pi}{2}\right)$
 
 (2) 对 $g(x)$ 求导得
 $$
