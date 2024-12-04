@@ -18,7 +18,7 @@ $$
 
 1.
 
-$f'(x)=$
+$f'(x)=\left( \frac{\sin x}{\cos x} \right)'=$
 
 (2) 对 $g(x)$ 求导得
 $$
