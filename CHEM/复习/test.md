@@ -40,6 +40,11 @@
 
 最大电子亲和能 $\mathrm{Cl}$ 不是 $\mathrm{F}$
 
-为什么不是 $\mathrm{F}$
+- 为什么不是 $\mathrm{F}$
 #### 电负性
 
+### 分子结构
+
+重要 $\mathrm{VSEPR}$
+
+#### 分子结构
