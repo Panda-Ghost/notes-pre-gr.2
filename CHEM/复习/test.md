@@ -69,3 +69,6 @@ $\mathrm{en}$: 乙二胺
 
 电子数>14 $\pi, \sigma,\pi^{*},\sigma^{*}$
 
+#### 分子间作用力
+
+qing jian
