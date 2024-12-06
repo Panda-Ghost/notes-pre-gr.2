@@ -16,8 +16,6 @@ In this grand hall, there display a group of great alumni of XJTU.
 
 蔡锷 A military general, a Chinese revolutionary leader in Xinhai Revolution of 1911.
 
----
-
 黄炎培 A famous democratic revolutionist in modern China.
 
 邹韬奋 China modern famous journalist, political commentator, hero model figure.
@@ -31,8 +29,6 @@ In this grand hall, there display a group of great alumni of XJTU.
 张光斗 The leading expert in China's water conservancy and hydropower engineering.
 
 吴文俊 The master of topology in the world.
-
----
 
 江泽民 The principal founder of The Theory of Three Represents, he was once the President of the People's Republic of China.
 
