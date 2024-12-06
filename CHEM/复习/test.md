@@ -97,4 +97,6 @@ $\mathrm{en}$: 乙二胺
 
 体心立方堆积 (68%, 8)(Na, K)
 
-能带理论：类比 MO Theory, m
+能带理论：类比 MO Theory, $E_{g}$
+
+
