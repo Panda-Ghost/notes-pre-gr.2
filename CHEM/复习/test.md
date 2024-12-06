@@ -54,3 +54,5 @@ $\mathrm{XeF_{2}}$
 $\mathrm{[Co(en)_{3}]^{3+}}$
 
 $\mathrm{en}$: 乙二胺
+
+环戊二烯负离子
