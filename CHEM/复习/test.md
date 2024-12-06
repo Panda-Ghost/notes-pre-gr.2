@@ -48,3 +48,6 @@
 重要 $\mathrm{VSEPR}$
 
 #### 分子结构
+
+$\mathrm{XeF_{2}}$
+\mathrm{[Co(en)_{3}]^{3+}}$
