@@ -65,7 +65,7 @@ $\mathrm{en}$: 乙二胺
 
 分子轨道的数量，电子排布式，磁性
 
+电子数<14 $\sigma,\pi ,\pi^{*},\sigma^{*}$
 
-$\sigma,\pi ,\pi^{*},\sigma^{*}$
+电子数>14 $\pi, \sigma,\pi^{*},\sigma^{*}$
 
-$\pi,$
