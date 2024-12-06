@@ -50,4 +50,7 @@
 #### 分子结构
 
 $\mathrm{XeF_{2}}$
-\mathrm{[Co(en)_{3}]^{3+}}$
+
+$\mathrm{[Co(en)_{3}]^{3+}}$
+
+$\mathrm{en}$: 乙二胺
