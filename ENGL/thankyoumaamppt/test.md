@@ -18,25 +18,25 @@ Billy ( give a sign to Billy )
  
 # Billy:
 
-  Thank you, Tim. In Question 2 
+Thank you, Tim. In Question 2 
 
 ……
 
-  My job’s done. Now let us welcome Mickey help us solve the 3rd Question.
+My job’s done. Now let us welcome Mickey help us solve the 3rd Question.
 
-  Mickdy ( give a sign to Mickey )
+Mickdy ( give a sign to Mickey )
 
 Mickey:
 
-  Thank you, Billy. Well, now let’s take a look at the last question:
+Thank you, Billy. Well, now let’s take a look at the last question:
 
-  ……
+……
 
-  Well, all above are my opinion on this question.
+Well, all above are my opinion on this question.
 
-  Now let’s get into Part 2: Analysis on rhetorical devices. We are responsible for 3 devices: Symbolism, Mood, and Tone. I’m in charge of symbolism, Tim is in charge of Mood, and Billy will be responsible for Tone. Let’s start.
+Now let’s get into Part 2: Analysis on rhetorical devices. We are responsible for 3 devices: Symbolism, Mood, and Tone. I’m in charge of symbolism, Tim is in charge of Mood, and Billy will be responsible for Tone. Let’s start.
 
-  Now let’s look at Symbolism.
+Now let’s look at Symbolism.
 
   ……
 
