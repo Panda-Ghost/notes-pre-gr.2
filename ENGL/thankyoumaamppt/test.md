@@ -38,27 +38,27 @@ Now let’s get into Part 2: Analysis on rhetorical devices. We are responsible 
 
 Now let’s look at Symbolism.
 
-  ……
+……
 
-  That’s all I’m gonna introduce about symbolism. Now let Tim present his part -- Mood. 
+That’s all I’m gonna introduce about symbolism. Now let Tim present his part -- Mood. 
 
-  Tim ( give a sign to Tim )
+Tim ( give a sign to Tim )
 
 Tim:
 
-  Thank you, Mickey.
+Thank you, Mickey.
 
-  ……
+……
 
-  My part is finished. Now let Billy show his work. 
+My part is finished. Now let Billy show his work. 
 
-  Billy ( give a sign to Billy)
+Billy ( give a sign to Billy)
 
 # Billy:
 
-  Thank you, Tim.
+Thank you, Tim.
 
-  ……
+……
 
 By now, our presentation is done.
 
