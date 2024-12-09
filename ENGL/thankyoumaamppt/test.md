@@ -1,5 +1,68 @@
+Mickey: 
 
+Good Afternoon, I’m Mickey, this is Billy, and this is Tim. 
 
+Today we have divided our presentation into 2 parts: in part 1, we will respectively answer 3 questions as required, in part 2, we will introduce our analysis on 3 rhetorical devices. Now let’s get into Part 1.
+
+Tim ( give a sign to Tim )
+
+Tim:
+
+ Now let me solve the Question 1
+
+ ……
+
+  That’s my answer, now let Billy help us solve the Question 2.
+
+  Billy ( give a sign to Billy )
+ 
+Billy:
+
+  Thank you, Tim. In Question 2 
+
+……
+
+  My job’s done. Now let us welcome Mickey help us solve the 3rd Question.
+
+  Mickdy ( give a sign to Mickey )
+
+Mickey:
+
+  Thank you, Billy. Well, now let’s take a look at the last question:
+
+  ……
+
+  Well, all above are my opinion on this question.
+
+  Now let’s get into Part 2: Analysis on rhetorical devices. We are responsible for 3 devices: Symbolism, Mood, and Tone. I’m in charge of symbolism, Tim is in charge of Mood, and Billy will be responsible for Tone. Let’s start.
+
+  Now let’s look at Symbolism.
+
+  ……
+
+  That’s all I’m gonna introduce about symbolism. Now let Tim present his part -- Mood. 
+
+  Tim ( give a sign to Tim )
+
+Tim:
+
+  Thank you, Mickey.
+
+  ……
+
+  My part is finished. Now let Billy show his work. 
+
+  Billy ( give a sign to Billy)
+
+Billy:
+
+  Thank you, Tim.
+
+  ……
+
+By now, our presentation is done.
+
+Together:Thank you for listening.
 
 # Tone
 
