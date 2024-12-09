@@ -8,15 +8,15 @@ Tim ( give a sign to Tim )
 
 Tim:
 
- Now let me solve the Question 1
+Now let me solve the Question 1
 
- ……
+……
 
-  That’s my answer, now let Billy help us solve the Question 2.
+That’s my answer, now let Billy help us solve the Question 2.
 
-  Billy ( give a sign to Billy )
+Billy ( give a sign to Billy )
  
-Billy:
+# Billy:
 
   Thank you, Tim. In Question 2 
 
@@ -54,7 +54,7 @@ Tim:
 
   Billy ( give a sign to Billy)
 
-Billy:
+# Billy:
 
   Thank you, Tim.
 
