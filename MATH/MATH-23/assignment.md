@@ -12,4 +12,5 @@
 
 所以 $x \in [0, \pi]$ 时，$f''(x)\leq 0$
 
-因为 $f'(0)=0$，所以 $\forall x  \in [0,\pi], \; x$
+因为 $f'(0)=0$，所以 $\forall x  \in [0,\pi], \; f'(x)\leq0$
+
