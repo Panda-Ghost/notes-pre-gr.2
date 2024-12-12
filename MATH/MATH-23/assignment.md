@@ -1,6 +1,6 @@
-设 $f(x)=\cos x+x \sin x- \frac{e^x+e^{-x}}{2}$
+设 $g(x)=\cos x+x \sin x- \frac{e^x+e^{-x}}{2}$
 
-则 $f'(x)=x\cos x- \frac{e^{x}-e^{-x}}{2}$
+则 $g'(x)=x\cos x- \frac{e^{x}-e^{-x}}{2}$
 
 则 $f''(x)=\cos x-x\sin x-\frac{e^{x}+e^{-x}}{2}$
 
@@ -15,3 +15,5 @@
 因为 $f'(0)=0$，所以 $\forall x  \in [0,\pi], \; f'(x)\leq0$
 
 又因为 $f(0)=0$，所以 $\forall x \in [0, \pi], \; f(x)\leq 0$
+
+所以
