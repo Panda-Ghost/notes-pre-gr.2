@@ -4,3 +4,4 @@
 
 则 $f''(x)=\cos x-x\sin x-\frac{e^{x}+e^{-x}}{2}$
 
+当 $x \in [0, \pi]$
