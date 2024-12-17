@@ -48,4 +48,5 @@ $$
 \frac{z}{r}=\cos \theta+\mathrm{i}\sin \theta
 $$
 
-$\theta$，$z$ 的幅角，$\theta \in [0, 2\pi)$，$z$ 的幅角主值，$\theta=\mathrm{arg}$
+$\theta$，$z$ 的幅角；$\theta \in [0, 2\pi)$，$z$ 的幅角主值，$\theta=\mathrm{arg}z$
+
