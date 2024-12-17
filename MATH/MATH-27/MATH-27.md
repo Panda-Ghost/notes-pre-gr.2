@@ -50,3 +50,5 @@ $$
 
 $\theta$，$z$ 的幅角；$\theta \in [0, 2\pi)$，$z$ 的幅角主值，$\theta=\mathrm{arg}z$
 
+$\mathrm{Arg} z=\{ \mathrm{arg}z+2k\pi \mid k \in \mathbb{Z}\}$
+
