@@ -20,4 +20,5 @@ $z=a+b\mathrm{i} \iff$ 点 $(a,b) \iff$ 向量 $\overrightarrow{OZ}$
 - 模，$|z|=\sqrt{ a^{2}+b^{2} }$
 - $z_{1}+z_{2}=(a_{1}+a_{2})+\mathrm{i}(b_{1}+b_{2})$
 - $z_{1}z_{2}=(a_{1}a_{2}-b_{1}b_{2})+\mathrm{i}(a_{1}b_{2}+a_{2}b_{1})$
-- $z$
+- $\frac{z_{1}}{z_{2}}= \frac{z_{1}\bar{z_{2}}}{|z_{2}|^{2}}$
+
