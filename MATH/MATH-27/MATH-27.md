@@ -79,4 +79,5 @@ $z^{n}$，$z^{0}=1\;(z\neq 0)$，$z^{-n}=\frac{1}{z^{n}}\; (z \neq 0)$
 
 设 $n\in Z, \theta \in \mathbb{R}$ 则
 
-$\left(e^{\mathrm{i}\theta}\right)^{n}$
+$\left(e^{\mathrm{i}\theta}\right)^{n}=e^{\mathrm{i}(n\theta)}$
+
