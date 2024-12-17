@@ -1,6 +1,6 @@
 # MATH-27
 
-复数
+## 复数
 
 $z=a+b \mathrm{i}, \; a, b \in \mathbb{R}$
 
@@ -12,3 +12,6 @@ $b=0$，实数；$b\neq 0$，虚数；$a=0 \wedge b\neq 0$，纯虚数
 
 $\mathbb{C}=\{ a+b\mathrm{i} \mid a, b \in \mathbb{R} \}$，复数域
 
+几何表示：复平面
+
+$z=a+b\mathrm{i} \implies (a,b)$
