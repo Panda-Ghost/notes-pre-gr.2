@@ -67,3 +67,8 @@ $z_{1}=|z_{1}|(\cos \theta_{1}+\mathrm{i}\sin \theta_{1}),\;z_{2}=|z_{2}|(\cos \
 
 $z_{1}z_{2}=|z_{1}||z_{2}|(\cos(\theta_{1}+\theta_{2})+\mathrm{i}\sin(\theta_{1}+\theta_{2}))$
 
+**命题2**
+
+设 $\theta_{1}, \theta_{2} \in \mathbb{R}$ 则
+
+$$
