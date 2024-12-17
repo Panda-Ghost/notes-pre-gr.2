@@ -40,3 +40,6 @@ $z=a+b\mathrm{i} \iff$ 点 $(a,b) \iff$ 向量 $\overrightarrow{OZ}$
 - $|\overline{z}|=|z|$
 - $|z|=\sqrt{ z\overline{z} }$
 
+幅角
+
+$z \in \mathbb{C}$
