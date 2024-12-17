@@ -58,4 +58,6 @@ $\mathrm{Arg} z=\{ \mathrm{arg}z+2k\pi \mid k \in \mathbb{Z}\}$
 
 - $-\mathrm{arg}z\in \mathrm{Arg}\overline{z}$
 - $-\mathrm{arg}z\in \mathrm{Arg} \frac{1}{z}$
-- $\mathrm{arg}z_{1}+\mathrm{arg}z_{2}\in \mathrm{Arg}$
+- $\mathrm{arg}z_{1}+\mathrm{arg}z_{2}\in \mathrm{Arg}(z_{1}z_{2})$
+- $\mathrm{arg}z_{1}-\mathrm{arg}z_{2}\in \mathrm{Arg}\left( \frac{z_{1}}{z_{2}} \right)$
+
