@@ -54,4 +54,6 @@ $\mathrm{Arg} z=\{ \mathrm{arg}z+2k\pi \mid k \in \mathbb{Z}\}$
 
 **命题1**
 
-s
+设 $z_{1},z_{2},z_{3}\in \mathbb{C} \setminus \{ 0 \}$
+
+- m
