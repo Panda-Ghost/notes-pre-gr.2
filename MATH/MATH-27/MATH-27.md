@@ -16,4 +16,8 @@ $\mathbb{C}=\{ a+b\mathrm{i} \mid a, b \in \mathbb{R} \}$，复数域
 
 $z=a+b\mathrm{i} \iff$ 点 $(a,b) \iff$ 向量 $\overrightarrow{OZ}$
 
-共轭，$ \bar{z}$
+共轭，$\bar{z}=a-b\mathrm{i}$
+
+模，$|z|=\sqrt{ a^{2}+b^{2} }$
+
+$z_{1}+z_{2}=(a_{1}+a_{2})+\mathrm{i}(b_{1}+b_{2})$
