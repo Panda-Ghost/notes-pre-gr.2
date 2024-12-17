@@ -42,4 +42,10 @@ $z=a+b\mathrm{i} \iff$ 点 $(a,b) \iff$ 向量 $\overrightarrow{OZ}$
 
 幅角
 
-$z \in \mathbb{C}$
+$z \in \mathbb{C}\setminus \{  0 \}, \; r=|z|$
+
+$$
+\frac{z}{r}=\cos \theta+\mathrm{i}\sin \theta
+$$
+
+$\theta$，$z$ 的幅角，
