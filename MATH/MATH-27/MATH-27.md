@@ -73,11 +73,10 @@ $z_{1}z_{2}=|z_{1}||z_{2}|(\cos(\theta_{1}+\theta_{2})+\mathrm{i}\sin(\theta_{1}
 
 $e^{\mathrm{i}\theta_{1}}\cdot e^{\mathrm{i}\theta_{2}}=e^{\mathrm{i}(\theta_{1}+\theta_{2})}$
 
-$z^{n}$，$z^{0}=1\;(z\neq 0)$，$z^{-n}=\frac{1}{z^{n}}\; (z \neq 0)$
+$z^{n}$，$z^{0}=1\;(z\neq 0)$，$z^{-n}=\frac{1}{z^{n}}\; (z \neq 0)$，$n\in \mathbb{N}^{*}$
 
 **命题3**
 
 设 $n\in Z, \theta \in \mathbb{R}$ 则
 
 $\left(e^{\mathrm{i}\theta}\right)^{n}=e^{\mathrm{i}(n\theta)}$
-
