@@ -71,4 +71,5 @@ $z_{1}z_{2}=|z_{1}||z_{2}|(\cos(\theta_{1}+\theta_{2})+\mathrm{i}\sin(\theta_{1}
 
 设 $\theta_{1}, \theta_{2} \in \mathbb{R}$ 则
 
-$$
+$e^{\mathrm{i}\theta_{1}}\cdot e^{\mathrm{i}\theta_{2}}=e^{\mathrm{i}(\theta_{1}+\theta_{2})}$
+
