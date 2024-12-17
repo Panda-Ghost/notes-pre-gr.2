@@ -8,4 +8,7 @@ $z=a+b \mathrm{i}, \; a, b \in \mathbb{R}$
 
 $\mathrm{Re}z=a$，实部；$\mathrm{Im}z=b$，虚部
 
-$b\neq 0$，虚数；$a=0 \wedge b\neq 0$，纯虚数；
+$b=0$，实数；$b\neq 0$，虚数；$a=0 \wedge b\neq 0$，纯虚数
+
+$\mathbb{C}=\{ a+b\mathrm{i} \mid a, b \in \mathbb{R} \}$，复数域
+
