@@ -37,4 +37,6 @@ $z=a+b\mathrm{i} \iff$ 点 $(a,b) \iff$ 向量 $\overrightarrow{OZ}$
 
 共轭与模
 
-- $|o$
+- $|\overline{z}|=|z|$
+- $|z|=\sqrt{ z\overline{z} }$
+
