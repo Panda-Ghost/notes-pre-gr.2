@@ -27,4 +27,9 @@ $z=a+b\mathrm{i} \iff$ 点 $(a,b) \iff$ 向量 $\overrightarrow{OZ}$
 - $\bar{\bar{z}}=z$
 - $\overline{z_{1}\pm z_{2}}=\overline{z_{1}}\pm\overline{z_{2}}$
 - $\overline{z_{1}z_{2}}=\overline{z_{1}}\cdot\overline{z_{2}}$
-- $\overline{\left( \frac{z_{1}}{z_{2}} \right)}$
+- $\overline{\left( \frac{z_{1}}{z_{2}} \right)}=\frac{\overline{z_{1}}}{\overline{z_{2}}}$
+
+模
+
+- $|z_{1}z_{2}|=|z_{1}||z_{2}|$
+- $|(z_{1})$
