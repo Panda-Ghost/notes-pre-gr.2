@@ -14,4 +14,6 @@ $\mathbb{C}=\{ a+b\mathrm{i} \mid a, b \in \mathbb{R} \}$，复数域
 
 几何表示：复平面
 
-$z=a+b\mathrm{i} \iff$ 点 $(a,b) \iff$ 向量 $\vec{OZ}$
+$z=a+b\mathrm{i} \iff$ 点 $(a,b) \iff$ 向量 $\overrightarrow{OZ}$
+
+共轭，$\over{}$
