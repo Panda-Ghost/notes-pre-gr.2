@@ -63,4 +63,7 @@ $\mathrm{Arg} z=\{ \mathrm{arg}z+2k\pi \mid k \in \mathbb{Z}\}$
 
 $\theta_{1} = \mathrm{arg}z_{1}, \;\theta_{2}=\mathrm{arg}z_{2}$
 
-$z_{1}=|z_{1}|(\cos \theta_{1}+\mathrm{i}\sin \theta_{1}),\;z_{2}=|z_{2}|$
+$z_{1}=|z_{1}|(\cos \theta_{1}+\mathrm{i}\sin \theta_{1}),\;z_{2}=|z_{2}|(\cos \theta_{1}+\mathrm{i}\sin \theta_{2})$
+
+$z_{1}z_{2}=|z_{1}||z_{2}|(\cos(\theta_{1}+\theta_{2})+\mathrm{i}\sin(\theta_{1}+\theta_{2}))$
+
