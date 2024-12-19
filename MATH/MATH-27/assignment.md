@@ -23,5 +23,5 @@ $$
 故 $\sin \alpha$ 的最小值为 $1-\sqrt{ 3 }$
 
 $$
-\max \sum p(i)(250 \min \{i, x\}-325 \max \{ 0, x-i \})
+E = \max_{x} \sum_{i} p(i)(250 \min \{i, x\}-325 \max \{ 0, x-i \})
 $$
