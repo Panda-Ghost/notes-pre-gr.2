@@ -1,8 +1,4 @@
 $$
-\cos(\alpha+\beta)=\sin \alpha +\sin \beta
-$$
-
-$$
 \begin{aligned}
 &\cos (\alpha + \beta )=\sin \alpha + \sin \beta \\ \iff 
 &\cos \alpha \cos \beta-\sin \alpha \sin \beta=\sin \alpha + \sin \beta \\ \iff
@@ -24,4 +20,4 @@ $$
 
 由于 $\sin \alpha \leq 1$ 所以 $\sin \alpha \geq 1-\sqrt{ 3 }$
 
-故 $\sin \alpha$ 的最小值为 $1$
+故 $\sin \alpha$ 的最小值为 $1-\sqrt{ 3 }$
