@@ -13,5 +13,5 @@ $$
 推出
 
 $$
-\sin \alpha = \sqrt{ (1+\sin \alpha)^{2} + \cos ^{2} \alpha } \sin (\beta + \varphi)=\sqrt{ 1+2\sin \alpha }  \sin(\beta+)
+\sin \alpha = \sqrt{ (1+\sin \alpha)^{2} + \cos ^{2} \alpha } \sin (\beta + \varphi)=\sqrt{ 1+2\sin \alpha }  \sin(\beta+\varphi)
 $$
