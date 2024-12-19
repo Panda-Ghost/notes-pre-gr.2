@@ -1,0 +1,5 @@
+$$
+\cos(\alpha+\beta)=\sin \alpha +\sin \beta
+$$
+
+$$
