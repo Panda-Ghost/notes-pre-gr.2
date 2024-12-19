@@ -21,3 +21,7 @@ $$
 由于 $\sin \alpha \leq 1$ 所以 $\sin \alpha \geq 1-\sqrt{ 3 }$
 
 故 $\sin \alpha$ 的最小值为 $1-\sqrt{ 3 }$
+
+$$
+\sum p(i)(\min \{i, x\}*250-)
+$$
