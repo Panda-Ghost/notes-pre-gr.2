@@ -16,10 +16,12 @@ $$
 \sin \alpha = \sqrt{ (1+\sin \alpha)^{2} + \cos ^{2} \alpha } \sin (\beta + \varphi)=\sqrt{ 2+2\sin \alpha }  \sin(\beta+\varphi)
 $$
 
-其中 $\tan\varphi=-  \frac{ \cos \alpha}{1+\sin \alpha}$ 又 $\beta$ 值可ren yi qu
+其中 $\tan\varphi=-  \frac{ \cos \alpha}{1+\sin \alpha}$
 
-故 $\sin ^{2} \alpha \leq 2+ 2\sin \alpha \iff (\sin \alpha-1)^{2} \leq 3$ 且等号可取到
+故 $\sin ^{2} \alpha \leq 2+ 2\sin \alpha \iff (\sin \alpha-1)^{2} \leq 3$ 
 
-由于 $\sin \alpha \leq 1$
+又 $\beta$ 可任意取，所以等号可取到
 
-所以 $\sin \alpha \geq 1-\sqrt{ 3 }$
+由于 $\sin \alpha \leq 1$ 所以 $\sin \alpha \geq 1-\sqrt{ 3 }$
+
+故 $\sin \alpha$ 的最小值为 $1$
