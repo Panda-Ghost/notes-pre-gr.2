@@ -17,3 +17,9 @@ $$
 $$
 
 其中 $\tan\varphi=-  \frac{ \cos \alpha}{1+\sin \alpha}$
+
+故
+
+$$
+\sin \alpha
+$$
