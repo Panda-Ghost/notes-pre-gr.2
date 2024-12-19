@@ -15,3 +15,5 @@ $$
 $$
 \sin \alpha = \sqrt{ (1+\sin \alpha)^{2} + \cos ^{2} \alpha } \sin (\beta + \varphi)=\sqrt{ 1+2\sin \alpha }  \sin(\beta+\varphi)
 $$
+
+其中 $\tan\varphi=-  \frac{ \cos \alpha}{1+\sin \alpha}$
