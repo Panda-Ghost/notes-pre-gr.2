@@ -33,4 +33,6 @@ $T_{b}(z)=z+b, \; T_{b}^{-1}=T_{-b}$
 
 $D_{r}(z)=rz, \; D_{r}^{-1}=D_{\frac{1}{r}}$
 
-$R_{\theta}(z)=e^{i\theta}z, \; R$
+$R_{\theta}(z)=e^{i\theta}z, \; R_{\theta}^{-1}=R_{-\theta}$
+
+线形变换 $f(z)=az+b$ $$
