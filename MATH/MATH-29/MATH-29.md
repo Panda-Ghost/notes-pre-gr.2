@@ -82,7 +82,7 @@ $S(z)$ 为 $\bar{z}$ 关于单位圆的对称点
 分式线形变换
 
 $$
-f(z)=\frac{az+b}{cz+d}= \frac{a}{c}+\frac{\left( b-\frac{ad}{c} \right)}{}, \quad a, b, c, d \in \mathbb{C},ad-bc\neq{}0
+f(z)=\frac{az+b}{cz+d}= \frac{a}{c}+\frac{b-\frac{ad}{c} }{cz+d}=\frac{a}{c}+\frac{bc-ad}{c^{2}z+cd}, \quad a, b, c, d \in \mathbb{C},ad-bc\neq{}0
 $$
 
 $$
