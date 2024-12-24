@@ -29,8 +29,8 @@ $\mathbb{C} \cup \{ \infty \}$ ：扩充复数域
 
 设 $b \in \mathbb{C}$
 
-$T_{b}(z)=z+b$
+$T_{b}(z)=z+b, \; T_{b}^{-1}=T_{-b}$
 
-$D_{r}{z}=rz$
+$D_{r}(z)=rz, \; D_{r}^{-1}=D_{\frac{1}{r}}$
 
-$R$
+$R_{\theta}(z)=e^{i\theta}z, \; R$
