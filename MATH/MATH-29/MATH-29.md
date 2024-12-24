@@ -21,4 +21,5 @@ $\mathbb{C} \cup \{ \infty \}$ ：扩充复数域
 在复平面中引入无穷远点，对应 $\infty$，叫扩充复平面
 
 - $z+\infty=\infty+z=\infty$
-- $z$
+- $z \cdot \infty=\infty \cdot z=\infty, \; z\neq 0$
+- 
