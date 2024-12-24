@@ -24,4 +24,4 @@ $\mathbb{C} \cup \{ \infty \}$ ：扩充复数域
 - $z \cdot \infty=\infty \cdot z=\infty, \; z\neq 0$
 - $\frac{z}{\infty}=0$
 - $\frac{z}{0}=\infty, \; z\neq 0$
-- 
+- $$
