@@ -14,4 +14,5 @@ $(z-z_{0})\overline{(z-z_{0})}=r^{2} \iff z\bar{z}-\overline{z_{0}}z-z_{0}\bar{z
 
 圆的一般方程：$|z|^{2}+\overline{B}z+B\bar{z}+C=0, \quad B \in \mathbb{C},C\in \mathbb{R},|B|^{2}-C>0$
 
-统一形式：$A|z|^{2}+\overline{B}z+B\bar{z}+C=0, \quad A,C\in \mathbb{R},B\in \mathbb{C}$
+统一形式：$A|z|^{2}+\overline{B}z+B\bar{z}+C=0, \quad A,C\in \mathbb{R},B\in \mathbb{C},|B|^{2}-AC>0$
+
