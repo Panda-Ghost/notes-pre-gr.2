@@ -52,7 +52,5 @@ $$
 z^{*}=\frac{R^{2}}{\overline{z-z_{0}}}+z_{0}
 $$
 
-$z-z_{0}=re^{i\theta}$
-
-$z^{*}-z_{0}=\frac{R^{2}}{r}e^{i\theta}$
+$z-z_{0}=re^{i\theta}, \; z^{*}-z_{0}=\frac{R^{2}}{r}e^{i\theta}$
 
