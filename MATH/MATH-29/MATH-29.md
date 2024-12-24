@@ -82,9 +82,10 @@ $S(z)$ 为 $\bar{z}$ 关于单位圆的对称点
 分式线形变换
 
 $$
-f(z)=\frac{az+b}{cz+d}, \quad a, b, c, d \in \mathbb{C}
+f(z)=\frac{az+b}{cz+d}, \quad a, b, c, d \in \mathbb{C},ad-bc\neq{}0
 $$
 
 $$
-f^{-1}
+f^{-1}(z)= \frac{-dz+b}{cz-a}
 $$
+
