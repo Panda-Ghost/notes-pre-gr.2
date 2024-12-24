@@ -18,4 +18,5 @@ $(z-z_{0})\overline{(z-z_{0})}=r^{2} \iff z\bar{z}-\overline{z_{0}}z-z_{0}\bar{z
 
 $\mathbb{C} \cup \{ \infty \}$ ：扩充复数域
 
-在复平面中引入无穷
+在复平面中引入无穷远点，对应 $\infty$，叫扩充复平面
+
