@@ -35,4 +35,10 @@ $D_{r}(z)=rz, \; D_{r}^{-1}=D_{\frac{1}{r}}$
 
 $R_{\theta}(z)=e^{i\theta}z, \; R_{\theta}^{-1}=R_{-\theta}$
 
-线形变换 $f(z)=az+b$ $$
+线形变换 $f(z)=az+b, \; f=T_{b} \circ D_{|a|} \circ R_{\mathrm{arg}a}$
+
+**命题1**
+
+设 $f$ 是线形变换，则
+
+1. $[f(z_{1})]$
