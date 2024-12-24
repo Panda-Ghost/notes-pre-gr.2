@@ -64,6 +64,7 @@ $$
 f(z)=\frac{R^{2}}{\overline{z-z_{0}}}+z_{0},\quad f^{-1}=f
 $$
 
+对称变换 $S$
 
 $S(z)=\frac{1}{z}, \; S^{-1}=S$
 
