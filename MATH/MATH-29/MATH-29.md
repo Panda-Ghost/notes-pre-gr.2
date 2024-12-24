@@ -17,3 +17,5 @@ $(z-z_{0})\overline{(z-z_{0})}=r^{2} \iff z\bar{z}-\overline{z_{0}}z-z_{0}\bar{z
 统一形式：$A|z|^{2}+\overline{B}z+B\bar{z}+C=0, \quad A,C\in \mathbb{R},B\in \mathbb{C},|B|^{2}-AC>0$
 
 $\mathbb{C} \cup \{ \infty \}$ ：扩充复数域
+
+在复平面中引入w
