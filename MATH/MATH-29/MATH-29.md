@@ -64,8 +64,9 @@ $$
 f(z)=\frac{R^{2}}{\overline{z-z_{0}}}+z_{0},\quad f^{-1}=f
 $$
 
+
 $S(z)=\frac{1}{z}, \; S^{-1}=S$
 
 $S(0)=\infty, \; S(\infty)=0$
 
-$S(z)$ 为 $z$
+$S(z)$ 为 $\bar{z}$ 关于单位圆的对称点
