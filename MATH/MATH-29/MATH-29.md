@@ -51,3 +51,5 @@ $z \in \mathbb{C}, z\neq{}z_{0}$
 $$
 z^{*}=\frac{R^{2}}{\overline{z-z_{0}}}+z_{0}
 $$
+
+$|z^{*}-z_{0}|=$
