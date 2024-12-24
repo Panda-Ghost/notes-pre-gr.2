@@ -12,4 +12,4 @@ $f(z)= \frac{az+b}{cz+d}$ 称为分式线形变换
 
 $(z-z_{0})\overline{(z-z_{0})}=r^{2} \iff z\bar{z}-\overline{z_{0}}z-z_{0}\bar{z}+|z_{0}|^{2}-r^{2}=0$
 
-圆的一般方程：$|z|^{2}+$
+圆的一般方程：$|z|^{2}+\overline{B}z+B\bar{z}+C=0, \; B \in \mathbb{C},C\in \mathbb{i
