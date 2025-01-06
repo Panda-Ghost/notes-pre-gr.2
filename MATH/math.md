@@ -785,7 +785,7 @@ $x$ 的 $p-$范数
 3. $|x\cdot y|\leq|x|_{p}|y|_{q}, \; p,q > 0, \; \frac{1}{p}+\frac{1}{q}=1$
 4. $|x+y|_{p}\leq |x|_{p}+|y|_{p}$
 
-## Hölder不等式
+## Hölder不等式1
 
 **定理1**（Hölder 不等式）
 
