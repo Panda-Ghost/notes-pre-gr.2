@@ -3,5 +3,7 @@
   "obsidian-mind-map",
   "editing-toolbar",
   "obsidian-emoji-toolbar",
-  "obsidian-latex-suite"
+  "obsidian-latex-suite",
+  "automatic-table-of-contents",
+  "better-export-pdf"
 ]
