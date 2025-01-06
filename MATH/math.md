@@ -817,7 +817,7 @@ $$
 
 # MATH-10
 
-## Hölder不等式
+## Hölder不等式2
 
 见 [MATH-9](#MATH-9) Hölder不等式定理2
 
