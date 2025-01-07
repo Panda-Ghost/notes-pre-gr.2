@@ -13,6 +13,6 @@ $$
 $$
 \begin{aligned}
 f\in X \times Y,\; f:A\to B \\
-
+f 
 \end{aligned}
 $$
