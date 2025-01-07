@@ -9,3 +9,9 @@ f: X\to Y
 \end{aligned}
 $$
 
+
+$$
+\begin{aligned}
+f\in X \times Y,\; f:A\to B
+\end{aligned}
+$$
