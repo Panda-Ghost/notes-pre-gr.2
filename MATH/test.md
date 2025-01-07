@@ -14,7 +14,5 @@ $$
 \begin{aligned}
 f\in X \times Y,\; f:A\to B \\
 
-f(x)=e^{x}, \; f\in \mathbb{R}\times [0, +\infty), \; f:\mathbb{R} \to \{-1\} \cup (0, +\infty)\\
-
 \end{aligned}
 $$
