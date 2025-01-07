@@ -22,4 +22,7 @@ f=\left\{   \left( x, \frac{1}{x} \right) \Biggm| x\neq{}0 ,\; x \in \mathbb{R} 
 $$
 
 
-映射 $f$ 是一个三元有序对 $(X,Y,)$
+映射 $f$ 是一个三元有序对 $(X,Y,R)$，满足
+
+- $R\in X \times Y$
+- $\mathrm{Dom}R=X$
