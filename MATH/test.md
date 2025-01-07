@@ -12,6 +12,8 @@ $$
 
 $$
 \begin{aligned}
-f\in X \times Y;
+
+f=\left\{   \left( x, \frac{1}{x} \right) \mid \right\}
+
 \end{aligned}
 $$
