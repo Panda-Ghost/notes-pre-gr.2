@@ -26,4 +26,6 @@ $$
 
 - $R\in X \times Y$
 - $\mathrm{Dom}R=X$
-- $\forall x_{1} \forall y_{1} \forall x_{2} \forall y_{2} ()$
+- $\forall x_{1} \forall y_{1} \forall x_{2} \forall y_{2} ((x_{1},y_{1})\in R\wedge(x_{2},y_{2})\in R \wedge x_{1}=x_{2})\to y_{1}=y_{2}$
+
+则xing
