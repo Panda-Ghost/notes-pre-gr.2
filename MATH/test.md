@@ -12,7 +12,6 @@ $$
 
 $$
 \begin{aligned}
-f\in X \times Y,\; f:A\to B \\
-f 
+f\in X \times Y;
 \end{aligned}
 $$
