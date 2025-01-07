@@ -15,7 +15,7 @@ $$
 
 f=\left\{   \left( x, \frac{1}{x} \right) \Biggm| x\neq{}0 ,\; x \in \mathbb{R} \right\} \in \mathbb{R} \times \mathbb{R} \\
 
-g=\left\{   \left( x, \frac{1}{x} \right) \Biggm| x\neq{}0 ,\; x \in \mathbb{R} \right\} \in \mathbb{R} \setminus \{ 0 \} \times \mathbb{R}
+f=\left\{   \left( x, \frac{1}{x} \right) \Biggm| x\neq{}0 ,\; x \in \mathbb{R} \right\} \in \mathbb{R} \setminus \{ 0 \} \times \mathbb{R}
 
 
 \end{aligned}
