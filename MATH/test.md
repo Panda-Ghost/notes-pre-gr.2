@@ -26,3 +26,4 @@ $$
 
 - $R\in X \times Y$
 - $\mathrm{Dom}R=X$
+- $\forall x_{1} \forall y_{1} \forall x_{2} \forall y_{2} ()$
