@@ -20,3 +20,6 @@ f=\left\{   \left( x, \frac{1}{x} \right) \Biggm| x\neq{}0 ,\; x \in \mathbb{R} 
 
 \end{aligned}
 $$
+
+
+映射 $f$ 是一个三元有序对 $(,,)$
