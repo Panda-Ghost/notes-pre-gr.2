@@ -8,3 +8,4 @@ f: A \to Y \\
 f: X\to Y 
 \end{aligned}
 $$
+
