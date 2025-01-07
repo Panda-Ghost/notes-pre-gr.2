@@ -1101,7 +1101,7 @@ $$
 m_{r}(a)=&\left( \sum q_{i} a_{i}^{r} \right)^{1/r} \\
 =& \left( \sum q_{i}a_{i}^{\alpha s} \right)^{1/r}\\
 =& \left( \sum (q_{i}a_{i}^{s})^{\alpha} q_{i}^{1-\alpha}\right)^{1/r}\\
-<&\left( \left( \sum q_{i}a_{i}^{s} \right)^{\alpha} \left( \sum q_{i}^{1-\alpha} \right)\right)^{1/r}\\
+<&\left( \left( \sum q_{i}a_{i}^{s} \right)^{\alpha} \left( \sum q_{i} \right)^{1-\alpha}\right)^{1/r}\\
 =& \left( \sum q_{i}a_{i}^{s} \right)^{1/s}=m_{s}(a)
 \end{aligned}
 $$
