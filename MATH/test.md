@@ -13,7 +13,9 @@ $$
 $$
 \begin{aligned}
 
-f=\left\{   \left( x, \frac{1}{x} \right) \Biggm|   \right\}
+f=\left\{   \left( x, \frac{1}{x} \right) \Biggm| x\neq{}0 ,\; x \in \mathbb{R} \right\} \in \mathbb{R} \times \mathbb{R} \\
+
+g=\left\{   \left( x, \frac{1}{x} \right) \Biggm| x\neq{}0 ,\; x \in \mathbb{R} \right\} \in \mathbb{R} \times \mathbb{R}
 
 \end{aligned}
 $$
