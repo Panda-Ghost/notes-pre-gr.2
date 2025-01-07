@@ -12,6 +12,8 @@ $$
 
 $$
 \begin{aligned}
-f\in X \times Y,\; f:A\to B
+f\in X \times Y,\; f:A\to B \\
+
+f(x)=e^{x}, \; f\in \mathbb{R}\times [0, +o]
 \end{aligned}
 $$
