@@ -22,4 +22,4 @@ f=\left\{   \left( x, \frac{1}{x} \right) \Biggm| x\neq{}0 ,\; x \in \mathbb{R} 
 $$
 
 
-映射 $f$ 是一个三元有序对 $(,,)$
+映射 $f$ 是一个三元有序对 $(X,Y,)$
