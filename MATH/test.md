@@ -13,7 +13,7 @@ $$
 $$
 \begin{aligned}
 
-f=\left\{   \left( x, \frac{1}{x} \right) \mid \right\}
+f=\left\{   \left( x, \frac{1}{x} \right) \Biggm|   \right\}
 
 \end{aligned}
 $$
