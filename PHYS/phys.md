@@ -273,6 +273,8 @@ $$
 
 其中 $k$ 为反射面的个数
 
+下面的公式由完善xiang
+
 $$
 \beta=\frac{y'}{y}= -\frac{f}{x}=-\frac{x'}{f'}=- \frac{fl'}{f'l} \xrightarrow{n=n'} \beta=\frac{l'}{l}
 $$
