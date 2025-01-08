@@ -133,7 +133,7 @@ $\frac{f'}{l'}+\frac{f}{l}=1$
 
 $$
 \begin{aligned}
-\frac{n'-n}{r}=\frac{n'}{l'}-\frac{n}{}
+\text{let }\frac{n'-n}{r}=\frac{n'}{l'}-\frac{n}{l}=\frac{n'}{f'}=-\frac{n}{f} \\
 \end{aligned}
 $$
 
