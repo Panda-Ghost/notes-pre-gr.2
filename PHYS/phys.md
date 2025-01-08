@@ -382,7 +382,7 @@ $$
 
 $$
 f=-\frac{n}{\frac{n_{0}-n}{r_{1}}+\frac{n'-n_{0}}{r_{2}}}
-\quad
+\quad \quad
 f'=\frac{n'}{\frac{n_{0}-n}{r_{1}}+\frac{n'-n_{0}}{r_{2}}}
 $$
 
