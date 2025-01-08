@@ -172,7 +172,7 @@ $\gamma=\frac{u'}u=\frac l {l'}=\frac{n}{n'}\cdot \frac 1\beta$ 近似
 
 三种放大倍率关系
 
-$\alpha=\frac {n'}{n} \beta^2$ $\alpha\gamma=\beta$
+$\alpha=\frac {n'}{n} \beta^2 \quad \quad \alpha\gamma=\beta$
 
 ### 反射球面
 
