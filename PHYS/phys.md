@@ -299,8 +299,6 @@ $$
 \alpha \cdot \gamma=\beta
 $$
 
-> PS. 这个公式中 $\gamma$ 描述的是一对共轭光线，$\alpha$ 和 $\beta$ 描述的是这条共轭光线与主光轴所jiao
-
 节点
 
 $\gamma=1$ 节点定义
