@@ -140,6 +140,8 @@ $$
 
 垂轴放大倍率
 
+物点 $(l, y)$、像点 $(l',y')$、
+
 $$
 \begin{aligned}
 \beta&=\frac{y'}y \\
