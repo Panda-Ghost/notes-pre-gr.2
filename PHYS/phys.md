@@ -138,7 +138,7 @@ $$
 \end{aligned}
 $$
 
-垂轴放大倍率
+垂轴放大倍率（描述一对共轭点）
 
 物点 $(l, y)$、像点 $(l',y')$、球心 $(r, 0)$ 三点共线 $\implies y /( l-r)= y'  /(l'-r)$
 
@@ -156,7 +156,7 @@ $$
 - $|\beta|<1$ 缩小
 - 垂轴放大倍率随共轭面改变
 
-轴向放大倍率
+轴向放大倍率（描述一对共轭点）
 
 $$
 \alpha=\frac{\Delta l'}{\Delta l}=\frac{l_{2}'-l_{1}'}{l_{2}-l_{1}}=\frac{n'}{n} \beta_{1}\beta_{2}
@@ -166,7 +166,7 @@ $$
 
 ![轴向放大倍率](/PHYS/PHYS-3/zxfdbl.png)
 
-角放大倍率
+角放大倍率（描述一对共轭光线）
 
 $\gamma=\frac{u'}u=\frac l {l'}=\frac{n}{n'}\cdot \frac 1\beta$ 近似
 
