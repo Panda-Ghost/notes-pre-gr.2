@@ -298,6 +298,7 @@ $$
 $$
 \alpha \cdot \gamma=\beta
 $$
+
 节点
 
 $\gamma=1$ 节点定义
