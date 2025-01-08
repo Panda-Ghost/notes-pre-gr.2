@@ -49,13 +49,13 @@ $$
 
 **透镜参数**：曲率半径、厚度、折射率……
 
-![符号法则](./fhfz.png)
+![符号法则](/PHYS/PHYS-2/fhfz.png)
 
 > PS. 夹角顺时针为正
 
 ## 单个球面折射公式
 
-![单球面折射图](./dqm.png)
+![单球面折射图](/PHYS/PHYS-2/dqm.png)
 
 $$
 n, n', r, L, U \longrightarrow L', U'
@@ -90,4 +90,4 @@ $$
 
 ## 单个球面物像关系
 
-![单个球面物像关系](./dqmwxgx.png)
+![单个球面物像关系](/PHYS/PHYS-2/dqmwxgx.png)
