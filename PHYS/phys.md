@@ -120,7 +120,7 @@ $$
 $$
 表征折射球面的光学特性
 
-1. $l'\rightarrow \infty$， $l=\frac{-n}{n'-n}r=f$
+1. $l'\rightarrow \infty$， $l=\frac{n}{n-n'}r=f$
 2. $l \rightarrow \infty$， $l'=\frac{n'}{n'-n}r=f'$
 
 $\frac f{f'}=-\frac n{n'}$
