@@ -51,7 +51,7 @@ $$
 \alpha=\frac{\mathrm{d}l'}{\mathrm{d}l}=\frac{nl'^2}{n'l^2}=\frac{n'}{n}\beta^2
 $$
 
-![轴向放大倍率](./zxfdbl.png)
+![轴向放大倍率](/PHYS/PHYS-3/zxfdbl.png)
 
 移动距离长时
 
@@ -67,7 +67,7 @@ $\alpha=\frac {n'}{n} \beta^2$ $\alpha\gamma=\beta$
 
 ### 反射球面
 
-![反射球面](./fsqm.png)
+![反射球面](/PHYS/PHYS-3/fsqm.png)
 
 拉赫不变量
 
