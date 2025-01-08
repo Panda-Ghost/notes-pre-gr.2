@@ -133,8 +133,8 @@ $\frac{f'}{l'}+\frac{f}{l}=1$
 
 $$
 \begin{aligned}
-\text{let } t:=\frac{n'-n}{r}=\frac{n'}{l'}-\frac{n}{l}=\frac{n'}{f'}=-\frac{n}{f} \\
-\frac{t}{t}=\frac{n'}{l'} / t -\frac{n}{l} / t=\frac{n'}{l'} \cdot
+&\text{let } t:=\frac{n'-n}{r}=\frac{n'}{l'}-\frac{n}{l}=\frac{n'}{f'}=-\frac{n}{f} \\
+\implies &\frac{t}{t}=\frac{n'}{l'} / t -\frac{n}{l} / t=\frac{n'}{l'} \cdot \frac{f'}{n'}+ \frac{-n}{l} \cdot \frac{f}{n}=\frac{f'}{l'}+\frac{f}{l}=1
 \end{aligned}
 $$
 
