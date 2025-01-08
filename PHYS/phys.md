@@ -140,12 +140,12 @@ $$
 
 垂轴放大倍率
 
-物点 $(l, y)$、像点 $(l',y')$、球心 $(r, 0)$ 三点共线 $\implies y /( l-r)= y'  /(l'-r')$
+物点 $(l, y)$、像点 $(l',y')$、球心 $(r, 0)$ 三点共线 $\implies y /( l-r)= y'  /(l'-r)$
 
 $$
 \begin{aligned}
 \beta&=\frac{y'}y \\
-\frac{y'}{-y}&=\frac{l'-r}{-l+r}\\
+\frac{y'}{y}&=\frac{l'-r}{l-r}\\
 \beta&=\frac{nl'}{n'l}
 \end{aligned}
 $$
