@@ -159,7 +159,7 @@ $$
 轴向放大倍率
 
 $$
-\alpha=\frac{\Delta}{}
+\alpha=\frac{\Delta l'}{\Delta l}=\frac{l_{2}'-l_{1}'}{l_{2}-l_{1}}=\frac{n'}{n} \beta_{1}\beta_{2}
 $$
 
 移动比较小时
