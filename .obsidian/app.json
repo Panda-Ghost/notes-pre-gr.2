@@ -14,5 +14,5 @@
   "showInlineTitle": false,
   "promptDelete": false,
   "showUnsupportedFiles": true,
-  "readableLineLength": false
+  "readableLineLength": true
 }
