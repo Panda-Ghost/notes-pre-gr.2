@@ -1,3 +1,12 @@
+```table-of-contents
+title: 
+style: nestedList # TOC style (nestedList|nestedOrderedList|inlineFirstLevel)
+minLevel: 0 # Include headings from the specified level
+maxLevel: 0 # Include headings up to the specified level
+includeLinks: true # Make headings clickable
+debugInConsole: false # Print debug info in Obsidian console
+```
+
 # PHYS-2
 
 > 几何光学
@@ -96,8 +105,6 @@ $$
 # PHYS-3
 
 ## 单个球面物像关系
-
-续 [PHYS-2](#PHYS-2)
 
 **阿贝不变量**
 
@@ -343,7 +350,7 @@ $f'=-\frac{f_{1}'f_{2}'}{\Delta} \quad f=\frac{f_{1}f_{2}}{\Delta}$
 
 $l_{H}'=-f' \frac{d}{f_{1}'}=f_{2}' \frac{d}{\Delta} \quad l_{H}=f \frac{d}{f_{2}}=f_{1} \frac{d}{\Delta}$
 
-## 透镜
+## 透镜I
 
 由两个折射面包围一种透明介质做成的光学元件。
 
@@ -353,7 +360,7 @@ $l_{H}'=-f' \frac{d}{f_{1}'}=f_{2}' \frac{d}{\Delta} \quad l_{H}=f \frac{d}{f_{2
 
 # PHYS-7
 
-## 透镜
+## 透镜II
 
 $$
 f'=- \frac{f_{1}'f_{2}'}{\Delta}=\frac{nr_{1}r_{2}}{(n-1)[n(r_{2}-r_{1})+(n-1)d]}=-f
@@ -381,14 +388,4 @@ Q:放置于空气中的双凸透镜，是会聚透镜还是发散透镜
 - $d=\left|\frac{n(r_{2}-r_{1})}{n-1}\right| \quad f'=\infty \quad l'_{H}=\infty \quad l_{H}=-\infty$
 - $d>\left|\frac{n(r_{2}-r_{1})}{n-1}\right| \quad f'<0 \quad l'_{H}>0 \quad l_{H}<0$
 - $d=r_{1}-r_{2}\quad f'>0 \quad l'_{H}=r_{2} \quad l_{H}=r_{1}$
-
-
-
-# PHYS-8
-
-## 光是电磁波
-
-**简谐波** 简谐振动在介质中的传播（介质中各质点作同频率的简谐振动）
-
-**平面简谐波** 波面为平面的简谐波
 
