@@ -381,7 +381,7 @@ $$
 透镜（$n\to n_{0}\to n'$）
 
 $$
-f=- \frac{n}{ -\left( \frac{d(n_{0}-n)(n'-n_{0})}{n_{0}r_{1}} \right)  }
+f=- \frac{n}{ - \frac{d(n_{0}-n)(n'-n_{0})}{n_{0}r_{1}r_{2}}   +  (nn)}
 $$
 
 薄透镜（$n\to n_{0}\to n'$）
