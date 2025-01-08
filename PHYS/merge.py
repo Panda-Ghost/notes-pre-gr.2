@@ -1,6 +1,6 @@
 import os
-os.system('cd /Users/wangboxiang/Documents/Notes/PHYS')
-os.system('pwd')
+os.chdir('/Users/wangboxiang/Documents/Notes/PHYS')
+os.w
 
 ofile=open('phys.md', 'w')
 
