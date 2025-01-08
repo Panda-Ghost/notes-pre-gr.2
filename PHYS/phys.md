@@ -384,7 +384,7 @@ $$
 f=- \frac{n}{ - \frac{d(n_{0}-n)(n'-n_{0})}{n_{0}r_{1}r_{2}}   +  \frac{n_{0}-n}{r_{1}}+\frac{n'-n_{0}}{r_{2}}}
 $$
 
-薄透镜（$n\to n_{0}\to n'$）
+薄透镜（$n\to n_{0}\to n',\; d=0$）
 $$
 f=-\frac{n}{\frac{n_{0}-n}{r_{1}}+\frac{n'-n_{0}}{r_{2}}}
 \quad \quad
