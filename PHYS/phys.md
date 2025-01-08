@@ -133,9 +133,9 @@ $\frac{f'}{l'}+\frac{f}{l}=1$
 
 $$
 \begin{aligned}
-&\beta=\frac{y'}y \\
-&\frac{y'}{-y}=\frac{l'-r}{-l+r}\\
-&\beta=\frac{nl'}{n'l}
+\beta&=\frac{y'}y \\
+\frac{y'}{-y}&=\frac{l'-r}{-l+r}\\
+\beta&=\frac{nl'}{n'l}
 \end{aligned}
 $$
 
