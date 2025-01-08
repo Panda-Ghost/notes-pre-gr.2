@@ -162,17 +162,9 @@ $$
 \alpha=\frac{\Delta l'}{\Delta l}=\frac{l_{2}'-l_{1}'}{l_{2}-l_{1}}=\frac{n'}{n} \beta_{1}\beta_{2}
 $$
 
-移动比较小时
-
-$$
-\alpha=\frac{\mathrm{d}l'}{\mathrm{d}l}=\frac{nl'^2}{n'l^2}=\frac{n'}{n}\beta^2
-$$
+- 移动比较小时，$\alpha=\frac{n'}{n} \beta^{2}$
 
 ![轴向放大倍率](/PHYS/PHYS-3/zxfdbl.png)
-
-移动距离长时
-
-$\alpha=\frac{\Delta l'}{\Delta l}=\frac {n'}n\beta _1\beta _2$
 
 角放大倍率
 
