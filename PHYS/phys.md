@@ -129,6 +129,14 @@ $\frac f{f'}=-\frac n{n'}$
 
 $\frac{f'}{l'}+\frac{f}{l}=1$ 
 
+推导
+
+$$
+\begin{aligned}
+\frac{n'-n}{r}=\frac{n'}{l'}-\frac{n}{}
+\end{aligned}
+$$
+
 垂轴放大倍率
 
 $$
