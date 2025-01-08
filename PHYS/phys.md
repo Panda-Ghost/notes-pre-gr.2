@@ -174,6 +174,8 @@ $\gamma=\frac{u'}u=\frac l {l'}=\frac{n}{n'}\cdot \frac 1\beta$ 近似
 
 $\alpha=\frac {n'}{n} \beta^2 \quad \quad \alpha\gamma=\beta$
 
+> PS. $\alpha \gamma=\beta$ 这个公式中 $\gamma$ 描述的是一对共轭光线，$\alpha$ 和 $\beta$ 描述的是这条共轭光线与主光轴所交的共轭点；后文同此
+
 ### 反射球面
 
 ![反射球面](/PHYS/PHYS-3/fsqm.png)
