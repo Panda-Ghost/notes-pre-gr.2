@@ -1,3 +1,3 @@
 $$
-\Huge \phi \; \Phi \; \varphi
+\Huge \matharc{E}
 $$
