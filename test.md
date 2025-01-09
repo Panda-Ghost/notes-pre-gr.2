@@ -1,3 +1,0 @@
-$$
-\Huge \matharc{E}
-$$
