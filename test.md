@@ -1,0 +1,3 @@
+$$
+\Huge \phi \; \Phi \; \varphi
+$$
