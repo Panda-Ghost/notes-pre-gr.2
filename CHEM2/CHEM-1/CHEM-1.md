@@ -34,4 +34,4 @@
 
 酰胺 Amide
 
-Acid anhydride
+酸酐 Acid anhydride
