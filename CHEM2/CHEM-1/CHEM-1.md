@@ -20,9 +20,9 @@
 
 醛 Aldehyde
 
-Ketone
+酮 Ketone
 
-Carboxylic acid
+羧酸 Carboxylic acid
 
 Amine
 
