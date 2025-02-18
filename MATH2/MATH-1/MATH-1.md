@@ -81,4 +81,5 @@ $\left( \frac{1}{x^2-1} \right)^{(n)}=\frac{1}{2}\left( \frac{1}{x-1}-\frac{1}{x
 
 $f(x)=\ln(2x^2-x-1)=\ln(2x+1)+\ln(x-1)$
 
-$f^{(n)}=(-1)^{n-1}(n-1)! \left(\frac{2^n}{(2x+1)^{n}}+\frac{1}{(x-1)^{n}}\right)$
+$f^{(n)}(x)=(-1)^{n-1}(n-1)! \left(\frac{2^n}{(2x+1)^{n}}+\frac{1}{(x-1)^{n}}\right)$
+
