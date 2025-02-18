@@ -10,28 +10,28 @@
 
 炔烃 Alkyne -yne 乙炔 ethyne
 
-Aromatic hydrocarbon
+芳香烃 Aromatic hydrocarbon
 
-haloalkane
+Haloalkane
 
-alcohol 
+Alcohol 
 
-ether
+Ether
 
-aldehyde
+Aldehyde
 
-ketone
+Ketone
 
-carboxylic acid
+Carboxylic acid
 
-amine
+Amine
 
-nitrile
+Nitrile
 
-ester
+Ester
 
-acyl halide
+Acyl halide
 
-amide
+Amide
 
-acid anhydride
+Acid anhydride
