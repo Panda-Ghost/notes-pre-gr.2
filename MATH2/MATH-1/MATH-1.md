@@ -92,3 +92,5 @@ $f^{(n)}(x)=(-1)^{n-1}(n-1)! \left(\dfrac{2^n}{(2x+1)^{n}}+\dfrac{1}{(x-1)^{n}}\
 
 - $f'g=-fg'+(fg)'$ 分部求导公式
 - 设 $\varphi,\psi$ 互为反函数，$\varphi ,\psi$ 可导，$\psi'(x)=\dfrac{1}{\varphi'(\psi(x))}$
+
+- $(x)$
