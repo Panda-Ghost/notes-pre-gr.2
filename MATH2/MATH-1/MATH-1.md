@@ -97,4 +97,6 @@ $f^{(n)}(x)=(-1)^{n-1}(n-1)! \left(\dfrac{2^n}{(2x+1)^{n}}+\dfrac{1}{(x-1)^{n}}\
 - $(x^{a})'=ax^{a-1}$
 - $(e^{x})'=e^{x},\;(a^{x})'=a^{x}\ln a$
 - $(\ln x)'=\dfrac{1}{x}, (\log_{a}{x})'=\dfrac{1}{x\ln a}$
-- $\sin$
+- $(\sin x)'=\cos x, \; (\cos x)'=-\sin x$
+- $(\tan x)'=\sec ^{2}x, \; (\cot x)'=-\csc ^{2}x$
+- $(\sec x)'=\sec x\tan x$
