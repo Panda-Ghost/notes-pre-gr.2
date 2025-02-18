@@ -105,4 +105,8 @@ $f^{(n)}(x)=(-1)^{n-1}(n-1)! \left(\dfrac{2^n}{(2x+1)^{n}}+\dfrac{1}{(x-1)^{n}}\
 - $(\arcsin x)'=\dfrac{1}{\sqrt{ 1-x^{2} }},\;(\arccos x)'=-\dfrac{1}{\sqrt{ 1-x^{2} }}$
 - $(\arctan x)'=\dfrac{1}{1+x^{2}},\;(\mathrm{arccot} \; x)'=-\dfrac{1}{1+x^{2}}$
 
-定义 $e^{x}=1+x+\dfrac{x^{2}}{2!}+\dfrac{x^{3}}{3!}+\dots
+定义 $e^{x}=1+x+\dfrac{x^{2}}{2!}+\dfrac{x^{3}}{3!}+\dots$
+
+$(e^{x})'=e^x$
+
+$(e^{(\ln x)})'=$
