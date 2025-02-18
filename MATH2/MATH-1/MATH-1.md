@@ -75,3 +75,4 @@ $(\sin x) ^{(n)}=\sin\left( x+\frac{n}{2}\pi \right)$
 
 $(\cos x)^{(n)}=\cos\left( x+\frac{n}{2}\pi \right)$
 
+$\frac{1}{x+a}$
