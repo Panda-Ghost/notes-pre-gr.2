@@ -38,3 +38,7 @@ $$
 
 - $f(x)=kx+b, \; x_{0}\in \mathbb{R},\; f'(x_{0})=k$
 - $f(x)=x^{2}, \; x_{0} \in \mathbb{R}, f'(x_{0})=2x_{0}$
+
+曲线的方程
+
+设 $f:A\subset \mathbb{R}\to \mathbb{R}$，$\gamma=\{ (x, f(x)) \mid x \in A \} \subset \mathbb{R}^{2}$ 是曲线，
