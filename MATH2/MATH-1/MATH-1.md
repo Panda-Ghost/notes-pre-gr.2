@@ -67,4 +67,3 @@ $f':I\to \mathbb{R}$，$f$ 的导函数（导数）
 
 $f$ 的 $n$ 阶导 $f^{(n)}$
 
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
