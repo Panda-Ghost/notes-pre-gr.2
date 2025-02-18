@@ -84,4 +84,10 @@ $f(x)=\ln(2x^2-x-1)=\ln(2x+1)+\ln(x-1)$
 $f^{(n)}(x)=(-1)^{n-1}(n-1)! \left(\frac{2^n}{(2x+1)^{n}}+\frac{1}{(x-1)^{n}}\right)$
 
 - $(\alpha f+\beta g)'=\alpha f'+\beta g', \; \alpha,\beta \in \mathbb{R}$
-- $(f)$
+- $(fg)'=f'g+g'f$
+- $\left( \frac{f}{g} \right)=\frac{f'g-fg'}{g^{2}}$
+- $(g\circ f)'(x)=g'(f(x))f'(x)$
+
+得到
+
+- 
