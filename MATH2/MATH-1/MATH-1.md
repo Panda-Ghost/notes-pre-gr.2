@@ -71,4 +71,7 @@ $f$ 的 $n$ 阶导 $f^{(n)}$
 
 $v(t)=s'(t),\; a(t)=v'(t)=s''(t)$
 
-$(\sin x) ^{(n}$
+$(\sin x) ^{(n)}=\sin\left( x+\frac{n}{2}\pi \right)$
+
+$(\cos x)^{(n)}=\cos\left( x+\frac{n}{2}\pi \right)$
+
