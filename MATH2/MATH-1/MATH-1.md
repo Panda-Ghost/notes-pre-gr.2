@@ -23,5 +23,7 @@ $$
 如果 $\forall \varepsilon >0, \exists \delta>0,\text{ s.t. }$
 
 $$
-\left| \frac{f(x)-f(x_{0})}{x-x_{0}}-a\right|<\varepsilon, \quad \forall x \in I 
+\left| \frac{f(x)-f(x_{0})}{x-x_{0}}-a\right|<\varepsilon, \quad \forall x \in I \setminus \{ x_{0} \},\; |x-x_{0}|<\delta
 $$
+
+称 $\frac{f(x)-f(x_{0})}{x-x_{0}}$ 在 $x_{0}$ 点的极限是 $a$， 
