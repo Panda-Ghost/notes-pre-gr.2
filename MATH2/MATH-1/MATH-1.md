@@ -102,6 +102,7 @@ $f^{(n)}(x)=(-1)^{n-1}(n-1)! \left(\dfrac{2^n}{(2x+1)^{n}}+\dfrac{1}{(x-1)^{n}}\
 - $(\sin x)'=\cos x, \; (\cos x)'=-\sin x$
 - $(\tan x)'=\sec ^{2}x, \; (\cot x)'=-\csc ^{2}x$
 - $(\sec x)'=\sec x\tan x, \; (\csc x)'=-\csc x\cot x$
-- $(\arcsin x)'=\frac{1}{\sqrt{ 1-x^{2} }},\;(\arccos x)'=-\frac{1}{\sqrt{ 1-x^{2} }}$
-- $(\arctan x)'=\frac{1}{1+x^{2}},\;(\mathrm{arccot} \; x)'=-\frac{1}{1+x^{2}}$
+- $(\arcsin x)'=\dfrac{1}{\sqrt{ 1-x^{2} }},\;(\arccos x)'=-\dfrac{1}{\sqrt{ 1-x^{2} }}$
+- $(\arctan x)'=\dfrac{1}{1+x^{2}},\;(\mathrm{arccot} \; x)'=-\dfrac{1}{1+x^{2}}$
 
+$\dfrac{1}{}$
