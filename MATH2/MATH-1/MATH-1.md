@@ -59,4 +59,4 @@ $$
 
 切线：$y=f'(x_{0})(x-x_{0})+f(x_{0})$
 
-$f$
+$f:I\to \mathbb{R}$ 如果 $\forall x \in I$，$f$ 在 $x$ 点可导
