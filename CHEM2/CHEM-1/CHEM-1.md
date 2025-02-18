@@ -30,8 +30,8 @@
 
 脂 Ester
 
-xian luAcyl halide
+酰卤 Acyl halide
 
-Amide
+酰胺 Amide
 
 Acid anhydride
