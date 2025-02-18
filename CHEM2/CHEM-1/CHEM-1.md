@@ -12,6 +12,8 @@
 
 Aromatic hydrocarbon
 
+
+
 alcohol 
 
 ether
@@ -23,3 +25,13 @@ ketone
 carboxylic acid
 
 amine
+
+nitrile
+
+ester
+
+acyl halide
+
+amide
+
+acid anhydride
