@@ -24,9 +24,9 @@
 
 羧酸 Carboxylic acid
 
-Amine
+胺 Amine
 
-Nitrile
+腈 Nitrile
 
 Ester
 
