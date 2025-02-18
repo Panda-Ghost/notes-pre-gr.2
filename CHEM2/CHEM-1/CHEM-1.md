@@ -4,6 +4,5 @@
 
 烷烃 Alkane -ane
 
-乙烷 ethane
+乙烷 ethane 甲烷 methane
 
-甲烷 methane
