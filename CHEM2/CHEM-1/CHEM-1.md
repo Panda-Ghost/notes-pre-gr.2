@@ -28,9 +28,9 @@
 
 腈 Nitrile
 
-Ester
+脂 Ester
 
-Acyl halide
+xian luAcyl halide
 
 Amide
 
