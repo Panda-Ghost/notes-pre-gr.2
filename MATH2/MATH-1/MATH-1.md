@@ -59,4 +59,7 @@ $$
 
 切线：$y=f'(x_{0})(x-x_{0})+f(x_{0})$
 
-$f:I\to \mathbb{R}$ 如果 $\forall x \in I$，$f$ 在 $x$ 点可导
+$f:I\to \mathbb{R}$ 如果 $\forall x \in I$，$f$ 在 $x$ 点可导，称 $f$ 可导
+
+$f':I\to \mathbb{R}$，$f$ 的导函数（导数）
+
