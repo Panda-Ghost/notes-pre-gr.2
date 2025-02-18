@@ -12,13 +12,13 @@
 
 芳香烃 Aromatic hydrocarbon
 
-Haloalkane
+卤代烃 Haloalkane
 
-Alcohol 
+醇 Alcohol 
 
-Ether
+醚 Ether
 
-Aldehyde
+醛 Aldehyde
 
 Ketone
 
