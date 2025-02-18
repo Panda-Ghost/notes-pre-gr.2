@@ -77,7 +77,7 @@ $(\cos x)^{(n)}=\cos\left( x+\frac{n}{2}\pi \right)$
 
 $\left(\dfrac{1}{x+a}\right)^{(n)}=\dfrac{(-1)^{n}n!}{(x+a)^{n+1}}$
 
-$\left( \dfrac{1}{x^2-1} \right)^{(n)}=\frac{1}{2}\left( \frac{1}{x-1}-\frac{1}{x+1} \right)^{(n)}=\frac{1}{2}(-1)^{n}n!\left( \frac{1}{(x-1)^{n+1}}-\frac{1}{(x+1)^{n+1}} \right)$
+$\left( \dfrac{1}{x^2-1} \right)^{(n)}=\dfrac{1}{2}\left( \dfrac{1}{x-1}-\dfrac{1}{x+1} \right)^{(n)}=\dfrac{1}{2}(-1)^{n}n!\left( \dfrac{1}{(x-1)^{n+1}}-\dfrac{1}{(x+1)^{n+1}} \right)$
 
 $f(x)=\ln(2x^2-x-1)=\ln(2x+1)+\ln(x-1)$
 
