@@ -6,4 +6,8 @@
 
 乙烷 ethane 甲烷 methane
 
-烯烃 Alkene -ene
+烯烃 Alkene -ene 乙烯 ethene
+
+炔烃 Alkyne -yne 乙炔 ethyne
+
+Aromatic hydrocarbo
