@@ -26,7 +26,7 @@ $$
 \left| \frac{f(x)-f(x_{0})}{x-x_{0}}-a\right|<\varepsilon, \quad \forall x \in I \setminus \{ x_{0} \},\; |x-x_{0}|<\delta
 $$
 
-称 $\frac{f(x)-f(x_{0})}{x-x_{0}}$ 在 $x_{0}$ 点的极限是 $a$，记为 $a=\lim_{ x \to x_{0}}  \frac{f(x)-f(x_{0})}{x-x_{0}}$
+称 $\dfrac{f(x)-f(x_{0})}{x-x_{0}}$ 在 $x_{0}$ 点的极限是 $a$，记为 $a=\lim_{ x \to x_{0}}  \dfrac{f(x)-f(x_{0})}{x-x_{0}}$
 
 $x=x_{0}+h$ 代换
 
@@ -71,9 +71,9 @@ $f$ 的 $n$ 阶导 $f^{(n)}$
 
 $v(t)=s'(t),\; a(t)=v'(t)=s''(t)$
 
-$(\sin x) ^{(n)}=\sin\left( x+\frac{n}{2}\pi \right)$
+$(\sin x) ^{(n)}=\sin\left( x+\dfrac{n}{2}\pi \right)$
 
-$(\cos x)^{(n)}=\cos\left( x+\frac{n}{2}\pi \right)$
+$(\cos x)^{(n)}=\cos\left( x+\dfrac{n}{2}\pi \right)$
 
 $\left(\dfrac{1}{x+a}\right)^{(n)}=\dfrac{(-1)^{n}n!}{(x+a)^{n+1}}$
 
@@ -81,7 +81,7 @@ $\left( \dfrac{1}{x^2-1} \right)^{(n)}=\dfrac{1}{2}\left( \dfrac{1}{x-1}-\dfrac{
 
 $f(x)=\ln(2x^2-x-1)=\ln(2x+1)+\ln(x-1)$
 
-$f^{(n)}(x)=(-1)^{n-1}(n-1)! \left(\frac{2^n}{(2x+1)^{n}}+\frac{1}{(x-1)^{n}}\right)$
+$f^{(n)}(x)=(-1)^{n-1}(n-1)! \left(\dfrac{2^n}{(2x+1)^{n}}+\dfrac{1}{(x-1)^{n}}\right)$
 
 - $(\alpha f+\beta g)'=\alpha f'+\beta g', \; \alpha,\beta \in \mathbb{R}$
 - $(fg)'=f'g+g'f$
