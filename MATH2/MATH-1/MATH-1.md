@@ -41,4 +41,8 @@ $$
 
 曲线的方程
 
-设 $f:A\subset \mathbb{R}\to \mathbb{R}$，$\gamma=\{ (x, f(x)) \mid x \in A \} \subset \mathbb{R}^{2}$ 是曲线，$f$ 称为 $\gamma$ 的方程，习惯上说曲线 $f$
+设 $f:A\subset \mathbb{R}\to \mathbb{R}$，$\gamma=\{ (x, f(x)) \mid x \in A \} \subset \mathbb{R}^{2}$ 是曲线，$f$ 称为 $\gamma$ 的方程
+
+习惯上说曲线 $f$ 实际上指的是 $f$ 的图像
+
+设 $f:I\to \mathbb{R}$ 在 $x_{0}$ 可导
