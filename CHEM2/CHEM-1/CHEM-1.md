@@ -10,4 +10,16 @@
 
 炔烃 Alkyne -yne 乙炔 ethyne
 
-Aromatic hydrocarbo
+Aromatic hydrocarbon
+
+alcohol 
+
+ether
+
+aldehyde
+
+ketone
+
+carboxylic acid
+
+amine
