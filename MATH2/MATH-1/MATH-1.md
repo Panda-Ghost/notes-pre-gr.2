@@ -75,7 +75,7 @@ $(\sin x) ^{(n)}=\sin\left( x+\frac{n}{2}\pi \right)$
 
 $(\cos x)^{(n)}=\cos\left( x+\frac{n}{2}\pi \right)$
 
-$\left(\frac{1}{x+a}\right)^{(n)}=\frac{(-1)^{n}n!}{(x+a)^{n+1}}$
+$\left(\dfrac{1}{x+a}\right)^{(n)}=\dfrac{(-1)^{n}n!}{(x+a)^{n+1}}$
 
 $\left( \frac{1}{x^2-1} \right)^{(n)}=\frac{1}{2}\left( \frac{1}{x-1}-\frac{1}{x+1} \right)^{(n)}=\frac{1}{2}(-1)^{n}n!\left( \frac{1}{(x-1)^{n+1}}-\frac{1}{(x+1)^{n+1}} \right)$
 
@@ -85,10 +85,10 @@ $f^{(n)}(x)=(-1)^{n-1}(n-1)! \left(\frac{2^n}{(2x+1)^{n}}+\frac{1}{(x-1)^{n}}\ri
 
 - $(\alpha f+\beta g)'=\alpha f'+\beta g', \; \alpha,\beta \in \mathbb{R}$
 - $(fg)'=f'g+g'f$
-- $\left( \frac{f}{g} \right)=\frac{f'g-fg'}{g^{2}}$
+- $\left( \dfrac{f}{g} \right)=\dfrac{f'g-fg'}{g^{2}}$
 - $(g\circ f)'(x)=g'(f(x))f'(x)$
 
 得到
 
 - $f'g=-fg'+(fg)'$ 分部求导公式
-- 设 $\varphi,\psi$ 互为反函数，$\varphi ,\psi$ 可导，$\psi'(x)=\frac{1}{\phi'(\psi(x))}$
+- 设 $\varphi,\psi$ 互为反函数，$\varphi ,\psi$ 可导，$\psi'(x)=\dfrac{1}{\varphi'(\psi(x))}$
