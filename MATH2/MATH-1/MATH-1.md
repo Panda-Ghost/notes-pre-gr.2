@@ -75,4 +75,6 @@ $(\sin x) ^{(n)}=\sin\left( x+\frac{n}{2}\pi \right)$
 
 $(\cos x)^{(n)}=\cos\left( x+\frac{n}{2}\pi \right)$
 
-$\left(\frac{1}{x+a}\right)^{(n)}=(-1)^{n}$
+$\left(\frac{1}{x+a}\right)^{(n)}=\frac{(-1)^{n}n!}{(x+a)^{n+1}}$
+
+$\left( \frac{1}{x^2-1} \right)$
