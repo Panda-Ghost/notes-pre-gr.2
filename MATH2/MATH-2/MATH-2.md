@@ -74,4 +74,4 @@ $\left| f(x)-f(x_{0}) \right|< |x-x_{0}|(1+|f'(x_{0})|), \quad \forall x \in I, 
 
 设 $\varepsilon>0$ 令
 
-$\delta=$
+$\delta= \min$
