@@ -66,4 +66,6 @@ $\ln x\leq{}x^{\delta},\; \forall x\geq{}M$
 
 因为 $f$ 在 $x_{0}$ 处可导，$\exists\delta_{0}>0,\text{ s.t. }$
 
-$\left| \dfrac{f(x)-f(x_{0})}{x-x_{0}}-a \right|<1$
+$\left| \dfrac{f(x)-f(x_{0})}{x-x_{0}}-a \right|<1, \forall x \in I\setminus \{ x_{0} \}, |x-x_{0}|<\delta_{0}$
+
+则 $$
