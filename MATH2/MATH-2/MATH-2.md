@@ -27,4 +27,5 @@ $\arctan x+\mathrm{arccot} \;  x=\dfrac{\pi}{2}$
 
 - $e^{x}\geq{}x+1$
 - $\ln x\leq{}x-1$
-- $\sin x\leq{}x, \; x\geq{}0; \quad \sin x\geq{}x$
+- $\sin x\leq{}x, \; x\geq{}0$
+- $\tan x\geq{}x, \; x \in\left[0, \dfrac{\pi}{2}\right]$
