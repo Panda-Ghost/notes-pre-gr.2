@@ -36,3 +36,4 @@ $\ln x\leq{}Cx^{\delta},\;  \forall x>0$
 
 王旭琪还是太强了
 
+证：$\ln x=\dfrac{1}{\delta}\ln x^{\delta}\leq{} 1/$
