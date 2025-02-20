@@ -42,4 +42,5 @@ $\lim_{ x \to +\infty } \dfrac{\ln x}{x^{\delta}}=0$
 
 证：$0< \dfrac{\ln x}{x^{\delta}}\leq{} \dfrac{\dfrac{2}{\delta}x^{\delta/2}}{x^{\delta}}=\dfrac{2}{\delta}x^{-\delta/2}$
 
-$\lim_{ x \to 0 }$
+$\lim_{ x \to 0 }x\ln x=\lim_{ t \to +\infty }\dfrac{-\ln t}{t}=0$
+
