@@ -10,4 +10,5 @@ $\mathrm{i}e^{ \mathrm{i}x }=(\cos x )'+ \mathrm{i}(\sin x)'\implies (\cos x)'=-
 
 $\sin(\arcsin x)=x \implies \cos(\arcsin x) (\arcsin x)'=1\implies (\arcsin x)'=\dfrac{1}{\cos(\arcsin x)}=\dfrac{1}{\sqrt{ 1-x^{2} }}$
 
-$\arcsin$ 在 $\dfrac{\pi}{2},-\pi$
+$\arcsin$ 在 $\dfrac{\pi}{2},-\dfrac{\pi}{2}$ 不可导
+
