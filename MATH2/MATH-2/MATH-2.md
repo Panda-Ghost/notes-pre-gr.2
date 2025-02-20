@@ -44,3 +44,4 @@ $\lim_{ x \to +\infty } \dfrac{\ln x}{x^{\delta}}=0$
 
 $\lim_{ x \to 0 }x\ln x=\lim_{ t \to +\infty }\dfrac{-\ln t}{t}=0$
 
+- $y=e^{ x }$ guo yuan dian
