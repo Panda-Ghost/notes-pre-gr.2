@@ -12,5 +12,5 @@ $\sin(\arcsin x)=x \implies \cos(\arcsin x) (\arcsin x)'=1\implies (\arcsin x)'=
 
 $\arcsin$ 在 $\dfrac{\pi}{2},-\dfrac{\pi}{2}$ 不可导
 
-$\arcsin x+\arccos x=\dfrac{\pi}{2}$
+$\arcsin x+\arccos x=\dfrac{\pi}{2}\implies (\arcsin x)'+(\arccos x)'=0$
 
