@@ -18,7 +18,7 @@ $\tan (\arctan x)=x\implies(\arctan x)'=\cos ^{2}(\arctan x)=\dfrac{1}{1+x^{2}}$
 
 $\arctan x+\mathrm{arccot} \;  x=\dfrac{\pi}{2}$
 
-切线
+常见切线
 
 - $y=e^{ x }$ 在 $(0,1)$：$y=x+1$
 - $y=\ln x$ 在 $(1,0)$：$y=x-1$
