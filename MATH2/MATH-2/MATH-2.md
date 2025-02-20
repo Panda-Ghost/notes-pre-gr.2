@@ -34,3 +34,5 @@ $\arctan x+\mathrm{arccot} \;  x=\dfrac{\pi}{2}$
 
 $\ln x\leq{}Cx^{\delta},\;  \forall x>0$
 
+王旭琪还是太强了
+
