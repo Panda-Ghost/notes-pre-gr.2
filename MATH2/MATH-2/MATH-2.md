@@ -56,4 +56,6 @@ $\ln x\leq{}x^{\delta},\; \forall x\geq{}M$
 - $e^{ x }\geq{}ex$
 - $\ln x\leq{} \dfrac{x}{e}$
 
-$12$
+**命题1**
+
+设 $I\subset \mathbb{R}$ 为区间，$f:I$
