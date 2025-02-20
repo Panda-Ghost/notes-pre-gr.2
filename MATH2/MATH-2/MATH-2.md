@@ -25,3 +25,6 @@ $\arctan x+\mathrm{arccot} \;  x=\dfrac{\pi}{2}$
 - $y=\sin x$ 在 $(0,0)$：$y=x$
 - $y=\tan x$ 在 $(0,0)$：$y=x$
 
+- $e^{x}\geq{}x+1$
+- $\ln x\leq{}x-1$
+- 
