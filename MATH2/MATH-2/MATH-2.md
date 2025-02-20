@@ -56,3 +56,4 @@ $\ln x\leq{}x^{\delta},\; \forall x\geq{}M$
 - $e^{ x }\geq{}ex$
 - $\ln x\leq{} \dfrac{x}{e}$
 
+$12$
