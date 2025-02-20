@@ -30,4 +30,4 @@ $\arctan x+\mathrm{arccot} \;  x=\dfrac{\pi}{2}$
 - $\sin x\leq{}x, \; x\geq{}0$
 - $\tan x\geq{}x, \; x \in\left[0, \dfrac{\pi}{2}\right)$
 
-设 $\delta>0$ 则存在 $C>0$
+设 $\delta>0$ 则存在 $C>0,\text{ s.t. }$ 
