@@ -8,7 +8,7 @@
 
 烯烃 Alkene -ene 乙烯 ethene ethylene
 
-炔烃 Alkyne -yne 乙炔 ethyne
+炔烃 Alkyne -yne 乙炔 ethyne acethyl
 
 芳香烃 Aromatic hydrocarbon
 
