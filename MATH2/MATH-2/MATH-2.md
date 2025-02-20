@@ -32,4 +32,5 @@ $\arctan x+\mathrm{arccot} \;  x=\dfrac{\pi}{2}$
 
 设 $\delta>0$ 则存在 $C>0,\text{ s.t. }$ 
 
-$\ln x\leq{}Cx^{}$
+$\ln x\leq{}Cx^{\delta},\;  \forall x>0$
+
