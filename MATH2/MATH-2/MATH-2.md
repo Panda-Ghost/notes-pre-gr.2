@@ -71,3 +71,7 @@ $\left| \dfrac{f(x)-f(x_{0})}{x-x_{0}}-a \right|<1, \quad \forall x \in I\setmin
 则
 
 $\left| f(x)-f(x_{0}) \right|< |x-x_{0}|(1+|f'(x_{0})|), \quad \forall x \in I, |x-x_{0}|<\delta_{0}$
+
+设 $\varepsilon>0$ 令
+
+$\delta=$
