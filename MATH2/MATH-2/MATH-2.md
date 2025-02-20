@@ -34,7 +34,7 @@ $\arctan x+\mathrm{arccot} \;  x=\dfrac{\pi}{2}$
 
 $\ln x\leq{}Cx^{\delta},\;  \forall x>0$
 
-# 王旭琪还是太强了
+王旭琪还是太强了
 
 证：$\ln x=\dfrac{1}{\delta}\ln x^{\delta}\leq{} \dfrac{1}{\delta}(x^{\delta}-1)\leq{} \dfrac{1}{\delta}x^{\delta}$
 
@@ -84,5 +84,5 @@ $$
 
 所以连续
 
-# 陈禹霖还是太强了👍
+陈禹霖还是太强了👍
 
