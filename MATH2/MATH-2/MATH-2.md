@@ -38,4 +38,6 @@ $\ln x\leq{}Cx^{\delta},\;  \forall x>0$
 
 证：$\ln x=\dfrac{1}{\delta}\ln x^{\delta}\leq{} \dfrac{1}{\delta}(x^{\delta}-1)\leq{} \dfrac{1}{\delta}x^{\delta}$
 
-$\lim_{ x \to +\infty }$
+$\lim_{ x \to +\infty } \dfrac{\ln x}{x^{\delta}}=0$
+
+证：$0< \dfrac{\ln x}{x^{\delta}}\leq{} \dfrac{\dfrac{2}{\delta}x^{\delta/2}}{x^{\delta}}=\dfrac{2}{}$
