@@ -58,4 +58,7 @@ $\ln x\leq{}x^{\delta},\; \forall x\geq{}M$
 
 **命题1**
 
-设 $I\subset \mathbb{R}$ 为区间，$f:I$
+设 $I\subset \mathbb{R}$ 为区间，$f:I\to \mathbb{R},\;x_{0}\in I$
+
+如果 $f$ 在 $x_{0}$ 点可导，则 $f$ 在 $x_{0}$ 点连续
+
