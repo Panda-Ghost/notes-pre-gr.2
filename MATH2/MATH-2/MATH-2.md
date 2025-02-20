@@ -50,3 +50,5 @@ $\lim_{ x \to 0 }x\ln x=\lim_{ t \to +\infty }\dfrac{-\ln t}{t}=0$
 存在 $M>0,\text{ s.t. }$
 
 $\ln x\leq{}x^{\delta},\; \forall x\geq{}M$
+
+证：$\ln x\leq{} \dfrac{2}{\delta}x^{\delta/2}\leq{}x\delta$
