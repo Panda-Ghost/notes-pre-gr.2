@@ -53,3 +53,5 @@ $\ln x\leq{}x^{\delta},\; \forall x\geq{}M$
 
 证：$\ln x\leq{} \dfrac{2}{\delta}x^{\delta/2}\leq{}x^\delta, \; \forall x\geq{}e^{ 2/\delta \ln (2/\delta) }$
 
+- $e^{ x }\geq{}ex$
+- $\ln x\leq{} \dfrac{x}{e}$
