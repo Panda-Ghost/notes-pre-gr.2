@@ -79,7 +79,7 @@ $\delta= \min \{ \varepsilon,\delta_{0} \}$
 则当 $x \in I, |x-x_{0}|<\delta$ 时
 
 $$
-|f(x)-f(x_{0})|\leq (1+|f'(x_{0})|)\delta\leq(1+|f'(x_{0})|)\varepsilon
+|f(x)-f(x_{0})|\leq (1+|f'(x_{0})|)\delta\leq (1+|f'(x_{0})|)\varepsilon
 $$
 
-所以lian
+所以连续
