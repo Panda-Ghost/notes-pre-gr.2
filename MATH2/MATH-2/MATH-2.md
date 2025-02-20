@@ -14,3 +14,6 @@ $\arcsin$ 在 $\dfrac{\pi}{2},-\dfrac{\pi}{2}$ 不可导
 
 $\arcsin x+\arccos x=\dfrac{\pi}{2}\implies (\arcsin x)'+(\arccos x)'=0$
 
+$\tan (\arctan x)=x\implies(\arctan x)'=\cos ^{2}(\arctan x)=\dfrac{1}{1+x^{2}}$
+
+$\arctan x+\mathrm{arccot}$
