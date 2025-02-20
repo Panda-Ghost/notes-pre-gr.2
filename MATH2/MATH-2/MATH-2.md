@@ -47,3 +47,6 @@ $\lim_{ x \to 0 }x\ln x=\lim_{ t \to +\infty }\dfrac{-\ln t}{t}=0$
 - $y=e^{ x }$ 过原点的切线：$y=ex$
 - $y=\ln x$ 过原点的切线：$y=\dfrac{x}{e}$
 
+存在 $M>0,\text{ s.t. }$
+
+$\ln x\leq{}x^{\delta},\; \forall x\geq{}M$
