@@ -51,4 +51,5 @@ $\lim_{ x \to 0 }x\ln x=\lim_{ t \to +\infty }\dfrac{-\ln t}{t}=0$
 
 $\ln x\leq{}x^{\delta},\; \forall x\geq{}M$
 
-证：$\ln x\leq{} \dfrac{2}{\delta}x^{\delta/2}\leq{}x\delta$
+证：$\ln x\leq{} \dfrac{2}{\delta}x^{\delta/2}\leq{}x^\delta, \; \forall x\geq{}e^{ 2/\delta \ln (2/\delta) }$
+
