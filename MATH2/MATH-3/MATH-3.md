@@ -72,4 +72,5 @@ $$
 
 $g(a)=g(b)=0$
 
-则 $e\xi$
+则 $\exists\xi \in(a,b),\text{ s.t. } g'(\xi)=0 \iff f'(\xi)=\dfrac{f(b)-f(a)}{b-a}$
+
