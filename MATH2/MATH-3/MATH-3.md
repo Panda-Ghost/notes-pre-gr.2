@@ -11,5 +11,7 @@
 设 $\varepsilon>0, \; \exists \delta>0,\text{ s.t. }$
 
 $$
-\left| \dfrac{f(x)-f(c)}{x-c}-f'(c) \right| < \varepsilon \quad
+\left| \dfrac{f(x)-f(c)}{x-c}-f'(c) \right| < \varepsilon, \quad \forall x \in (a,b),\;0<|x-c|<\delta
 $$
+
+li
