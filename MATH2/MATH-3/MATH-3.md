@@ -55,4 +55,8 @@ $$
 **证明**
 
 - $f\equiv 0$，$\xi=\dfrac{a+b}{2},\; f'(\xi)=0$
-- $\max f>0$，设 $x_{0}\in[a,b],\;f(x_{0})=\maa$
+- $\max f>0$，设 $x_{0}\in[a,b],\;f(x_{0})=\max f,\;x_{0}\in(a,b),\;f'(x_{0})=0$
+- $\min f<0$，设 $x_{0}=[a,b], \;f(x_{0})=\min f, \;x_{0}\in(a,b), \;f'(x_{0})=0$
+
+定理1syntax on
+set ts=4 et ai cindent shiftwidth=4 nu sts=4 si sm ru mouse=a title wim=list
