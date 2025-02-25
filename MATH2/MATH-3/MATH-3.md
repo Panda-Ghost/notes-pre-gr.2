@@ -19,5 +19,6 @@ $$
 则当 $0<|x-c|<\sigma$
 
 $$
-|
+\left| \dfrac{f(x)-f(c)}{x-c}-f'(c) \right|<\varepsilon, \quad\forall 0<|x-c|<\sigma
 $$
+
