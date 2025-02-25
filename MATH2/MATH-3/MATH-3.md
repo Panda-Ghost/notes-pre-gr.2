@@ -92,4 +92,15 @@ $$
 
 **命题**
 
-设 $I$ 为区间
+设 $I$ 为区间，$f:I\to \mathbb{R}$ 可导，如果
+
+$$
+f'(x)\geq 0,\quad \forall x \in I
+$$
+则 $f$ 单调增，如果
+
+$$
+f'(x)>0, \quad \forall x \in I
+$$
+
+则 $f$
