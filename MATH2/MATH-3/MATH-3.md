@@ -25,5 +25,8 @@ $$
 由上式
 
  $$
-\dfrac{f(x)-f(c)}{x-c}-\varepsilon
+\dfrac{f(x)-f(c)}{x-c}-\varepsilon<f'(c)< \dfrac{f(x)-f(c)}{x-c}+\varepsilon,\quad \forall 0<|x-c|<\sigma
 $$
+
+令 $x=c-\dfrac{\sigma}{2}$
+
