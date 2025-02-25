@@ -2,4 +2,7 @@
 
 **命题1**
 
-设 $f:(a,b)\to \mathbb{R},\;c\in(a,b),\; f(c)=\max$
+设 $f:(a,b)\to \mathbb{R},\;c\in(a,b),\; f(c)=\max f$
+
+如果 $f$ 在 $c$ 点可导，则 $f'(c)=0$
+
