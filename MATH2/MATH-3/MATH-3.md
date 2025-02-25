@@ -68,4 +68,5 @@ $$
 
 证明
 
-构造 $g(x)=f(x)-\dfrac{f(b)-f(a)}{b-a}x-$
+构造 $g(x)=f(x)-\dfrac{f(b)-f(a)}{b-a}x-\dfrac{b f(a)-af(b)}{b-a}$
+
