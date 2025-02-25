@@ -66,4 +66,6 @@ $$
 f'(\xi)= \dfrac{f(b)-f(a)}{b-a}
 $$
 
-真名
+证明
+
+构造 $g(x)=f(x)-\dfrac{f(b)-f(a)}{b-a}x-$
