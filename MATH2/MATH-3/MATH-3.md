@@ -52,4 +52,7 @@ $$
 
 如果 $f(a)=f(b)=0$，则 $\exists \xi \in(a,b),\text{ s.t. } f'(\xi)=0$
 
-zheng m
+**证明**
+
+- $f\equiv 0$，$\xi=\dfrac{a+b}{2},\; f'(\xi)=0$
+- $\max f>0$，设 $x_{0}\in[a,b],\;f(x_{0})=\maa$
