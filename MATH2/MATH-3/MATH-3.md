@@ -74,4 +74,10 @@ $g(a)=g(b)=0$
 
 则 $\exists\xi \in(a,b),\text{ s.t. } g'(\xi)=0 \iff f'(\xi)=\dfrac{f(b)-f(a)}{b-a}$
 
+**定义**
+
+设 $I$ 为区间，$f:I\to \mathbb{R}$，如果 $\forall x_{1},x_{2}\in I,\;x_{1}<x_{2}$，都有
+
+$$
+f(x)
 $$
