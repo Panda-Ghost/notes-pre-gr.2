@@ -8,4 +8,8 @@
 
 **证明**
 
-设 $\varepsilon>0, \; \exists \delta$
+设 $\varepsilon>0, \; \exists \delta>0,\text{ s.t. }$
+
+$$
+\left| \dfrac{f(x)-f(c)}{x-c}-f'(c) \right| < \varepsilon \quad
+$$
