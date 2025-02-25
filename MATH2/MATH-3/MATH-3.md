@@ -28,5 +28,7 @@ $$
 \dfrac{f(x)-f(c)}{x-c}-\varepsilon<f'(c)< \dfrac{f(x)-f(c)}{x-c}+\varepsilon,\quad \forall 0<|x-c|<\sigma
 $$
 
-令 $x=c-\dfrac{\sigma}{2}$
+令 $x=c-\dfrac{\sigma}{2}$，得到 $-\varepsilon<f'(c)$
+
+令 $x=c+\dfrac{\sigma}{2}$，得到 $f'(c)<\varepsilon$
 
