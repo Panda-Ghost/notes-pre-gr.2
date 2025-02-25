@@ -52,3 +52,4 @@ $$
 
 如果 $f(a)=f(b)=0$，则 $\exists \xi \in(a,b),\text{ s.t. } f'(\xi)=0$
 
+zheng m
