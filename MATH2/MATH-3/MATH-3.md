@@ -6,3 +6,6 @@
 
 如果 $f$ 在 $c$ 点可导，则 $f'(c)=0$
 
+**证明**
+
+设 $\varepsilon>0, \; \exists \delta$
