@@ -32,3 +32,11 @@ $$
 
 令 $x=c+\dfrac{\sigma}{2}$，得到 $f'(c)<\varepsilon$
 
+所以得到
+
+$$
+-\varepsilon<f'(c)<\varepsilon, \quad \forall \varepsilon>0
+$$
+
+所以 $f'(c)=0$
+
