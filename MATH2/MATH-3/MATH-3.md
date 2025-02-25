@@ -66,7 +66,10 @@ $$
 f'(\xi)= \dfrac{f(b)-f(a)}{b-a}
 $$
 
-证明
+**证明**
 
 构造 $g(x)=f(x)-\dfrac{f(b)-f(a)}{b-a}x-\dfrac{b f(a)-af(b)}{b-a}$
 
+$g(a)=g(b)=0$
+
+则 $e\xi$
