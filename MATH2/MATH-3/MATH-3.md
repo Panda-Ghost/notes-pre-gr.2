@@ -14,4 +14,10 @@ $$
 \left| \dfrac{f(x)-f(c)}{x-c}-f'(c) \right| < \varepsilon, \quad \forall x \in (a,b),\;0<|x-c|<\delta
 $$
 
-li
+令 $\sigma=\min \{ c-a,b-c,\delta \}$
+
+则当 $0<|x-c|<\sigma$
+
+$$
+|
+$$
