@@ -60,4 +60,9 @@ $$
 
 **定理1**（微分中值定理）
 
-设 $f:[a,b]\to \mathbb{R}$ 连续，$f$ 在 $(a,b)$ 上ke da
+设 $f:[a,b]\to \mathbb{R}$ 连续，$f$ 在 $(a,b)$ 上可导，则 $\exists \xi \in(a,b),\text{ s.t. }$
+
+$$
+f'(\xi)= \dfrac{f(b)-f(a)}{b-a}
+$$
+
