@@ -22,7 +22,7 @@ $Q'(x)=3ax^{2}+2bx+c$
 
 $\Delta=4b^{2}-12ac$
 
-
+下面用 $\nearrow$ 表示严格单调增，$\searrow$ 表示严格dan
 
 $\Delta<0$
 
