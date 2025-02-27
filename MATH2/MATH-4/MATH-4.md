@@ -45,3 +45,4 @@ $\Delta>0$
 
 $Q(x)=a\left(x+\dfrac{b}{3a}\right)^{3}+\left( c-\dfrac{b^{2}}{3a} \right)\left( x+\dfrac{b}{3a} \right)-\dfrac{bc}{3a}+\dfrac{2b^{3}}{27a^{2}}+d$
 
+陈禹霖还是太有实力了
