@@ -22,6 +22,8 @@ $Q'(x)=3ax^{2}+2bx+c$
 
 $\Delta=4b^{2}-12ac$
 
+$\nearrow$
+
 $\Delta<0$
 
 - $a>0,\; Q(x)\nearrow$
@@ -29,4 +31,6 @@ $\Delta<0$
 
 $\Delta=0$
 
-- $a>0,\;Q(x)$
+- $a>0,\;Q(x)\nearrow$
+- $a<0,\;Q(x)\searrow$
+
