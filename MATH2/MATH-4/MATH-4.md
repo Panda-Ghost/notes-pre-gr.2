@@ -24,5 +24,5 @@ $\Delta=4b^{2}-12ac$
 
 $\Delta<0$
 
-- $a>0$
-- $a<0$ 
+- $a>0,\; Q(x)\nearrow$
+- $a<0,\;Q(x)\searrow$ 
