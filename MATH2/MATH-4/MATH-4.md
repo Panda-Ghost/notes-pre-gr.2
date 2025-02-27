@@ -49,3 +49,7 @@ $Q(x)=a\left(x+\dfrac{b}{3a}\right)^{3}+\left( c-\dfrac{b^{2}}{3a} \right)\left(
 
 怎么这么王旭琪呢
 
+唐完了
+
+少年班数学完蛋了
+
