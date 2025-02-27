@@ -36,4 +36,5 @@ $\Delta=0$
 
 $\Delta>0$
 
-- $a>0,\;(-\infty,x_{1})\nearrow(x_{1},x_{2})\searrow(x_{2},+\infty)\nearrow$
+- $a>0,\;(-\infty,x_{1})\nearrow,\;(x_{1},x_{2})\searrow,\;(x_{2},+\infty)\nearrow$
+- $a>0,\;(-\infty,x_{1})\nearrow,\;(x_{1},x_{2})\searrow,\;(x_{2},+\infty)\nearrow$
