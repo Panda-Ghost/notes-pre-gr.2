@@ -22,7 +22,7 @@ $Q'(x)=3ax^{2}+2bx+c$
 
 $\Delta=4b^{2}-12ac$
 
-下面用 $\nearrow$ 表示严格单调增，$\searrow$ 表示严格dan
+下面用 $\nearrow$ 表示严格单调增，$\searrow$ 表示严格单调减
 
 $\Delta<0$
 
@@ -34,3 +34,6 @@ $\Delta=0$
 - $a>0,\;Q(x)\nearrow$
 - $a<0,\;Q(x)\searrow$
 
+$\Delta>0$
+
+- $a>0,\;(-\infty,x_{1})\nearrow(x_{1},x_{2})\searrow()$
