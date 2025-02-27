@@ -51,5 +51,5 @@ $Q(x)=a\left(x+\dfrac{b}{3a}\right)^{3}+\left( c-\dfrac{b^{2}}{3a} \right)\left(
 
 唐完了
 
-少年班数学完蛋了
+陈禹霖少年班数学完蛋了
 
