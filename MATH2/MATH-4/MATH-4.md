@@ -27,4 +27,6 @@ $\Delta<0$
 - $a>0,\; Q(x)\nearrow$
 - $a<0,\;Q(x)\searrow$ 
 
-$\searrow\swarrow\nwarrow\nearrowuparrow$
+$\Delta=0$
+
+- $a>0,\;Q(x)$
