@@ -11,7 +11,7 @@ $$
 称 $x_{0}$ 是 $f$ 的极大值点，称 $f(x_{0})$ 为 $f$ 的极大值；如果 $\exists 0<\varepsilon<\min\{ b-x_{0},x_{0}-a \},\text{ s.t. }$
 
 $$
-f(x)<f(x_{0}), \quad \forall x \in (x_{0}-\varepsilon,x_{0}+\varepsilon) \setminus \{  x_{0} \}
+f(x)<f(x_{0}), \quad \forall x \in (x_{0}-\varepsilon,x_{0}+\varepsilon) \setminus \{  x_{0} \}  \setminus
 $$
 
 称 $x_{0}$ 是 $f$ 的严格极大值点，称 $f(x_{0})$ 为 $f$ 的严格极大值
