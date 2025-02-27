@@ -41,4 +41,5 @@ $\Delta>0$
 
 对称中心 $\left( -\dfrac{b}{3a},Q\left( -\dfrac{b}{3a} \right) \right)$
 
+zhe m
 $Q(x)=a\left(x+\dfrac{b}{3a}\right)^{3}+\left( c-\dfrac{b^{2}}{3a} \right)\left( x+\dfrac{b}{3a} \right)-\dfrac{bc}{3a}+\dfrac{2b^{3}}{27a^{2}}+d$
