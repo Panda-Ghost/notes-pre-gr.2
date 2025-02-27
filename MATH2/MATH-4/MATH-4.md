@@ -22,7 +22,7 @@ $Q'(x)=3ax^{2}+2bx+c$
 
 $\Delta=4b^{2}-12ac$
 
-$\nearrow$
+
 
 $\Delta<0$
 
