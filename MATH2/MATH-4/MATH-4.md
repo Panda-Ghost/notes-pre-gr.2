@@ -14,4 +14,4 @@ $$
 f(x)<f(x_{0}), \quad \forall x \in (x_{0}-\varepsilon,x_{0}+\varepsilon) \setminus \{  x_{0} \}
 $$
 
-称 $x_{0}$ 是 $f$ 的严格极大值dian
+称 $x_{0}$ 是 $f$ 的严格极大值点，称 $f(x_{0})$ 为 $f$ 的严格极大值
