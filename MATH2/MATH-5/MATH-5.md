@@ -68,3 +68,10 @@ $$
 |a_{n}-a|\leq C\varepsilon, \quad \forall n\geq N
 $$
 
+**定义3**
+
+设 $a_{n}\in \mathbb{R},n=1,2,3\dots$ 如果 $\exists M\in \mathbb{R},\text{ s.t. }$
+
+$$
+|a_{n}|\leq M, \quad \forall n \in \mathbb{N}
+$$
