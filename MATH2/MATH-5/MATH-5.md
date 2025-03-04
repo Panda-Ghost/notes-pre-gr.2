@@ -62,3 +62,6 @@ $$
 
 **命题2**
 
+设 $a_{n},a \in \mathbb{R},\; n=1,2,\dots,\;C>0$
+
+则 $a_{n}\to a$ 当且仅当 $\forall\varepsilon>0,\;\exists N\in \mathbb{}$
