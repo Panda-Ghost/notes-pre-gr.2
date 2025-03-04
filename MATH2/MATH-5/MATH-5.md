@@ -22,3 +22,6 @@ $$
 
 设 $a_{n}\in \mathbb{R},\;n=1,2,\dots,\;a,b\in \mathbb{R}$，如果 $a,b$ 都是 $a_{n}$ 的极限，则 $a=b$
 
+证明
+
+设 $\varepsilon>0$，
