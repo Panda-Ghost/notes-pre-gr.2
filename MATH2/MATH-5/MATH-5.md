@@ -18,3 +18,4 @@ $$
 
 唯一性
 
+n m n m n m n m n m n m
