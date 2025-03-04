@@ -73,5 +73,11 @@ $$
 设 $a_{n}\in \mathbb{R},n=1,2,3\dots$ 如果 $\exists M\in \mathbb{R},\text{ s.t. }$
 
 $$
-|a_{n}|\leq M, \quad \forall n \in \mathbb{N}
+|a_{n}|\leq M, \quad \forall n \in \mathbb{N^{*}}
 $$
+
+称 $\{ a_{n} \}$ 有界
+
+**命题3**
+
+设
