@@ -58,4 +58,5 @@ $$
 
 设 $\{ a_{n} \}$ 收敛，用 $\lim_{ n \to +\infty } a_{n}$ 表示 $\{ a_{n} \}$ 的极限
 
-如果 $a=\lim_{ n \to \infty }$，记 $a_{n}\to a$
+如果 $a=\lim_{ n \to +\infty }a_{n}$，记 $a_{n}\to a$
+
