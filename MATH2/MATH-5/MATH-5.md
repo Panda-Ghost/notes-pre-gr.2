@@ -52,4 +52,6 @@ $$
 
 **定义2**
 
-设 $a_{n}$
+设 $a_{n}\in \mathbb{R}$，如果 $\exists a\in \mathbb{R},\text{ s.t. }$ $a$ 是 $\{  a_{n} \}$ 的极限
+
+称 $\{ a_{n} \}$ sh
