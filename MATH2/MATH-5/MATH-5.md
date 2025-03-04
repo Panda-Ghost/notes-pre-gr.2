@@ -39,5 +39,6 @@ $$
 则
 
 $$
-
+|a_{N}-a|<\varepsilon \wedge |a_{N}-b|<\varepsilon \implies|a-b|\leq|a_{N}-a|+|a_{n}-b|<2\varepsilon
 $$
+
