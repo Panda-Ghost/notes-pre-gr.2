@@ -39,6 +39,14 @@ $$
 则
 
 $$
-|a_{N}-a|<\varepsilon \wedge |a_{N}-b|<\varepsilon \implies|a-b|\leq|a_{N}-a|+|a_{n}-b|<2\varepsilon
+|a-b|\leq|a_{N}-a|+|a_{N}-b|<2\varepsilon
 $$
+
+这样我们就证明了
+
+$$
+|a-b|\leq 2\varepsilon,\quad \forall \varepsilon>0
+$$
+
+所以 $a=b$
 
