@@ -24,4 +24,12 @@ $$
 
 证明
 
-设 $\varepsilon>0$，
+设 $\varepsilon>0$，则 $\exists N_{1},N_{2}\in \mathbb{N^{*}},\text{ s.t. }$
+
+$$
+|a_{n}-a|<\varepsilon, \quad \forall n\geq N_{1}
+$$
+
+$$
+|a_{n}-
+$$
