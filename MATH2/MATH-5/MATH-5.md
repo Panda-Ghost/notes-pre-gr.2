@@ -31,5 +31,13 @@ $$
 $$
 
 $$
-|a_{n}-
+|a_{n}-b|<\varepsilon, \quad \forall n\geq N_{2}
+$$
+
+令 $N=\max\{ N_{1},N_{2} \}$
+
+则
+
+$$
+
 $$
