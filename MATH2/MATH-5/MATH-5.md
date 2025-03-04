@@ -52,6 +52,8 @@ $$
 
 **定义2**
 
-设 $a_{n}\in \mathbb{R}$，如果 $\exists a\in \mathbb{R},\text{ s.t. }$ $a$ 是 $\{  a_{n} \}$ 的极限
+设 $a_{n}\in \mathbb{R},\;n=1,2,3\dots$，如果 $\exists a\in \mathbb{R},\text{ s.t. }$ $a$ 是 $\{  a_{n} \}$ 的极限
 
-称 $\{ a_{n} \}$ sh
+称 $\{ a_{n} \}$ 收敛，否则称 $\{ a_{n} \}$ 发散
+
+设 $\{ a_{n} \}$ 收敛，用 $\lim_{ n \to \infty }$
