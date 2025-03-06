@@ -1,2 +1,5 @@
 # MATH-6
 
+**命题1**
+
+设 $f:A\subset \mathbb{R}\to \mathbb{R}$ 连续，$a_{n},a\in A,\;n=1,2,\dots$ ru guo
