@@ -14,3 +14,7 @@
 
 设 $f,g:[a,b]\to \mathbb{R}$ 连续，在 $(a,b)$ 上可导，且
 
+$$
+g'(x)\neq 0, \quad \forall x \in(a,b)
+$$
+则 $\exists \xi \in (a,b),\text{ s.t. }$
