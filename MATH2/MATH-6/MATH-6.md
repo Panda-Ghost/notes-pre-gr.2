@@ -18,3 +18,7 @@ $$
 g'(x)\neq 0, \quad \forall x \in(a,b)
 $$
 则 $\exists \xi \in (a,b),\text{ s.t. }$
+
+$$
+\dfrac{f(b)-f(a)}{g(b)-g(a)}= \dfrac{f'(\xi)}{}
+$$
