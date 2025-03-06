@@ -26,5 +26,7 @@ $$
 **证明**
 
 $$
-\dfrac{f(x)-f(a)}{f(b)-f(a)}, \quad\dfrac{g(x)-g(a)}{g(b)-g(a)}
+h(x)=\dfrac{f(x)-f(a)}{f(b)-f(a)}-\dfrac{g(x)-g(a)}{g(b)-g(a)}
 $$
+
+对 $h$
