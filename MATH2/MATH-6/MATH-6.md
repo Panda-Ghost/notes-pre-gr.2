@@ -20,5 +20,6 @@ $$
 则 $\exists \xi \in (a,b),\text{ s.t. }$
 
 $$
-\dfrac{f(b)-f(a)}{g(b)-g(a)}= \dfrac{f'(\xi)}{}
+\dfrac{f(b)-f(a)}{g(b)-g(a)}= \dfrac{f'(\xi)}{g'(\xi)}
 $$
+
