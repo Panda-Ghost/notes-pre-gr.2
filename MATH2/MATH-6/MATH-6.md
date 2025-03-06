@@ -26,5 +26,6 @@ $$
 **证明**
 
 $$
-
+\dfrac{f(x)-f(a)}{f(b)-f(a)}, \quad\dfrac{g(x)-g(a)}{g(b)-g(a)}
 $$
+
