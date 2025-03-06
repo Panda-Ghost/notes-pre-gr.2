@@ -1,2 +1,3 @@
-im <c-s> <esc>:w<CR>
-nn <c-s> :w<CR>
+im <C-s> <ESC>:w<CR>
+nn <C-s> :w<CR>
+set clipboard=unnamed
