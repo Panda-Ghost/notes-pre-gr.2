@@ -66,4 +66,4 @@ $a_{2n}\to 1, \; a_{2n-1} \to -1$，所以 $\{ a_{n} \}$ 不收敛
 
 - $\alpha a_{n}+\beta b_{n}\to \alpha a+\beta b$
 - $a_{n}b_{n}\to ab$
-- 如果 $b$
+- 如果 $b,b_{n}\neq 0,\forall n=1,2,\dots$ 则 $\dfrac{a_{n}}{b_{n}}\to \dfrac{a}{b}$
