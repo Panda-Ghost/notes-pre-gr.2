@@ -10,3 +10,7 @@
 
 则 $\exists \xi \in(a,b),\text{ s.t. } f'(\xi)=0$
 
+**定理**
+
+设 $f,g:[a,b]\to \mathbb{R}$ 连续，在 $(a,b)$ 上可导，且
+
