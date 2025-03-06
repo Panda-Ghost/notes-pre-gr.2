@@ -37,3 +37,6 @@ $$
 
 设 $a_{n}\in \mathbb{R},\;n=1,2,\dots$，$\{ a_{n} \}$ 收敛，则 $\{ a_{n} \}$ 有界
 
+
+设 $a_{n}\in \mathbb{R}, n=1,2,\dots$
+
