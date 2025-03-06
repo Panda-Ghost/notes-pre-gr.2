@@ -23,3 +23,7 @@ $$
 \dfrac{f(b)-f(a)}{g(b)-g(a)}= \dfrac{f'(\xi)}{g'(\xi)}
 $$
 
+
+C-[>:w
+C-[>:w
+C-[>:
