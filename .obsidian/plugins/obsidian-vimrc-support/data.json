@@ -8,7 +8,7 @@
   "vimStatusPromptMap": {
     "normal": "--NORMAL--",
     "insert": "--INSERT--",
-    "visual": "🟡",
-    "replace": "🔴"
+    "visual": "--VISUAL--",
+    "replace": "--REPLACE--"
   }
 }
