@@ -6,5 +6,6 @@
   "obsidian-latex-suite",
   "automatic-table-of-contents",
   "better-export-pdf",
-  "obsidian-vimrc-support"
+  "obsidian-vimrc-support",
+  "vim-im-select"
 ]
