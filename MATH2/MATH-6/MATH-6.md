@@ -62,4 +62,8 @@ $a_{2n}\to 1, \; a_{2n-1} \to -1$，所以 $\{ a_{n} \}$ 不收敛
 
 **命题**
 
-设 $a_{n},b_{n},a,b,\alpha ,\beta\in \mathbb{R}, \; $
+设 $a_{n},b_{n},a,b,\alpha ,\beta\in \mathbb{R}, \; n=1,2,\dots,\;a_{n}\to a, b_{n}\to b$ 则
+
+- $\alpha a_{n}+\beta b_{n}\to \alpha a+\beta b$
+- $a_{n}b_{n}\to ab$
+- 如果 $b$
