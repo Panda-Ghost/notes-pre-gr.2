@@ -77,7 +77,7 @@ While the Toulmin Model provides a robust framework for argumentation, it has be
 
 ### Extended Toulmin Model
 
-Some scholars have proposed adding components like "Backing" and "Qualifier" to the original model to address the complexities of real-world arguments. citeturn0search0
+Some scholars have proposed adding components like "Backing" and "Qualifier" to the original model to address the complexities of real-world arguments.
 
 ### Visual Representations
 
