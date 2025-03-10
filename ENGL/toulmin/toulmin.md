@@ -1,4 +1,4 @@
-# Understanding the Toulmin Model of Argumentation
+# **Understanding the Toulmin Model of Argumentation*
 
 Developed by British philosopher Stephen Toulmin in his 1958 book _The Uses of Argument_, the Toulmin Model offers a framework for analyzing and constructing arguments. It dissects arguments into six interconnected components, providing clarity on how conclusions are reached and supported.
 

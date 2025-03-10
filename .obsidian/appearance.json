@@ -1,6 +1,6 @@
 {
   "cssTheme": "",
-  "textFontFamily": "Latin Modern Math,Produkt,JetBrainsMono Nerd Font Mono,Helvetica Neue,PingFang SC",
+  "textFontFamily": "NewComputerModern10,NewComputerModern08,Latin Modern Math,Produkt,JetBrainsMono Nerd Font Mono,Helvetica Neue,PingFang SC,NewComputerModernMath",
   "monospaceFontFamily": "JetBrainsMono Nerd Font Mono",
   "interfaceFontFamily": "PingFang HK",
   "translucency": false,
