@@ -1,0 +1,8 @@
+# Analysis of Children's Vitamin Intake Trends in 2014
+
+The graph titled "Vitamin tablets taken by children, 2014" provides a visual representation of the percentage of children who consumed vitamin tablets throughout the year 2014. The movement of the data is divided into seven segments, marked with different colors. 
+
+The graph utilizes a line chart format to track the monthly consumption of vitamin tablets among children. The x-axis represents the months of the year, starting from January and ending in December. The y-axis indicates the percentage of children who took the vitamins, ranging from 0% to 25%. The percentage of January was about 10%. During January to March, the percentage was almost unchanged. Then, the percentage dropped from 10% to 5% in March to April. And during April to June, the percentage fluctuated around 5%. But the percentage quickly rose to 25% when the time went to July. And then the percentage stayed at 25% until the October was coming. The percentage of October was 10%, which is much less than 25%. And at the end of the year, during October to December, the percentage slowly downed to less than 5%.
+
+From this graph, we can see that the percentage had two peaks from July to September and January to February, with the peak from July to September being even higher at 25%. It can be assumed that this is because parents buy more vitamin tablets for their children during the winter and summer holidays
+.
