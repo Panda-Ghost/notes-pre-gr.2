@@ -10,4 +10,10 @@ $$
 
 又 $a_{1}=2\geq 1$
 
-所以
+所以 $\forall n\in \mathbb{N}^*, \; a_{n}\geq 1$
+
+则有
+
+$$
+a_{n+1}=\dfrac{1}{2}\left( a_{n}+\dfrac{1}{a_{n}} \right) \geq\dfrac{1}{2} (a_{n}+a_{n})=a_{n}, \; \fora
+$$
