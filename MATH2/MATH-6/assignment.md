@@ -3,8 +3,11 @@
 我们有：
 
 $$
-0\leq \dfrac{2^{n}}{n!} \leq \dfrac{2^{n}}{2^{n-2}\cdot n}
+0\leq \dfrac{2^{n}}{n!} \leq \dfrac{2^{n}}{2^{n-2}\cdot n}=\dfrac{4}{n} , \quad \forall n\geq 3
 $$
+
+又有 \dfrac{4}{n}\to 0
+
 
 
 
