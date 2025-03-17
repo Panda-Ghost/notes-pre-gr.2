@@ -26,4 +26,4 @@ $$
 
 解得 $a=\pm 1$
 
-又因为 $\{ a_{n} \}\geq 1$ 且 $a=\sup a_{n}$
+又因为 $\forall n\in \mathbb{N}^{*},\; a_{n}\geq 1$ 所以 $a$
