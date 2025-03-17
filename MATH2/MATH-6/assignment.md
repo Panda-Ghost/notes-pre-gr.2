@@ -17,5 +17,5 @@ $2.$ 求极限 $\lim_{ n \to +\infty }\left( \dfrac{1}{4n^{2}+1}+\dfrac{2}{4n^{2
 有
 
 $$
- \dfrac{n^{2}+n}{8n^{2}+2n} \leq a_{n}\leq \dfrac{n^{2}+n}{8n^{2}},\quadfor
+ \dfrac{n^{2}+n}{8n^{2}+2n} \leq a_{n}\leq \dfrac{n^{2}+n}{8n^{2}},\quad \forall n=1,2,\dots 
 $$
