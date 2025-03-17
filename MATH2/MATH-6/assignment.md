@@ -20,4 +20,6 @@ $$
  \dfrac{1+1 / n}{8+2 / n}=\dfrac{n^{2}+n}{8n^{2}+2n} \leq a_{n}\leq \dfrac{n^{2}+n}{8n^{2}}= \dfrac{1+1 / n}{8},\quad \forall n=1,2,\dots 
 $$
 
-其中 $\dfrac{1+ 1 / n}{8+ 2 / n} \to \dfrac{1}{8};\; \dfrac{1+1 / n}{8} \to \dfrac{1}{8}$
+其中 $\dfrac{1+ 1 / n}{8+ 2 / n} \to \dfrac{1}{8}$ 且 $\dfrac{1+1 / n}{8} \to \dfrac{1}{8}$
+
+所以原式 $=\dfrac{1}{8}$
