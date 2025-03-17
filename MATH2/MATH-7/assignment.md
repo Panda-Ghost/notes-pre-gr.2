@@ -22,4 +22,8 @@ $$
 
 则对 $a_{n+1}=\dfrac{1}{2}\left( a_{n}+\dfrac{1}{a_{n}} \right)$ 两边求极限
 
-de
+得 $a=\dfrac{1}{2}\left(a+\dfrac{1}{a}\right)$
+
+解得 $a=\pm 1$
+
+又因为 $\{ a_{n} \}>0$
