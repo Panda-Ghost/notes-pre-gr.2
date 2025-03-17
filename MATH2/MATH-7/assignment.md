@@ -28,4 +28,4 @@ $$
 
 又因为 $\forall n\in \mathbb{N}^{*},\; a_{n}\geq 1$ 所以 $a\geq 1$
 
-综上所述，$a=1$ 即 $\lim_{ n \to +\infty }a_{n}=1$
+综上所述，$a=1$ 即 $\lim \limits_{ n \to +\infty }a_{n}=1$

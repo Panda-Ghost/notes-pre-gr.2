@@ -1,4 +1,4 @@
-$1.$ 求极限 $\lim_{ n \to +\infty } \dfrac{2^{n}}{n!}$
+$1.$ 求极限 $\lim \limits_{ n \to +\infty } \dfrac{2^{n}}{n!}$
 
 我们有
 
@@ -8,9 +8,9 @@ $$
 
 又有 $\dfrac{4}{n}\to 0$
 
-所以 $\lim_{ n \to +\infty } \dfrac{2^{n}}{n!}=0$
+所以 $\lim \limits_{ n \to +\infty } \dfrac{2^{n}}{n!}=0$
 
-$2.$ 求极限 $\lim_{ n \to +\infty }\left( \dfrac{1}{4n^{2}+1}+\dfrac{2}{4n^{2}+2}+\dots+\dfrac{n}{4n^{2}+n} \right)$
+$2.$ 求极限 $\lim \limits_{ n \to +\infty }\left( \dfrac{1}{4n^{2}+1}+\dfrac{2}{4n^{2}+2}+\dots+\dfrac{n}{4n^{2}+n} \right)$
 
 令 $a_{n}=\dfrac{1}{4n^{2}+1}+\dfrac{2}{4n^{2}+2}+\cdots+ \dfrac{n}{4n^{2}+n}$
 
