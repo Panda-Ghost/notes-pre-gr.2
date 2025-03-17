@@ -18,7 +18,7 @@ $$
 a_{n+1}=\dfrac{1}{2}\left( a_{n}+\dfrac{1}{a_{n}} \right) \geq\dfrac{1}{2} (a_{n}+a_{n})=a_{n}, \quad \forall n=1,2,\dots
 $$
 
-所以 $\{ a_{n} \}$ 单调减，则 $\lim_{ n \to +\infty } a_{n}=\sup a_{n}$ 存在，设 $a_{n}\to a$
+所以 $\{ a_{n} \}$ 单调减，则 $\lim \limits_{ n \to +\infty } a_{n}$ 存在，设 $a_{n}\to a$
 
 则对 $a_{n+1}=\dfrac{1}{2}\left( a_{n}+\dfrac{1}{a_{n}} \right)$ 两边求极限
 
@@ -26,4 +26,6 @@ $$
 
 解得 $a=\pm 1$
 
-又因为 $\forall n\in \mathbb{N}^{*},\; a_{n}\geq 1$ 所以 $a$
+又因为 $\forall n\in \mathbb{N}^{*},\; a_{n}\geq 1$ 所以 $a\geq 1$
+
+综上所述，$a=1$ 即 $\lim_{ n \to +\infty }a_{n}=1$
