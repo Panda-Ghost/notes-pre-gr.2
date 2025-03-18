@@ -95,4 +95,7 @@ $$
 
 **命题1**
 
-设 $a_{n}\in \mathbb{R}$
+设 $a_{n}\in \mathbb{R},\; n=1,2,\dots$ 如果 $\sum a_{n}$ 收敛，则 $a_{n}\to 0$
+
+证明
+
