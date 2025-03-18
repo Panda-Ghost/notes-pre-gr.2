@@ -24,3 +24,4 @@ $$
 
 $a_{n}\to +\infty \iff -a_{n} \to -\infty$
 
+例 设 $b_{n}\to +\infty$ 且 $a_{n}\geq b_{n}, \forall n\in \mathbb{N}^{*}$，所以 $a_{n}\to +\infty$
