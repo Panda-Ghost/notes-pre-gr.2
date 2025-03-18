@@ -18,5 +18,8 @@ $$
 a_{n}\leq-M,\quad \forall n\geq N
 $$
 
-称当 $n\to +\infty$ 时，$a_{n}\to -\infty$ 记为 $\lim_{ n \to +\infty }=-\infty$
+称当 $n\to +\infty$ 时，$a_{n}\to -\infty$ 记为 $\lim_{ n \to +\infty }a_{n}=-\infty$
 
+趋于无穷大时发散的
+
+$a_{n}\to +\infty $
