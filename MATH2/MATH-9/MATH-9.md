@@ -48,3 +48,5 @@ $$
 
 $\lim_{ n \to +\infty } \dfrac{n^{\alpha}}{\ln n}=+\infty, \quad \alpha>0$
 
+级数
+
