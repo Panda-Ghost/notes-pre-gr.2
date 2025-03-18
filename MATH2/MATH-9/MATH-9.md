@@ -26,4 +26,9 @@ $a_{n}\to +\infty \iff -a_{n} \to -\infty$
 
 例 设 $b_{n}\to +\infty$ 且 $a_{n}\geq b_{n}, \forall n\geq N_{0}$，所以 $a_{n}\to +\infty$
 
-设
+设 $n\in \mathbb{N}^{*},$ 则
+
+$$
+e^{x}\geq \dfrac{x^{n}}{n!}, \quad \forall x\geq 0
+$$
+
