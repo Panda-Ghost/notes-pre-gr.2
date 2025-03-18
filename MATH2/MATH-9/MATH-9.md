@@ -64,5 +64,11 @@ $$
 记
 
 $$
+S_{n}=\sum_{k=1}^{n}a_{k}
+$$
 
+$S_{n}$：前 $n$ 项和（部分和），如果
+
+$$
+\lim_{ n \to +\infty } S_{n}=A\in[-\infty,+\infty]
 $$
