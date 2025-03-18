@@ -36,4 +36,4 @@ $$
 
 $f(x)=e^{x}-\dfrac{x^{m+1}}{(m+1)!}$
 
-$f'(x)=e^{x}-\dfrac{x}{}$
+$f'(x)=e^{x}-\dfrac{x^{m}}{m}$
