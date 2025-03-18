@@ -50,3 +50,9 @@ $\lim_{ n \to +\infty } \dfrac{n^{\alpha}}{\ln n}=+\infty, \quad \alpha>0$
 
 级数
 
+设 $a_{n}\in \mathbb{R},\;n=1,2,\dots$
+
+$$
+a_{1}+a_{2}+a_{3}+\cdots
+$$
+称为
