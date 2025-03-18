@@ -50,10 +50,14 @@ $\lim_{ n \to +\infty } \dfrac{n^{\alpha}}{\ln n}=+\infty, \quad \alpha>0$
 
 级数
 
-设 $a_{n}\in \mathbb{R},\;n=1,2,\dots$，和shi
+设 $a_{n}\in \mathbb{R},\;n=1,2,\dots$，和式
 
 $$
 a_{1}+a_{2}+a_{3}+\cdots
 $$
 称为~~（奇数）~~级数
+
+如果 $a_{n}\geq 0,\; n=1,2,\dots$，称为正项（非负项）级数
+
+记为 $\sum_{n=1}^{+\infty} a_{n}$
 
