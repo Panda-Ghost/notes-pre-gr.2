@@ -22,4 +22,5 @@ $$
 
 趋于无穷大时发散的
 
-$a_{n}\to +\infty $
+$a_{n}\to +\infty \iff -a_{n} \to -\infty$
+
