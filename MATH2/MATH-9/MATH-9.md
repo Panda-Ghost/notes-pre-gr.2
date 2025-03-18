@@ -32,3 +32,8 @@ $$
 e^{x}\geq \dfrac{x^{n}}{n!}, \quad \forall x\geq 0
 $$
 
+数学归纳法
+
+$f(x)=e^{x}-\dfrac{x^{m+1}}{(m+1)!}$
+
+$f'(x)=e^{x}-\dfrac{x}{}$
