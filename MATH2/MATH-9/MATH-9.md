@@ -116,3 +116,5 @@ $\sum_{n=0}^{+\infty } n^{q}$，若 $|q|\leq 1$ 则趋于 $\dfrac{1}{1-q}$，若
 $$
 |a_{n+1}+a_{n+2}+\dots+a_{n+p}| <\varepsilon, \quad \forall n\geq N,\;p=1,2,\dots
 $$
+
+如果 $\sum|a_{n}|<+o$
