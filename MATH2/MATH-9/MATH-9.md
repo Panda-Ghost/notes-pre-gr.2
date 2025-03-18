@@ -40,3 +40,4 @@ $f'(x)=e^{x}-\dfrac{x^{m}}{m!}$
 
 $\lim_{ n \to +\infty }   \dfrac{e^{n}}{n^{\alpha}}=+\infty$
 
+$\lim_{ n \to +\infty } \dfrac{n^{\alpha}}{\ln n}=$
