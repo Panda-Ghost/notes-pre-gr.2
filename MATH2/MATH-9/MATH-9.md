@@ -80,5 +80,6 @@ $$
 设 $p>1$ 证明：$\sum_{n=1}^{+\infty} \dfrac{1}{n^{p}}<+\infty$
 
 $$
-\sum_{n=1}^{+\infty} \dfrac{1}{n^{p}}<1+\int_{1}^{+\infty}n^{-p}\mathrm{d}n=1+\left(0-\dfrac{1}{1-p}\right)
+\sum_{n=1}^{+\infty} \dfrac{1}{n^{p}}<1+\int_{1}^{+\infty}n^{-p}\mathrm{d}n=1+\left(0-\dfrac{1}{1-p}\right)=1+\dfrac{1}{p-1}
 $$
+
