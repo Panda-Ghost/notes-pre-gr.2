@@ -114,5 +114,5 @@ $\sum_{n=0}^{+\infty } n^{q}$，若 $|q|\leq 1$ 则趋于 $\dfrac{1}{1-q}$，若
 设 $a_{n} \in \mathbb{R},\; n=1,2,\dots$ 则 $\sum a_{n}$ 收敛当且仅当 $\forall \varepsilon>0,\;\exists N\in \mathbb{N}^{*},\text{ s.t. }$
 
 $$
-|a_{n+1}+a_{n+2}+\dots+a_{n+p}
+|a_{n+1}+a_{n+2}+\dots+a_{n+p}| <\varepsilon, \quad \forall n\geq N,\;p=1,2,\dots
 $$
