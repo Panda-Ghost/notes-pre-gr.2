@@ -85,3 +85,10 @@ $$
 
 $p$ 级数 $\sum_{n=1}^{+\infty} \dfrac{1}{n^{p}}$，如果 $p>1$ 有限，$0<p\leq 1$ 正无穷
 
+如果 
+
+$$
+\lim_{ n \to +\infty } S_{n}=A\in \mathbb{R}
+$$
+
+称 $\sum a_{n}$ 收敛，反之称 $\sum a_{n}$ 发散
