@@ -15,5 +15,8 @@ $$
 如果 $\forall M>0,\exists N\in \mathbb{N}^{*},\text{ s.t. }$
 
 $$
-a_{n}
+a_{n}\leq-M,\quad \forall n\geq N
 $$
+
+称当 $n\to +\infty$ 时，$a_{n}\to -\infty$ 记为 $\lim_{ n \to +\infty }=-\infty$
+
