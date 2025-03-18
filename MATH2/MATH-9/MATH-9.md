@@ -38,4 +38,5 @@ $f(x)=e^{x}-\dfrac{x^{m+1}}{(m+1)!}$
 
 $f'(x)=e^{x}-\dfrac{x^{m}}{m!}$
 
-$\lim_{ n \to +\infty }   \dfrac{e^{n}}{}$
+$\lim_{ n \to +\infty }   \dfrac{e^{n}}{n^{\alpha}}=+\infty$
+
