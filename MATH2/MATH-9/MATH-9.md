@@ -72,3 +72,6 @@ $S_{n}$：前 $n$ 项和（部分和），如果
 $$
 \lim_{ n \to +\infty } S_{n}=A\in[-\infty,+\infty]
 $$
+
+称 $A$ 为级数的和，$A=\sum_{n=1}^{+\infty}a_{n}$
+
