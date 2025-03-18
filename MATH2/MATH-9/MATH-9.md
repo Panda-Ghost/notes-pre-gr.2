@@ -117,4 +117,5 @@ $$
 |a_{n+1}+a_{n+2}+\dots+a_{n+p}| <\varepsilon, \quad \forall n\geq N,\;p=1,2,\dots
 $$
 
-如果 $\sum|a_{n}|<+o$
+如果 $\sum|a_{n}|<+\infty$ 称 $\sum a_{n}$ 绝对收敛
+
