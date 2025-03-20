@@ -8,3 +8,6 @@ $$
 \sum_{n=1}^{+\infty}(\alpha a_{n}+\beta b_{n})= \alpha \sum_{n=1}^{+\infty}a_{n}+\beta \sum_{n=1}^{+\infty}b_{n}
 $$
 
+**命题2**
+
+一个级数去掉有限项，加上有限项，或改变有限项lian ca
