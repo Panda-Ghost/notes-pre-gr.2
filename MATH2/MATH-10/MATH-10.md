@@ -19,5 +19,11 @@ $\{ a_{n} \}$ 收敛 $\iff \{ a_{n+n_{0}} \}$ 收敛
 设 $\sum a_{n}$ 收敛，记
 
 $$
-
+\begin{aligned}
+&b_{1}=a_{1}+a_{2}+\dots +a_{n_{1}}\\
+&b_{2}=a_{n_{1}+1}+a_{n_{1}+2}+\dots+a_{n_{2}}\\
+&\dots
+\end{aligned}
 $$
+
+其中 $n_{1}<n_{2}<\dots$ 则 $\sum b_{n}$
