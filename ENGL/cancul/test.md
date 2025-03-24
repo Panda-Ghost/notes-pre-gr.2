@@ -6,4 +6,4 @@ Cancel culture is a cultural phenomenon in which an individual thought to have a
 
 我们的目标都是为了让弱势群体的意见能被更广泛的听见，以维护言论自由，促进公平
 
-但是我们认为取消文化在助于弱势群体发声的同时也会使
+但是我们认为取消文化在助于弱势群体发声的同时也会使原本的弱势群体反而成为霸凌者，另一方反而成为弱势群体。
