@@ -6,4 +6,4 @@
 
 **命题2**
 
-设 $a_{n},b_{n}>0, $
+设 $a_{n},b_{n}>0, \;n=1,2,\dots$，设存在 $n_{0}\in \mathbb{N}^{*},\text{ s.t. } \forall n\geq N_{0}, \; a_{n} \leq b_{n}$
