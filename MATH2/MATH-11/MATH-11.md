@@ -78,5 +78,6 @@ $$
 
 
 $$
-\sum_{n=}\int_{1}^{+\infty}f(x)\mathrm{d}x\leq \sum_{n=1}^{+\infty}a_{n}
+\sum_{n=2}^{+\infty}a_{n}\leq\int_{1}^{+\infty}f(x)\mathrm{d}x\leq \sum_{n=1}^{+\infty}a_{n}
 $$
+
