@@ -16,5 +16,7 @@
 设 $a_{n},b_{n}>0,\; n=1,2,\dots$，设
 
 $$
-\lim_{ n \to +\infty } \dfrac{a_{n}}{b_{n}}=
+\lim_{ n \to +\infty } \dfrac{a_{n}}{b_{n}}=l \in [0,+\infty]
 $$
+
+- 如果 $0<l<+\infty$，则 $\sum a_{n}$ 收敛 $\iff su m$
