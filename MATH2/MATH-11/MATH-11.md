@@ -26,5 +26,8 @@ $$
 - 如果 $l=0$，则 $\sum b_{n}$ 收敛 $\implies \sum a_{n}$ 收敛，$\sum a_{n}$ 发散 $\implies$ $\sum b_{n}$ 发散
 
 
+证：$\exists n_{0}\in \mathbb{N}^{*},\text{s.t. } \forall n\geq n_{0},\; \dfrac{a_{n}}{b_{n}}\leq 1$ 即 $a_{n}\leq b_{n}$
+
 - 如果 $l=+\infty$，则 $\sum a_{n}$ 收敛 $\implies$ $\sum b_{n}$ 收敛，$\sum b_{n}$ 发散 $\implies \sum a_{n}$ 发散
 
+证：$for\exists n_{0}\in \mathbb{N}^{*},\text{s.t. } \forall n\geq n_{0},\; \dfrac{l}{2}\leq \dfrac{a_{n}}{b_{n}}\leq 2l$ 即 $\dfrac{lb_{n}}{2}\leq a_{n}\leq 2lb_{n}$
