@@ -76,3 +76,7 @@ $$
 \sum a_{n}<+\infty \iff \int_{1}^{+\infty}f(x)\mathrm{d}x<+\infty
 $$
 
+
+$$
+\sum_{n=}\int_{1}^{+\infty}f(x)\mathrm{d}x\leq \sum_{n=1}^{+\infty}a_{n}
+$$
