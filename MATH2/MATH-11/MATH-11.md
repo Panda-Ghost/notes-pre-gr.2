@@ -41,5 +41,8 @@ $$
 $$
 
 - 如果 $\rho<1$，则 $\sum a_{n}$ 收敛
+
+证：$\exists n_{0}\in \mathbb{N}^{*},\text{ s.t. } \forall n\geq n_{0},\; a_{n}$
+
 - 如果 $\rho>1$，则 $\sum a_{n}$ 发散
 - 如果 $\rho=1$，则 $\sum a_{n}$ 可能收敛也可能发散
