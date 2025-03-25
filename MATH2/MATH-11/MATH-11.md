@@ -4,7 +4,7 @@
 
 设 $a_{n}>0, \; n=1,2,\dots,\; S_{n}=\sum_{i=1}^{n}a_{i}$，则 $\sum a_{n}$ 收敛 $\iff \{ S_{n} \}$ 有界
 
-**命题2**
+**命题2**（比较判别法）
 
 设 $a_{n},b_{n}>0, \;n=1,2,\dots$，设存在 $n_{0}\in \mathbb{N}^{*},\text{ s.t. } \forall n\geq N_{0}, \; a_{n} \leq b_{n}$
 
@@ -32,7 +32,7 @@ $$
 
 证：$\exists n_{0}\in \mathbb{N}^{*},\text{s.t. } \forall n\geq n_{0},\; 1\leq \dfrac{a_{n}}{b_{n}}$ 即 $b_{n}\leq a_{n}$
 
-**命题4**
+**命题4**（比率判别法）
 
 设 $a_{n}>0,\;n=1,2,\dots$，设
 
@@ -42,4 +42,4 @@ $$
 
 - 如果 $\rho<1$，则 $\sum a_{n}$ 收敛
 - 如果 $\rho>1$，则 $\sum a_{n}$ 发散
-- 如果 $\rho=1$，则 $\sum a_{n}$ 可能收敛也ke nen
+- 如果 $\rho=1$，则 $\sum a_{n}$ 可能收敛也可能发散
