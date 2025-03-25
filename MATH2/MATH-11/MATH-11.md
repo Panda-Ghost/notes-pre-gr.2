@@ -73,5 +73,6 @@ $$
 则
 
 $$
-\sum a_{n}<+\infty \iff \int_{1}^{+\infty}f(x)
+\sum a_{n}<+\infty \iff \int_{1}^{+\infty}f(x)\mathrm{d}x<+\infty
 $$
+
