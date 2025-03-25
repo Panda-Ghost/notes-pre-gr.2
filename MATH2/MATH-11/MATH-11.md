@@ -57,7 +57,7 @@ $$
 
 - 如果 $\rho<1$，则 $\sum a_{n}$ 收敛
 
-证：$\exists n_{0}\in \mathbb{N}^{*},\text{ s.t. }\forall n\geq n_{0} ,\;\sqrt[n]{a_{n}}\leq (\rh\oplus_{1}$
+证：$\exists n_{0}\in \mathbb{N}^{*},\text{ s.t. }\forall n\geq n_{0} ,\;\sqrt[n]{a_{n}}\leq \dfrac{\rho+1}{2}=\sigma \implies a_{n}\leq \sigma^{n}\implies \sum a_{n_{0}+n}\leq \dfrac{\sigma^{n_{0}+1}}{1-\sigma}$
 
 - 如果 $\rho>1$，则 $\sum a_{n}$ 发散
 - 如果 $\rho=1$，则 $\sum a_{n}$ 可能收敛也可能发散
