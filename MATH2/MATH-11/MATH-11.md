@@ -32,3 +32,12 @@ $$
 
 证：$\exists n_{0}\in \mathbb{N}^{*},\text{s.t. } \forall n\geq n_{0},\; 1\leq \dfrac{a_{n}}{b_{n}}$ 即 $b_{n}\leq a_{n}$
 
+**命题4**
+
+设 $a_{n}>0,\;n=1,2,\dots$，设
+
+$$
+\lim_{ n \to +\infty } \dfrac{a_{n+1}}{a_{n}}=\rho
+$$
+
+- 如果 $\rho$
