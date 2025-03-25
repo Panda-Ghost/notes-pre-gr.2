@@ -57,7 +57,7 @@ $$
 
 - 如果 $\rho<1$，则 $\sum a_{n}$ 收敛
 
-证：$\exists n_{0}\in \mathbb{N}^{*,\text{s.}}$
+证：$\exists n_{0}\in \mathbb{N}^{*},\text{ s.t. }\forall n\geq n_{0} ,\;\sqrt[n]{a_{n}}\leq (\rh\oplus_{1}$
 
 - 如果 $\rho>1$，则 $\sum a_{n}$ 发散
 - 如果 $\rho=1$，则 $\sum a_{n}$ 可能收敛也可能发散
