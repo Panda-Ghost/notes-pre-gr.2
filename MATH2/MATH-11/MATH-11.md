@@ -64,4 +64,14 @@ $$
 
 **命题6**
 
-设 $f:[1,+\infty]\to \mathbb{R},\; f$ 非fu
+设 $f:[1,+\infty]\to \mathbb{R},\; f$ 非负单调减，
+
+$$
+a_{n}=f(n), \quad n=1,2,\dots
+$$
+
+则
+
+$$
+\sum a_{n}<+\infty \iff \int_{1}^{+\infty}f(x)
+$$
