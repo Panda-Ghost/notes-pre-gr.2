@@ -40,4 +40,6 @@ $$
 \lim_{ n \to +\infty } \dfrac{a_{n+1}}{a_{n}}=\rho
 $$
 
-- 如果 $\rho$
+- 如果 $\rho<1$，则 $\sum a_{n}$ 收敛
+- 如果 $\rho>1$，则 $\sum a_{n}$ 发散
+- 如果 $\rho=1$，则 $\sum a_{n}$ 可能收敛也ke nen
