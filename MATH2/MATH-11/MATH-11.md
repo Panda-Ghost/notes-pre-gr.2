@@ -8,3 +8,5 @@
 
 设 $a_{n},b_{n}>0, \;n=1,2,\dots$，设存在 $n_{0}\in \mathbb{N}^{*},\text{ s.t. } \forall n\geq N_{0}, \; a_{n} \leq b_{n}$
 
+- $\sum b_{n}$ 收敛 $\implies \sum a_{n}$ 收敛
+- $\sum a_{n}$ 发散 $\implies \sum b_{n}$ 发散
