@@ -19,4 +19,6 @@ $$
 \lim_{ n \to +\infty } \dfrac{a_{n}}{b_{n}}=l \in [0,+\infty]
 $$
 
-- 如果 $0<l<+\infty$，则 $\sum a_{n}$ 收敛 $\iff su m$
+- 如果 $0<l<+\infty$，则 $\sum a_{n}$ 收敛 $\iff \sum b_{n}$ 收敛
+- 如果 $l=0$，则 $\sum b_{n}$ 收敛 $\implies \sum a_{n}$ 收敛
+- 如果 $l=+\infty$，则 $\sum a_{n}$
