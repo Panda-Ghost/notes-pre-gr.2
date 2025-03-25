@@ -42,8 +42,8 @@ $$
 
 - 如果 $\rho<1$，则 $\sum a_{n}$ 收敛
 
-证：$\exists n_{0}\in \mathbb{N}^{*},\text{ s.t. } \forall n\geq n_{0},\; \dfrac{a_{n+1}}{a_{n}}\leq \dfrac{\rho + 1}{2}=\sigma\implies  \forall n\geq 1, \; a_{n_{0}+n}\leq \sigma^{n}a_{n_{0}}\implies \sum a_{n_{0}+n}\leq a_{n_{0}} \dfrac{1}{1-\sigma}$
-
+证：$\exists n_{0}\in \mathbb{N}^{*},\text{ s.t. } \forall n\geq n_{0},\; \dfrac{a_{n+1}}{a_{n}}\leq \dfrac{\rho + 1}{2}=\sigma\implies  \forall n\geq 1, \; a_{n_{0}+n}\leq \sigma^{n}a_{n_{0}}\implies \sum a_{n_{0}+n}\leq a_{n_{0}} \dfrac{\sigma}{1-\sigma}<+\infty$
 
 - 如果 $\rho>1$，则 $\sum a_{n}$ 发散
 - 如果 $\rho=1$，则 $\sum a_{n}$ 可能收敛也可能发散
+
