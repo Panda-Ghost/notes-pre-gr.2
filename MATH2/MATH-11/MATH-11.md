@@ -10,3 +10,11 @@
 
 - $\sum b_{n}$ 收敛 $\implies \sum a_{n}$ 收敛
 - $\sum a_{n}$ 发散 $\implies \sum b_{n}$ 发散
+
+**命题3**
+
+设 $a_{n},b_{n}>0,\; n=1,2,\dots$，设
+
+$$
+\lim_{ n \to +\infty } \dfrac{a_{n}}{b_{n}}=
+$$
