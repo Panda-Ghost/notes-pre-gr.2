@@ -18,8 +18,15 @@ $f'(x)=(1+ax)e^{ax}-e^x,\quad f''(x)=(2a+a^{2}x)e^{ax}-e^{x}$
 
 然后是充分性
 
-当 $a\leq \dfrac{1}{2}$ 时，因为 $e^{x}> x+1,\; \forall x\in \mathbb{R},x>0$ ，有
+当 $a\leq \dfrac{1}{2}$ 时，有
 
-$f'(x)=(1+ax)e^{ax}-e^x\leq e^{ax}\cdot e^{ax}-e^{x}=e^{2ax}-e^{x}\leq e^{x}-e^{x}=0$
+$$
+f'(x)&=(1+ax)e^{ax}-e^x\\
+&\leq e^{ax}\cdot e^{ax}-e^{x}&
+&=e^{2ax}-e^{x}
+&\leq e^{x}-e^{x}=0, \quad \forall x>0
+$$
+
+
 
 所以 $f(x)\geq f$
