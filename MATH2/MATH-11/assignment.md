@@ -22,4 +22,4 @@ $f'(x)=(1+ax)e^{ax}-e^x,\quad f''(x)=(2a+a^{2}x)e^{ax}-e^{x}$
 
 $f'(x)=(1+ax)e^{ax}-e^x\leq  e^{ax}\cdot e^{ax}-e^{x}=e^{2ax}-e^{x}\leq e^{x}-e^{x}=0$
 
-suo yi
+所以 $f(x)\geq f$
