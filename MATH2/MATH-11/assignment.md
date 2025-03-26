@@ -14,7 +14,7 @@ $f'(x)=(1+ax)e^{ax}-e^x,\quad f''(x)=(2a+a^{2}x)e^{ax}-e^{x}$
 
 则 $\forall \;x\in \left( 0,x_{0} \right),\;f'(x)>f'(0)=0 \implies \forall \;x\in \left( 0,x_{0} \right)$ , $f(x)>f(0)=-1$ 
 
-与 $f(x)<-1$ 矛盾，故 $a\leq \dfrac{1}{2}$
+矛盾，故 $a\leq \dfrac{1}{2}$
 
 然后是充分性
 
@@ -24,6 +24,8 @@ $$
 f'(x)=(1+ax)e^{ax}-e^x\leq e^{ax}\cdot e^{ax}-e^{x}=e^{2ax}-e^{x}\leq e^{x}-e^{x}=0, \quad \forall x>0
 $$
 
-其中前面一个等号取等条件是 $a=0$，而第二个等号取等条件条件
+其中前面一个等号取等条件是 $a=0$，而第二个等号取等条件条件是 $a=\dfrac{1}{2}$。
 
-所以 $f(x)\geq f$
+所以 $f'(x)<0$ 所以 $f(x)<f(0)=-1,\; \forall x>0$
+
+综上 $a$ 的取值范围是 $\left(-\infty, \dfrac{1}{2}\right]$
