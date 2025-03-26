@@ -6,7 +6,7 @@ $f'(x)=(1+ax)e^{ax}-e^x,\quad f''(x)=(2a+a^{2}x)e^{ax}-e^{x}$
 
 若 $a> \dfrac{1}{2}$ ，$f''(0)>0$ .
 
-因为 $f''(x)$ 连续，则 $\exists\; x_{0} >0,\\text{}{s.t.} \;\forall x \in \left( 0,x_{0} \right) \;,f''(x)>0$ .
+因为 $f''(x)$ 连续，则 $\exists\; x_{0} >0,\text{ s.t. }\forall x \in \left( 0,x_{0} \right) \;,f''(x)>0$ .
 
 则 $\forall \;x\in \left( 0,x_{0} \right)$ , $f'(x)>f'(0)=0$ .
 
