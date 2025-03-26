@@ -24,6 +24,6 @@ $$
 f'(x)=(1+ax)e^{ax}-e^x\leq e^{ax}\cdot e^{ax}-e^{x}=e^{2ax}-e^{x}\leq e^{x}-e^{x}=0, \quad \forall x>0
 $$
 
-其中前面一个等号取等tiao jian
+其中前面一个等号取等条件是 $a=0$，而第二个等号取等条件条件
 
 所以 $f(x)\geq f$
