@@ -21,12 +21,9 @@ $f'(x)=(1+ax)e^{ax}-e^x,\quad f''(x)=(2a+a^{2}x)e^{ax}-e^{x}$
 当 $a\leq \dfrac{1}{2}$ 时，有
 
 $$
-f'(x)&=(1+ax)e^{ax}-e^x\\
-&\leq e^{ax}\cdot e^{ax}-e^{x}&
-&=e^{2ax}-e^{x}
-&\leq e^{x}-e^{x}=0, \quad \forall x>0
+f'(x)=(1+ax)e^{ax}-e^x\leq e^{ax}\cdot e^{ax}-e^{x}=e^{2ax}-e^{x}\leq e^{x}-e^{x}=0, \quad \forall x>0
 $$
 
-
+其中前面一个等号取等tiao jian
 
 所以 $f(x)\geq f$
