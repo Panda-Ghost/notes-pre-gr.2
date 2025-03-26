@@ -4,13 +4,15 @@ $f'(x)=(1+ax)e^{ax}-e^x,\quad f''(x)=(2a+a^{2}x)e^{ax}-e^{x}$
 
 其中有 $f(0)=-1, \; f'(0)=0,\; f''(0)=2a-1$
 
-若 $a> \dfrac{1}{2}$ ，$f''(0)>0$ .
+
+
+假设 $a> \dfrac{1}{2}$ ，$f''(0)>0$
 
 因为 $f''(x)$ 连续，则 $\exists\; x_{0} >0,\text{ s.t. }\forall x \in \left( 0,x_{0} \right) \;,f''(x)>0$ .
 
-则 $\forall \;x\in \left( 0,x_{0} \right),\;f'(x)>f'(0)=0$ \forall \;x\in \left( 0,x_{0} \right)$ , $f(x)>f(0)=-1$ ，与 $f(x)<-1$ 矛盾
+则 $\forall \;x\in \left( 0,x_{0} \right),\;f'(x)>f'(0)=0 \implies \forall \;x\in \left( 0,x_{0} \right)$ , $f(x)>f(0)=-1$ 
 
-则 $a\leq \dfrac{1}{2}$ 
+与 $f(x)<-1$ 矛盾，故 $a\leq \dfrac{1}{2}$ 
 
 现证明当 $a\leq \dfrac{1}{2}$ 时，对于 $\forall x> 0,\;f(x)<-1$ .
 
