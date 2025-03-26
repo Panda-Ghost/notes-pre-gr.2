@@ -16,14 +16,10 @@ $f'(x)=(1+ax)e^{ax}-e^x,\quad f''(x)=(2a+a^{2}x)e^{ax}-e^{x}$
 
 与 $f(x)<-1$ 矛盾，故 $a\leq \dfrac{1}{2}$
 
-然后是chon feng x
+然后是充分性
 
-现证明当 $a\leq \dfrac{1}{2}$ 时，对于 $\forall x> 0,\;f(x)<-1$ .
+当 $a\leq \dfrac{1}{2}$ 时，因为 $e^{x}\geq x+1,\; \forall x\in \mathbb{R}$ ，有
 
-当 $a\in \left( -\infty, \dfrac{1}{2}\right]$ 时，因为 $e^{x}\geq x+1,\; \forall x\in \mathbb{R}$ ，有
+$f'(x)=(1+ax)e^{ax}-e^x\leq  e^{ax}\cdot e^{ax}-e^{x}=e^{2ax}-e^{x}\leq e^{x}-e^{x}=0$
 
-$$
-f'(x)=(1+ax)e^{ax}-e^x\leq  e^{ax}\cdot e^{ax}-e^{x}=e^{2ax}-e^{x}\leq e^{x}-e^{x}=0
-$$
-
-综上，$a\in \left( -\infty, \dfrac{1}{2}\right]$ .
+suo yi
