@@ -8,9 +8,7 @@ $f'(x)=(1+ax)e^{ax}-e^x,\quad f''(x)=(2a+a^{2}x)e^{ax}-e^{x}$
 
 因为 $f''(x)$ 连续，则 $\exists\; x_{0} >0,\text{ s.t. }\forall x \in \left( 0,x_{0} \right) \;,f''(x)>0$ .
 
-则 $\forall \;x\in \left( 0,x_{0} \right)$ , $f'(x)>f'(0)=0$ .
-
-则 $\forall \;x\in \left( 0,x_{0} \right)$ , $f(x)>f(0)=-1$ ，与 $f(x)<-1$ 矛盾
+则 $\forall \;x\in \left( 0,x_{0} \right),\;f'(x)>f'(0)=0$ \forall \;x\in \left( 0,x_{0} \right)$ , $f(x)>f(0)=-1$ ，与 $f(x)<-1$ 矛盾
 
 则 $a\leq \dfrac{1}{2}$ 
 
