@@ -101,6 +101,10 @@ $$
 \sum a_{n}=\sum \dfrac{|a_{n}|+a_{n}}{2}-\sum\dfrac{|a_{n}|-a_{n}}{2}=\sum \dfrac{|a_{\sigma(n)}|+a_{\sigma(n)}}{2}-\sum \dfrac{|a_{\sigma(n)}|-a_{\sigma(n)}}{2}=\sum a_{\sigma(n)}
 $$
 
-**定理**（
+**定理**（Riemann）
 
 设 $a_{n}\in \mathbb{R},\; n=1,2,\dots$，$\sum a_{n}$ 条件收敛，设 $s \in[-\infty,+\infty]$，则存在双射 $\sigma:\mathbb{N}^{*}\to \mathbb{N}^{*},\text{ s.t. }$
+
+$$
+\sum a_{\sigma(n)}=s
+$$
