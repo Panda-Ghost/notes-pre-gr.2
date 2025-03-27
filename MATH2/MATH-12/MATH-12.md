@@ -41,7 +41,15 @@ a, \quad a>0\\
 0, \quad a\leq 0
 \end{aligned}
 \right.
+\qquad
+a^{-}=\left\{
+\begin{aligned}
+0, \quad a\geq0\\
+-a, \quad a< 0
+\end{aligned}
+\right.
 $$
+
 
 $$
 a^{-}=\left\{
@@ -59,5 +67,6 @@ $$
 设 $a_{n}\in \mathbb{R},\;n=1,2,\dots$，如果 $\sum a_{n}$ 条件收敛，则
 
 $$
-\sum 
+\sum a_{n}^{+}=+\infty, \quad \sum a_{n}^{-}=+\infty
 $$
+
