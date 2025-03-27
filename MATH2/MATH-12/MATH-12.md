@@ -80,3 +80,4 @@ $$
 \{1,2,\dots,n\}\subset\{ \sigma(1),\sigma(2),\dots \sigma(N) \}
 $$
 
+$N$ 取 $\max_{1\leq i\leq n}\{ \sigma ^{-1} (i)\}$
