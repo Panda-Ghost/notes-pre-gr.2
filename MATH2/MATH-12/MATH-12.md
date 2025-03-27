@@ -35,9 +35,6 @@ $$
 $a\in \mathbb{R}$
 
 $$
-\begin{multicols}{2}
-
-\end{multicols}
 a^{+}=\left\{
 \begin{aligned}
 a, \quad a>0\\
@@ -45,3 +42,13 @@ a, \quad a>0\\
 \end{aligned}
 \right.
 $$
+
+$$
+a^{-}=\left\{
+\begin{aligned}
+0, \quad a\geq0\\
+-0, \quad a\leq 0
+\end{aligned}
+\right.
+$$
+
