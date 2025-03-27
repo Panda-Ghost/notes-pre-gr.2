@@ -101,3 +101,6 @@ $$
 \sum a_{n}=\sum \dfrac{|a_{n}|+a_{n}}{2}-\sum\dfrac{|a_{n}|-a_{n}}{2}=\sum \dfrac{|a_{\sigma(n)}|+a_{\sigma(n)}}{2}-\sum \dfrac{|a_{\sigma(n)}|-a_{\sigma(n)}}{2}=\sum a_{\sigma(n)}
 $$
 
+**命题**
+
+设 $a_{n}\in \mathbb{R},\; n=1,2,\dots	$
