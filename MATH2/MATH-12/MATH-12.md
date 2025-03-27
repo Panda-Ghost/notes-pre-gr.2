@@ -74,4 +74,9 @@ $\sum_{n=1}^{+\infty}a_{\sigma(n)}$ 称为 $\sum_{n=1}^{+\infty} a_{n}$ 的重�
 
 证明
 
-设 $n$
+设 $n\in \mathbb{N}^{*},\exists N\in \mathbb{N}^{*},\;\text{s.t. }$
+
+$$
+\{1,2,\dots,n\}\subset\{ \sigma(1),\sigma(2),\dots \sigma(N) \}
+$$
+
