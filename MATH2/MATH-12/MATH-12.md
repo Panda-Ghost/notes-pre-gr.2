@@ -31,3 +31,14 @@ $$
 **定义**
 
 设 $a_{n}\in \mathbb{R},\; n=1,2,\dots$，如果 $\sum a_{n}$ 收敛，$\sum|a_{n}|=+\infty$，称 $\sum a_{n}$ 条件收敛
+
+$a\in \mathbb{R}$
+
+$$
+a^{+}=\left\{
+\begin{aligned}
+a, a>0\\
+0, a\leq 0
+\end{aligned}
+\right.
+$$
