@@ -82,5 +82,7 @@ $$
 
 > $N$ 取 $\max_{1\leq i\leq n}\{ \sigma ^{-1} (i)\}$
 
-$\sum_{k=1}^{n} a_{k} \leq \sum_{k=1}^{N}a_{\sigma(i)}\leq \sum_{k=1}^{+\infty}a_{\sigma(n)},\;\forall n\geq 1$
+$\sum_{k=1}^{n} a_{k} \leq \sum_{k=1}^{N}a_{\sigma(k)}\leq \sum_{k=1}^{+\infty}a_{\sigma(k)},\;\forall n\geq 1$
+
+则 $\sum_{k=1}^{+\infty}a_{k}\leq \sum_{k=1}^{+\infty} a_{\sigma (k)}$
 
