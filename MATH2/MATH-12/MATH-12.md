@@ -67,3 +67,5 @@ $$
 设 $a_{n}\in \mathbb{R},\;n=1,2,\dots$，设 $\sigma:\mathbb{N}^{*}\to \mathbb{N}^{*}$ 为双射
 
 $\sum_{n=1}^{+\infty}a_{\sigma(n)}$ 称为 $\sum_{n=1}^{+\infty} a_{n}$ 的重排
+
+设 $a_{n}>0$
