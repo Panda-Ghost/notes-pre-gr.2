@@ -60,4 +60,5 @@ $$
 \sum a_{n}^{+}=+\infty, \quad \sum a_{n}^{-}=+\infty
 $$
 
-证：$a^{+}= \dfrac{|a_{n}|+a_{n}}{}$
+证：用 $a^{+}_{n}= \dfrac{|a_{n}|+a_{n}}{2},\;a_{n}^{-}= \dfrac{|a_{n}|-a_{n}}{2}$ 即可
+
