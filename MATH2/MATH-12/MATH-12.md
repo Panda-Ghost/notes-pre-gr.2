@@ -97,3 +97,4 @@ $\sum_{k=1}^{n} a_{k} \leq \sum_{k=1}^{N}a_{\sigma(k)}\leq \sum_{k=1}^{+\infty}a
 - $\sum a_{\sigma(n)}$ 绝对收敛
 - $\sum a_{n}=\sum a_{\sigma(n)}$
 
+$\sum a_{n}=\sum \dfrac{|a_{n}}{}$
