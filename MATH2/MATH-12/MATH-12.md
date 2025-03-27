@@ -17,3 +17,5 @@ $$
 $$
 \lim_{ n \to +\infty } \sqrt[n]{|a_{n}|  } = \rho>1
 $$
+
+则 $\sum a_{n}$ 发散
