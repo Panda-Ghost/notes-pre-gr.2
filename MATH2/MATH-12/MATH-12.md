@@ -47,8 +47,9 @@ $$
 a^{-}=\left\{
 \begin{aligned}
 0, \quad a\geq0\\
--0, \quad a\leq 0
+-a, \quad a< 0
 \end{aligned}
 \right.
 $$
 
+称 $a^{+}$ 为正部，称 $a^{-}$ 为负部，z
