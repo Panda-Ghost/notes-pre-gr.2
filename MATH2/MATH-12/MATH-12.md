@@ -8,4 +8,5 @@ $$
 \lim_{ n \to +\infty }  \dfrac{|a_{n+1}|}{|a_{n}|}=\rho>1
 $$
 
-则 
+则 $\sum a_{n}$ 发散
+
