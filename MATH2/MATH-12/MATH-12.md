@@ -35,6 +35,9 @@ $$
 $a\in \mathbb{R}$
 
 $$
+\begin{multicols}{2}
+
+\end{multicols}
 a^{+}=\left\{
 \begin{aligned}
 a, \quad a>0\\
