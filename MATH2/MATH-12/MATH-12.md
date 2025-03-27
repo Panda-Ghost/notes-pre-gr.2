@@ -94,4 +94,6 @@ $\sum_{k=1}^{n} a_{k} \leq \sum_{k=1}^{N}a_{\sigma(k)}\leq \sum_{k=1}^{+\infty}a
 
 设 $a_{n}\in \mathbb{R},\;n=1,2,\dots$，$\sum a_{n}$ 绝对收敛，则
 
-- $\sum a_{\sigma(n)}$
+- $\sum a_{\sigma(n)}$ 绝对收敛
+- $\sum a_{n}=\sum a_{\sigma(n)}$
+
