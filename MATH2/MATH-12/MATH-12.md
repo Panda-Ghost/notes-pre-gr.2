@@ -86,3 +86,7 @@ $\sum_{k=1}^{n} a_{k} \leq \sum_{k=1}^{N}a_{\sigma(k)}\leq \sum_{k=1}^{+\infty}a
 
 则 $\sum_{k=1}^{+\infty}a_{k}\leq \sum_{k=1}^{+\infty} a_{\sigma (k)}$
 
+同理 $\sum_{k=1}^{+\infty} a_{\sigma(k)}\leq \sum_{k=1}^{+\infty} a_{k}$
+
+故而 $\sum a_{n}=\sum a_{\sigma(n)}$
+
