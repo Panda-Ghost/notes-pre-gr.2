@@ -90,3 +90,4 @@ $\sum_{k=1}^{n} a_{k} \leq \sum_{k=1}^{N}a_{\sigma(k)}\leq \sum_{k=1}^{+\infty}a
 
 故而 $\sum a_{n}=\sum a_{\sigma(n)}$
 
+命题
