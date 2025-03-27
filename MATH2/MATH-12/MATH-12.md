@@ -68,4 +68,4 @@ $$
 
 $\sum_{n=1}^{+\infty}a_{\sigma(n)}$ 称为 $\sum_{n=1}^{+\infty} a_{n}$ 的重排
 
-设 $a_{n}>0$
+设 $a_{n}>0, \; n=1,2,\dots$ 则 $\sum a_{n}=\sum a_{\sigma(n)}$
