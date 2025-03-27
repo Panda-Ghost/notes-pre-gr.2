@@ -50,16 +50,6 @@ a^{-}=\left\{
 \right.
 $$
 
-
-$$
-a^{-}=\left\{
-\begin{aligned}
-0, \quad a\geq0\\
--a, \quad a< 0
-\end{aligned}
-\right.
-$$
-
 称 $a^{+}$ 为正部，称 $a^{-}$ 为负部，则 $a=a^{+}-a^{-}$
 
 **命题4**
@@ -70,3 +60,4 @@ $$
 \sum a_{n}^{+}=+\infty, \quad \sum a_{n}^{-}=+\infty
 $$
 
+证：$a^{+}= \dfrac{|a_{n}|+a_{n}}{}$
