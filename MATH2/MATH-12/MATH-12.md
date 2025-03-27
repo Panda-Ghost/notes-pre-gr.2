@@ -37,8 +37,8 @@ $a\in \mathbb{R}$
 $$
 a^{+}=\left\{
 \begin{aligned}
-a, a>0\\
-0, a\leq 0
+a, \quad a>0\\
+0, \quad a\leq 0
 \end{aligned}
 \right.
 $$
