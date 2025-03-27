@@ -82,3 +82,4 @@ $$
 
 > $N$ 取 $\max_{1\leq i\leq n}\{ \sigma ^{-1} (i)\}$
 
+$\sum_{k=1}^{n} a_{k} \leq \sum$
