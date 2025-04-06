@@ -34,8 +34,7 @@ f'(x)=-a\sin ax+\dfrac{2x}{1-x^{2}}\\
 &\phantom{\implies f'(x)}=-|a|\sin|a|x+\dfrac{2x}{1-x^{2}}\\
 &\phantom{\implies f'(x)}\geq-a^{2}x+\dfrac{2x}{1-x^{2}}\\
 &\phantom{\implies f'(x)}=\dfrac{a^{2}x^{3}+(2-a^{2})x}{1-x^{2}}\\
-&\phantom{\implies f'(x)}\geq \dfrac{a^{2}x^{3}}{1-x^{2}}\geq 0 ,\quad 0\le x<1\\
+&\phantom{\implies f'(x)}\geq \dfrac{a^{2}x^{3}}{1-x^{2}}\geq 0 ,\quad 0\le x<1\\[6pt]
 &\implies f(x)\; 在 \; [0,1) \;单调增
-
 \end{aligned}
 $$
