@@ -29,6 +29,6 @@ $$
 
 $$
 \begin{aligned}
-a\in[-\sqrt{ 2 },\sqrt{  }]
+a\in[-\sqrt{ 2 },\sqrt{ 2 }] \implies f'(x)=-a\sin ax+\dfrac{2x}{1-x^{2}}=-|a|\sin|a|x+\dfrac{2x}{1-x^{2}}\geq-
 \end{aligned}
 $$
