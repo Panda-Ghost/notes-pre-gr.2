@@ -40,4 +40,5 @@ f'(x)=-a\sin ax+\dfrac{2x}{1-x^{2}}\\
 \end{aligned}
 $$
 
-故而，$a$ 的取值范围是 $(-\infty,-\sqrt{ 2 }) cup$
+故而，$a$ 的取值范围是 $(-\infty,-\sqrt{ 2 }) \cup(\sqrt{ 2},+\infty)$
+
