@@ -34,7 +34,8 @@ f'(x)&&=-a\sin ax+\dfrac{2x}{1-x^{2}}\\
 & &&=-|a|\sin|a|x+\dfrac{2x}{1-x^{2}}\\
 &  &&\geq-a^{2}x+\dfrac{2x}{1-x^{2}}\\
 & &&= \dfrac{a^{2}x^{3}+(2-a^{2})x}{1-x^{2}}\\
-& &&\geq a
+& &&\geq \dfrac{a^{2}x^{3}}{1-x^{2}}\geq 0 ,\quad 0\le x<1\\
+&\implies f'(x)在 \; [0,1) \;单调增
 
 \end{aligned}
 $$
