@@ -29,12 +29,12 @@ $$
 
 $$
 \begin{aligned}
-a\in[-\sqrt{ 2 },\sqrt{ 2 }] &
-\\begin{algned}
-
-\end{algned}
-\implies f'(x)=-a\sin ax+\dfrac{2x}{1-x^{2}}\\
+a\in[-\sqrt{ 2 },\sqrt{ 2 }] &\implies
+\begin{aligned}
+f'(x)=-a\sin ax+\dfrac{2x}{1-x^{2}}\\
 =-|a|\sin|a|x+\dfrac{2x}{1-x^{2}}\\
 \geq-a^{2}x+\dfrac{2x}{1-x^{2}}=
+
+\end{aligned}
 \end{aligned}
 $$
