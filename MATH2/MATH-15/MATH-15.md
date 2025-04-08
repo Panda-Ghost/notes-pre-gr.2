@@ -4,4 +4,8 @@
 
 **定义1**
 
-设 $A\subset \mathbb{R},x_{0}\in$
+设 $A\subset \mathbb{R},x_{0}\in \mathbb{R}$，如果 $\forall \varepsilon>0$
+
+$$
+A \cap \left( (x_{0}-\varepsilon,x_{0}+\varepsilon) \setminus\right) 
+$$
