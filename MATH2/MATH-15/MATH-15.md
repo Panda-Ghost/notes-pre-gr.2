@@ -11,3 +11,5 @@ A \cap \left( (x_{0}-\varepsilon,x_{0}+\varepsilon) \setminus \{  x_{0} \}\right
 $$
 
 称 $x_{0}$ 是 $A$ 的聚点
+
+
