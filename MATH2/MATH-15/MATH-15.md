@@ -1,3 +1,7 @@
 # MATH-15
 
-设 $x_{0}\in \mathbb{R},\varepsilon>0,(x_{0}-\varepsilon,x_{0}+\varepsilon):x_{0}$ 的 $\varepsilon-$邻域，$\varepsilon$ 叫邻域半径，$(x_{0}-\varepsilon,x)$
+设 $x_{0}\in \mathbb{R},\varepsilon>0,(x_{0}-\varepsilon,x_{0}+\varepsilon):x_{0}$ 的 $\varepsilon-$邻域，$\varepsilon$ 叫邻域半径，$(x_{0}-\varepsilon,x_{0}+\varepsilon)\setminus \{ x_{0} \}$ 去心邻域
+
+**定义1**
+
+设 $A\subset \mathbb{R},x_{0}\in$
