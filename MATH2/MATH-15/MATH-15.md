@@ -18,4 +18,4 @@ $$
 
 **例3** $\mathbb{Q}$ 为有理数集的所有聚点构成的集合是 $\mathbb{R}$
 
-设 $A\subset \mathbb{R}$ 有聚点，则 $A$ 一定为
+设 $A\subset \mathbb{R}$ 有聚点，则 $A$ 一定为无限集
