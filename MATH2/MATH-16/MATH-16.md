@@ -26,4 +26,5 @@ $$
 
 称 $x_{0}$ 是 $A$ 的孤立点
 
-设 $A\subset \mathbb{R}, x_{0}\in$
+设 $A\subset \mathbb{R}, x_{0}\in A$，则如果$x_{0}$ 不是 $A$ 的孤立点，$x_{0}$ 是 $A$ 的聚点
+
