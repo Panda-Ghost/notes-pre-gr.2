@@ -33,5 +33,5 @@ $$
 设 $f:A\subset \mathbb{R},\;x_{0}$ 是 $A$ 的聚点，设 $a\in \mathbb{R}$，如果 $\forall \varepsilon>0, \exists\delta>0,\text{ s.t. }$
 
 $$
-|f(x)-a|<\varepsilon, \quad \forall 
+|f(x)-a|<\varepsilon, \quad \forall x \in A\cap 
 $$
