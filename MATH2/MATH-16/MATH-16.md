@@ -21,7 +21,7 @@ $x_{0}-\dfrac{1}{n}<x_{n}<x_{0}+\dfrac{1}{n}, \; n=1,2,\dots$
 设 $A\subset \mathbb{R},\;x_{0}\in A$，如果 $\exists \varepsilon>0,\text{ s.t. }$
 
 $$
-A\cap (x_{0}-\varepsilon,x_{0}+\varepsilon)=\{ x_{0} \}
+A\cap (x_{0}-\varepsilon,x_{0}+\varepsilon)=\{ x_{0} \} 
 $$
 
 称 $x_{0}$ 是 $A$ 的孤立点
@@ -37,3 +37,4 @@ $$
 $$
 
 称 $a$ 是 $f$ 在 $x_{0}$ 点的极限
+
