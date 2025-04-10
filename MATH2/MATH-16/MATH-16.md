@@ -46,4 +46,4 @@ $$
 
 **命题1**
 
-设 $f:A\subset \mathbb{R}\to \mathbb{R},\;x_{0}$ 是
+设 $f:A\subset \mathbb{R}\to \mathbb{R},\;x_{0}$ 是 $A$ 的聚点，如果 $a,b$ 都是 $f$ 在 $x_{0}$ 点的极限则
