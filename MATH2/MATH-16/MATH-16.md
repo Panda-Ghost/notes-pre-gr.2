@@ -40,4 +40,5 @@ $$
 
 **例1**
 
-设 $f(x)=x^{\alpha}, \; x \in \mathbb{R} \setminus \{  0 \}$
+设 $f(x)=x^{\alpha}, \; x \in \mathbb{R} , x>0$，其中 $\alpha>0$
+
