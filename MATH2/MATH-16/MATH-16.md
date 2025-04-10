@@ -56,4 +56,4 @@ $$
 
 设 $f:A\subset \mathbb{R}\to \mathbb{R},x_{0}\in A$
 
-- ru g
+- 如果 $x_{0}$ 是 $A$ 的gu li
