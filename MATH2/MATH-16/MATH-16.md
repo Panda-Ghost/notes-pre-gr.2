@@ -38,3 +38,6 @@ $$
 
 称 $a$ 是 $f$ 在 $x_{0}$ 点的极限
 
+**例1**
+
+设 $f(x)=x^{\alpha}, \; x \in \mathbb{R} \setminus \{  0 \}$
