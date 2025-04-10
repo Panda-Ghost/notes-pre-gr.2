@@ -25,3 +25,5 @@ A\cap (x_{0}-\varepsilon,x_{0}+\varepsilon)=\{ x_{0} \}
 $$
 
 称 $x_{0}$ 是 $A$ 的孤立点
+
+设 $A\subset \mathbb{R}, x_{0}\in$
