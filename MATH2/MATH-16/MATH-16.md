@@ -42,4 +42,4 @@ $$
 
 设 $f(x)=x^{\alpha}, \; x \in \mathbb{R} , x>0$，其中 $\alpha>0$，证明 $0$ 是 $f$ 在 $x=0$ 点的极限
 
-设 $f(x)=x\sin$
+设 $f(x)=x\sin \dfrac{1}{x},x\neq 0$ 则 $0$ 是 $f$ 在 $x=0$ 点的极限
