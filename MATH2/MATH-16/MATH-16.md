@@ -36,4 +36,4 @@ $$
 |f(x)-a|<\varepsilon, \quad \forall x \in A\cap ((x_{0}-\varepsilon,x_{0}+\varepsilon)\setminus \{ x_{0} \})
 $$
 
-称 $a$ 
+称 $a$ 是 $f$ 在 $x_{0}$ 点
