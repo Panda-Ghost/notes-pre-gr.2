@@ -44,3 +44,6 @@ $$
 
 设 $f(x)=x\sin \dfrac{1}{x},x\neq 0$ 则 $0$ 是 $f$ 在 $x=0$ 点的极限
 
+**命题1**
+
+设 $f:A\subset \mathbb{R}\to \mathbb{R},\;x_{0}$ 是
