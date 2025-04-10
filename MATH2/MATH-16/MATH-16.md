@@ -50,4 +50,10 @@ $$
 
 设 $f$ 在 $x_{0}$ 点有极限，用 $\lim_{ x \to x_{0}} f(x)$ 表示 $f$ 在 $x_{0}$ 的极限，如果 $a=\lim_{ x \to x_{0} }f(x)$，$f(x)\to a$，当 $x\to x_{0}$ 时（$x\ne x_{0}$）
 
-设 $A\subset \mathbb{R}$ 时区间，设 $f:A\subset \mathbb{R}\to \mathbb{R},x_{0}\in A$，则 $f$ 在 $x_{0}$ 点连续 $\iff f(x_{0})= \lim_{ x \to x_{0} }f(x)$
+设 $A\subset \mathbb{R}$ 是区间，设 $f:A\subset \mathbb{R}\to \mathbb{R},x_{0}\in A$，则 $f$ 在 $x_{0}$ 点连续 $\iff f(x_{0})= \lim_{ x \to x_{0} }f(x)$
+
+**命题2**
+
+设 $f:A\subset \mathbb{R}\to \mathbb{R},x_{0}\in A$
+
+- ru g
