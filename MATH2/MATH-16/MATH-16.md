@@ -63,4 +63,5 @@ $$
 
 设 $f:A\subset \mathbb{R}\to \mathbb{R}$，$x_{0}$ 是 $A$ 的聚点，$a=\lim_{ x \to x_{0} }f(x)$
 
-设 $x_{n}\in A,\;n=1,2,\dots,$ $x$
+设 $x_{n}\in A,\;n=1,2,\dots, \; x_{n}\to x_{0}$ 则 $f(x_{n})\to a$
+
