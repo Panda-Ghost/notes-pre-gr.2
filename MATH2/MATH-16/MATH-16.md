@@ -4,4 +4,4 @@
 
 证明
 
-有定义，m k f
+$\forall n\in \mathbb{N}^{*}, A\cap \left(\left(x_{0}-\dfrac{1}{n},x_{0}+\dfrac{1}{n}\right)\ir$
