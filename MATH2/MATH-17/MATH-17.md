@@ -79,3 +79,6 @@ $$
 |f(x)-f(y)|<\varepsilon, \quad \forall x, y \in A\cap((x_{0}-\delta,x_{0}+\delta)\setminus \{ x_{0} \})
 $$
 
+$\implies$ 显然
+
+$\Longleftarrow$ 
