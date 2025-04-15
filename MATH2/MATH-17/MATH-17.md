@@ -65,7 +65,8 @@ $$
 
 **命题5**
 
-设 $f,g:A\subset \mathbb{R}\to \mathbb{R}, \; x_{0}$ 是 $A$ 的聚点，$f,g$ 在 $x_{0}$ 点有极限
+设 $f,g:A\subset \mathbb{R}\to \mathbb{R}, \; x_{0}$ 是 $A$ 的聚点，$f,g$ 在 $x_{0}$ 点有极限，设 $\alpha, \beta \in \mathbb{R}$
 
 
-- $\lim_{ x \to x_{0} }$
+- $\lim_{ x \to x_{0} }(\alpha f+\beta g)(x)=\alpha \lim_{ x \to x_{0} }f(x)+\beta \lim_{ x \to x_{0} }g(x)$
+- 
