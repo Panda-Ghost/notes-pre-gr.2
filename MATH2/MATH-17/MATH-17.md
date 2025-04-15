@@ -32,4 +32,5 @@ $x_{0}$ 是 $A$ 的聚点 $\implies \exists x_{n}\in A\setminus\{ x_{0} \}, n=1,
 
 $\exists y_{n} \in A \cap\left(\left(x_{0}-\dfrac{1}{n},x_{0}+\dfrac{1}{n}\right) \setminus \{ x_{0} \}\right), |f(y_{n})-a|\geq\varepsilon$
 
-则
+则 $y_{n}\to x_{0}$
+
