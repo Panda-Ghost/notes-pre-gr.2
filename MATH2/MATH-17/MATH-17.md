@@ -45,7 +45,7 @@ $\exists y_{n} \in A \cap\left(\left(x_{0}-\dfrac{1}{n},x_{0}+\dfrac{1}{n}\right
 
 **命题3**
 
-设 $f,g:A\subset \mathbb{R}\to \mathbb{R},\;x_{0}$ 是 $A$ 的聚点，$f,g$ 在 $x_{n}$ 点有极限
+设 $f,g:A\subset \mathbb{R}\to \mathbb{R},\;x_{0}$ 是 $A$ 的聚点，$f,g$ 在 $x_{0}$ 点有极限
 
 如果 $f(x)\leq g(x),\; \forall x \in A\setminus\{ x_{0} \}$
 
@@ -53,4 +53,8 @@ $\exists y_{n} \in A \cap\left(\left(x_{0}-\dfrac{1}{n},x_{0}+\dfrac{1}{n}\right
 
 **命题4**
 
-设 $f,g,h:A\subset$
+设 $f,g,h:A\subset \mathbb{R}\to \mathbb{R},\; x_{0}$ 是 $A$ 的聚点
+
+$$
+f(x)\leq g(x)\leq h()
+$$
