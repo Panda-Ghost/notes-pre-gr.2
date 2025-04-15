@@ -65,4 +65,7 @@ $$
 
 **命题5**
 
-设 $f,g:A\subset $
+设 $f,g:A\subset \mathbb{R}\to \mathbb{R}, \; x_{0}$ 是 $A$ 的聚点，$f,g$ 在 $x_{0}$ 点有极限
+
+
+- $\lim_{ x \to x_{0} }$
