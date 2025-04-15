@@ -38,4 +38,6 @@ $\exists y_{n} \in A \cap\left(\left(x_{0}-\dfrac{1}{n},x_{0}+\dfrac{1}{n}\right
 
 令 $z_{2n}=x_{n},\; z_{2n-1}=y_{n}$
 
-则 $z_{n}\to x_{0}$
+则 $z_{n}\to x_{0}$，由命题假设得 $\{ f(z_{n}) \}$ 收敛，设 $f(z_{n})\to c$
+
+则 $f(z_{2n})\to$
