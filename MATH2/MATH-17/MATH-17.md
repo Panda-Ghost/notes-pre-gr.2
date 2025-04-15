@@ -81,4 +81,4 @@ $$
 
 $\implies$ 显然
 
-$\Longleftarrow$ 
+$\; \Longleftarrow \;$ 使用 Heine 归结原理
