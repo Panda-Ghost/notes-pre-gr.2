@@ -14,4 +14,4 @@ $$
 \{ f(x_{n}) \} 收敛 ,\quad \forall x_{n} \in A \setminus \{ x_{0} \}, n=1,2,\dots, \; x_{n}\to x_{0}
 $$
 
-则 $f$ 在 $x_{0}$ 点
+则 $f$ 在 $x_{0}$ 点有极限
