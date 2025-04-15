@@ -49,4 +49,5 @@ $\exists y_{n} \in A \cap\left(\left(x_{0}-\dfrac{1}{n},x_{0}+\dfrac{1}{n}\right
 
 如果 $f(x)\leq g(x),\; \forall x \in A\setminus\{ x_{0} \}$
 
-则 
+则 $\lim_{ x \to x_{0} }f(x)\leq \lim_{ x \to x_{0} }g(x)$
+
