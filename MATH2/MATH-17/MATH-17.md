@@ -61,4 +61,4 @@ $$
 
 如果 $\lim_{ x \to x_{0} } f(x)=\lim_{ x \to x_{0} } h(x)=a$
 
-则 $\lim_{ x \to x }$
+则 $\lim_{ x \to x_{0} }g(x)=a$
