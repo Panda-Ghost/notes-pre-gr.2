@@ -28,4 +28,4 @@ $x_{0}$ 是 $A$ 的聚点 $\implies \exists x_{n}\in A\setminus\{ x_{0} \}, n=1,
 
 即 $\exists \varepsilon>0,\;\text{s.t. } \forall \delta>0,\;\exists x \in A\cap ((x_{0}-\delta,x_{0}+\delta)\setminus \{ x_{0} \}), \text{ s.t. } |f(x)-a|\geq\varepsilon$
 
-令 $\delta=\dfrac{1}{n},\;n$
+令 $\delta=\dfrac{1}{n},\;n\in \mathbb{N}^{*}$
