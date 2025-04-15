@@ -56,5 +56,9 @@ $\exists y_{n} \in A \cap\left(\left(x_{0}-\dfrac{1}{n},x_{0}+\dfrac{1}{n}\right
 设 $f,g,h:A\subset \mathbb{R}\to \mathbb{R},\; x_{0}$ 是 $A$ 的聚点
 
 $$
-f(x)\leq g(x)\leq h()
+f(x)\leq g(x)\leq h(x) , \quad \forall x \in A\setminus \{ x_{0} \}
 $$
+
+如果 $\lim_{ x \to x_{0} } f(x)=\lim_{ x \to x_{0} } h(x)=a$
+
+则 $\lim_{ x \to x }$
