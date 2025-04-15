@@ -40,4 +40,4 @@ $\exists y_{n} \in A \cap\left(\left(x_{0}-\dfrac{1}{n},x_{0}+\dfrac{1}{n}\right
 
 则 $z_{n}\to x_{0}$，由命题假设得 $\{ f(z_{n}) \}$ 收敛，设 $f(z_{n})\to c$
 
-则 $f(z_{2n})\to$
+则 $f(z_{2n})\to c,\;f(z_{2n-1})\to c$ 与 $f(x_{n})\to a, \; f(y_{n})\to b, \; a\neq b$ 矛盾
