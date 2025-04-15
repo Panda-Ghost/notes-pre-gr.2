@@ -20,4 +20,9 @@ $$
 
 $x_{0}$ 是 $A$ 的聚点 $\implies \exists x_{n}\in A\setminus\{ x_{0} \}, n=1,2,\dots,\;x_{n}\to x_{0}$
 
-由
+由命题的假设，$\{ f(n) \}$ 收敛，记 $a=\lim_{ n \to +\infty }f(x_{n})$
+
+下面证 $\lim_{ x \to x_{0} } f(x)=a$
+
+反证法，假设 $a$ 不是 $f$ 在 $x_{0}$ 点的极限
+
