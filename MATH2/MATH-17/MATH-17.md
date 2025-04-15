@@ -70,3 +70,7 @@ $$
 - $\lim_{ x \to x_{0} }(\alpha f+\beta g)(x)=\alpha \lim_{ x \to x_{0} }f(x)+\beta \lim_{ x \to x_{0} }g(x)$
 - $\lim_{ x \to x_{0} }(fg)(x)=\lim_{ x \to x_{0} }f(x)\cdot \lim_{ x \to x_{0} }g(x)$
 - 如果 $g(x)\neq 0,\forall x \in A\setminus\{ x_{0} \},\lim_{ x \to x_{0} }g(x)\neq 0$ 则 $\lim_{ x \to x_{0} }(\dfrac{f}{g})(x)=\dfrac{\lim_{ x \to x_{0} }f(x)}{\lim_{ x \to x_{0} }g(x)}$
+
+**命题6**
+
+设 $f:A\subset \mathbb{R}\to$
