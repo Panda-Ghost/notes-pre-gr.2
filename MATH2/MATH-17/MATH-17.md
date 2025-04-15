@@ -76,5 +76,6 @@ $$
 设 $f:A\subset \mathbb{R}\to \mathbb{R},\;x_{0}$ 是 $A$ 的聚点，则 $f$ 在 $x_{0}$ 点有极限 $\iff \forall\varepsilon>0,\exists\delta>0,\text{ s.t. }$
 
 $$
-|f(x)-f(y)|<\varepsilon, \quad \forall x, y \in A\subset((x_{0}-d))
+|f(x)-f(y)|<\varepsilon, \quad \forall x, y \in A\cap((x_{0}-\delta,x_{0}+\delta)\setminus \{ x_{0} \})
 $$
+
