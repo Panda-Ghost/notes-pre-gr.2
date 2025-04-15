@@ -18,3 +18,6 @@ $$
 
 **证明**
 
+$x_{0}$ 是 $A$ 的聚点 $\implies \exists x_{n}\in A\setminus\{ x_{0} \}, n=1,2,\dots,\;x_{n}\to x_{0}$
+
+由
