@@ -51,3 +51,6 @@ $\exists y_{n} \in A \cap\left(\left(x_{0}-\dfrac{1}{n},x_{0}+\dfrac{1}{n}\right
 
 则 $\lim_{ x \to x_{0} }f(x)\leq \lim_{ x \to x_{0} }g(x)$
 
+**命题4**
+
+设 $f,g,h:A\subset$
