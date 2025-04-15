@@ -30,4 +30,6 @@ $x_{0}$ 是 $A$ 的聚点 $\implies \exists x_{n}\in A\setminus\{ x_{0} \}, n=1,
 
 令 $\delta=\dfrac{1}{n},\;n\in \mathbb{N}^{*}$ 则
 
-$\exists y_{n} \in A \cap\left(\left(x_{0}-\dfrac{1}{n},x_{0}+\dfrac{1}{n}\right) \setminus \{ x_{0} \}\right)$
+$\exists y_{n} \in A \cap\left(\left(x_{0}-\dfrac{1}{n},x_{0}+\dfrac{1}{n}\right) \setminus \{ x_{0} \}\right), |f(y_{n})-a|\geq\varepsilon$
+
+则
