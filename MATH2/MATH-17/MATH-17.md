@@ -26,3 +26,4 @@ $x_{0}$ 是 $A$ 的聚点 $\implies \exists x_{n}\in A\setminus\{ x_{0} \}, n=1,
 
 反证法，假设 $a$ 不是 $f$ 在 $x_{0}$ 点的极限
 
+即 $\exists \varepsilon>0,\;\text{s.t. } \forall x$
