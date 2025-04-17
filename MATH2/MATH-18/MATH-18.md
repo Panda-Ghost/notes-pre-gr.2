@@ -8,4 +8,6 @@ $$
 f(x)>M, \quad \forall x \in A \cap ((x_{0}-\delta,x_{0}+\delta)\setminus \{ x_{0} \})
 $$
 
-称当 $x\to x_{0}$ 时，$f(x)$ 趋于正无穷，记为 $\lim_{ x \to x_{0} }f(x)=0$
+称当 $x\to x_{0}$ 时，$f(x)$ 趋于正无穷，记为 $\lim_{ x \to x_{0} }f(x)=+\infty$
+
+严格来说，趋于正无穷时，$f$
