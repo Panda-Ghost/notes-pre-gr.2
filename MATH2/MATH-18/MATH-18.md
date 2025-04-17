@@ -57,10 +57,16 @@ $$
 
 设 $I\subset \mathbb{R}$ 为开区间，$x_{0}\in I, \; f:I\to \mathbb{R}$
 
-如果 $a=\lim_{ x \to x_{0} }f|_{I\cap(x_{0},+\infty)}(x)$， 称 $a$ 是 $f$ 在 $x_{0}$ 点的you极限
+如果 $a=\lim_{ x \to x_{0} }f|_{I\cap(x_{0},+\infty)}(x)$， 称 $a$ 是 $f$ 在 $x_{0}$ 点的右极限
 
 记
 
 $$
-a=\lim_{ x \to x_{0}^{-} }f(x) =f(x_{0}^{-})
+a=\lim_{ x \to x_{0}^{+} }f(x) =f(x_{0}^{+})
+$$
+
+$$
+\begin{aligned}
+a\\nsdfs\\
+\end{aligned}
 $$
