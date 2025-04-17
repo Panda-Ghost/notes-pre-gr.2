@@ -28,4 +28,7 @@ $$
 
 $f:A\to B, \; C\subset A,\; C\neq \varnothing$ 令 $f|_{C}:C\to B$
 
-$f|_{C}(x)=$
+$$
+f|_{C}(x)=f(x), \quad x \in C
+$$
+称 $f|_{C}$ 为 $f$ 在 $C$ 上的限制
