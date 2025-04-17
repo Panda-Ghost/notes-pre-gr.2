@@ -64,3 +64,7 @@ $$
 $$
 a=\lim_{ x \to x_{0}^{+} }f(x) =f(x_{0}^{+})
 $$
+
+**命题1**
+
+设 $I\subset \mathbb{R}$ 为开区间，$f:I\to \mathbb{R},\; x_{0}\in I$，下列结论等价
