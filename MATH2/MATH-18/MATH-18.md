@@ -22,4 +22,7 @@ $$
 
 称当 $x\to x_{0}$ 时，$f(x)$ 趋于负无穷，记为 $\lim_{ x \to x_{0} }f(x)=-\infty$
 
-$\lim_{ x \to x_{0} }$
+$$
+\lim_{ x \to x_{0} }f(x)=-\infty  \iff \lim_{ x \to x_{0} }f(x)=+\infty
+$$
+
