@@ -47,7 +47,7 @@ $$
 
 $$
 \begin{aligned}
-&a=f(x_{0}^{-}) \iff \\
+a=f(x_{0}^{-}) \iff \\
 &\forall \varepsilon>0, \exists \delta>0, \text{ s.t. } \\
 &\phantom{\forall \varepsilon>0, }|f(x)-a|<\varepsilon,\quad \forall x \in I \cap (x_{0}-\delta,\delta)
 \end{aligned}
@@ -76,7 +76,7 @@ $f:I\to \mathbb{R},\;I\subset \mathbb{R}$ 为开区间，$x_{0}\in I$
 
 $$
 \begin{aligned}
-f 在 x_{0} 点连续 \iff \lim_{ x \to x_{0} } f(x)=f(x_{0})\\
-\iff f 在 x_{0}
+f \; 在 \;x_{0}\; 点连续 &\iff \lim_{ x \to x_{0} } f(x)=f(x_{0})\\
+&\iff f\; 在 \;x_{0}\; 点有左右极限，f(x_{0}^{-})=f(x_{0})=f(x_{0}^{+})
 \end{aligned}
 $$
