@@ -37,3 +37,4 @@ $$
 
 设 $I\subset \mathbb{R}$ 为开区间，$x_{0}\in I, \; f:I\to \mathbb{R}$
 
+如果 $a=\lim_{ x \to x_{0} }f|_{I\cap(-\infty,x_{0})}(x)$， 称 $a$ 是 $f$ 在 $x_{0}$ d
