@@ -47,6 +47,7 @@ $$
 
 $$
 \begin{aligned}
-a=f(x_{0}^{-}) \iff
+a=f(x_{0}^{-}) \iff \forall \varepsilon>0, \exists \delta>0, \text{ s.t. } \\
+|f(x)-a|<\varepsilon,\quad \forall x \in I \cap (x-)
 \end{aligned}
 $$
