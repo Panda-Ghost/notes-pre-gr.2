@@ -47,9 +47,9 @@ $$
 
 $$
 \begin{aligned}
-a=f(x_{0}^{-}) \iff \\
-&\forall \varepsilon>0, \exists \delta>0, \text{ s.t. } \\
-&\phantom{\forall \varepsilon>0, }|f(x)-a|<\varepsilon,\quad \forall x \in I \cap (x_{0}-\delta,\delta)
+a=f(x_{0}^{-}) &\iff \\
+&\;\forall \varepsilon>0, \exists \delta>0, \text{ s.t. } \\
+&\phantom{\;\forall \varepsilon>0, }|f(x)-a|<\varepsilon,\quad \forall x \in I \cap (x_{0}-\delta,\delta)
 \end{aligned}
 $$
 
