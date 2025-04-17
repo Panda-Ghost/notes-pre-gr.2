@@ -133,7 +133,7 @@ $$
 
 如果
 
-- $\lim_{ x \to a }g(x)=-\infty$
+- $\lim_{ x \to a }g(x)=-\infty$ 或 $\lim_{ x \to a }g(x)=+\infty$
 - $\lim\limits_{ x \to a } \dfrac{f'(x)}{g'(x)}=\alpha \in [-\infty,+\infty]$
 
 则 $\lim\limits_{ x \to a } \dfrac{f(x)}{g(x)}=\alpha$
