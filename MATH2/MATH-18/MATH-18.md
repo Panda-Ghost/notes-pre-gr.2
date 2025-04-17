@@ -47,9 +47,9 @@ $$
 
 $$
 \begin{aligned}
-a=f(x_{0}^{-}) &\iff \\
-&\;\forall \varepsilon>0, \exists \delta>0, \text{ s.t. } \\
-&\phantom{\;\forall \varepsilon>0, }|f(x)-a|<\varepsilon,\quad \forall x \in I \cap (x_{0}-\delta,\delta)
+a=f(x_{0}^{-}) \iff & \\
+&\forall \varepsilon>0, \exists \delta>0, \text{ s.t. } \\
+&\phantom{\forall \varepsilon>0, }|f(x)-a|<\varepsilon,\quad \forall x \in I \cap (x_{0}-\delta,\delta)
 \end{aligned}
 $$
 
@@ -84,4 +84,4 @@ $$
 设 $f$ 在 $x_{0}$ 点不连续
 
 - $f(x_{0}^{-}),f(x_{0}^{+})$ 存在，$f(x_{0}^{-})=f(x_{0}^{+})\neq f(x_{0})$，$x_{0}$ 称为可去间断点
-- $f(x_{0}^{-}),f(x_{0}^{+})$ 存在
+- $f(x_{0}^{-}),f(x_{0}^{+})$ 存在，$f(x_{0}^{-})\neq f(x_{0}^{+})$，$x_{0}$ 称为跳跃间断点
