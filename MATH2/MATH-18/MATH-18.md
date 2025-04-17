@@ -103,4 +103,5 @@ $$
 
 如果
 
-- $\lim_{ x \to x_{0} }f(x)=\lim_{ x \to x }$
+- $\lim_{ x \to a }f(x)=\lim_{ x \to a }f(x)=0$
+- $\lim_{ x \to a }$
