@@ -91,4 +91,12 @@ $$
 
 本性不连续点称为第二类不连续点
 
-**命题2**（L'
+**命题2**（L'Hospital）
+
+设 $f,g:(a,b)\to \mathbb{R}$ 可导，且
+
+$$
+\begin{aligned}
+g(x),g'(x)\neq 0,\quad\forall x \in (a,b)
+\end{aligned}
+$$
