@@ -112,4 +112,10 @@ $$
 
 定义 $f(a)=g(a)=0$
 
-则 $f,g$ 在 $[a,b)$ 上连续
+则 $f,g$ 在 $[a,b)$ 上连续，设 $x \in (a,b)$
+
+$$
+\begin{aligned}
+\dfrac{f(x)}{g(x)}=\dfrac{f(x)-f(a)}{g(x)-g(a)}=\dfrac{f'(\xi)}{}
+\end{aligned}
+$$
