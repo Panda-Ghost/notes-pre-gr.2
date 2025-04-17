@@ -42,5 +42,11 @@ $$
 记
 
 $$
-a=\lim_{ x \to x_{0}- }f(x) 
+a=\lim_{ x \to x_{0}^{-} }f(x) =f(x_{0}^{-})
+$$
+
+$$
+\begin{aligned}
+a=f(x_{0}^{-}) \iff
+\end{aligned}
 $$
