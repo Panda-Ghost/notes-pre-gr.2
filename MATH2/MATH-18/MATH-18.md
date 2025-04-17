@@ -100,3 +100,7 @@ $$
 g(x),g'(x)\neq 0,\quad\forall x \in (a,b)
 \end{aligned}
 $$
+
+如果
+
+- $\lim_{ x \to x_{0} }$
