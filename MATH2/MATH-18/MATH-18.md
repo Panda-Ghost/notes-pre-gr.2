@@ -123,3 +123,17 @@ $$
 
 **命题3**
 
+设 $f,g:(a,b)\to \mathbb{R}$ 可导，且
+
+$$
+\begin{aligned}
+g(x),g'(x)\neq 0,\quad\forall x \in (a,b)
+\end{aligned}
+$$
+
+如果
+
+- $\lim_{ x \to a }g(x)=-\infty$
+- $\lim\limits_{ x \to a } \dfrac{f'(x)}{g'(x)}=\alpha \in [-\infty,+\infty]$
+
+则 $\lim\limits_{ x \to a } \dfrac{f(x)}{g(x)}=\alpha$
