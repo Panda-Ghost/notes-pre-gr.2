@@ -64,9 +64,3 @@ $$
 $$
 a=\lim_{ x \to x_{0}^{+} }f(x) =f(x_{0}^{+})
 $$
-
-$$
-\begin{aligned}
-a\\nsdfs\\
-\end{aligned}
-$$
