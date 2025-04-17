@@ -26,3 +26,6 @@ $$
 \lim_{ x \to x_{0} }f(x)=-\infty  \iff \lim_{ x \to x_{0} }f(x)=+\infty
 $$
 
+$f:A\to B, \; C\subset A,\; C\neq \varnothing$ 令 $f|_{C}:C\to B$
+
+$f|_{C}(x)=$
