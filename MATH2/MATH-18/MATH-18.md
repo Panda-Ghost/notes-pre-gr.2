@@ -104,6 +104,7 @@ $$
 如果
 
 - $\lim_{ x \to a }f(x)=\lim_{ x \to a }f(x)=0$
-- $\lim_{ x \to a } \dfrac{f'(x)}{g'(x)}=\alpha \in [-\infty,+\infty]$
+- $\lim\limits_{ x \to a } \dfrac{f'(x)}{g'(x)}=\alpha \in [-\infty,+\infty]$
 
-则 $\lim_{ x \to a } f(x)$
+则 $\lim\limits_{ x \to a } \dfrac{f(x)}{g(x)}=\alpha$
+
