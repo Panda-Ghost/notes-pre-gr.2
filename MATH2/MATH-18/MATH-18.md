@@ -108,3 +108,6 @@ $$
 
 则 $\lim\limits_{ x \to a } \dfrac{f(x)}{g(x)}=\alpha$
 
+**证明**
+
+定义 $f(a)$
