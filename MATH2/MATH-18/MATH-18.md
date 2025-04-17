@@ -72,3 +72,11 @@ $$
 - $f$ 在 $x_{0}$ 点有极限
 - $f$ 在 $x_{0}$ 点有左极限和右极限，且 $f(x_{0}^{-})=f(x_{0}^{+})$ 并且当 $f$ 在 $x_{0}$ 处有极限时 $\lim_{ x \to x_{0} }f(x)=f(x_{0}^{-})$
 
+$f:I\to \mathbb{R},\;I\subset \mathbb{R}$ 为开区间，$x_{0}\in I$
+
+$$
+\begin{aligned}
+f 在 x_{0} 点连续 \iff \lim_{ x \to x_{0} } f(x)=f(x_{0})\\
+\iff f 在 x_{0}
+\end{aligned}
+$$
