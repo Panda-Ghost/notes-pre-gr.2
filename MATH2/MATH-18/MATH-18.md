@@ -116,6 +116,7 @@ $$
 
 $$
 \begin{aligned}
-\dfrac{f(x)}{g(x)}=\dfrac{f(x)-f(a)}{g(x)-g(a)}=\dfrac{f'(\xi)}{}
+\dfrac{f(x)}{g(x)}=\dfrac{f(x)-f(a)}{g(x)-g(a)}=\dfrac{f'(\xi)}{g'(\xi)}, \quad \xi \in (a, x)
 \end{aligned}
 $$
+
