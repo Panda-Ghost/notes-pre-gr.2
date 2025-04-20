@@ -1,0 +1,1 @@
+设 $f(x)=\sin \dfrac{1}{x},\; x \in \mathbb{R}\setminus\{ 0 \}$
