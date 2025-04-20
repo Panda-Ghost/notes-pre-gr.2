@@ -8,4 +8,6 @@
 
 设 $b_{n}=\dfrac{1}{2n\pi+\dfrac{\pi}{2}},\; n=1,2,\dots$，则 $b_{n}\to {0}$
 
-所以 $f(b_{n})$
+所以 $f(b_{n})\to t$，而 $f(b_{n})=\sin \left(2n\pi+\dfrac{\pi}{2}\right)=1$，所以 $t=1$，矛盾
+
+综上
