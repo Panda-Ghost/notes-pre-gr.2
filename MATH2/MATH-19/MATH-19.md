@@ -65,6 +65,6 @@ $$
 \begin{aligned}
 &\sin x \sim x &&\tan x  \sim x &&\arcsin x \sim x\\
 &\arctan x \sim x && \ln(1+x)\sim x && e^{x}-1\sim x \\
-&1-\cos(x) \sim \dfrac{1}{2} x^{2}
+&1-\cos(x) \sim \dfrac{1}{2} x^{2} && 1+x^{}
 \end{aligned}
 $$
