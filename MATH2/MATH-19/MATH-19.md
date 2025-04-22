@@ -46,3 +46,4 @@ f(x)=o(g(x)), \quad 当 \; x\to x_{0} \; 时
 \end{aligned}
 $$
 
+如果 $\lim_{ x \to x_{0}} \dfrac{f(x)}{g(x)}=k\neq 0,\; k\in \mathbb{R}$，称da
