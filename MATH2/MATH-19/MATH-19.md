@@ -63,6 +63,7 @@ $$
 
 $$
 \begin{aligned}
-&\sin x \sim x & \tan x  \sim x 
+&\sin x \sim x &&\tan x  \sim x &&&\arcsin x \sim x\\
+&\arctan x \sim x && \ln(1+x)\sim x &&&
 \end{aligned}
 $$
