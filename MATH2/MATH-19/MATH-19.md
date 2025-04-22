@@ -32,6 +32,10 @@ $$
 
 $$
 \begin{aligned}
-f(x)=o(1),\quad 当 x\to x_{0} \; s
+f(x)=o(1),\quad 当 \; x\to x_{0} \; 时
 \end{aligned}
 $$
+
+设 $\lim_{ x \to x_{0} }f(x)=\lim_{ x \to x_{0} }g(x)=0$，
+
+如果 $\lim_{ x \to x_{0} }f(\dfrac{x}{})$
