@@ -12,3 +12,4 @@ $$
 
 称 $\lim_{ x \to +\infty } f(x)=A$
 
+ˉ
