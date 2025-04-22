@@ -12,3 +12,6 @@ $$
 
 称 $\lim_{ x \to +\infty } f(x)=A$
 
+**定义2**
+
+设 $f:(a,+\infty)\to \mathbb{R}$，
