@@ -28,4 +28,10 @@ $$
 
 类似可定义 $\lim_{ x \to -\infty }f(x)=A ,+\infty,-\infty$
 
-设 $f,g:A\subset \mathbb{R}\to \mathbb{R},\;x_{0}$ 是 $A$ 的聚点，如果 $\lim_{ x \to x_{0} }f(x)=0$，称当 $x$ 趋于 $x_{0}$ 时 $f(x)$ 是一个无穷小亮  
+设 $f,g:A\subset \mathbb{R}\to \mathbb{R},\;x_{0}$ 是 $A$ 的聚点，如果 $\lim_{ x \to x_{0} }f(x)=0$，称当 $x$ 趋于 $x_{0}$ 时，$f(x)$ 是一个无穷小量
+
+$$
+\begin{aligned}
+f(x)=o(1),\quad 当 x\to x_{0} \; s
+\end{aligned}
+$$
