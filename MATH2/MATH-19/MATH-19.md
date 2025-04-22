@@ -48,4 +48,5 @@ $$
 
 如果 $\lim_{ x \to x_{0}} \dfrac{f(x)}{g(x)}=k\neq 0,\; k\in \mathbb{R}$，称当 $x$ 趋于 $x_{0}$ 时，$f(x)$ 是 $g(x)$ 的同阶无穷小量
 
-如果 $\lim_{ x \to x_{0}} \dfrac{f(x)}{g(x)}=k\neq 0,\; k\in \mathbb{R}$，称当 $x$ 趋于 $x_{0}$ 时，$f(x)$ 是 $g(x)$ 的同阶无穷小量
+如果 $\lim_{ x \to x_{0}} \dfrac{f(x)}{g(x)}=1$，称当 $x$ 趋于 $x_{0}$ 时，$f(x)$ 是 $g(x)$ 的等价无穷小量
+
