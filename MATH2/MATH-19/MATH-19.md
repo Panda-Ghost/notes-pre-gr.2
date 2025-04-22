@@ -54,17 +54,10 @@ $$
 
 当 $x\to 0$ 时，
 
-- $\sin x \sim x$
-- $\tan x \sim x$
-- $\arcsin x \sim x$
-- $\arctan x \sim x$
-- $\ln (1+x) \sim x$
-
-
 $$
 \begin{aligned}
 &\sin x \sim x &&\tan x  \sim x &&\arcsin x \sim x\\
 &\arctan x \sim x && \ln(1+x)\sim x && e^{x}-1\sim x \\
-&1-\cos(x) \sim \dfrac{1}{2} x^{2} && 1+x^{}
+&1-\cos(x) \sim \dfrac{1}{2} x^{2} && (1+x)^{a}-1\sim ax && \sqrt{ 1+x }-1 \sim \dfrac{1}{2}x
 \end{aligned}
 $$
