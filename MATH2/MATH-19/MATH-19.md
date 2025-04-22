@@ -22,4 +22,6 @@ f(x)>M, \quad \forall x\geq N
 \end{aligned}
 $$
 
-称 $\lim_{ x \to +\infty }$
+称 $\lim_{ x \to +\infty }f(x)=+\infty$
+
+类似可定义 $\lim_{ x \to +\infty }f(x)=-\infty$
