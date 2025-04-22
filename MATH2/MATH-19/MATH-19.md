@@ -38,4 +38,10 @@ $$
 
 设 $\lim_{ x \to x_{0} }f(x)=\lim_{ x \to x_{0} }g(x)=0$，
 
-如果 $\lim_{ x \to x_{0} }f(\dfrac{x}{})$
+如果 $\lim_{ x \to x_{0} } \dfrac{f(x)}{g(x)}=0$，称当 $x$ 趋于 $x_{0}$ 时，$f(x)$ 是 $g(x)$ 的高阶无穷小量
+
+$$
+\begin{aligned}
+f(x)=o(g(x))
+\end{aligned}
+$$
