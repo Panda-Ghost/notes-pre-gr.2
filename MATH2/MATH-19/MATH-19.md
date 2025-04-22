@@ -61,3 +61,4 @@ $$
 &1-\cos(x) \sim \dfrac{1}{2} x^{2} && (1+x)^{a}-1\sim ax && \sqrt{ 1+x }-1 \sim \dfrac{1}{2}x
 \end{aligned}
 $$
+
