@@ -28,3 +28,4 @@ $$
 
 类似可定义 $\lim_{ x \to -\infty }f(x)=A ,+\infty,-\infty$
 
+设 $f,g:A\subset \mathbb{R}\to \mathbb{R},\;x_{0}$ 是 $A$ 的聚点，如果 $\lim_{ x \to +\infty }$ 
