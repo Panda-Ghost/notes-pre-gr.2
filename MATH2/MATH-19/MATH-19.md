@@ -54,4 +54,8 @@ $$
 
 当 $x\to 0$ 时，
 
-- $\sin x\s$
+- $\sin x \sim x$
+- $\tan x \sim x$
+- $\arcsin x \sim x$
+- $\arctan x \sim x$
+- 
