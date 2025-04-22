@@ -25,3 +25,6 @@ $$
 称 $\lim_{ x \to +\infty }f(x)=+\infty$
 
 类似可定义 $\lim_{ x \to +\infty }f(x)=-\infty$
+
+类似可定义 $\lim_{ x \to -\infty }f(x)=A ,+\infty,-\infty$
+
