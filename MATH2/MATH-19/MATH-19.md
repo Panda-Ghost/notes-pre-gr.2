@@ -42,6 +42,7 @@ $$
 
 $$
 \begin{aligned}
-f(x)=o(g(x))
+f(x)=o(g(x)), \quad 当 \; x\to x_{0} \; 时
 \end{aligned}
 $$
+
