@@ -14,4 +14,12 @@ $$
 
 **定义2**
 
-设 $f:(a,+\infty)\to \mathbb{R}$，
+设 $f:(a,+\infty)\to \mathbb{R}$，如果 $\forall M>0,\exists N>0,\text{s.t.}$
+
+$$
+\begin{aligned}
+f(x)>M, \quad \forall x\geq N
+\end{aligned}
+$$
+
+称 $\lim_{ x \to +\infty }$
