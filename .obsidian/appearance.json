@@ -7,6 +7,6 @@
   "showViewHeader": true,
   "theme": "moonstone",
   "nativeMenus": true,
-  "baseFontSize": 10,
+  "baseFontSize": 16,
   "accentColor": ""
 }
