@@ -2,4 +2,4 @@ The reading and the lecture are both about the first grain-based food. The autho
 
 First of all, the author points out that wheat could be prepared for use by grinding. It is mentioned that people probably began consuming wheat is very hard so that they gradually discovered that it was less trouble to eat if crushed to paste between two stones. This point is challenged by the lecturer. She says that you don't have to grind wheat to make it easier to eat. Furthermore, she argues if you keep wheat in a moist environment, it naturally starts sprouting, with a new baby plant splitting the hard seed case in half, and to discover the usefulness of sprouted wheat is more easier.
 
-
+Secondly, the author points out that baking the simplest bread requires no technology but fire. The article notes that when baked into bread, it could be stored for longer periods
