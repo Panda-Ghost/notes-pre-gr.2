@@ -89,3 +89,16 @@ $$
 &\xlongequal{\dots}\lim_{ x \to x_{0} } \dfrac{R^{(n-1)}(x)}{n!(x-x_{0})}= \dfrac{1}{n!}R^{(n)}(x_{0})
 \end{aligned}
 $$
+
+所以
+
+$$
+\begin{aligned}
+h(x)=\left\{
+\begin{aligned}
+\dfrac{R(x)}{(x-x_{0})^{n}},\quad x\neq x_{0}\\
+0
+\end{aligned}
+\right.
+\end{aligned}
+$$
