@@ -86,6 +86,6 @@ $$
 $$
 \begin{aligned}
 \lim_{ x \to x_{0} } \dfrac{R(x)}{(x-x_{0})^{n}} &\xlongequal{\text{L'H}} \lim_{ x \to x_{0} } \dfrac{R'(x)}{n(x-x_{0})^{n}}\xlongequal{\text{L'H}} \lim_{ x \to x_{0} } \dfrac{R''(x)}{n(n-1)(x-x_{0})^{n}}\\
-&=\lim_{ x \to x_{0} } \dfrac{R^{(n)}}{} 
+&\xlongequal{}\lim_{ x \to x_{0} } \dfrac{R^{(n)}(x)}{n!} 
 \end{aligned}
 $$
