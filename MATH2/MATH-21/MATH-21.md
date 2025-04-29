@@ -140,3 +140,10 @@ $$
 
 $x>\sin x>x-\dfrac{x^{3}}{6},\; \forall x>0$
 
+**证明**
+
+$$
+\begin{aligned}
+R(x)=f(x)-\sum_{k=0}^{n-1} \dfrac{f^{(k)}(x_{0})}{k!}(x-x_{0})^{n}
+\end{aligned}
+$$
