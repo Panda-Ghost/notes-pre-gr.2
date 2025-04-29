@@ -148,6 +148,9 @@ $$
 &R^{(k)}(x_{0})=0,\quad R^{(n)}(x)=f^{(n)}(x)\\
 & \dfrac{R(x)}{(x-x_{0})^{n}} = \dfrac{R(x)-R(x_{0})}{(x-x_{0})^{n}-(x_{0}-x_{0})^{n}}=\dfrac{R'(\xi_{1})}{n(\xi_{1}-x_{0})^{n-1}}\\
 &\phantom{\dfrac{R(x)}{(x-x_{0})^{n}}}=\dfrac{R''(\xi_{2})}{n(n-1)(\xi_{2}-x_{0})^{n-2}}\\
+&\phantom{\dfrac{R(x)}{(x-x_{0})^{n}}}=\dots\\
 &\phantom{\dfrac{R(x)}{(x-x_{0})^{n}}}=\dfrac{R^{(n)}(\xi_{n})}{n!}\\
+&\phantom{\dfrac{R(x)}{(x-x_{0})^{n}}}= \dfrac{f^{(n)}(\xi_{n})}{n!}
 \end{aligned}
 $$
+
