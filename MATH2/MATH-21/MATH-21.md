@@ -134,6 +134,6 @@ $$
 \begin{aligned}
 &f(x)=f(x_{0})+f'(\xi)(x-x_{0}) \\
 &f(x)=f(x_{0})+f'(x)(x-x_0)+ \dfrac{f''(\xi)}{2}(x-x_{0})^{2} \\
-&\sin x= x-\dfrac{x^{3}}{}
+&\sin x= x-\dfrac{x^{3}}{3!}+ \dfrac{\cos \xi}{5!}x^{5}
 \end{aligned}
 $$
