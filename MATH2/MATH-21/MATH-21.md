@@ -67,12 +67,24 @@ R(x)=f(x)-\sum_{k=0}^{n} \dfrac{f^{(k)}(x_{0})}{k!}(x-x_{0})^{n}, \quad x \in (a
 \end{aligned}
 $$
 
-ji zheng
+即证
+
+$$
+\begin{aligned}
+\lim_{x \to x_{0} } \dfrac{R(x)}{(x-x_{0})^{n}}=0
+\end{aligned}
+$$
 
 $R$ $n$ 阶可导
 
 $$
 \begin{aligned}
 R^{(k)}(x_{0})=0, \quad 0\leq k\leq n
+\end{aligned}
+$$
+
+$$
+\begin{aligned}
+\lim_{ x \to x_{0} } \dfrac{R(x)}{(x-x_{0})^{n}} 
 \end{aligned}
 $$
