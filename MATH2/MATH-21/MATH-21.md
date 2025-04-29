@@ -124,8 +124,8 @@ $$
 
 $$
 \begin{aligned}
-f(x)=\sum_{k=0}^{n} \dfrac{f^{(k)}(x_{0})}{k!}(x-x_{0})^{k}+ \dfrac{f^{(k)}(\xi)}{n!}(x-x_{0})^{n},\quad x \in (a, b)
+f(x)=\sum_{k=0}^{n-1} \dfrac{f^{(k)}(x_{0})}{k!}(x-x_{0})^{k}+ \dfrac{f^{(n)}(\xi)}{n!}(x-x_{0})^{n},\quad x \in (a, b)
 \end{aligned}
 $$
 
-其中 $\xi=(1-\theta)x_{0}+\theta x$
+其中 $\xi=(1-\theta)x_{0}+\theta x,\; \theta \in(0,1)$，$\dfrac{f^{(k)}(\xi)}{n!}(x-x_{0})^{n}$
