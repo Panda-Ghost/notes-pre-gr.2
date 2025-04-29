@@ -128,4 +128,4 @@ f(x)=\sum_{k=0}^{n-1} \dfrac{f^{(k)}(x_{0})}{k!}(x-x_{0})^{k}+ \dfrac{f^{(n)}(\x
 \end{aligned}
 $$
 
-其中 $\xi=(1-\theta)x_{0}+\theta x,\; \theta \in(0,1)$，$\dfrac{f^{(k)}(\xi)}{n!}(x-x_{0})^{n}$
+其中 $\xi=(1-\theta)x_{0}+\theta x,\; \theta \in(0,1)$，$\dfrac{f^{(n)}(\xi)}{n!}(x-x_{0})^{n}$ 称为 Lagrange 余项
