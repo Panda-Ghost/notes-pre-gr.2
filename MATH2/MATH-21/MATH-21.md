@@ -44,6 +44,8 @@ $n=1$ 时
 
 $$
 \begin{aligned}
-f(x)=f(x_{0})+f'(x_{0})(x-x_{0})+h(x)(x-x)
+&f(x)=f(x_{0})+f'(x_{0})(x-x_{0})+h(x)(x-x_{0}) \\
+&h(x)= \dfrac{f(x)-f(x_{0})}{x-x_{0}}-f'(x_{0})\to 0,\quad 导数的定义
 \end{aligned}
 $$
+
