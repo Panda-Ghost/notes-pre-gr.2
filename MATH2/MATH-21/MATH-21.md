@@ -63,6 +63,16 @@ $$
 
 $$
 \begin{aligned}
-R(x)=f(x)-\sum_{k=0}^{n} \dfrac{f^{(k)}(x_{0})}{k!}(x-x_{0})
+R(x)=f(x)-\sum_{k=0}^{n} \dfrac{f^{(k)}(x_{0})}{k!}(x-x_{0})^{n}, \quad x \in (a, b)
+\end{aligned}
+$$
+
+ji zheng
+
+$R$ $n$ 阶可导
+
+$$
+\begin{aligned}
+R^{(k)}(x_{0})=0, \quad 0\leq k\leq n
 \end{aligned}
 $$
