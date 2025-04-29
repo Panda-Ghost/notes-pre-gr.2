@@ -49,3 +49,10 @@ $$
 \end{aligned}
 $$
 
+$n=2$ 时
+
+$$
+\begin{aligned}
+&f(x)=f(x_{0})+f
+\end{aligned}
+$$
