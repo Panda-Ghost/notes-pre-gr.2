@@ -134,6 +134,9 @@ $$
 \begin{aligned}
 &f(x)=f(x_{0})+f'(\xi)(x-x_{0}) \\
 &f(x)=f(x_{0})+f'(x)(x-x_0)+ \dfrac{f''(\xi)}{2}(x-x_{0})^{2} \\
-&\sin x= x-\dfrac{x^{3}}{3!}+ \dfrac{\cos \xi}{5!}x^{5} \implies \sin x>_{_{x>0}}x-\dfrac{x^{3}}{3!}
+&\sin x= x-\dfrac{x^{3}}{3!}+ \dfrac{\cos \xi}{5!}x^{5} ,\quad \sin x>_{_{0<x<\frac{\pi}{2}}}x-\dfrac{x^{3}}{3!}
 \end{aligned}
 $$
+
+$x>\sin x>x-\dfrac{x^{3}}{6},\; \forall x>0$
+
