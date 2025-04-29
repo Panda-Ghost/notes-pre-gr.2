@@ -146,6 +146,6 @@ $$
 \begin{aligned}
 &R(x)=f(x)-\sum_{k=0}^{n-1} \dfrac{f^{(k)}(x_{0})}{k!}(x-x_{0})^{k}\\
 &R^{(k)}(x_{0})=0,\quad R^{(n)}(x)=f^{(n)}(x)\\
-& \dfrac{R(x)}{(x-x_{0})^{n}} = \dfrac{R(x)-R(x_{0})}{(x-x_{0})^{n}-(x_{0}-x_{0})^{n}}=R'()
+& \dfrac{R(x)}{(x-x_{0})^{n}} = \dfrac{R(x)-R(x_{0})}{(x-x_{0})^{n}-(x_{0}-x_{0})^{n}}=\dfrac{R'(\xi_{1})}{n(\xi_{1}-x_{0})^{n-1}}=\dfrac{R''(\xi_{2})}{n(n-1)(\xi_{2}-x_{0})^{n-2}}\
 \end{aligned}
 $$
