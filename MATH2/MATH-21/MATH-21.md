@@ -96,8 +96,8 @@ $$
 \begin{aligned}
 h(x)=\left\{
 \begin{aligned}
-\dfrac{R(x)}{(x-x_{0})^{n}},\quad x\neq x_{0}\\
-0
+&\dfrac{R(x)}{(x-x_{0})^{n}},\quad &&x\neq x_{0}\\[10pt]
+&\phantom{\dfrac{1}{x}}0, \quad &&x=x_{0}
 \end{aligned}
 \right.
 \end{aligned}
