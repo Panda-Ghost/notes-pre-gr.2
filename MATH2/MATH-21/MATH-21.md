@@ -85,6 +85,6 @@ $$
 
 $$
 \begin{aligned}
-\lim_{ x \to x_{0} } \dfrac{R(x)}{(x-x_{0})^{n}} \xlongequal{\text{}}
+\lim_{ x \to x_{0} } \dfrac{R(x)}{(x-x_{0})^{n}} \xlongequal{\text{L'Hospital}} \lim_{ x \to x_{0} } \dfrac{R'(x)}{n(x-x_{0})^{n}}= 
 \end{aligned}
 $$
