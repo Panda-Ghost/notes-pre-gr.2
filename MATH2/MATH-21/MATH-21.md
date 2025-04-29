@@ -107,6 +107,7 @@ $$
 
 $$
 \begin{aligned}
-e^{x}=1+x+\dfrac{x^{2}}{2!}+\dots+\dfrac{x^{n}}{n!}+o\left( |x|^{n} \right) , x=0
+&e^{x}=1+x+\dfrac{x^{2}}{2!}+\dots+\dfrac{x^{n}}{n!}+o\left( |x|^{n} \right) , \quad x\to0\\
+&\sin x=x-\dfrac{x^{3}}{3!}+\dfrac{x^{5}}{5!}-\dfrac{x^{7}}{}
 \end{aligned}
 $$
