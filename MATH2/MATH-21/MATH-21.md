@@ -57,3 +57,12 @@ $$
 \end{aligned}
 $$
 
+**证明**
+
+记
+
+$$
+\begin{aligned}
+R(x)=f(x)-\sum_{k=0}^{n} \dfrac{f^{(k)}(x_{0})}{k!}(x-x_{0})
+\end{aligned}
+$$
