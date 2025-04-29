@@ -30,6 +30,8 @@ $$
 
 $$
 \begin{aligned}
-f(x)=\sum_{k=0}^{n} \dfrac{f^{(k)}}{}
+f(x)=\sum_{k=0}^{n} \dfrac{f^{(k)}(x_{0})}{k!}(x-x_{0})^{k}+h(x)(x-x_{0})^{n},\quad x \in (a, b)
 \end{aligned}
 $$
+
+其中 $h:(a,b)\to \mathbb{R}$ 连续，
