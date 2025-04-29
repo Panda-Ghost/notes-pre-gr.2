@@ -85,6 +85,6 @@ $$
 
 $$
 \begin{aligned}
-\lim_{ x \to x_{0} } \dfrac{R(x)}{(x-x_{0})^{n}} 
+\lim_{ x \to x_{0} } \dfrac{R(x)}{(x-x_{0})^{n}} \xlongequal{\text{}}
 \end{aligned}
 $$
