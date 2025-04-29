@@ -24,3 +24,12 @@ $$
 \end{aligned}
 $$
 
+**定理1**
+
+设 $f:(a,b)\to \mathbb{R}$，$n$ 阶可导，$n\in \mathbb{N}^{*},\;x_{0}\in(a,b)$，则
+
+$$
+\begin{aligned}
+f(x)=\sum_{k=0}^{n} \dfrac{f^{(k)}}{}
+\end{aligned}
+$$
