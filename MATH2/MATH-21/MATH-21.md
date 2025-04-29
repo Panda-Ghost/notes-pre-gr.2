@@ -53,6 +53,6 @@ $n=2$ 时
 
 $$
 \begin{aligned}
-&f(x)=f(x_{0})+f
+&f(x)=f(x_{0})+f'(x_{0})(x-x_{0})+\dfrac{1}{2}f''(x_{0})(x-x_{0})^{2}+o\left( |x-x_{0}|^{2} \right) 
 \end{aligned}
 $$
