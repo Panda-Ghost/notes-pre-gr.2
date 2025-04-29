@@ -112,7 +112,8 @@ $$
 &\sin x=x-\dfrac{x^{3}}{3!}+\dfrac{x^{5}}{5!}-\dfrac{x^{7}}{7!}+\dots+ (-1)^{n+1} \dfrac{x^{2n-1}}{(2n-1)!}+o\left(x^{2n} \right) \\[10pt] 
 &\cos x= 1- \dfrac{x^{2}}{2!}+\dfrac{x^{4}}{4!}-\dfrac{x^{6}}{6!}+\dots+(-1)^{n} \dfrac{x^{2n}}{(2n)!}+o\left(x^{2n+1}\right)\\[10pt]
 &\dfrac{1}{1-x}=1+x+x^{2}+\dots+x^{n}+o\left( x^{n} \right) \\[10pt]
-& \dfrac{1}{1+x}
+& \dfrac{1}{1+x}=1-x+x^{2}-x^{3}+\dots + (-1)^{n-1}x^{n}+o\left( x^{n} \right)\\[10pt]
+&\ln(1+x)=x
 \end{aligned}
 $$
 
