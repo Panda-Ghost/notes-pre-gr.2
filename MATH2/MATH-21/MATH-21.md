@@ -34,4 +34,6 @@ f(x)=\sum_{k=0}^{n} \dfrac{f^{(k)}(x_{0})}{k!}(x-x_{0})^{k}+h(x)(x-x_{0})^{n},\q
 \end{aligned}
 $$
 
-其中 $h:(a,b)\to \mathbb{R}$ 连续，
+上式称 Taylor 展式，$h(x)(x-x_{0})^{n}$ 称为yu xian
+其中 $h:(a,b)\to \mathbb{R}$ 连续，$h(x_{0})=0$，
+
