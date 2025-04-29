@@ -117,3 +117,15 @@ $$
 \end{aligned}
 $$
 
+
+**定理2**
+
+设 $f:(a,b)\to \mathbb{R}$，$n$ 阶可导，$n\in \mathbb{N}^{*},\;x_{0}\in(a,b)$，则
+
+$$
+\begin{aligned}
+f(x)=\sum_{k=0}^{n} \dfrac{f^{(k)}(x_{0})}{k!}(x-x_{0})^{k}+h(x)(x-x_{0})^{n},\quad x \in (a, b)
+\end{aligned}
+$$
+
+上式称 Taylor 展式，$h(x)(x-x_{0})^{n}$ 称为余项，Peano 余项
