@@ -103,4 +103,10 @@ h(x)=\left\{
 \end{aligned}
 $$
 
-c
+常见泰勒展式
+
+$$
+\begin{aligned}
+e^{x}=1+x+\dfrac{x^{2}}{2!}+\dots+\dfrac{x^{n}}{n!}+o\left( |x|^{n} \right) , x=0
+\end{aligned}
+$$
