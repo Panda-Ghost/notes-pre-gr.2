@@ -12,14 +12,6 @@ Now, to preempt the opposition: yes, cooperation fosters collaboration, empathy,
 
 Moreover, competition does not mean hostility. Healthy competition can be respectful, constructive, and even fun. It pushes students not to beat others down, but to bring the best out of themselves.
 
-  
-
 In conclusion, while cooperation has its place, competition is the engine that drives academic ambition, individual excellence, and future success. It challenges students to rise above, to go further, and to never stop learning. And that is why, in the studying process, competition is more important than cooperation.
 
-  
-
 Thank you.
-
----
-
-Would you like a version from the Opposition side as well?
