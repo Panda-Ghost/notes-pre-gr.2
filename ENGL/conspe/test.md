@@ -34,59 +34,35 @@ Thank you.
 
 谢谢你。
 
-Ladies and gentlemen, respected judges,
+Ladies and gentlemen, respected judges, 
 
-  
+Today, we firmly support the motion that competition is more important than cooperation in the studying process. While cooperation has its role, it is competition that truly drives academic excellence, independence, and innovation. 
 
-Today, we firmly support the motion that competition is more important than cooperation in the studying process. While cooperation has its role, it is competition that truly drives academic excellence, independence, and innovation.
-
-  
-
-Let me introduce not just conventional points—but ones the opposition won’t see coming.
-
-  
+Let me introduce not just conventional points—but ones the opposition won’t see coming. 
 
 First, competition protects students from dependency.
 
-Cooperation often leads to unequal contributions—what psychologists call “social loafing.” One or two motivated students carry the group while others coast. In contrast, competition eliminates this crutch. It forces every student to be individually accountable. It creates self-reliance, something far more valuable than just “being a team player.”
-
-  
+Cooperation often leads to unequal contributions—what psychologists call “social loafing.” One or two motivated students carry the group while others coast. In contrast, competition eliminates this crutch. It forces every student to be individually accountable. It creates self-reliance, something far more valuable than just “being a team player.” 
 
 Second, competition reveals talent—cooperation can hide it.
 
-In a cooperative setting, standout performers are often urged to slow down, to “wait for the group.” But competition gives high-achievers the space to shine. It allows educators to identify those with extraordinary potential who might otherwise be overlooked. Should we hold back brilliance for the sake of artificial harmony?
-
-  
+In a cooperative setting, standout performers are often urged to slow down, to “wait for the group.” But competition gives high-achievers the space to shine. It allows educators to identify those with extraordinary potential who might otherwise be overlooked. Should we hold back brilliance for the sake of artificial harmony? 
 
 Third, competition produces innovation through friction.
 
-Here’s the twist: healthy rivalry sparks creativity. From academic debates to research challenges, students often come up with their best ideas when trying to outperform others. Cooperation may create consensus, but competition drives breakthroughs.
+Here’s the twist: healthy rivalry sparks creativity. From academic debates to research challenges, students often come up with their best ideas when trying to outperform others. Cooperation may create consensus, but competition drives breakthroughs. 
 
-  
+Now let me turn to preemptive rebuttals, because we know exactly what the opposition will say. 
 
-Now let me turn to preemptive rebuttals, because we know exactly what the opposition will say.
+They’ll argue that competition creates stress. But let’s be clear—so does life. The goal of education is not to eliminate stress, but to equip students with tools to manage it. Shielding them through constant collaboration only delays this crucial growth. 
 
-  
+They’ll say cooperation builds communication skills. We agree—but that’s not unique to cooperation. In competitive settings like debates, simulations, and academic contests, students also communicate, but with precision, persuasion, and confidence—skills even more valuable. 
 
-They’ll argue that competition creates stress. But let’s be clear—so does life. The goal of education is not to eliminate stress, but to equip students with tools to manage it. Shielding them through constant collaboration only delays this crucial growth.
+They might claim that competition undermines empathy. But what they miss is that competition and empathy are not mutually exclusive. Competing doesn’t mean dehumanizing. In fact, students learn to win respectfully and lose gracefully—both are emotional skills cooperation often fails to teach. 
 
-  
+In summary, competition in the studying process builds stronger, smarter, and more self-sufficient learners. It weeds out complacency, rewards hard work, and fosters ambition. It challenges students not just to participate—but to grow. 
 
-They’ll say cooperation builds communication skills. We agree—but that’s not unique to cooperation. In competitive settings like debates, simulations, and academic contests, students also communicate, but with precision, persuasion, and confidence—skills even more valuable.
-
-  
-
-They might claim that competition undermines empathy. But what they miss is that competition and empathy are not mutually exclusive. Competing doesn’t mean dehumanizing. In fact, students learn to win respectfully and lose gracefully—both are emotional skills cooperation often fails to teach.
-
-  
-
-In summary, competition in the studying process builds stronger, smarter, and more self-sufficient learners. It weeds out complacency, rewards hard work, and fosters ambition. It challenges students not just to participate—but to grow.
-
-  
-
-That is why competition is not just more important than cooperation—it is essential.
-
-  
+That is why competition is not just more important than cooperation—it is essential. 
 
 Thank you.
 
