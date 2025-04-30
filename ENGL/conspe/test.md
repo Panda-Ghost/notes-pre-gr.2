@@ -65,7 +65,3 @@ In summary, competition in the studying process builds stronger, smarter, and mo
 That is why competition is not just more important than cooperation—it is essential. 
 
 Thank you.
-
----
-
-Would you like this adapted into a rebuttal speech or a version tailored for high school debate formats like WSDC or BP?
