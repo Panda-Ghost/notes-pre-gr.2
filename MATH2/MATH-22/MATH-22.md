@@ -40,6 +40,9 @@ $$
 
 $$
 \begin{aligned}
-b_{n}= \dfrac{a_{1}+a_{2}+a_{3}+\dots+a_{n}}{n},\; n=1,
+b_{n}= \dfrac{a_{1}+a_{2}+a_{3}+\dots+a_{n}}{n},\quad n=1,2,\dots,
 \end{aligned}
 $$
+
+则 $b_{n}\to a$
+
