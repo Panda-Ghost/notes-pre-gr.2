@@ -55,3 +55,13 @@ b_{n}= \sqrt[n]{ a_{1}a_{2}\dots a_{n} },\quad n=1,2,\dots,
 $$
 
 则 $b_{n}\to a$
+
+幂级数
+
+设 $a_{n}\in \mathbb{R},\;n=1,2,\dots,\;x_{0} \in \mathbb{R}$
+
+$$
+\begin{aligned}
+\sum_{n=0}^{+\infty} a_{n}(x-x_{0})^{}
+\end{aligned}
+$$
