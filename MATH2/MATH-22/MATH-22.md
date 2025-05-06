@@ -62,6 +62,8 @@ $$
 
 $$
 \begin{aligned}
-\sum_{n=0}^{+\infty} a_{n}(x-x_{0})^{}
+\sum_{n=0}^{+\infty} a_{n}(x-x_{0})^{n},\quad x \in \mathbb{R}
 \end{aligned}
 $$
+
+称为以 $x_{0}$ 为心的幂级数
