@@ -29,4 +29,10 @@ $$
 
 得
 
-d
+$$
+\begin{aligned}
+\varlimsup_{ n \to +\infty } a_{n} &\geq \varlimsup_{ n \to +\infty } b_{n} \\
+\varliminf_{ n \to +\infty } a_{n} &\geq \varliminf_{ n \to +\infty } b_{n}
+\end{aligned}
+$$
+
