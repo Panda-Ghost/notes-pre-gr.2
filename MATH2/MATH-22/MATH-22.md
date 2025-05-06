@@ -10,3 +10,10 @@ $$
 $$
 上极限和下极限
 
+设 $k>0$
+
+$$
+\begin{aligned}
+\varlimsup_{ n \to +\infty } k_{a}
+\end{aligned}
+$$
