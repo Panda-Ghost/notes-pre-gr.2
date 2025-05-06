@@ -46,3 +46,12 @@ $$
 
 则 $b_{n}\to a$
 
+设 $a_{n},a\in \mathbb{R},\; n=1,2,\dots,\; a_{n}\to a$，设 $a_{n},a>0, \;$令
+
+$$
+\begin{aligned}
+b_{n}= \sqrt[n]{ a_{1}a_{2}\dots a_{n} },\quad n=1,2,\dots,
+\end{aligned}
+$$
+
+则 $b_{n}\to a$
