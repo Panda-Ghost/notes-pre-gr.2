@@ -14,6 +14,7 @@ $$
 
 $$
 \begin{aligned}
-\varlimsup_{ n \to +\infty } l a_{n}= \lim_{ n \to +\infty } \sup_{k\geq n} l a_{k}=l\lim_{ n \to +\infty } \sup_{k\geq n} a_{k}
+\varlimsup_{ n \to +\infty } l a_{n}= \lim_{ n \to +\infty } \sup_{k\geq n} l a_{k}=l\lim_{ n \to +\infty } \sup_{k\geq n} a_{k}=l\varlimsup_{ n \to +\infty } a_{n} \\
+\varliminf_{ n \to +\infty } la_{n}=l\varliminf_{ n \to +\infty } a_{n}
 \end{aligned}
 $$
