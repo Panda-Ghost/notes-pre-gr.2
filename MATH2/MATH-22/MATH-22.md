@@ -86,8 +86,7 @@ $R$ 称为收敛半径。
 - 如果 $\lim_{ n \to +\infty }\sqrt[n]{ |a_{n}| }=0$，则 $\forall x \in \mathbb{R},\; \sum a_{n}(x-x_{0})^{n}$ 绝对收敛
 - 设 $\{ \sqrt[n]{ |a_{n}| } \}$ 有界，$\lambda = \varlimsup_{ n \to +\infty }\sqrt[n]{ |a_{n} | }>0$，记 $R=1/\lambda$，则
     - 如果 $|x-x_{0}|<R, \; \sum a_{n}(x-x_{0})^{n}$ 绝对收敛
-    - 如果 $|x-x_{0}|>R, \; \sum a_{n}(x-x_{0})^{n}$ 发散
+    - 如果 $|x-x_{0}|>R, \; \sum a_{n}(x-x_{0})^{n}$ 发散，证明：使用反证法证明 $a_{n}(x-x_{0})^{n} \not\to 0$
     - 如果 $|x-x_{0}|=R, \; \sum a_{n}(x-x_{0})^{n}$ 可能收敛可能发散
 
 
-zh
