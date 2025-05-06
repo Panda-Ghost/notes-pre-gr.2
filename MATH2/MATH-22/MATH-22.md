@@ -46,7 +46,7 @@ $$
 
 则 $b_{n}\to a$
 
-设 $a_{n},a\in \mathbb{R},\; n=1,2,\dots,\; a_{n}\to a$，设 $a_{n},a>0, \;$令
+设 $a_{n},a\in \mathbb{R},\; n=1,2,\dots,\; a_{n}\to a$，设 $a_{n},a>0, \; n=1,2,\dots,$令
 
 $$
 \begin{aligned}
