@@ -4,6 +4,7 @@
 
 $$
 \begin{aligned}
-
+\varlimsup_{ n \to +\infty } a_{n}=\lim_{ n \to +\infty } \sup_{k\geq n} a_{k} \\
+\varliminf_{ n \to +\infty } a_{n}=\lim_{ n \to +\infty } \inf_{k\geq n}a_{k}
 \end{aligned}
 $$
