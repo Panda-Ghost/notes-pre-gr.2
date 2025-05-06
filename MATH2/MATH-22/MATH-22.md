@@ -84,4 +84,5 @@ $R$ 称为收敛半径。
 
 - 如果 $\{ \sqrt[n]{ |a_{n}| } \}$ 无界，则 $\forall x\neq x_{0},\;\sum a_{n}(x-x_{0})^{n}$ 发散
 - 如果 $\lim_{ n \to +\infty }\sqrt[n]{ |a_{n}| }=0$，则 $\forall x \in \mathbb{R},\; \sum a_{n}(x-x_{0})^{n}$ 绝对收敛
-- 设 $\{ \sqrt[n]{ |a_{n}| } \}$
+- 设 $\{ \sqrt[n]{ |a_{n}| } \}$ 有界，$\lambda = \varlimsup_{ n \to +\infty }\sqrt[n]{ |a_{n} | }>0$，记 $R=1/\lambda$，则
+    - 
