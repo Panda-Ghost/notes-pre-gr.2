@@ -14,7 +14,19 @@ $$
 
 $$
 \begin{aligned}
-\varlimsup_{ n \to +\infty } l a_{n}= \lim_{ n \to +\infty } \sup_{k\geq n} l a_{k}=l\lim_{ n \to +\infty } \sup_{k\geq n} a_{k}=l\varlimsup_{ n \to +\infty } a_{n} \\
-\varliminf_{ n \to +\infty } la_{n}=l\varliminf_{ n \to +\infty } a_{n}
+\varlimsup_{ n \to +\infty } l a_{n}&= \lim_{ n \to +\infty } \sup_{k\geq n} l a_{k}=l\lim_{ n \to +\infty } \sup_{k\geq n} a_{k}=l\varlimsup_{ n \to +\infty } a_{n} \\
+\varliminf_{ n \to +\infty } la_{n}&=l\varliminf_{ n \to +\infty } a_{n}
 \end{aligned}
 $$
+
+设 $\{ b_{n} \}$ 有界
+
+$$
+\begin{aligned}
+a_{n}\geq b_{n},\quad \forall n\geq n_{0}
+\end{aligned}
+$$
+
+得
+
+d
