@@ -10,10 +10,10 @@ $$
 $$
 上极限和下极限
 
-设 $k>0$
+设 $l>0$
 
 $$
 \begin{aligned}
-\varlimsup_{ n \to +\infty } k_{a}
+\varlimsup_{ n \to +\infty } l a_{n}= \lim_{ n \to +\infty } \sup_{k\geq n} l a_{k}=l\lim_{ n \to +\infty } \sup_{k\geq n} a_{k}
 \end{aligned}
 $$
