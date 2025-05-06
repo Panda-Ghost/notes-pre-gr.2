@@ -36,3 +36,10 @@ $$
 \end{aligned}
 $$
 
+设 $a_{n},a\in \mathbb{R},\; n=1,2,\dots,\; a_{n}\to a$ 令
+
+$$
+\begin{aligned}
+b_{n}= \dfrac{a_{1}+a_{2}+a_{3}+\dots+a_{n}}{n},\; n=1,
+\end{aligned}
+$$
