@@ -4,7 +4,9 @@
 
 $$
 \begin{aligned}
-\varlimsup_{ n \to +\infty } a_{n}=\lim_{ n \to +\infty } \sup_{k\geq n} a_{k} \\
-\varliminf_{ n \to +\infty } a_{n}=\lim_{ n \to +\infty } \inf_{k\geq n}a_{k}
+\varlimsup_{ n \to +\infty } a_{n}&=\lim_{ n \to +\infty } \sup_{k\geq n} a_{k} \\
+\varliminf_{ n \to +\infty } a_{n}&=\lim_{ n \to +\infty } \inf_{k\geq n}a_{k}
 \end{aligned}
 $$
+上极限和下极限
+
