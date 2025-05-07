@@ -19,3 +19,4 @@ Anticipating the proposition’s rebuttal that competition “builds resilience,
 In conclusion, while healthy competition can motivate, it is cooperation that sustains motivation, deepens understanding, and fosters the interpersonal and cognitive skills essential for academic and professional success. Let us choose synergy over rivalry, because in learning, as in life, we truly go farther together. 
 
 Thank you.
+
