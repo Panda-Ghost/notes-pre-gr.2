@@ -8,5 +8,6 @@
   "better-export-pdf",
   "obsidian-vimrc-support",
   "vim-im-select",
-  "copilot"
+  "copilot",
+  "copy-as-latex"
 ]
