@@ -32,3 +32,19 @@ Third, reflect on sports - related learning. Athletes compete to win, cultivatin
 Some argue cooperation promotes teamwork and shared knowledge. While cooperation has merit, it often lacks competition’s urgency. For example, in a group project without a competitive context (like a graded class presentation), complacency may creep in. Competition ensures each individreateual is motivated to contribute their best, enhancing learning quality.
 
 In conclusion, competition is indispensable in learning. It motivates students to strive for excellence, equips them for real - world challenges, and fosters individual growth. From academic rankings to science fairs, competition proves the more vital force. Let’s embrace it as a key driver of educational progress. Thank you.
+
+大家好。今天，我们深入探讨了关于学习过程的关键性讨论：是竞争还是合作更有分量。我坚信竞争更重要。它作为一种强大的激励者，敦促学生充分发挥潜力，并反映了现实世界，在现实世界中，有效竞争的能力往往决定了卓越。
+
+从历史上看，竞争一直是教育的基石。从古希腊哲学辩论到当代课堂，追求超越的动力一直推动着学术追求。这不是低估合作，而是强调竞争在促进增长方面的独特作用。
+
+我们的立场很明确：竞争在学习中更加重要。它刺激个人成长，提高绩效，让学生为竞争激烈的社会做好準備。让我们用令人信服的例子来强化这一点。
+
+首先，考虑学术排名。在许多学校里，学生是根据表现进行排名的。这个系统营造了一种竞争气氛。例如，一个以班级顶尖为目标的学生将努力学习，寻求深刻的学科理解，并积极参与学习。看看韩国，竞争激烈的大学入学考试推动学生进行严格的学习——确保了高水平的学术成就。
+
+其次，参加英特尔国际科学与工程博览会（ISEF）等科学竞赛。世界各地的年轻科学家竞相展示创新项目。对胜利的渴望促使他们探索、研究和创造。没有竞争，这种对深度学习和创新的奉献将不太可能。
+
+第三，反思与体育相关的学习。运动员为了胜利而竞争，培养纪律、毅力和进步的动力。将此转化为学术，竞争灌输了相同的品质。参加辩论比赛的学生将进行严格的准备、详尽的研究和磨练论证技能——所有这些都是由竞争驱动的。
+
+有些人认为合作促进了团队合作和知识共享。虽然合作有优点，但往往缺乏竞争的紧迫性。例如，在没有竞争背景的小组项目中（如分级课堂演示），自满可能会悄悄进入。竞争确保每个人都有动力做出最好的贡献，提高学习质量。
+
+总之，竞争在学习中是必不可少的。它激励学生追求卓越，让他们准备好应对现实世界的挑战，并促进个人成长。从学术排名到科学博览会，竞争证明了更大的生命力。让我们把它作为教育进步的关键驱动力。谢谢你。
