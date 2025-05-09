@@ -1063,7 +1063,7 @@ $$
 
 设 $A\subset \mathbb{R}$ 有聚点，则 $A$ 一定为无限集
 
-# MATH16
+# MATH-16
 
 **例** 设 $A\subset \mathbb{R}, \; x_{0}\in \mathbb{R}$ 是 $A$ 的聚点 $\iff \exists x_{n}\in A\setminus \{ x_{0} \},\text{ s.t. } x_{n}\to x_{0}$
 
