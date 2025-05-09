@@ -1,3 +1,12 @@
+```table-of-contents
+title: 
+style: nestedList # TOC style (nestedList|nestedOrderedList|inlineFirstLevel)
+minLevel: 0 # Include headings from the specified level
+maxLevel: 0 # Include headings up to the specified level
+includeLinks: true # Make headings clickable
+debugInConsole: false # Print debug info in Obsidian console
+```
+
 # MATH-1
 
 $f:I \to \mathbb{R}$，$I$ 是个区间，$x_{0}\in I$
