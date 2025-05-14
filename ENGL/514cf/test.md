@@ -129,4 +129,4 @@ your number one goal in the second crossfire is to make your partner's summary e
 
 ### grand crossfire
 
-craziest three
+craziest three minutes of 
