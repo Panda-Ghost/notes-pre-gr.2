@@ -1,4 +1,4 @@
-ref 2
+## ref 2
 
 ### the questioner
 
@@ -34,4 +34,10 @@ retort questions that attack your arguments
 
 ## general rules for the respondent
 
-aviud
+avoid being rude
+
+don't give long treatises on your case 
+
+don't read new evidence
+
+
