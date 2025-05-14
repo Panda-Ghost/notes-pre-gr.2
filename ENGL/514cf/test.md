@@ -22,4 +22,10 @@ maintain control of the  cross-examination
 
 ### don't let the respondent question you when you're the questioner
 
-### the resp
+### the respondent
+
+give clear, specific, concise answers
+
+ask for clarification
+
+qualify your answers
