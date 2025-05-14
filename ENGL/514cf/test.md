@@ -111,6 +111,8 @@ other tips:
 
 ### first crossfire
 
+at the time of the first crossfire, the only material you have to work with is your opponent's case.
+
 help your partner give a great rebuttal
 
 establish perceptual dominance
