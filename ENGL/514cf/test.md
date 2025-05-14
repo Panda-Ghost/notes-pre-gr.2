@@ -26,6 +26,12 @@ maintain control of the  cross-examination
 
 give clear, specific, concise answers
 
-ask for clarification
+ask for clarification if the question is unclear
 
 qualify your answers
+
+retort questions that attack your arguments
+
+## general rules for the respondent
+
+aviud
