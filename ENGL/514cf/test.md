@@ -101,5 +101,12 @@ pivot
 other tips:
 
 - don't commit
-- know when to look weak 
+- know when to look weak and when to look strong
+- make arguments in your speeches
+- limit answers
+- always prioritize
 ### conclusion
+
+## ref 4
+
+### what
