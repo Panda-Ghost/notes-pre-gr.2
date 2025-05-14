@@ -8,4 +8,11 @@ ask questions about the quality of your opponent's evidence
 
 ask questions to get your opponents to admit their case has weaknesses
 
-general rules for the questioner
+### general rules for the questioner
+
+do not make statements
+
+don't masquerade your arguments as questions
+
+be courteous
+
