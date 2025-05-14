@@ -18,4 +18,6 @@ be courteous
 
 give your opponent a chance to answer questions 
 
-maintain contuol of the  cross -
+maintain control of the  cross-examination
+
+### don
