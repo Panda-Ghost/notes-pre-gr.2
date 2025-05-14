@@ -63,12 +63,23 @@ explanation
 
 evidentiary support
 
+weaknesses in evidence
+
+set-up questions
+
+attack questions
 
 ### focusing on certain thing after certain speeches
 
 ### rebuttal
 
 ### summary
+
+types of questions not to ask
+
+- this is my argument, how would you respond
+- do you agree with my argument
+- behaviors not to engage in in crossfire
 
 ### answering
 
