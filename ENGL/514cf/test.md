@@ -51,8 +51,17 @@ a note about mechanics
 
 general considerations for crossfire 
 
+- limited time
+- planning ahead
+- face the judge
+
+asking questions-foundational points
+ 
 ### asking questions types of questions
 
+explanation
+
+evidentiary support
 
 
 ### focusing on certain thing after certain speeches
