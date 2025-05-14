@@ -132,3 +132,10 @@ your number one goal in the second crossfire is to make your partner's summary e
 craziest three minutes of the round
 
 for good reason
+
+
+what the purpose of crossfire?
+
+what do you need to accomplish your goals in crossfire
+
+what 
