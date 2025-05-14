@@ -133,7 +133,7 @@ craziest three minutes of the round
 
 for good reason
 
-
+# read the notes above, answer these questions
 
 what the purpose of crossfire?
 
