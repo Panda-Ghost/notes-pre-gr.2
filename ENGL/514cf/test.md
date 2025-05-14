@@ -107,6 +107,12 @@ other tips:
 - always prioritize
 ### conclusion
 
-## ref 4
+## ref 4: what questions should i ask to win crossfire
 
-### what
+### first crossfire
+
+help your partner give a great rebuttal
+
+establish perceptual dominance
+
+question
