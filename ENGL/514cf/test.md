@@ -142,3 +142,102 @@ what do you need to accomplish your goals in crossfire?
 what types of questions can we use?
 
 what are the uses of different types of questions for cross-examination?
+## 1. What is the purpose of crossfire?
+
+- **Expose Weaknesses.** Force your opponent to reveal flaws in their evidence or logic.
+    
+- **Clarify Claims.** Pin down exactly what they’re saying so you can attack or contrast it later.
+    
+- **Set Traps / Contradictions.** Lure them into contradicting themselves or admitting gaps.
+    
+- **Build Momentum for Your Team.** Lay groundwork for your partner’s rebuttal and summary speeches by framing the debate on terms favorable to your side.
+    
+
+## 2. What do you need to accomplish your goals in crossfire?
+
+1. **Mastery of Both Cases.** Know your case and theirs inside-out, including evidence citations and potential counter-arguments.
+    
+2. **Planning & Prioritization.** Pre‐plan key questions, anticipate likely answers, and rank which points matter most given the limited time.
+    
+3. **Control & Courteous Demeanor.** Ask crisp, direct questions; don’t let the respondent filibuster or turn the tables on you.
+    
+4. **Perceptual Dominance.** Establish credibility and confidence early—your tone, body language, and pacing should convey command.
+    
+5. **Flexibility.** If they dodge or answer poorly, be ready to pivot or press the same point from a new angle.
+    
+
+## 3. What types of questions can we use?
+
+- **Explanation Questions.** “What exactly do you mean by X?”
+    
+- **Evidentiary‐Support Questions.** “Where does that statistic come from?” or “Who conducted that study?”
+    
+- **Weakness‐Probing Questions.** “Isn’t it true that Y contradicts your claim?”
+    
+- **Set-Up Questions.** Innocuous questions that establish facts you’ll use later in an attack.
+    
+- **Attack Questions.** Directly confront contradictions or impossible assertions.
+    
+
+## 4. Uses of Different Question Types
+
+|Question Type|Tactical Use|
+|---|---|
+|**Explanation**|Clarify vague or sweeping claims so you can spotlight their limits.|
+|**Evidentiary‐Support**|Force them to cite authority—if they can’t, the claim loses credibility.|
+|**Weakness-Probing**|Highlight internal inconsistencies or conflicts with outside facts.|
+|**Set-Up**|Lay factual foundation for a later, more forceful attack question.|
+|**Attack**|Deliver the knockout blow by directly pointing out contradictions or errors.|
+
+In practice, you’ll blend these question types fluidly: begin with a few explanation or support questions to pin down their position, then transition to weakness-probing or attack questions once you see openings, all while ensuring you don’t let the respondent seize control of the exchange.Here’s a concise synthesis of the cross-examination (“crossfire”) insights you provided:
+
+Across all stages of crossfire, your **end goal** is to **undermine** your opponent’s case by exposing weaknesses, contradictions, or gaps in their evidence, while simultaneously **setting up** your own team’s forthcoming speeches for maximum impact. To do that, you must come armed with a deep understanding of both sides’ arguments, maintain tight control of the exchange, and choose your questions strategically. You can draw on several distinct question‐types—each with its own tactical purpose—to either clarify your opponent’s claims, force them to qualify their evidence, or elicit admissions that their case is on shaky ground.
+
+## 1. What is the purpose of crossfire?
+
+- **Expose Weaknesses.** Force your opponent to reveal flaws in their evidence or logic.
+    
+- **Clarify Claims.** Pin down exactly what they’re saying so you can attack or contrast it later.
+    
+- **Set Traps / Contradictions.** Lure them into contradicting themselves or admitting gaps.
+    
+- **Build Momentum for Your Team.** Lay groundwork for your partner’s rebuttal and summary speeches by framing the debate on terms favorable to your side.
+    
+
+## 2. What do you need to accomplish your goals in crossfire?
+
+1. **Mastery of Both Cases.** Know your case and theirs inside-out, including evidence citations and potential counter-arguments.
+    
+2. **Planning & Prioritization.** Pre‐plan key questions, anticipate likely answers, and rank which points matter most given the limited time.
+    
+3. **Control & Courteous Demeanor.** Ask crisp, direct questions; don’t let the respondent filibuster or turn the tables on you.
+    
+4. **Perceptual Dominance.** Establish credibility and confidence early—your tone, body language, and pacing should convey command.
+    
+5. **Flexibility.** If they dodge or answer poorly, be ready to pivot or press the same point from a new angle.
+    
+
+## 3. What types of questions can we use?
+
+- **Explanation Questions.** “What exactly do you mean by X?”
+    
+- **Evidentiary‐Support Questions.** “Where does that statistic come from?” or “Who conducted that study?”
+    
+- **Weakness‐Probing Questions.** “Isn’t it true that Y contradicts your claim?”
+    
+- **Set-Up Questions.** Innocuous questions that establish facts you’ll use later in an attack.
+    
+- **Attack Questions.** Directly confront contradictions or impossible assertions.
+    
+
+## 4. Uses of Different Question Types
+
+|Question Type|Tactical Use|
+|---|---|
+|**Explanation**|Clarify vague or sweeping claims so you can spotlight their limits.|
+|**Evidentiary‐Support**|Force them to cite authority—if they can’t, the claim loses credibility.|
+|**Weakness-Probing**|Highlight internal inconsistencies or conflicts with outside facts.|
+|**Set-Up**|Lay factual foundation for a later, more forceful attack question.|
+|**Attack**|Deliver the knockout blow by directly pointing out contradictions or errors.|
+
+In practice, you’ll blend these question types fluidly: begin with a few explanation or support questions to pin down their position, then transition to weakness-probing or attack questions once you see openings, all while ensuring you don’t let the respondent seize control of the exchange.
