@@ -134,8 +134,11 @@ craziest three minutes of the round
 for good reason
 
 
+
 what the purpose of crossfire?
 
-what do you need to accomplish your goals in crossfire
+what do you need to accomplish your goals in crossfire?
 
-what 
+what types of questions can we use?
+
+what are the uses of different types of questions for cross-examination?
