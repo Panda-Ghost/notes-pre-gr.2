@@ -125,3 +125,6 @@ question type:
 
 ### second crossfire
 
+your number one goal in the second crossfire is to make your partner's summary easier by taking out the responses they put on your case
+
+the summary speeche
