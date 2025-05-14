@@ -1,7 +1,11 @@
 ref 2
 
-### the quesioner
+### the questioner
 
 ask questions to clarify arguments
 
-ask
+ask questions about the quality of your opponent's evidence
+
+ask questions to get your opponents to admit their case has weaknesses
+
+general rules for the questioner
