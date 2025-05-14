@@ -159,6 +159,27 @@ for good reason
 5. **Flexibility.** If they dodge or answer poorly, be ready to pivot or press the same point from a new angle.
     
 
+### Key Strategies
+
+#### 1. Establish Perceptual Dominance
+
+- Project confidence and keep your questions clear and forceful. (ref 4)
+    
+
+#### 2. Trap & Contradict
+
+- Ask questions designed to force an opponent into inconsistent answers. (ref 4)
+    
+
+#### 3. Prioritize Points
+
+- Focus on your “best” arguments and the opponent’s weakest evidence first. (ref 3)
+    
+
+#### 4. Plan Ahead
+
+- Anticipate likely answers and have follow-up questions ready. (ref 3)
+
 ### What types of questions can we use?
 
 - **Explanation Questions.** “What exactly do you mean by X?”
@@ -183,3 +204,6 @@ for good reason
 |**Attack**|Deliver the knockout blow by directly pointing out contradictions or errors.|
 
 In practice, you’ll blend these question types fluidly: begin with a few explanation or support questions to pin down their position, then transition to weakness-probing or attack questions once you see openings, all while ensuring you don’t let the respondent seize control of the exchange.
+
+
+
