@@ -79,11 +79,27 @@ types of questions not to ask
 
 - this is my argument, how would you respond
 - do you agree with my argument
+
 behaviors not to engage in in crossfire
+
 - don't be hostile/attack
 - don't interrupt
 - don't ask the same questions
 - don't lock-in
 ### answering
 
+explanations
+
+detail
+
+the judge
+
+arguments you didn't make
+
+pivot
+
+other tips:
+
+- don't commit
+- know when to look weak 
 ### conclusion
