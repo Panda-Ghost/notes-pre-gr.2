@@ -20,4 +20,6 @@ give your opponent a chance to answer questions
 
 maintain control of the  cross-examination
 
-### don't let the respon
+### don't let the respondent question you when you're the questioner
+
+### the resp
