@@ -43,4 +43,12 @@ don't read new evidence
 
 ## ref 3
 
-Crossfire reading 
+### crossfire reading 
+
+### asking questions types of questions
+
+### focusing on certain thing after certain speeches
+
+### rebuttal
+
+### summary
