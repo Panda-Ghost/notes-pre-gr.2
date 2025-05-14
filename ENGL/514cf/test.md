@@ -45,10 +45,22 @@ don't read new evidence
 
 ### crossfire reading 
 
+introduction
+
+a note about mechanics
+
+general considerations for crossfire 
+
 ### asking questions types of questions
+
+
 
 ### focusing on certain thing after certain speeches
 
 ### rebuttal
 
 ### summary
+
+### answering
+
+### conclusion
