@@ -115,4 +115,11 @@ help your partner give a great rebuttal
 
 establish perceptual dominance
 
-question
+question type:
+
+- ask specific questions about their evidence
+- identify contradictions
+- set traps
+
+### second crossfire
+
