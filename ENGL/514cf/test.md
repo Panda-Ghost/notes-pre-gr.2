@@ -16,3 +16,6 @@ don't masquerade your arguments as questions
 
 be courteous
 
+give your opponent a chance to answer questions 
+
+maintain contuol of the  cross -
