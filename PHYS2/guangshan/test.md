@@ -50,10 +50,10 @@ $$
 
 $$
 \begin{aligned}
-\Delta x_1 &= x_{+1} - x_{-1} = 17.0 - (-16.2) = 33.2\,\text{cm} \\
-\Delta x_2 &= (x_{+2} - x_{-2})/2 = (33.6 - (-33.5))/2 = 33.55\,\text{cm} \\
-\overline{\Delta x} &= \frac{33.2 + 33.55}{2} = 33.375\,\text{cm} \\
-\lambda &= \frac{d\cdot\overline{\Delta x}}{k\cdot L} = \frac{3.333\times10^{-6} \times 0.33375}{2 \times 1.00} = 5.56\times10^{-7}\,\text{m} = 556\,\text{nm}
+&\Delta x_1 = x_{+1} - x_{-1} = 17.0 - (-16.2) = 33.2\,\text{cm} \\
+&\Delta x_2 = (x_{+2} - x_{-2})/2 = (33.6 - (-33.5))/2 = 33.55\,\text{cm} \\
+&\overline{\Delta x} = \frac{33.2 + 33.55}{2} = 33.375\,\text{cm} \\
+&\lambda = \frac{d\cdot\overline{\Delta x}}{k\cdot L} = \frac{3.333\times10^{-6} \times 0.33375}{2 \times 1.00} = 5.56\times10^{-7}\,\text{m} = 556\,\text{nm}
 \end{aligned}
 $$
 
@@ -152,6 +152,6 @@ $$
 
 -   CD 刻轨间距约为 $1.24\mathrm{\mu m}$
 
--   iPhone 8 plus 手机像素间距：实验值 $63.8\mathrm{\mu m}$，与水平理论值 $63.02\mathrm{\mu m}$ 和垂直理论值 $62.96\mathrm{\mu m}$
+-   iPhone 8 plus 手机像素间距：实验值 $63.8\mathrm{\mu m}$，与水平理论值 $63.02\mathrm{\mu m}$ 和垂直理论值 $62.96\mathrm{\mu m}$ 高度一致
 
 实验数据基本合理，误差在可接受范围内，验证了光栅衍射原理的实际应用价值。
