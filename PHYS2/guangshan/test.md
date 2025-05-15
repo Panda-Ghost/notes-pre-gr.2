@@ -60,7 +60,7 @@ $$
 与标称值 $532\text{nm}$ 的偏差：
 
 $$
-\text{相对误差} = \frac{556\,\text{nm}-532\,\text{nm}}{532\text{nm}} \times 100\% \approx 4.5\%
+\text{相对误差} = \frac{556\,\text{nm}-532\,\text{nm}}{532\,\text{nm}} \times 100\% \approx 4.5\%
 $$
 
 ### 光盘光轨间距测量（逐差法）
@@ -80,7 +80,7 @@ $$
 &\Delta x_1 = x_{+1} - x_{-1} = 15.5 - (-17.3) = 32.8\,\text{(cm)} \\[10pt]
 &\Delta x_2 = \dfrac{x_{+2} - x_{-2}}{2} = \dfrac{39.3 - (-39.5)}{2}= 39.4\,\text{(cm)} \\[10pt]
 &\overline{\Delta x} =\dfrac{\Delta x_{1}+\Delta x_{2}}{2}= \frac{32.8 + 39.4}{2} = 36.1\,\text{(cm)} \\[10pt]
-&d = \frac{k\lambda L}{\overline{\Delta x}} = \frac{2 \times 5.32\times10^{-7} \times 0.42}{0.361} \approx 1.24\,(\mu\text{m})
+&d = \frac{k\lambda L}{\overline{\Delta x}} = \frac{2 \times 5.32\times10^{-7} \, \text{m} \times 0.42\, \text{m}}{0.361\, \text{}} \approx 1.24\,\mu\text{m}
 \end{aligned}
 $$
 
