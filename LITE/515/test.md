@@ -20,3 +20,11 @@
 
 
 Replace all transition words and conjunctions in the sentences with the most basic and commonly used ones. Use simple expressions，avoiding complex vocabulary. Ensure the logical connections between sentences are clear. Rewrite the above text. The writing style should balance between formal academic writing and conversational expression. Ensure that every sentence has a clear subject. Avoid using long or complex sentences. Use short sentences as much as possible.
+
+1762年，卢梭的《爱弥儿》提出一个革命性观点：儿童不是成人的“知识容器”。他认为每个孩子都有独立的生命力和发展潜力。当时的主流教育强调死记硬背，但卢梭反对这种填鸭式教学。他主张教育应“顺其自然”，根据不同年龄阶段的特点培养儿童。例如，婴幼儿到青春期的教育需尊重天性，鼓励儿童通过接触自然、社会以及自我情感去主动探索。卢梭强调，儿童应在亲身体验中学习知识，在真实互动中塑造品格。他笔下的主人公爱弥儿不是被动接受知识，而是自己成长的主人。
+
+卢梭的教育方法以“负面教育”为基础。他重视感官训练和心智启蒙，同时平衡理性与感性的发展。这种教育模式既给予自由，也设定规则；既注重实践，也引导反思。尽管这一理念在当时引发争议，但它影响了后来的教育家，例如蒙特梭利和皮亚杰。
+
+18世纪的正规教育体系与卢梭的理念形成鲜明对比。当时的课堂依赖机械背诵和严苛纪律。教师用惩罚和高压手段维持秩序，却忽视儿童天生的好奇心。学生被迫重复朗读课本，无法通过观察和实践理解知识。这些知识只是符号的堆砌，难以转化为真正的智慧。卢梭对此提出质疑：如果儿童始终被成人控制，如何激发他们的探索欲？他还追问：如何在“放任”与“管教”之间找到平衡？儿童既需要自由发展天性，又不能脱离必要的社会规范。
+
+为解决这一矛盾，卢梭设计了分阶段、个性化的教育方案。他试图在儿童自由成长与社会责任之间开辟一条中间道路。这一思想不仅挑战了18世纪的教育传统，也为现代教育理论奠定了基础。
