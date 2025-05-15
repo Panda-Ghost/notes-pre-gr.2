@@ -18,7 +18,6 @@
 
 卢梭在《爱弥儿》中构建的“自然教育”哲学，通过分阶段培养、体验式学习和情感启蒙，揭示了教育应当遵循生命规律而非强行塑造的本质。其“自由与规范”的辩证思维，既批判了18世纪机械灌输的弊端，又为现代教育心理学提供了思想根基。当前教育实践中的性别平等推进、社会情感能力培养与项目式学习改革，实质都在回应两个世纪前提出的核心命题：真正的成长始于对生命节奏的敬畏。让教育成为土壤而非模具，每个灵魂都该长成自己的模样。
 
-
 Replace all transition words and conjunctions in the sentences with the most basic and commonly used ones. Use simple expressions，avoiding complex vocabulary. Ensure the logical connections between sentences are clear. Rewrite the above text. The writing style should balance between formal academic writing and conversational expression. Ensure that every sentence has a clear subject. Avoid using long or complex sentences. Use short sentences as much as possible.
 
 1762年，卢梭的《爱弥儿》提出一个革命性观点：儿童不是成人的“知识容器”。他认为每个孩子都有独立的生命力和发展潜力。当时的主流教育强调死记硬背，但卢梭反对这种填鸭式教学。他主张教育应“顺其自然”，根据不同年龄阶段的特点培养儿童。例如，婴幼儿到青春期的教育需尊重天性，鼓励儿童通过接触自然、社会以及自我情感去主动探索。卢梭强调，儿童应在亲身体验中学习知识，在真实互动中塑造品格。他笔下的主人公爱弥儿不是被动接受知识，而是自己成长的主人。
