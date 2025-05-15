@@ -115,7 +115,7 @@ $$
 计算像素间距：
 
 $$
-\text{水平方向} = \frac{a}{1920} = \frac{121.0\text{mm}}{1920\text{px}} \approx 63.02\mathrm{\mu m}
+\text{水平方向} = \frac{a}{1920} = \frac{121.0\,\text{mm}}{1920} \approx 63.02\,\mathrm{\mu m}
 $$
 
 $$
