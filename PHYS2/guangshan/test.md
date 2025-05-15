@@ -50,9 +50,9 @@ $$
 
 $$
 \begin{aligned}
-&\Delta x_1 = x_{+1} - x_{-1} = 17.0 - (-16.2) = 33.2\,\text{cm} \\
-&\Delta x_2 = (x_{+2} - x_{-2})/2 = (33.6 - (-33.5))/2 = 33.55\,\text{cm} \\
-&\overline{\Delta x} = \frac{33.2 + 33.55}{2} = 33.375\,\text{cm} \\
+&\Delta x_1 = x_{+1} - x_{-1} = 17.0 - (-16.2) = 33.2\,\text{cm} \\[10pt]
+&\Delta x_2 = \dfrac{x_{+2} - x_{-2}}{2 = (33.6 - (-33.5))/2 = 33.55\,\text{cm} \\[10pt]
+&\overline{\Delta x} = \dfrac{\Delta x_{1}+\Delta x_{2}}{2} = \frac{33.2 + 33.55}{2} = 33.375\,\text{cm} \\[10pt]
 &\lambda = \frac{d\cdot\overline{\Delta x}}{k\cdot L} = \frac{3.333\times10^{-6} \times 0.33375}{2 \times 1.00} = 5.56\times10^{-7}\,\text{m} = 556\,\text{nm}
 \end{aligned}
 $$
