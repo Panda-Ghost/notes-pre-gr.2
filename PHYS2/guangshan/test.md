@@ -24,13 +24,17 @@
 
 光栅衍射的基本方程为：
 
-$$d\sin\theta = k\lambda \quad (k=0,\pm1,\pm2,...)$$
+$$
+d\sin\theta = k\lambda \quad (k=0,\pm1,\pm2,...)
+$$
 
 其中为 $d$ 光栅常数，$\theta$ 为衍射角，$k$ 为衍射级数，$\lambda$ 为入射光波长。
 
 对于小角度衍射，有近似关系：
 
-$$\sin\theta \approx \tan\theta = \frac{x_k}{L}$$
+$$
+\sin\theta \approx \tan\theta = \frac{x_k}{L}
+$$
 
 其中 $x_{k}$ 为第 $k$ 级衍射光斑到中央亮纹的距离，$L$ 为光栅到接收屏的距离。
 
@@ -50,16 +54,20 @@ $$\sin\theta \approx \tan\theta = \frac{x_k}{L}$$
 
 逐差法计算过程：
 
-$$\begin{aligned}
+$$
+\begin{aligned}
 \Delta x_1 &= x_{+1} - x_{-1} = 17.0 - (-16.2) = 33.2\,\text{cm} \\
 \Delta x_2 &= (x_{+2} - x_{-2})/2 = (33.6 - (-33.5))/2 = 33.55\,\text{cm} \\
 \overline{\Delta x} &= \frac{33.2 + 33.55}{2} = 33.375\,\text{cm} \\
 \lambda &= \frac{d\cdot\overline{\Delta x}}{k\cdot L} = \frac{3.333\times10^{-6} \times 0.33375}{2 \times 1.00} = 5.56\times10^{-7}\,\text{m} = 556\,\text{nm}
-\end{aligned}$$
+\end{aligned}
+$$
 
 与标称值 $532\text{nm}$ 的偏差：
 
-$$\text{相对误差} = \frac{556-532}{532} \times 100\% \approx 4.5\%$$
+$$
+\text{相对误差} = \frac{556-532}{532} \times 100\% \approx 4.5\%
+$$
 
 ## 光盘光轨间距测量（逐差法）
 
@@ -84,7 +92,7 @@ $$
 
 ## 手机分辨率的测量
 
-手机型号：iPhone 8 plus ，标称分辨率1920×1080px，nm，cm。
+手机型号：iPhone 8 plus ，标称分辨率 $1920 \times1080 \text{px} $，nm，cm。
 屏幕显示区尺寸：长mm，宽mm。
 
 实验步骤：
