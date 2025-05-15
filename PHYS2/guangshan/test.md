@@ -24,9 +24,7 @@ $$
 d\sin\theta = k\lambda \quad (k=0,\pm1,\pm2,...)
 $$
 
-其中为 $d$ 光栅常数，$\theta$ 为衍射角，$k$ 为衍射级数，$\lambda$ 为入射光波长。
-
-对于小角度衍射，有近似关系：
+当 $\theta$ 较小时可以近似认为：
 
 $$
 \sin\theta \approx \tan\theta = \frac{x_k}{L}
@@ -119,7 +117,7 @@ $$
 $$
 
 $$
-\text{垂直方向} = \frac{b}{1080} = \frac{68.0\,\text{mm}}{1080\,\text{px}} \approx 62.96\,\mathrm{\mu m}\text{/px}
+\text{垂直方向} = \frac{b}{1080} = \frac{68.0\,\text{mm}}{1080} \approx 62.96\,\mathrm{\mu m}
 $$
 
 由此得到，实验结果与理论值较为符合
