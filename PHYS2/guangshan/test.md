@@ -53,14 +53,14 @@ $$
 &\Delta x_1 = x_{+1} - x_{-1} = 17.0 - (-16.2) = 33.2\,\text{(cm)} \\[10pt]
 &\Delta x_2 = \dfrac{x_{+2} - x_{-2}}{2} = \dfrac{33.6 - (-33.5)}{2} = 33.55\,\text{(cm)} \\[10pt]
 &\overline{\Delta x} = \dfrac{\Delta x_{1}+\Delta x_{2}}{2} = \frac{33.2 + 33.55}{2} = 33.375\,\text{(cm)} \\[10pt]
-&\lambda = \frac{d\cdot\overline{\Delta x}}{k\cdot L} = \frac{3.333\times10^{-6} \times 0.33375}{2 \times 1.00} = 5.56\times10^{-7}\,\text{m} = 556\,\text{nm}
+&\lambda = \frac{d\cdot\overline{\Delta x}}{k\cdot L} = \frac{3.333\times10^{-6}\,\text{m} \times 0.33375 \,\text{m}}{2 \times 1.00 \, \text{m}} = 5.56\times10^{-7}\,\text{m} = 556\,\text{nm}
 \end{aligned}
 $$
 
 与标称值 $532\text{nm}$ 的偏差：
 
 $$
-\text{相对误差} = \frac{556\text{nm}-532\text{nm}}{532\text{nm}} \times 100\% \approx 4.5\%
+\text{相对误差} = \frac{556\,\text{nm}-532\,\text{nm}}{532\text{nm}} \times 100\% \approx 4.5\%
 $$
 
 ### 光盘光轨间距测量（逐差法）
