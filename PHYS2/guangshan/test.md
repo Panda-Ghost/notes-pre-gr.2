@@ -84,7 +84,7 @@ $$
 
 ### 手机分辨率的测量
 
-手机型号：iPhone 8 plus，标称分辨率 $1920 \times1080 \text{px}$，$\lambda=532\text{nm}$，$D=30.0\text{cm}$。
+手机型号：iPhone 8 plus，官方给出的分辨率：$1920 \times1080 \text{px}$，$\lambda=532\text{nm}$，$D=30.0\text{cm}$。
 屏幕显示区尺寸：长 $a=121.0\text{mm}$，宽 $b=68.0\text{mm}$。
 
 实验步骤：
