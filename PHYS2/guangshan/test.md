@@ -38,7 +38,7 @@ $$\sin\theta \approx \tan\theta = \frac{x_k}{L}$$
 
 ## 米尺测量激光波长（逐差法）
 
-光栅常数$d=1 / 300 \text{mm}$，光栅到接收屏距离 $L=100 \text{cm}$。
+光栅常数 $d=1 / 300 \text{mm}$，光栅到接收屏距离 $L=100 \text{cm}$。
 
 实验数据见表1，使用逐差法处理：
 
@@ -48,16 +48,17 @@ $$\sin\theta \approx \tan\theta = \frac{x_k}{L}$$
 | ----- | ----- | ----- | --- | ---- | ---- | ------ |
 | 位置/cm | -33.5 | -16.2 | 0   | 17.0 | 33.6 | 33.375 |
 
+逐差法计算过程：
 
-
-逐差法计算过程： $$\begin{aligned}
+$$\begin{aligned}
 \Delta x_1 &= x_{+1} - x_{-1} = 17.0 - (-16.2) = 33.2\,\text{cm} \\
 \Delta x_2 &= (x_{+2} - x_{-2})/2 = (33.6 - (-33.5))/2 = 33.55\,\text{cm} \\
 \overline{\Delta x} &= \frac{33.2 + 33.55}{2} = 33.375\,\text{cm} \\
 \lambda &= \frac{d\cdot\overline{\Delta x}}{k\cdot L} = \frac{3.333\times10^{-6} \times 0.33375}{2 \times 1.00} = 5.56\times10^{-7}\,\text{m} = 556\,\text{nm}
 \end{aligned}$$
 
-与标称值532nm的偏差：
+与标称值 $532\text{nm}$ 的偏差：
+
 $$\text{相对误差} = \frac{556-532}{532} \times 100\% \approx 4.5\%$$
 
 ## 光盘光轨间距测量（逐差法）
