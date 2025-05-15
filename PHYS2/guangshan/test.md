@@ -115,11 +115,11 @@ $$
 计算像素间距：
 
 $$
-\text{水平方向} = \frac{a}{1920} = \frac{121.0\text{mm}}{1920} \approx 63.02\mathrm{\mu m}
+\text{水平方向} = \frac{a}{1920} = \frac{121.0\text{mm}}{1920\text{px}} \approx 63.02\mathrm{\mu m}
 $$
 
 $$
-\text{垂直方向} = \frac{b}{1080} = \frac{68.0\text{mm}}{1080} \approx 62.96\mathrm{\mu m}
+\text{垂直方向} = \frac{b}{1080} = \frac{68.0\,\text{mm}}{1080\,\text{px}} \approx 62.96\,\mathrm{\mu m}\text{/px}
 $$
 
 由此得到，实验结果与理论值较为符合
