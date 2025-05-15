@@ -78,8 +78,8 @@ CD 衍射光斑位置测量数据如下表，使用逐差法处理
 $$
 \begin{aligned}
 &\Delta x_1 = x_{+1} - x_{-1} = 15.5 - (-17.3) = 32.8\,\text{(cm)} \\[10pt]
-&\Delta x_2 = (x_{+2} - x_{-2})/2 = (39.3 - (-39.5))/2 = 39.4\,\text{(cm)} \\[10pt]
-&\overline{\Delta x} = \frac{32.8 + 39.4}{2} = 36.1\,\text{(cm)} \\[10pt]
+&\Delta x_2 = \dfrac{x_{+2} - x_{-2}}{2} = \dfrac{39.3 - (-39.5)}{2}= 39.4\,\text{(cm)} \\[10pt]
+&\overline{\Delta x} =\dfrac{\Delta x_{1}+\Delta x_{2}}{2}= \frac{32.8 + 39.4}{2} = 36.1\,\text{(cm)} \\[10pt]
 &d = \frac{k\lambda L}{\overline{\Delta x}} = \frac{2 \times 5.32\times10^{-7} \times 0.42}{0.361} \approx 1.24\,(\mu\text{m})
 \end{aligned}
 $$
