@@ -75,6 +75,8 @@ fprintf("| %.2f ", u1);
 fprintf("| \n");
 fprintf("| %.3f ", p0);
 fprintf("| \n");
+fprintf("| %.3f ", v1);
+fprintf("| \n");
 
 % subplot(1, 2, 1);
 % plot(v1, p0, '.-k', 'LineWidth', 2, 'MarkerSize', 15);
