@@ -70,3 +70,4 @@ p1=0.5.*rho.*s.*(v1.^3)
 eta=p0./p1
 
 subplot(1, 2, 1);
+plot(v, p0, '.-k');
