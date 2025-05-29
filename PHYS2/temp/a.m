@@ -73,7 +73,7 @@ subplot(1, 2, 1);
 plot(v1, p0, '.-k', 'LineWidth', 2, 'MarkerSize', 15);
 xlabel('\fontname{Songti SC}风速 \fontname{Latin Modern Math}V_1/(m/s)');
 ylabel('\fontname{Songti SC}发电机输出功率 \fontname{Latin Modern Math}P/W');
-text(v1-0.5, p0+0.001, arrayfun(@(x)sprintf("%.3f", x), p0), 'fontname', 'latin modern math', 'fontsize', 12)
+text(v1-0.6, p0+0.001, arrayfun(@(x)sprintf("%.3f", x), p0), 'fontname', 'latin modern math', 'fontsize', 12)
 set(gca, 'FontName', 'Latin Modern Math', 'FontSize', 15);
 
 subplot(1, 2, 2);
