@@ -10,6 +10,10 @@ ita=p1./p0
 
 subplot(1, 2, 1);
 uv=scatter(u, v1, 200, 'k', '.');
+dddd=(0:13:104)-8;
+text(r-dddd, p1+0.001, arrayfun(@(x)sprintf("%.4f", x), p1), 'fontname', 'latin modern math', 'fontsize', 12)
+text(r-dddd, p2-0.001, arrayfun(@(x)sprintf("%.4f", x), p2), 'fontname', 'latin modern math', 'fontsize', 12);
+
 hold on;
 xlim([10, 26])
 xticks(u)
