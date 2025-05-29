@@ -68,8 +68,6 @@ fprintf("| %.2f ", u2);
 fprintf("| \n");
 fprintf("| %.4f ", p2);
 fprintf("| \n");
-fprintf("| %.1f ", ita*100);
-fprintf("| \n");
 
 
 
