@@ -58,3 +58,8 @@ text(v1-0.55, ita, arrayfun(@(x)sprintf("%.3f", x), ita), 'fontname', 'latin mod
 % dddd=(0:13:104)-8;
 % text(r-dddd, p1+0.001, arrayfun(@(x)sprintf("%.4f", x), p1), 'fontname', 'latin modern math', 'fontsize', 12)
 % text(r-dddd, p2-0.001, arrayfun(@(x)sprintf("%.4f", x), p2), 'fontname', 'latin modern math', 'fontsize', 12);
+
+
+
+
+
