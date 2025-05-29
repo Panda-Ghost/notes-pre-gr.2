@@ -30,24 +30,26 @@
 % ylabel('\fontname{Songti SC}转换效率 \fontname{Latin Modern Math}\eta');
 %
 
-r=(400:200:2000);
-u1=[2.40,3.20,3.85,4.10,4.42,4.67,4.88,5.02,5.25];
-u2=[5.12,6.30,7.20,8.01,8.30,8.71,8.96,9.15,9.20];
-p1=u1.^2./r
-p2=u2.^2./r
 
-plot(r, p1, '.--k', 'LineWidth', 2, 'MarkerSize', 15);
-hold on;
-plot(r, p2, '.-k', 'LineWidth', 2, 'MarkerSize', 15);
-set(gca, 'FontName', 'Latin Modern Math', 'FontSize', 15);
 
-xlim([400, 2000])
-xticks(r)
-
-legend(["\fontname{Songti SC}风机电压 \fontname{Latin Modern Math}16V; \fontname{Songti SC}风速 \fontname{Latin Modern Math}4.648m/s", "\fontname{Songti SC}风机电压 \fontname{Latin Modern Math}24V; \fontname{Songti SC}风速 \fontname{Latin Modern Math}7.180m/s"],...
-    'FontSize', 18);
-xlabel('\fontname{Songti SC}负载电阻 \fontname{Latin Modern Math}R/\Omega');
-ylabel('\fontname{Songti SC}输出功率 \fontname{Latin Modern Math}P/W');
-dddd=(0:13:104)-8;
-text(r-dddd, p1+0.001, arrayfun(@(x)sprintf("%.4f", x), p1), 'fontname', 'latin modern math', 'fontsize', 12)
-text(r-dddd, p2-0.001, arrayfun(@(x)sprintf("%.4f", x), p2), 'fontname', 'latin modern math', 'fontsize', 12);
+% r=(400:200:2000);
+% u1=[2.40,3.20,3.85,4.10,4.42,4.67,4.88,5.02,5.25];
+% u2=[5.12,6.30,7.20,8.01,8.30,8.71,8.96,9.15,9.20];
+% p1=u1.^2./r
+% p2=u2.^2./r
+%
+% plot(r, p1, '.--k', 'LineWidth', 2, 'MarkerSize', 15);
+% hold on;
+% plot(r, p2, '.-k', 'LineWidth', 2, 'MarkerSize', 15);
+% set(gca, 'FontName', 'Latin Modern Math', 'FontSize', 15);
+%
+% xlim([400, 2000])
+% xticks(r)
+%
+% legend(["\fontname{Songti SC}风机电压 \fontname{Latin Modern Math}16V; \fontname{Songti SC}风速 \fontname{Latin Modern Math}4.648m/s", "\fontname{Songti SC}风机电压 \fontname{Latin Modern Math}24V; \fontname{Songti SC}风速 \fontname{Latin Modern Math}7.180m/s"],...
+%     'FontSize', 18);
+% xlabel('\fontname{Songti SC}负载电阻 \fontname{Latin Modern Math}R/\Omega');
+% ylabel('\fontname{Songti SC}输出功率 \fontname{Latin Modern Math}P/W');
+% dddd=(0:13:104)-8;
+% text(r-dddd, p1+0.001, arrayfun(@(x)sprintf("%.4f", x), p1), 'fontname', 'latin modern math', 'fontsize', 12)
+% text(r-dddd, p2-0.001, arrayfun(@(x)sprintf("%.4f", x), p2), 'fontname', 'latin modern math', 'fontsize', 12);
