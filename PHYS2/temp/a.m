@@ -9,6 +9,7 @@ p1=0.5.*rho.*s.*(v1.^3)
 ita=p1./p0
 
 subplot(1, 2, 1);
+box no;
 uv=scatter(u, v1, 200, 'k', '.');
 hold on;
 set(gca, 'FontName', 'Latin Modern Math', 'FontSize', 15);
