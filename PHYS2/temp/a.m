@@ -7,6 +7,21 @@ rho=1.185;
 p0=u.*i;
 p1=0.5.*rho.*s.*(v1.^3);
 ita=p1./p0;
+
+
+fprintf("| %d ", u);
+fprintf("| \n");
+fprintf("| %.2f ", u1);
+fprintf("| \n");
+fprintf("| %.3f ", p0);
+fprintf("| \n");
+fprintf("| %.3f ", v1);
+fprintf("| \n");
+fprintf("| %.3f ", p1);
+fprintf("| \n");
+fprintf("| %.2f ", eta*100);
+fprintf("| \n");
+
 %
 % subplot(1, 2, 1);
 % uv=scatter(u, v1, 200, 'k', '.');
