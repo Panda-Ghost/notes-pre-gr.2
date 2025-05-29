@@ -39,3 +39,4 @@ p2=u2.^2./r
 plot(r, p1, '-');
 hold on;
 plot(r, p2);
+
