@@ -50,4 +50,4 @@ xlabel('\fontname{Songti SC}负载电阻 \fontname{Latin Modern Math}R/\Omega');
 ylabel('\fontname{Songti SC}输出功率 \fontname{Latin Modern Math}P/W');
 dddd=(0:13:104)-8;
 text(r-dddd, p1-0.0015, arrayfun(@(x)sprintf("%.4f", x), p1), 'fontname', 'latin modern math')
-text(r, p2-0.001, arrayfun(@(x)sprintf("%.4f", x), p2), 'fontname', 'latin modern math')
+text(r-dddd, p2-0.0015, arrayfun(@(x)sprintf("%.4f", x), p2), 'fontname', 'latin modern math')
