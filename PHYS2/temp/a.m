@@ -8,6 +8,6 @@ p0=u.*i
 p1=0.5.*rho.*s.*(v1.^3)
 ita=p1./p0
 
-plot(u, v1, 'o-k');
+plot(u, v1, '.-k');
 
 
