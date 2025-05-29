@@ -70,9 +70,9 @@ p1=0.5.*rho.*s.*(v1.^3)
 eta=p0./p1
 
 subplot(1, 2, 1);
-plot(v1, p0, '.-k');
+plot(v1, p0, '.-k', 'LineWidth', 2, 'MarkerSize', 15);
 set(gca, 'FontName', 'Latin Modern Math', 'FontSize', 15);
 
 subplot(1, 2, 2);
-plot(v1, eta, '.-k');
+plot(v1, eta, '.-k', 'LineWidth', 2, 'MarkerSize', 15);
 set(gca, 'FontName', 'Latin Modern Math', 'FontSize', 15);
