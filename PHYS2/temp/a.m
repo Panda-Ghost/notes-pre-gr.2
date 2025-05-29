@@ -71,3 +71,6 @@ eta=p0./p1
 
 subplot(1, 2, 1);
 plot(v1, p0, '.-k');
+
+subplot(1, 2, 2);
+plot(v1, eta, '.-k');
