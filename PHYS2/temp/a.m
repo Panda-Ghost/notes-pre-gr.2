@@ -10,7 +10,7 @@ ita=p1./p0
 
 subplot(1, 2, 1);
 uv=scatter(u, v1, 200, 'k', '.');
-dddd=(0:13:104)-8;
+dddd=(0:0.25:2);
 text(u, v1+0.1, arrayfun(@(x)sprintf("%.4f", x), v1), 'fontname', 'latin modern math', 'fontsize', 12)
 
 hold on;
