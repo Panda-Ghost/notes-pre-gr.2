@@ -38,7 +38,7 @@ p2=u2.^2./r
 
 plot(r, p1, '.--k', 'LineWidth', 2, 'MarkerSize', 15);
 hold on;
-plot(r, p2, '.-k', 'LineWidth', 2);
+plot(r, p2, '.-k', 'LineWidth', 2, 'MarkerSize', 15);
 set(gca, 'FontName', 'Latin Modern Math', 'FontSize', 15);
 
 xlim([400, 2000])
