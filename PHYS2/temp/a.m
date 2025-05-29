@@ -36,7 +36,7 @@ u2=[5.12,6.30,7.20,8.01,8.30,8.71,8.96,9.15,9.20];
 p1=u1.^2./r
 p2=u2.^2./r
 
-plot(r, p1, '.--k', 'LineWidth', 2);
+plot(r, p1, '.--k', 'LineWidth', 2, 'MarkerSize', 15);
 hold on;
 plot(r, p2, '.-k', 'LineWidth', 2);
 set(gca, 'FontName', 'Latin Modern Math', 'FontSize', 15);
