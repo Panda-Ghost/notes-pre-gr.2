@@ -59,4 +59,5 @@
 % text(r-dddd, p1+0.001, arrayfun(@(x)sprintf("%.4f", x), p1), 'fontname', 'latin modern math', 'fontsize', 12)
 % text(r-dddd, p2-0.001, arrayfun(@(x)sprintf("%.4f", x), p2), 'fontname', 'latin modern math', 'fontsize', 12);
 
-
+u=(10:2:26)
+u1=[1.50 2.61 3.56 4.15 5.20 6.12 7.05 7.51 8.72]
