@@ -41,3 +41,7 @@ hold on;
 plot(r, p2);
 set(gca, 'FontName', 'Latin Modern Math', 'FontSize', 15);
 
+xlim([400, 2000])
+xticks(r)
+
+
