@@ -13,7 +13,7 @@ uv=scatter(u, v1, 200, 'k', '.');
 hold on;
 set(gca, 'FontName', 'Latin Modern Math', 'FontSize', 15);
 xlabel('\fontname{Songti SC}输入电压 \fontname{Latin Modern Math}U/V');
-ylabel('风速 V_1/(m/s)');
+ylabel('\fontname{Songti SC}风速 \fontname{Latin Modern Math}V_1/(m/s)');
 
 M=[u' ones(9,1)];
 k=M\(v1');
