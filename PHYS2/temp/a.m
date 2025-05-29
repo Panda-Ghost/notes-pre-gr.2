@@ -12,11 +12,11 @@ subplot(1, 2, 1);
 box on;
 uv=scatter(u, v1, 200, 'k', '.');
 hold on;
+xlim([10, 26])
+xticks(u)
 set(gca, 'FontName', 'Latin Modern Math', 'FontSize', 15);
 xlabel('\fontname{Songti SC}输入电压 \fontname{Latin Modern Math}U/V');
 ylabel('\fontname{Songti SC}风速 \fontname{Latin Modern Math}V_1/(m/s)');
-xlim([10, 26])
-xticks(u)
 
 M=[u' ones(9,1)];
 k=M\(v1');
