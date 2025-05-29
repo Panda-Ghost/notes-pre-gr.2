@@ -71,6 +71,8 @@ eta=p0./p1
 
 subplot(1, 2, 1);
 plot(v1, p0, '.-k');
+set(gca, 'FontName', 'Latin Modern Math', 'FontSize', 15);
 
 subplot(1, 2, 2);
 plot(v1, eta, '.-k');
+set(gca, 'FontName', 'Latin Modern Math', 'FontSize', 15);
