@@ -15,3 +15,5 @@ M=[u' ones(9,1)];
 k=M\(v1');
 v1pre=(M*k)';
 
+plot(u, v1pre, '-k', 'LineWidth', 10);
+
