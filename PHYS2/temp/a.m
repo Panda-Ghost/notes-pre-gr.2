@@ -60,6 +60,3 @@
 % text(r-dddd, p2-0.001, arrayfun(@(x)sprintf("%.4f", x), p2), 'fontname', 'latin modern math', 'fontsize', 12);
 
 
-
-
-
