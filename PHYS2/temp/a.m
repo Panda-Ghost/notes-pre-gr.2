@@ -69,7 +69,7 @@ rho=1.185;
 p1=0.5.*rho.*s.*(v1.^3);
 eta=p0./p1;
 
-fprintf("%d ", u);
+fprintf("%d | ", u);
 fprintf("\n");
 
 % subplot(1, 2, 1);
