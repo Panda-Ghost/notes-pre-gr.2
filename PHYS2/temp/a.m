@@ -20,4 +20,4 @@ v1pre=(M*k)';
 plot(u, v1pre, '-k', 'LineWidth', 2);
 
 subplot(1, 2, 2);
-plot(v1, ita, '.-k', 'LineWidth', 2, 'MarkerSize', 10);
+plot(v1, ita, '.-k', 'LineWidth', 2, 'MarkerSize', 20);
