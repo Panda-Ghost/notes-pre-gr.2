@@ -11,7 +11,7 @@ ita=p1./p0
 subplot(1, 2, 1);
 uv=scatter(u, v1, 200, 'k', '.');
 dddd=(0:0.25:2)-0.3;
-text(u-dddd, v1+0.15, arrayfun(@(x)sprintf("%.3f", x), v1), 'fontname', 'latin modern math', 'fontsize', 12)
+text(u-dddd, v1+0.12, arrayfun(@(x)sprintf("%.3f", x), v1), 'fontname', 'latin modern math', 'fontsize', 12)
 
 hold on;
 xlim([10, 26])
