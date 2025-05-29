@@ -8,7 +8,7 @@ p0=u.*i
 p1=0.5.*rho.*s.*(v1.^3)
 ita=p1./p0
 
-uv=(u, v1, '.k');
+uv=scatter(u, v1, '.k');
 set(uv, 'MarkerSize', 20);
 
 
