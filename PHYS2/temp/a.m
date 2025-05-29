@@ -10,6 +10,6 @@ ita=p1./p0
 
 uv=scatter(u, v1, 200, 'k', '.');
 
-repmat(10, 1)
+repmat(1, 10)
 [u']
 
