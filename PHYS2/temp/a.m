@@ -11,15 +11,15 @@ ita=p1./p0;
 
 fprintf("| %d ", u);
 fprintf("| \n");
-fprintf("| %.2f ", u1);
-fprintf("| \n");
-fprintf("| %.3f ", p0);
+fprintf("| %.3f ", i);
 fprintf("| \n");
 fprintf("| %.3f ", v1);
 fprintf("| \n");
+fprintf("| %.3f ", p0);
+fprintf("| \n");
 fprintf("| %.3f ", p1);
 fprintf("| \n");
-fprintf("| %.2f ", eta*100);
+fprintf("| %.2f ", ita*100);
 fprintf("| \n");
 
 %
