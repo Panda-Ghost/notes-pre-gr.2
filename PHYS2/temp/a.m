@@ -48,4 +48,4 @@ legend(["\fontname{Songti SC}风机电压 \fontname{Latin Modern Math}16V; \font
     'FontSize', 18);
 xlabel('\fontname{Songti SC}负载电阻 \fontname{Latin Modern Math}R/\Omega');
 ylabel('\fontname{Songti SC}输出功率 \fontname{Latin Modern Math}P/W');
-text(r, p1+0.5, string(p1))
+text(r, p1+0.005, string(p1))
