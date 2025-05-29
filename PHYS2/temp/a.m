@@ -58,6 +58,19 @@ u2=[5.12,6.30,7.20,8.01,8.30,8.71,8.96,9.15,9.20];
 p1=u1.^2./r;
 p2=u2.^2./r;
 
+fprintf("| %d ", u);
+fprintf("| \n");
+fprintf("| %.3f ", i);
+fprintf("| \n");
+fprintf("| %.3f ", v1);
+fprintf("| \n");
+fprintf("| %.3f ", p0);
+fprintf("| \n");
+fprintf("| %.3f ", p1);
+fprintf("| \n");
+fprintf("| %.1f ", ita*100);
+fprintf("| \n");
+
 
 
 %
