@@ -48,4 +48,4 @@ legend(["\fontname{Songti SC}风机电压 \fontname{Latin Modern Math}16V; \font
     'FontSize', 18);
 xlabel('\fontname{Songti SC}负载电阻 \fontname{Latin Modern Math}R/\Omega');
 ylabel('\fontname{Songti SC}输出功率 \fontname{Latin Modern Math}P/W');
-text(r, p1+0.001, format('%.4f', string(p1)), 'fontname', 'latin modern math')
+text(r, p1+0.001, @x.sprintf("%.4f", x), 'fontname', 'latin modern math')
