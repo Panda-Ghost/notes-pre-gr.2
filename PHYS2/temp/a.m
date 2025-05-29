@@ -11,7 +11,7 @@ ita=p1./p0
 subplot(1, 2, 1);
 uv=scatter(u, v1, 200, 'k', '.');
 hold on;
-set(gca, 'FontName', 'Latin Modern Math', 'FontSize', 10);
+set(gca, 'FontName', 'Latin Modern Math', 'FontSize', 20);
 
 M=[u' ones(9,1)];
 k=M\(v1');
