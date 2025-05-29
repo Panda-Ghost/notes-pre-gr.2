@@ -44,4 +44,4 @@ set(gca, 'FontName', 'Latin Modern Math', 'FontSize', 15);
 xlim([400, 2000])
 xticks(r)
 
-legend(['16V', '24V']);
+legend(["16V", "24V"]);
