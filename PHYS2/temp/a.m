@@ -44,4 +44,4 @@ set(gca, 'FontName', 'Latin Modern Math', 'FontSize', 15);
 xlim([400, 2000])
 xticks(r)
 
-legend(["\fontname{Songti SC}风机电压 \fontname{Latin Modern Math}16V; \fontname{Songti SC}风速 \fontname{Latin Modern Math}4.648m/s", "24V, 7.180m/s"]);
+legend(["\fontname{Songti SC}风机电压 \fontname{Latin Modern Math}16V; \fontname{Songti SC}风速 \fontname{Latin Modern Math}4.648m/s", "\fontname{Songti SC}风机电压 \fontname{Latin Modern Math}24V; \fontname{Songti SC}风速 \fontname{Latin Modern Math}7.180m/s"]);
