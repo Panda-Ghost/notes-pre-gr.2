@@ -46,4 +46,4 @@ xticks(r)
 
 legend(["\fontname{Songti SC}风机电压 \fontname{Latin Modern Math}16V; \fontname{Songti SC}风速 \fontname{Latin Modern Math}4.648m/s", "\fontname{Songti SC}风机电压 \fontname{Latin Modern Math}24V; \fontname{Songti SC}风速 \fontname{Latin Modern Math}7.180m/s"]);
 xlabel('\fontname{Songti SC}负载电阻 \fontname{Latin Modern Math}R/\Omega');
-ylabel('\fontname{Songti SC}风速 \fontname{Latin Modern Math}V_1/(m/s)');
+ylabel('\fontname{Songti SC}输出功率 \fontname{Latin Modern Math}V_1/(m/s)');
