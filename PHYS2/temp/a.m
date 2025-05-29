@@ -19,7 +19,7 @@ fprintf("| %.3f ", p0);
 fprintf("| \n");
 fprintf("| %.3f ", p1);
 fprintf("| \n");
-fprintf("| %.2f ", ita*100);
+fprintf("| %.1f ", ita*100);
 fprintf("| \n");
 
 %
