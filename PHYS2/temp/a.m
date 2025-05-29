@@ -11,5 +11,6 @@ ita=p1./p0
 uv=scatter(u, v1, 200, 'k', '.');
 
 
-[ones(9,1) u']\(v1')
+M=[u' ones(9,1)]
+k=M\(v1')
 
