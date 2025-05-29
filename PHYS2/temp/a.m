@@ -13,5 +13,5 @@ uv=scatter(u, v1, 200, 'k', '.');
 
 M=[u' ones(9,1)];
 k=M\(v1');
-v1pre=(M*k)'
+v1pre=(M*k)';
 
