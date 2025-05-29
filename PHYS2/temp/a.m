@@ -39,4 +39,5 @@ p2=u2.^2./r
 plot(r, p1, '-');
 hold on;
 plot(r, p2);
+set(gca, 'FontName', 'Latin Modern Math', 'FontSize', 15);
 
