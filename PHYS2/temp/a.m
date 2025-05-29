@@ -11,7 +11,7 @@ ita=p1./p0
 subplot(1, 2, 1);
 uv=scatter(u, v1, 200, 'k', '.');
 hold on;
-set(gca, 'FontName', 'Latin Modern Math', 'FontSize', 20);
+set(gca, 'FontName', 'Latin Modern Math', 'FontSize', 15);
 
 M=[u' ones(9,1)];
 k=M\(v1');
@@ -20,5 +20,5 @@ v1pre=(M*k)';
 plot(u, v1pre, '-k', 'LineWidth', 2);
 
 subplot(1, 2, 2);
-plot(v1, ita, '.-k', 'LineWidth', 2, 'MarkerSize', 20);
-set(gca, 'FontName', 'Latin Modern Math');
+plot(v1, ita, '.-k', 'LineWidth', 2, 'MarkerSize', 15);
+set(gca, 'FontName', 'Latin Modern Math', 'FontSize', 15);
