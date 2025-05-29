@@ -9,6 +9,6 @@ p1=0.5.*rho.*s.*(v1.^3)
 ita=p1./p0
 
 uv=plot(u, v1, '.-k');
-set(uv, 'LineWidth', 10);
+set(uv, 'LineWidth', 5);
 
 
