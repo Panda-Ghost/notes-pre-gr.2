@@ -80,4 +80,5 @@ subplot(1, 2, 2);
 plot(v1, eta, '.-k', 'LineWidth', 2, 'MarkerSize', 15);
 xlabel('\fontname{Songti SC}风速 \fontname{Latin Modern Math}V_1/(m/s)');
 ylabel('\fontname{Songti SC}发电机转换效率 \fontname{Latin Modern Math}\eta');
+text(v1-0.7, eta+0.001, arrayfun(@(x)sprintf("%.3f", x), eta), 'fontname', 'latin modern math', 'fontsize', 12)
 set(gca, 'FontName', 'Latin Modern Math', 'FontSize', 15);
