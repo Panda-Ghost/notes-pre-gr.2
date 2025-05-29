@@ -69,7 +69,7 @@ rho=1.185;
 p1=0.5.*rho.*s.*(v1.^3);
 eta=p0./p1;
 
-fprintf("%d ", u)
+fprintf("%d ", u);
 
 % subplot(1, 2, 1);
 % plot(v1, p0, '.-k', 'LineWidth', 2, 'MarkerSize', 15);
