@@ -6,5 +6,6 @@ s=pi*r*r;
 rho=1.185;
 p0=u.*i
 p1=0.5.*rho.*s.*(v1.^3)
+ita=p1./p0
 
 
