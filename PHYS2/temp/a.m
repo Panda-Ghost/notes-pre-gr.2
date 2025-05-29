@@ -12,7 +12,7 @@ subplot(1, 2, 1);
 uv=scatter(u, v1, 200, 'k', '.');
 hold on;
 set(gca, 'FontName', 'Latin Modern Math', 'FontSize', 15);
-xlabel('\text{输入电压} $U/V$', 'interpreter', 'latex');
+xlabel('\fontname{Songti SC}输入电压 \fontname{Latin Modern Math}U/V', 'interpreter', 'latex');
 ylabel('风速V_1/(m/s)');
 
 M=[u' ones(9,1)];
