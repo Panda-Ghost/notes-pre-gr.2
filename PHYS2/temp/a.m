@@ -12,6 +12,8 @@ subplot(1, 2, 1);
 uv=scatter(u, v1, 200, 'k', '.');
 hold on;
 set(gca, 'FontName', 'Latin Modern Math', 'FontSize', 15);
+xlabel('输入电压U/V');
+ylabel('风速V_1/(m/s)');
 
 M=[u' ones(9,1)];
 k=M\(v1');
