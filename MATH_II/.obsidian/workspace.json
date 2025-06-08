@@ -18,12 +18,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "命题/莱布尼茨判别法.md",
+                    "file": "定义/条件收敛.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "莱布尼茨判别法"
+                  "title": "条件收敛"
                 }
               }
             ]
@@ -195,9 +195,10 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "78d01982b23fe95d",
+  "active": "e7bffd63ebe0eb52",
   "lastOpenFiles": [
     "命题/莱布尼茨判别法.md",
+    "定义/条件收敛.md",
     "定义/交错级数.md",
     "命题/级数方根判别法补充.md",
     "命题/级数比率判别法补充.md",
@@ -222,7 +223,6 @@
     "定理/数列收敛等价于上下极限相等.md",
     "定义/数列上下极限.md",
     "命题/单调减有界的数列极限是下确界.md",
-    "定理/单调增有界的数列极限是上确界.md",
     "定理",
     "命题",
     "定义",
