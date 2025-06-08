@@ -18,12 +18,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "命题/函数极限四则运算.md",
+                    "file": "命题/函数的柯西收敛原理.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "函数极限四则运算"
+                  "title": "函数的柯西收敛原理"
                 }
               }
             ]
@@ -195,9 +195,10 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "78d01982b23fe95d",
+  "active": "e7bffd63ebe0eb52",
   "lastOpenFiles": [
     "命题/函数极限四则运算.md",
+    "命题/函数的柯西收敛原理.md",
     "定理/函数夹逼定理.md",
     "命题/由函数大小比较极限大小.md",
     "定理/海涅归结原理.md",
@@ -222,7 +223,6 @@
     "命题/级数方根判别法补充.md",
     "命题/级数比率判别法补充.md",
     "命题/级数比率判别法.md",
-    "定义/数列极限.md",
     "定理",
     "命题",
     "定义",
