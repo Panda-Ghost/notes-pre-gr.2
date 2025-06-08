@@ -5,9 +5,31 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
-  "colorGroups": [],
-  "collapse-display": false,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "tag:#定义  ",
+      "color": {
+        "a": 1,
+        "rgb": 6448848
+      }
+    },
+    {
+      "query": "tag:#命题  ",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    },
+    {
+      "query": "tag:#定理",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    }
+  ],
+  "collapse-display": true,
   "showArrow": true,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1.51062418619792,
@@ -17,6 +39,6 @@
   "repelStrength": 7.46337890625,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.8332124533500541,
+  "scale": 0.8187681536854782,
   "close": false
 }
