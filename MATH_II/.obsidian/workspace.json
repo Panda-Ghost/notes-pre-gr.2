@@ -18,12 +18,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "命题/数列子列的极限.md",
+                    "file": "命题/数列极限的四则运算.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "数列子列的极限"
+                  "title": "数列极限的四则运算"
                 }
               }
             ]
@@ -197,8 +197,9 @@
   },
   "active": "e7bffd63ebe0eb52",
   "lastOpenFiles": [
-    "定义/数列子列.md",
     "命题/数列子列的极限.md",
+    "命题/数列极限的四则运算.md",
+    "定义/数列子列.md",
     "定理/柯西中值定理.md",
     "定理/罗尔中值定理.md",
     "定义/导数.md",
@@ -227,7 +228,6 @@
     "MATH/MATH-15/MATH-15.md",
     "MATH/MATH-14/MATH-14.md",
     "MATH/MATH-13/MATH-13.md",
-    "MATH/MATH-10/MATH-10.md",
     "LITE/515/老人与海.pdf",
     "LITE/515/老人与海.pages",
     "PHYS2/temp/实验报告.pdf",
