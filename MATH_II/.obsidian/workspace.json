@@ -18,12 +18,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "命题/级数加法结合率.md",
+                    "file": "命题/级数收敛前缀和有界.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "级数加法结合率"
+                  "title": "级数收敛前缀和有界"
                 }
               }
             ]
@@ -195,9 +195,10 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "78d01982b23fe95d",
+  "active": "e7bffd63ebe0eb52",
   "lastOpenFiles": [
     "命题/级数加法结合率.md",
+    "命题/级数收敛前缀和有界.md",
     "命题/级数柯西收敛原理.md",
     "命题/数列子列的极限.md",
     "命题/级数增删改有限项敛散性不变.md",
@@ -222,7 +223,6 @@
     "定理/罗尔中值定理.md",
     "定义/导数.md",
     "命题/连续函数复合上数列的极限.md",
-    "定义/数列有界.md",
     "定理",
     "命题",
     "定义",
