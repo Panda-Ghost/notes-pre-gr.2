@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0ebe891d32d2be11",
+        "id": "df436ee7223cd6d2",
         "type": "tabs",
         "children": [
           {
-            "id": "7c22e332f4775410",
+            "id": "78d01982b23fe95d",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
             }
           }
         ]
@@ -170,11 +170,17 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "obsidian-git:Open Git source control": false,
+      "copilot:Open Copilot Chat": false
     }
   },
-  "active": "f2aa14240c1d2065",
+  "active": "78d01982b23fe95d",
   "lastOpenFiles": [
+    "定义/连续.md",
+    "定理",
+    "命题",
+    "定义",
     "MATH_II",
     "未命名文件夹",
     "MATH2/MATH-17/MATH-17.md",
@@ -201,10 +207,6 @@
     "PHYS2/guangshan/手机分辨率.jpg",
     "PHYS2/temp/实验报告数据及图.pdf",
     "PHYS2/temp/未命名.md",
-    "PHYS2/temp",
-    "LITE/515/王博想卢梭爱弥儿.pdf",
-    "LITE/515/王博想卢梭爱弥儿.pages",
-    "LITE/515",
     "ENGL/conspe/test2.md",
     "PHYS2/guangshan.md",
     "ENGL/514cf/test.md",
