@@ -18,12 +18,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "命题/由极限大小比较数列大小.md",
+                    "file": "命题/由数列大小比较极限大小.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "由极限大小比较数列大小"
+                  "title": "由数列大小比较极限大小"
                 }
               }
             ]
@@ -195,9 +195,10 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "78d01982b23fe95d",
+  "active": "e7bffd63ebe0eb52",
   "lastOpenFiles": [
     "命题/由极限大小比较数列大小.md",
+    "命题/由数列大小比较极限大小.md",
     "命题/数列极限的四则运算.md",
     "命题/数列子列的极限.md",
     "定义/数列子列.md",
@@ -227,7 +228,6 @@
     "MATH/MATH-18/MATH-18.md",
     "MATH/MATH-17/MATH-17.md",
     "MATH/MATH-15/MATH-15.md",
-    "MATH/MATH-14/MATH-14.md",
     "LITE/515/老人与海.pdf",
     "LITE/515/老人与海.pages",
     "PHYS2/temp/实验报告.pdf",
