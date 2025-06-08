@@ -18,12 +18,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "命题/有聚点则无穷集.md",
+                    "file": "命题/聚点与数列.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "有聚点则无穷集"
+                  "title": "聚点与数列"
                 }
               }
             ]
@@ -195,10 +195,11 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "78d01982b23fe95d",
+  "active": "e7bffd63ebe0eb52",
   "lastOpenFiles": [
-    "定义/聚点.md",
     "命题/有聚点则无穷集.md",
+    "命题/聚点与数列.md",
+    "定义/聚点.md",
     "定义/邻域.md",
     "定理/黎曼重排定理.md",
     "命题/绝对收敛级数重排和不变.md",
@@ -222,7 +223,6 @@
     "命题/级数加法结合率.md",
     "命题/级数柯西收敛原理.md",
     "命题/数列子列的极限.md",
-    "命题/级数线性组合.md",
     "定理",
     "命题",
     "定义",
