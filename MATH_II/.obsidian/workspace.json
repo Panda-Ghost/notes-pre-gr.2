@@ -18,12 +18,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "定理/数列收敛等价于上下极限相等.md",
+                    "file": "定义/柯西列.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "数列收敛等价于上下极限相等"
+                  "title": "柯西列"
                 }
               }
             ]
@@ -195,9 +195,10 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "78d01982b23fe95d",
+  "active": "e7bffd63ebe0eb52",
   "lastOpenFiles": [
     "定理/数列收敛等价于上下极限相等.md",
+    "定义/柯西列.md",
     "定义/数列上下极限.md",
     "命题/单调减有界的数列极限是下确界.md",
     "定理/单调增有界的数列极限是上确界.md",
@@ -227,7 +228,6 @@
     "MATH2/MATH-21/MATH-21.md",
     "MATH2/MATH-20/MATH-20.md",
     "MATH2/MATH-19/MATH-19.md",
-    "MATH2/MATH-18/MATH-18.md",
     "LITE/515/老人与海.pdf",
     "LITE/515/老人与海.pages",
     "PHYS2/temp/实验报告.pdf",
