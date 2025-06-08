@@ -17,12 +17,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "命题/数列极限唯一性.md",
+                    "file": "定义/数列敛散性.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "数列极限唯一性"
+                  "title": "数列敛散性"
                 }
               }
             ]
@@ -193,9 +193,10 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "78d01982b23fe95d",
+  "active": "e7bffd63ebe0eb52",
   "lastOpenFiles": [
     "命题/数列极限唯一性.md",
+    "定义/数列敛散性.md",
     "定义/数列极限.md",
     "定义/连续.md",
     "定理",
@@ -231,7 +232,6 @@
     "PHYS2/guangshan.md",
     "ENGL/514cf/test.md",
     "MATH2/math.md",
-    "MATH2/MATH-23/MATH-23.md",
     "BIOL/biol-experiment/exp2/Pasted image 20250507115638.png",
     "CHEM/CHEM-1/2.png",
     "BIOL/biol-experiment/exp2/Pasted image 20250507133611.png",
