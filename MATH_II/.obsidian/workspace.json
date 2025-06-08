@@ -18,12 +18,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "定理/数列夹逼定理.md",
+                    "file": "定理/单调增有界的数列极限是上确界.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "数列夹逼定理"
+                  "title": "单调增有界的数列极限是上确界"
                 }
               }
             ]
@@ -198,6 +198,7 @@
   "active": "e7bffd63ebe0eb52",
   "lastOpenFiles": [
     "定理/数列夹逼定理.md",
+    "定理/单调增有界的数列极限是上确界.md",
     "命题/由数列大小比较极限大小.md",
     "命题/由极限大小比较数列大小.md",
     "命题/数列极限的四则运算.md",
@@ -227,7 +228,6 @@
     "MATH2/MATH-16/MATH-16.md",
     "MATH2/MATH-15/MATH-15.md",
     "MATH/MATH-18/MATH-18.md",
-    "MATH/MATH-17/MATH-17.md",
     "LITE/515/老人与海.pdf",
     "LITE/515/老人与海.pages",
     "PHYS2/temp/实验报告.pdf",
