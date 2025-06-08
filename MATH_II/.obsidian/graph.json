@@ -5,8 +5,15 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
+    {
+      "query": "tag:#TODO  ",
+      "color": {
+        "a": 1,
+        "rgb": 13750737
+      }
+    },
     {
       "query": "tag:#定义  ",
       "color": {
