@@ -17,12 +17,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "定义/数列极限.md",
+                    "file": "命题/数列极限唯一性.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "数列极限"
+                  "title": "数列极限唯一性"
                 }
               }
             ]
@@ -196,6 +196,7 @@
   "active": "e7bffd63ebe0eb52",
   "lastOpenFiles": [
     "定义/数列极限.md",
+    "命题/数列极限唯一性.md",
     "定义/连续.md",
     "定理",
     "命题",
@@ -231,7 +232,6 @@
     "ENGL/514cf/test.md",
     "MATH2/math.md",
     "MATH2/MATH-23/MATH-23.md",
-    "MATH2/MATH-22/MATH-22.md",
     "BIOL/biol-experiment/exp2/Pasted image 20250507115638.png",
     "CHEM/CHEM-1/2.png",
     "BIOL/biol-experiment/exp2/Pasted image 20250507133611.png",
