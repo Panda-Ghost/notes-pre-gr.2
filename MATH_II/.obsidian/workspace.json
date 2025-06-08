@@ -18,12 +18,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "命题/级数方根判别法.md",
+                    "file": "命题/级数积分判别法.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "级数方根判别法"
+                  "title": "级数积分判别法"
                 }
               }
             ]
@@ -195,9 +195,10 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "78d01982b23fe95d",
+  "active": "e7bffd63ebe0eb52",
   "lastOpenFiles": [
     "命题/级数方根判别法.md",
+    "命题/级数积分判别法.md",
     "命题/级数比率判别法.md",
     "命题/级数比较判别法比的极限形式.md",
     "命题/级数比较判别法.md",
@@ -222,7 +223,6 @@
     "命题/由数列大小比较极限大小.md",
     "命题/由极限大小比较数列大小.md",
     "命题/数列极限的四则运算.md",
-    "定义/数列子列.md",
     "定理",
     "命题",
     "定义",
