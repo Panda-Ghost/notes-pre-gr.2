@@ -195,10 +195,10 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "e7bffd63ebe0eb52",
+  "active": "78d01982b23fe95d",
   "lastOpenFiles": [
-    "定义/数列上下极限.md",
     "定理/数列收敛等价于上下极限相等.md",
+    "定义/数列上下极限.md",
     "命题/单调减有界的数列极限是下确界.md",
     "定理/单调增有界的数列极限是上确界.md",
     "命题/数列收敛则有界.md",
