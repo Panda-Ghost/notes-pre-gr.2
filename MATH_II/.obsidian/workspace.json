@@ -18,12 +18,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "定义/级数.md",
+                    "file": "命题/级数收敛数列趋于零.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "级数"
+                  "title": "级数收敛数列趋于零"
                 }
               }
             ]
@@ -198,6 +198,7 @@
   "active": "78d01982b23fe95d",
   "lastOpenFiles": [
     "定义/级数.md",
+    "命题/级数收敛数列趋于零.md",
     "定义/数列趋于无穷大.md",
     "定理/柯西收敛原理.md",
     "定义/柯西列.md",
@@ -227,7 +228,6 @@
     "定义",
     "MATH_II",
     "未命名文件夹",
-    "MATH2/MATH-17/MATH-17.md",
     "LITE/515/老人与海.pdf",
     "LITE/515/老人与海.pages",
     "PHYS2/temp/实验报告.pdf",
