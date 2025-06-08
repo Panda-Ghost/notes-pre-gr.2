@@ -17,12 +17,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "定理/罗尔中值定理.md",
+                    "file": "定理/柯西中值定理.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "罗尔中值定理"
+                  "title": "柯西中值定理"
                 }
               }
             ]
@@ -193,9 +193,10 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "78d01982b23fe95d",
+  "active": "e7bffd63ebe0eb52",
   "lastOpenFiles": [
     "定理/罗尔中值定理.md",
+    "定理/柯西中值定理.md",
     "定义/导数.md",
     "命题/连续函数复合上数列的极限.md",
     "命题/数列收敛则有界.md",
@@ -227,7 +228,6 @@
     "LITE/515/test.md",
     "LITE/515/老人与海.pdf",
     "LITE/515/老人与海.pages",
-    "PHYS2/temp/实验报告.md",
     "PHYS2/temp/实验报告.pdf",
     "PHYS2/guangshan/test.pdf",
     "PHYS2/guangshan/手机分辨率.jpg",
