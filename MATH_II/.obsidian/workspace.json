@@ -37,10 +37,14 @@
                 "id": "78d01982b23fe95d",
                 "type": "leaf",
                 "state": {
-                  "type": "graph",
-                  "state": {},
-                  "icon": "lucide-git-fork",
-                  "title": "关系图谱"
+                  "type": "markdown",
+                  "state": {
+                    "file": "命题/数列收敛则有界.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "数列收敛则有界"
                 }
               }
             ]
@@ -195,10 +199,10 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "e7bffd63ebe0eb52",
+  "active": "78d01982b23fe95d",
   "lastOpenFiles": [
-    "定理/数列夹逼定理.md",
     "定理/单调增有界的数列极限是上确界.md",
+    "定理/数列夹逼定理.md",
     "命题/由数列大小比较极限大小.md",
     "命题/由极限大小比较数列大小.md",
     "命题/数列极限的四则运算.md",
