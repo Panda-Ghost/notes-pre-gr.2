@@ -1,5 +1,5 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": false,
   "showAttachments": false,
@@ -46,6 +46,6 @@
   "repelStrength": 7.99641927083333,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.924236187508374,
-  "close": false
+  "scale": 1.126615641990343,
+  "close": true
 }
