@@ -17,12 +17,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "命题/数列收敛则有界.md",
+                    "file": "命题/连续函数复合上数列的极限.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "数列收敛则有界"
+                  "title": "连续函数复合上数列的极限"
                 }
               }
             ]
@@ -193,9 +193,10 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "78d01982b23fe95d",
+  "active": "e7bffd63ebe0eb52",
   "lastOpenFiles": [
     "命题/数列收敛则有界.md",
+    "命题/连续函数复合上数列的极限.md",
     "定义/数列有界.md",
     "定义/连续.md",
     "定义/数列敛散性.md",
@@ -231,7 +232,6 @@
     "PHYS2/guangshan/手机分辨率.jpg",
     "PHYS2/temp/实验报告数据及图.pdf",
     "PHYS2/temp/未命名.md",
-    "ENGL/conspe/test2.md",
     "BIOL/biol-experiment/exp2/Pasted image 20250507115638.png",
     "CHEM/CHEM-1/2.png",
     "BIOL/biol-experiment/exp2/Pasted image 20250507133611.png",
