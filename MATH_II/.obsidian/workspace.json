@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "9c25f912ea0abe68",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ebe891d32d2be11",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c22e332f4775410",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7ccaebf3cbdf38b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "09088ae3dd9e126b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f2aa14240c1d2065",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "6a5d45a77bac18a4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "9fb86f722c22d7f4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 236.5
+  },
+  "right": {
+    "id": "8f1e8aab7586669f",
+    "type": "split",
+    "children": [
+      {
+        "id": "787b1d537d63c7ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e980ebef4b4a345",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "1487bfbf8fb79f8b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "95b09a4678cddd6a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "182f8d522274cf96",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "PHYS2/temp/实验报告.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "实验报告 的大纲"
+            }
+          },
+          {
+            "id": "0d9e234298b02a21",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "插件不再活动"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "f2aa14240c1d2065",
+  "lastOpenFiles": [
+    "MATH_II",
+    "未命名文件夹",
+    "MATH2/MATH-17/MATH-17.md",
+    "MATH2/MATH-21/MATH-21.md",
+    "MATH2/MATH-20/MATH-20.md",
+    "MATH2/MATH-19/MATH-19.md",
+    "MATH2/MATH-18/MATH-18.md",
+    "MATH2/MATH-16/MATH-16.md",
+    "MATH2/MATH-15/MATH-15.md",
+    "MATH/MATH-18/MATH-18.md",
+    "MATH/MATH-17/MATH-17.md",
+    "MATH/MATH-15/MATH-15.md",
+    "MATH/MATH-14/MATH-14.md",
+    "MATH/MATH-13/MATH-13.md",
+    "MATH/MATH-10/MATH-10.md",
+    "MATH/MATH-2/MATH-2.md",
+    "LITE/515/test.md",
+    "LITE/515/老人与海.pdf",
+    "LITE/515/老人与海.pages",
+    "PHYS2/temp/实验报告.md",
+    "PHYS2/temp/实验报告.pdf",
+    "PHYS2/guangshan/test.md",
+    "PHYS2/guangshan/test.pdf",
+    "PHYS2/guangshan/手机分辨率.jpg",
+    "PHYS2/temp/实验报告数据及图.pdf",
+    "PHYS2/temp/未命名.md",
+    "PHYS2/temp",
+    "LITE/515/王博想卢梭爱弥儿.pdf",
+    "LITE/515/王博想卢梭爱弥儿.pages",
+    "LITE/515",
+    "ENGL/conspe/test2.md",
+    "PHYS2/guangshan.md",
+    "ENGL/514cf/test.md",
+    "MATH2/math.md",
+    "MATH2/MATH-23/MATH-23.md",
+    "MATH2/MATH-22/MATH-22.md",
+    "BIOL/biol-experiment/exp2/生物实验报告.md",
+    "BIOL/biol-experiment/exp2/Pasted image 20250507115638.png",
+    "CHEM/CHEM-1/2.png",
+    "BIOL/biol-experiment/exp2/Pasted image 20250507133611.png",
+    "BIOL/biol-experiment/exp2/Pasted image 20250507133422.png",
+    "BIOL/biol-experiment/exp2/Pasted image 20250507133416.png",
+    "BIOL/biol-experiment/exp2/Pasted image 20250507132917.png",
+    "BIOL/biol-experiment/exp2/Pasted image 20250507115901.png",
+    "COMP2/上机报告4/Figure_5.png",
+    "COMP2/上机报告4/Figure_4.png"
+  ]
+}

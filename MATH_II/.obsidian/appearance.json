@@ -1,0 +1,12 @@
+{
+  "cssTheme": "",
+  "textFontFamily": "NewComputerModernMath,Latin Modern Math,Songti SC,Produkt,JetBrainsMono Nerd Font Mono,Helvetica Neue,PingFang SC",
+  "monospaceFontFamily": "JetBrainsMono Nerd Font Mono",
+  "interfaceFontFamily": "PingFang HK",
+  "translucency": false,
+  "showViewHeader": true,
+  "theme": "moonstone",
+  "nativeMenus": true,
+  "baseFontSize": 16,
+  "accentColor": ""
+}
