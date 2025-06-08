@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "命题/函数夹逼定理.md",
+                    "file": "定理/函数夹逼定理.md",
                     "mode": "source",
                     "source": false
                   },
@@ -195,10 +195,10 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "e7bffd63ebe0eb52",
+  "active": "78d01982b23fe95d",
   "lastOpenFiles": [
+    "定理/函数夹逼定理.md",
     "命题/由函数大小比较极限大小.md",
-    "命题/函数夹逼定理.md",
     "定理/海涅归结原理.md",
     "命题/函数复合数列极限趋向于函数极限.md",
     "命题/函数极限与连续性.md",
