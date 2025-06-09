@@ -2,7 +2,7 @@
 
 **定义**
 
-$f(z)= \frac{az+b}{cz+d}$ 称为分式线形变换
+$f(z)= \frac{az+b}{cz+d}$ 称为分式线性变换
 
 直线：$\alpha x+\beta y+\gamma=0, \quad \alpha, \beta,\gamma \in \mathbb{R}, \alpha^{2}+\beta^{2}\neq 0$
 
@@ -35,7 +35,7 @@ $D_{r}(z)=rz, \; D_{r}^{-1}=D_{\frac{1}{r}}$
 
 $R_{\theta}(z)=e^{i\theta}z, \; R_{\theta}^{-1}=R_{-\theta}$
 
-线形变换 $f(z)=az+b, \; f=T_{b} \circ D_{|a|} \circ R_{\mathrm{arg}a}$
+线性变换 $f(z)=az+b, \; f=T_{b} \circ D_{|a|} \circ R_{\mathrm{arg}a}$
 
 **命题1**
 
