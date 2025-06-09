@@ -4,20 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "10539cd8f7677cfe",
-        "type": "tabs",
+        "id": "31c7e6eb43fe1bb5",
+        "type": "split",
         "children": [
           {
-            "id": "7f2b88923373a691",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
-            }
+            "id": "035318e8d5dc0774",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3075e3d63c640093",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "新标签页"
+                }
+              }
+            ]
+          },
+          {
+            "id": "10539cd8f7677cfe",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7f2b88923373a691",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "关系图谱"
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -74,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 236.5
+    "width": 236.5,
+    "collapsed": true
   },
   "right": {
     "id": "8f1e8aab7586669f",
@@ -163,7 +187,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "7f2b88923373a691",
+  "active": "3075e3d63c640093",
   "lastOpenFiles": [
     "定义/函数的极值.md",
     "命题/导数与函数单调性.md",
