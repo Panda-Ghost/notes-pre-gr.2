@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "035318e8d5dc0774",
+        "id": "7ca690a9b6f0d103",
         "type": "tabs",
         "children": [
           {
-            "id": "7f2b88923373a691",
+            "id": "3f7b39a5303441f7",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -156,6 +156,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:创建新数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -164,7 +165,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "7f2b88923373a691",
+  "active": "3f7b39a5303441f7",
   "lastOpenFiles": [
     "命题/收敛半径的比率计算法.md",
     "定理/阿贝尔定理.md",
