@@ -26,7 +26,7 @@ $$
 
 设 $f$ 是一个函数，$x\in \mathrm{Dom} \; f$，则 $\exists ! y, \; \text{s.t.} (x, y) \in f$
 
-记 $y=f(x)$
+记 $y=f(x). 
 
 称 $f(x)$ 为 $x$ 的像
 
